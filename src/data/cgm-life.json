@@ -1,0 +1,16 @@
+[
+  {
+    "id": "cgm-life-1",
+    "title": "Lab Meeting",
+    "date": "2023-05-15",
+    "description": "Weekly lab meeting discussion",
+    "imageUrl": "/images/cgm-life/placeholder.jpg"
+  },
+  {
+    "id": "cgm-life-2",
+    "title": "Conference Trip",
+    "date": "2023-04-20",
+    "description": "Team trip to the annual graphics conference",
+    "imageUrl": "/images/cgm-life/placeholder.jpg"
+  }
+]

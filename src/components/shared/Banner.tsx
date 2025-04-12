@@ -1,0 +1,25 @@
+// src/components/shared/Banner.tsx
+import Image from 'next/image';
+
+const Banner = () => {
+  return (
+    <div className="relative w-full h-48 bg-gray-800 text-white overflow-hidden">
+      <div className="absolute inset-0 flex items-center">
+        <div className="w-2/3 pl-8 space-y-2">
+          <h2 className="text-4xl font-light">Rendering</h2>
+          <h2 className="text-5xl font-medium">Visualization</h2>
+          <h2 className="text-3xl font-light ml-12">Synthesis</h2>
+          <h2 className="text-4xl font-medium ml-24">Modeling</h2>
+        </div>
+        <div className="w-1/3 flex justify-center">
+          {/* We'll replace this with the actual logo SVG/PNG */}
+          <div className="w-32 h-32 bg-white rounded-full opacity-50 flex items-center justify-center">
+            <div className="w-24 h-24 bg-black rounded-full"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export default Banner;

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "news-1",
+    "title": "Computer Graphics Workshop (CGW) 2023",
+    "date": "2023-03-13",
+    "content": "The Computer Graphics Workshop was successfully held at NTUST.",
+    "imageUrl": "/images/news/placeholder.jpg"
+  },
+  {
+    "id": "news-2",
+    "title": "New research grant approved",
+    "date": "2023-02-15",
+    "content": "We received funding for our new project on visualization techniques.",
+    "imageUrl": "/images/news/placeholder.jpg"
+  }
+]

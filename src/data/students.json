@@ -1,0 +1,22 @@
+[
+  {
+    "id": "student-1",
+    "name": "Student Name",
+    "chineseName": "中文名",
+    "status": "PhD Student",
+    "researchTopic": "Virtual Reality Applications",
+    "imageUrl": "/images/people/student-placeholder.jpg",
+    "email": "student1@mail.ntust.edu.tw",
+    "graduationYear": null
+  },
+  {
+    "id": "student-2",
+    "name": "Former Student",
+    "chineseName": "畢業生",
+    "status": "Alumni",
+    "researchTopic": "Computer Vision",
+    "imageUrl": "/images/people/student-placeholder.jpg",
+    "email": "student2@gmail.com",
+    "graduationYear": 2022
+  }
+]

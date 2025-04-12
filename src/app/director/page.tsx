@@ -2,29 +2,7 @@
 import Banner from '@/components/shared/Banner';
 import Image from 'next/image';
 import { Person } from '@/types/index';
-
-// In a real implementation, this would come from a JSON file
-const directorData: Person = {
-  id: "director-1",
-  name: "Chuan-kai Yang",
-  chineseName: "楊傳凱",
-  title: "Professor",
-  department: "Department of Information Management",
-  university: "National Taiwan University of Science and Technology",
-  imageUrl: "/images/people/placeholder.jpg",
-  researchInterests: [
-    "Computer Graphics",
-    "Multimedia Systems",
-    "Scientific Visualization",
-    "Algorithms and Computational Geometry"
-  ],
-  contact: {
-    email: "ckyang@cs.ntust.edu.tw",
-    phone: "02-273-76756",
-    fax: "02-273-76777",
-    address: "43 Keelung Road, Section 4, Taipei, Taiwan, 106"
-  }
-};
+import directorData from '@/data/director.json';
 
 export default function DirectorPage() {
   const director: Person = directorData;

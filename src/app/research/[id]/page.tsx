@@ -3,58 +3,33 @@ import Banner from '@/components/shared/Banner';
 import Image from 'next/image';
 import Link from 'next/link';
 import {notFound} from 'next/navigation';
+import researchData from '@/data/research.json';
 
-// This would normally come from a real API or database
+interface ResearchProject {
+  id: string;
+  title: string;
+  description: string;
+  fullDescription: string;
+  imageUrl: string;
+  team: string[];
+  publications: {
+    title: string;
+    conference: string;
+    link?: string;
+  }[];
+}
+
+// Generate static params for all research projects
+export function generateStaticParams() {
+  const projects = researchData as ResearchProject[];
+  return projects.map((project) => ({
+    id: project.id,
+  }));
+}
+
+// Get a research project by ID from the JSON data
 const getResearchProject = (id: string) => {
-  // Sample project data - in a real app, this would come from an API or database
-  const projects = [
-    {
-      id: "research-1",
-      title: "Private Projection and Beautification of Camera Images",
-      description: "This research focuses on techniques for enhancing and protecting privacy in camera images through projection and beautification algorithms.",
-      fullDescription: "Our research explores advanced algorithms for image processing that can protect privacy while maintaining image quality. We propose a novel approach that combines machine learning techniques with traditional computer graphics methods to achieve effective privacy protection without compromising visual appeal. This work has applications in social media, teleconferencing, and security systems.",
-      imageUrl: "/images/research/placeholder.jpg",
-      team: ["Prof. Chuan-kai Yang", "Student A", "Student B"],
-      publications: [
-        {
-          title: "Privacy-Preserving Image Enhancement",
-          conference: "ACM SIGGRAPH 2023",
-          link: "#"
-        }
-      ]
-    },
-    {
-      id: "research-2",
-      title: "Realistic Video Generation for American Sign Language",
-      description: "Developing methods to generate realistic videos for American Sign Language to aid in communication and education.",
-      fullDescription: "This project aims to create realistic video content for American Sign Language (ASL) to bridge communication gaps and support education. Using deep learning and computer vision techniques, we generate high-quality animations that accurately represent ASL gestures and expressions. The system can translate text or speech input into corresponding ASL videos in real-time.",
-      imageUrl: "/images/research/placeholder.jpg",
-      team: ["Prof. Chuan-kai Yang", "Student C", "Student D"],
-      publications: [
-        {
-          title: "Neural Networks for Sign Language Video Synthesis",
-          conference: "IEEE VR 2023",
-          link: "#"
-        }
-      ]
-    },
-    {
-      id: "research-3",
-      title: "Neural Map Processing Visualization through a Graphic Algorithm",
-      description: "Investigating visualization techniques for neural map processing using advanced graphic algorithms.",
-      fullDescription: "This research explores novel ways to visualize complex neural network processes through innovative graphic algorithms. We develop interactive visualization tools that help researchers and practitioners understand the internal workings of neural networks. Our approach combines information visualization principles with real-time graphics rendering to create intuitive and informative visual representations of neural activations and connections.",
-      imageUrl: "/images/research/placeholder.jpg",
-      team: ["Prof. Chuan-kai Yang", "Student E"],
-      publications: [
-        {
-          title: "Interactive Visualization of Neural Network Activations",
-          conference: "IEEE Visualization 2023",
-          link: "#"
-        }
-      ]
-    }
-  ];
-
+  const projects = researchData as ResearchProject[];
   const project = projects.find(p => p.id === id);
   if (!project) return null;
   return project;

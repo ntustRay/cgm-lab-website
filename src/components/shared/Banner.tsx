@@ -1,5 +1,5 @@
 // src/components/shared/Banner.tsx - Updated
-// import CGMLogo from './CGMLogo';
+import CGMLogo from './CGMLogo';
 
 const Banner = () => {
   return (
@@ -12,7 +12,7 @@ const Banner = () => {
           <h2 className="text-4xl font-medium ml-24">Modeling</h2>
         </div>
         <div className="w-1/3 flex justify-center">
-          {/* <CGMLogo size={120} /> */} LOGO
+          <CGMLogo size={120} />
         </div>
       </div>
     </div>

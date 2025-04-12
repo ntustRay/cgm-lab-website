@@ -1,11 +1,11 @@
 // src/app/page.tsx - Updated
-import Banner from '@/components/shared/Banner';
-import NewsItem from '@/components/ui/NewsItem';
-import AwardItem from '@/components/ui/AwardItem';
-import newsData from '@/data/news.json';
-import awardsData from '@/data/awards.json';
-import cgmLifeData from '@/data/cgm-life.json';
-import Image from 'next/image';
+import Banner from "@/components/shared/Banner";
+import NewsItem from "@/components/ui/NewsItem";
+import AwardItem from "@/components/ui/AwardItem";
+import newsData from "@/data/news.json";
+import awardsData from "@/data/awards.json";
+import cgmLifeData from "@/data/cgm-life.json";
+import Image from "next/image";
 
 export default function Home() {
   const news = newsData.slice(0, 5); // Show top 5 news items
@@ -39,7 +39,7 @@ export default function Home() {
               <AwardItem key={award.id} award={award} />
             ))}
           </div>
-          
+
           <div className="md:w-1/3 border-r border-gray-200 px-4">
             <div className="newsTitleStyle mb-4">
               <img src="/images/lifes.png" width={147} height={25} alt="CGM Life" />
@@ -52,7 +52,7 @@ export default function Home() {
               </div>
             ))}
           </div>
-          
+
           <div className="md:w-1/3 pl-4">
             <div className="newsTitleStyle mb-4">
               <img src="/images/news.png" width={126} height={25} alt="News" />

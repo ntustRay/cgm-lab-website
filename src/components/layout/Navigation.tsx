@@ -1,30 +1,30 @@
 "use client"
-import Link from 'next/link';
-import { usePathname } from 'next/navigation';
-import { cn } from '@/lib/utils';
-import { useState } from 'react';
+import Link from "next/link";
+import {usePathname} from "next/navigation";
+import {cn} from "@/lib/utils";
+import {useState} from "react";
 
 const Navigation = () => {
   const pathname = usePathname();
   const [isMenuOpen, setIsMenuOpen] = useState(false);
-  
+
   const navItems = [
-    {name: 'News', path: '/'},
-    {name: 'Director', path: '/director'},
-    {name: 'Students', path: '/students'},
-    {name: 'CGM Life', path: '/cgm-life'},
-    {name: 'Seminar Schedule', path: '/seminar-schedule'},
-    {name: 'Publications', path: '/publications'},
-    {name: 'Research', path: '/research'}
+    {name: "News", path: "/"},
+    {name: "Director", path: "/director"},
+    {name: "Students", path: "/students"},
+    {name: "CGM Life", path: "/cgm-life"},
+    {name: "Seminar Schedule", path: "/seminar-schedule"},
+    {name: "Publications", path: "/publications"},
+    {name: "Research", path: "/research"}
   ];
-  
+
   return (
-    <nav className="bg-black text-white">
+    <nav className="bg-black text-white h-[30px] flex items-center">
       <div className="container mx-auto px-0">
         {/* Mobile menu button */}
         <div className="md:hidden flex justify-between items-center py-2 px-4">
           <span className="font-medium text-sm">Menu</span>
-          <button 
+          <button
             onClick={() => setIsMenuOpen(!isMenuOpen)}
             className="text-white p-1"
             aria-label="Toggle menu"
@@ -40,7 +40,7 @@ const Navigation = () => {
             )}
           </button>
         </div>
-        
+
         {/* Navigation links */}
         <table width="100%" border={0} cellPadding={0} cellSpacing={0} className={cn(
           "hidden md:table",
@@ -49,8 +49,8 @@ const Navigation = () => {
           <tbody>
             <tr className="text-center">
               {navItems.map((item) => (
-                <td key={item.path} height="20px" width={item.name === 'Seminar Schedule' ? "120px" : "80px"}>
-                  <Link 
+                <td key={item.path} height="20px" width={item.name === "Seminar Schedule" ? "120px" : "80px"}>
+                  <Link
                     href={item.path}
                     className={cn(
                       "nav-link hover:text-[#bd3c3f] text-white text-xs",
@@ -64,7 +64,7 @@ const Navigation = () => {
             </tr>
           </tbody>
         </table>
-        
+
         {/* Mobile navigation links */}
         <ul className={cn(
           "md:hidden",
@@ -72,7 +72,7 @@ const Navigation = () => {
         )}>
           {navItems.map((item) => (
             <li key={item.path} className="py-1 text-center">
-              <Link 
+              <Link
                 href={item.path}
                 className={cn(
                   "block nav-link hover:text-[#bd3c3f] text-xs",

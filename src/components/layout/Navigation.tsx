@@ -20,21 +20,21 @@ const Navigation = () => {
   
   return (
     <nav className="bg-black text-white">
-      <div className="container mx-auto px-4">
+      <div className="container mx-auto px-0">
         {/* Mobile menu button */}
-        <div className="md:hidden flex justify-between items-center py-3">
-          <span className="font-medium">Menu</span>
+        <div className="md:hidden flex justify-between items-center py-2 px-4">
+          <span className="font-medium text-sm">Menu</span>
           <button 
             onClick={() => setIsMenuOpen(!isMenuOpen)}
-            className="text-white p-2"
+            className="text-white p-1"
             aria-label="Toggle menu"
           >
             {isMenuOpen ? (
-              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" className="h-6 w-6">
+              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" className="h-5 w-5">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
               </svg>
             ) : (
-              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" className="h-6 w-6">
+              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" className="h-5 w-5">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
               </svg>
             )}
@@ -42,17 +42,41 @@ const Navigation = () => {
         </div>
         
         {/* Navigation links */}
+        <table width="100%" border={0} cellPadding={0} cellSpacing={0} className={cn(
+          "hidden md:table",
+          isMenuOpen ? "block" : ""
+        )}>
+          <tbody>
+            <tr className="text-center">
+              {navItems.map((item) => (
+                <td key={item.path} height="20px" width={item.name === 'Seminar Schedule' ? "120px" : "80px"}>
+                  <Link 
+                    href={item.path}
+                    className={cn(
+                      "nav-link hover:text-[#bd3c3f] text-white text-xs",
+                      pathname === item.path ? "text-[#bd3c3f]" : ""
+                    )}
+                  >
+                    {item.name}
+                  </Link>
+                </td>
+              ))}
+            </tr>
+          </tbody>
+        </table>
+        
+        {/* Mobile navigation links */}
         <ul className={cn(
-          "md:flex md:flex-row md:items-center md:space-x-6 md:py-4",
-          isMenuOpen ? "block py-4" : "hidden"
+          "md:hidden",
+          isMenuOpen ? "block py-2 px-4" : "hidden"
         )}>
           {navItems.map((item) => (
-            <li key={item.path} className="py-2 md:py-0">
+            <li key={item.path} className="py-1 text-center">
               <Link 
                 href={item.path}
                 className={cn(
-                  "block transition-colors hover:text-blue-400",
-                  pathname === item.path ? "text-blue-500 font-medium" : ""
+                  "block nav-link hover:text-[#bd3c3f] text-xs",
+                  pathname === item.path ? "text-[#bd3c3f] font-medium" : ""
                 )}
               >
                 {item.name}

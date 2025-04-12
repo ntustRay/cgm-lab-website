@@ -22,12 +22,14 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className={inter.variable}>
-      <body className="flex flex-col min-h-screen bg-gray-50">
-        <Header />
-        <main className="flex-grow">
-          {children}
-        </main>
-        <Footer />
+      <body className="flex flex-col min-h-screen">
+        <div className="max-w-[1200px] mx-auto bg-white shadow border-x border-gray-300">
+          <Header />
+          <main className="flex-grow px-4 py-2">
+            {children}
+          </main>
+          <Footer />
+        </div>
       </body>
     </html>
   );

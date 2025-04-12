@@ -1,16 +1,87 @@
 [
   {
     "id": "news-1",
-    "title": "Computer Graphics Workshop (CGW) 2023",
-    "date": "2023-03-13",
-    "content": "The Computer Graphics Workshop was successfully held at NTUST.",
-    "imageUrl": "/images/news/placeholder.jpg"
+    "title": "歡迎加入充滿歡樂的CGM實驗室! Join us!~",
+    "date": "2015-08-01",
+    "content": "歡迎加入充滿歡樂的CGM實驗室! Join us!~",
+    "imageUrl": "/images/news/placeholder.jpg",
+    "isPinned": true
   },
   {
     "id": "news-2",
-    "title": "New research grant approved",
-    "date": "2023-02-15",
-    "content": "We received funding for our new project on visualization techniques.",
+    "title": "實驗室網站管理員已變成徐晟紘囉！",
+    "date": "2020-09-12",
+    "content": "實驗室網站管理員已變成徐晟紘囉！如有任何問題，請和w150lione@gmail.com反應喔！謝謝 :D",
+    "imageUrl": "/images/news/placeholder.jpg"
+  },
+  {
+    "id": "news-3",
+    "title": "實驗室網站管理員已變成侯尊堯囉！",
+    "date": "2019-06-06",
+    "content": "實驗室網站管理員已變成侯尊堯囉！如有任何問題，請和M10709121@mail.ntust.edu.tw反應喔！謝謝 :D",
+    "imageUrl": "/images/news/placeholder.jpg"
+  },
+  {
+    "id": "news-4",
+    "title": "實驗室網站管理員已變成徐明睿囉！",
+    "date": "2018-07-05",
+    "content": "實驗室網站管理員已變成徐明睿囉！如有任何問題，請和m10609103@mail.ntust.edu.tw反應喔！謝謝 :D",
+    "imageUrl": "/images/news/placeholder.jpg"
+  },
+  {
+    "id": "news-5",
+    "title": "實驗室網站管理員已變成鄭御廷囉！",
+    "date": "2017-03-20",
+    "content": "實驗室網站管理員已變成鄭御廷囉！如有任何問題，請和timazoey@gmail.com反應喔！謝謝 :D",
+    "imageUrl": "/images/news/placeholder.jpg"
+  },
+  {
+    "id": "news-6",
+    "title": "實驗室網站管理員現在是郭傳聖！",
+    "date": "2015-08-20",
+    "content": "實驗室網站管理員現在是郭傳聖！如有任何問題，請和m10309122@mail.ntust.edu.tw聯絡~",
+    "imageUrl": "/images/news/placeholder.jpg"
+  },
+  {
+    "id": "news-7",
+    "title": "實驗室網站管理員現在是楊承翰！",
+    "date": "2014-07-14",
+    "content": "實驗室網站管理員現在是楊承翰！如有任何問題，請和m10209106@mail.ntust.edu.tw聯絡~",
+    "imageUrl": "/images/news/placeholder.jpg"
+  },
+  {
+    "id": "news-8",
+    "title": "實驗室網站管理員現在是陳昱宏！",
+    "date": "2013-07-15",
+    "content": "實驗室網站管理員現在是陳昱宏！如有任何問題，請和m10109120@mail.ntust.edu.tw聯絡~",
+    "imageUrl": "/images/news/placeholder.jpg"
+  },
+  {
+    "id": "news-9",
+    "title": "恭賀楊傳凱老師榮升教授！！！",
+    "date": "2013-06-03",
+    "content": "恭賀楊傳凱老師榮升教授！！！",
+    "imageUrl": "/images/news/placeholder.jpg"
+  },
+  {
+    "id": "news-10",
+    "title": "實驗室網站管理員已變成kimmy囉！",
+    "date": "2010-09-21",
+    "content": "實驗室網站管理員已變成kimmy囉！如果對網站有任何問題，請和m9909304@mail.ntust.edu.tw反應喔！謝謝 :D",
+    "imageUrl": "/images/news/placeholder.jpg"
+  },
+  {
+    "id": "news-11",
+    "title": "實驗室網站初版完成",
+    "date": "2009-06-19",
+    "content": "實驗室網站初版完成，各位成員如果有發現自己的資料不正確，或者是其他網頁設計不良的問題麻煩請提出討論。",
+    "imageUrl": "/images/news/placeholder.jpg"
+  },
+  {
+    "id": "news-12",
+    "title": "CGM Lab. 關心您！",
+    "date": "2009-06-16",
+    "content": "CGM Lab. 關心您！我們發現，最近可能因為是夏天，所以雨一直不停的下很大，因此，希望研究室同仁記得帶雨具，才不會讓雨淋到各位的頭。",
     "imageUrl": "/images/news/placeholder.jpg"
   }
 ]

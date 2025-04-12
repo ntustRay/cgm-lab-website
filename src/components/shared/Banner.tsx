@@ -1,5 +1,5 @@
-// src/components/shared/Banner.tsx
-import Image from 'next/image';
+// src/components/shared/Banner.tsx - Updated
+// import CGMLogo from './CGMLogo';
 
 const Banner = () => {
   return (
@@ -12,10 +12,7 @@ const Banner = () => {
           <h2 className="text-4xl font-medium ml-24">Modeling</h2>
         </div>
         <div className="w-1/3 flex justify-center">
-          {/* We'll replace this with the actual logo SVG/PNG */}
-          <div className="w-32 h-32 bg-white rounded-full opacity-50 flex items-center justify-center">
-            <div className="w-24 h-24 bg-black rounded-full"></div>
-          </div>
+          {/* <CGMLogo size={120} /> */} LOGO
         </div>
       </div>
     </div>

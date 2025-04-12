@@ -12,5 +12,33 @@
     "date": "2023-04-20",
     "description": "Team trip to the annual graphics conference",
     "imageUrl": "/images/cgm-life/placeholder.jpg"
+  },
+  {
+    "id": "cgm-life-3",
+    "title": "New Year Celebration",
+    "date": "2023-01-10",
+    "description": "Lab members celebrating new year",
+    "imageUrl": "/images/cgm-life/placeholder.jpg"
+  },
+  {
+    "id": "cgm-life-4",
+    "title": "Workshop Session",
+    "date": "2023-03-25",
+    "description": "Graphics programming workshop",
+    "imageUrl": "/images/cgm-life/placeholder.jpg"
+  },
+  {
+    "id": "cgm-life-5",
+    "title": "Guest Lecture",
+    "date": "2022-11-05",
+    "description": "Distinguished professor giving a lecture",
+    "imageUrl": "/images/cgm-life/placeholder.jpg"
+  },
+  {
+    "id": "cgm-life-6",
+    "title": "Team Dinner",
+    "date": "2022-12-20",
+    "description": "End of semester celebration",
+    "imageUrl": "/images/cgm-life/placeholder.jpg"
   }
 ]

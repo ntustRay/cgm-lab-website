@@ -24,6 +24,7 @@ export type Person = {
     fax?: string;
     address?: string;
   };
+  graduationYear?: number;
 };
 
 // More types to be added as we develop the app...

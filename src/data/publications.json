@@ -1,0 +1,18 @@
+[
+  {
+    "id": "pub-1",
+    "title": "Depth Estimation with Multi-Scale Neural Networks",
+    "authors": ["Yang, C.K.", "Lee, S.Y.", "Chen, M.H."],
+    "conference": "ACM SIGGRAPH Asia",
+    "year": 2023,
+    "link": "#"
+  },
+  {
+    "id": "pub-2",
+    "title": "Real-time Rendering of Translucent Materials",
+    "authors": ["Chen, M.H.", "Yang, C.K."],
+    "conference": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": 2022,
+    "link": "#"
+  }
+]

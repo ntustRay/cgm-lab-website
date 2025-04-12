@@ -1,8 +1,8 @@
 [
   {
     "id": "student-1",
-    "name": "Student Name",
-    "chineseName": "中文名",
+    "name": "Wei-Chen Lin",
+    "chineseName": "林威辰",
     "status": "PhD Student",
     "researchTopic": "Virtual Reality Applications",
     "imageUrl": "/images/people/student-placeholder.jpg",
@@ -11,12 +11,42 @@
   },
   {
     "id": "student-2",
+    "name": "Yi-Ting Chen",
+    "chineseName": "陳怡婷",
+    "status": "Masters Student",
+    "researchTopic": "Computer Vision and Machine Learning",
+    "imageUrl": "/images/people/student-placeholder.jpg",
+    "email": "student2@mail.ntust.edu.tw",
+    "graduationYear": null
+  },
+  {
+    "id": "student-3",
+    "name": "Tzu-Chien Wang",
+    "chineseName": "王子謙",
+    "status": "Masters Student",
+    "researchTopic": "Geometric Modeling",
+    "imageUrl": "/images/people/student-placeholder.jpg",
+    "email": "student3@mail.ntust.edu.tw",
+    "graduationYear": null
+  },
+  {
+    "id": "student-4",
     "name": "Former Student",
     "chineseName": "畢業生",
     "status": "Alumni",
     "researchTopic": "Computer Vision",
     "imageUrl": "/images/people/student-placeholder.jpg",
-    "email": "student2@gmail.com",
+    "email": "student4@gmail.com",
     "graduationYear": 2022
+  },
+  {
+    "id": "student-5",
+    "name": "Another Alumni",
+    "chineseName": "另一位畢業生",
+    "status": "Alumni",
+    "researchTopic": "Scientific Visualization",
+    "imageUrl": "/images/people/student-placeholder.jpg",
+    "email": "student5@gmail.com",
+    "graduationYear": 2021
   }
 ]

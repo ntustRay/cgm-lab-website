@@ -1,8 +1,8 @@
 // src/app/director/page.tsx
-import Banner from '@/components/shared/Banner';
-import Image from 'next/image';
-import { Person } from '@/types/index';
-import directorData from '@/data/director.json';
+import Banner from "@/components/shared/Banner";
+import Image from "next/image";
+import { Person } from "@/types/index";
+import directorData from "@/data/director.json";
 
 export default function DirectorPage() {
   const director: Person = directorData;

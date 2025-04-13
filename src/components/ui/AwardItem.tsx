@@ -1,12 +1,5 @@
-import {formatDate} from '@/lib/utils';
-
-interface Award {
-  id: string;
-  title: string;
-  subTitle: string;
-  date: string;
-  imageUrl: string;
-}
+import {formatDate} from "@/lib/utils";
+import {Award} from "@/types/index";
 
 interface AwardItemProps {
   award: Award;
@@ -16,10 +9,11 @@ const AwardItem = ({award}: AwardItemProps) => {
   return (
     <div className="cgm-news mb-3">
       <div>
-        {award.title}
-        <br />
-        {award.subTitle}
-        <br />
+        {award.content.map((line, index) => (
+          <div key={index}>
+            {line}
+          </div>
+        ))}
         <span className="text-[#BD3C3F]">{formatDate(award.date)}</span>
       </div>
     </div>

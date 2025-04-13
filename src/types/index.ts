@@ -1,10 +1,25 @@
 // Basic news item type
 export type News = {
   id: string;
-  title: string;
   date: string;
   content: string;
-  imageUrl?: string;
+  isPinned?: boolean;
+};
+
+// Award type
+export type Award = {
+  id: string;
+  content: string[];
+  date: string;
+};
+
+// CGM Life event type
+export type CGMLifeEvent = {
+  id: string;
+  title: string;
+  date: string;
+  imagePreviewUrl: string;
+  linkPath: string;
 };
 
 // Person type for director and students

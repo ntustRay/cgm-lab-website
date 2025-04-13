@@ -1,12 +1,12 @@
 // src/app/news/page.tsx
-import Banner from '@/components/shared/Banner';
-import NewsItem from '@/components/ui/NewsItem';
-import { News } from '@/types/index';
-import newsData from '@/data/news.json';
+import Banner from "@/components/shared/Banner";
+import NewsItem from "@/components/ui/NewsItem";
+import {News} from "@/types/index";
+import newsData from "@/data/news.json";
 
 export default function NewsPage() {
   const news: News[] = newsData;
-  
+
   return (
     <>
       <Banner />

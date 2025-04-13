@@ -16,11 +16,8 @@ export default function DirectorPage() {
             <div className="rounded overflow-hidden bg-gray-100 p-4">
               <div className="mt-4 text-center">
                 <h1 className="text-2xl font-bold">
-                  {director.name}
+                  {director.name} ({director.chineseName})
                 </h1>
-                <h2 className="text-xl">
-                  {director.chineseName}
-                </h2>
                 <p className="text-lg text-gray-700">
                   {director.title}
                 </p>

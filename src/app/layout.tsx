@@ -23,7 +23,7 @@ export default function RootLayout({
   return (
     <html lang="en" className={inter.variable}>
       <body className="flex flex-col min-h-screen">
-        <div className="max-w-[1000px] min-w-[1000px] mt-[10px] mb-[20px] mx-auto bg-white rounded-[25px] border-0 overflow-hidden shadow-[0px_0px_8px_0px_rgba(0,0,0,0.75)] border-gray-300">
+        <div className="max-w-[1000px] min-w-[300px] w-full mt-[10px] mb-[20px] mx-auto bg-white rounded-[25px] border-0 overflow-hidden shadow-[0px_0px_8px_0px_rgba(0,0,0,0.75)] border-gray-300">
           <Header />
           <main className="flex-grow px-4 py-2">{children}</main>
           <Footer />

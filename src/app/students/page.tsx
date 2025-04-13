@@ -88,37 +88,37 @@ export default function StudentsPage() {
 }
 
 interface StudentCardProps {
-  student: Person;
+  student: Student;
 }
 
 const StudentCard = ({student}: StudentCardProps) => {
   return (
     <div className="border rounded-lg overflow-hidden shadow-md bg-white">
       <div className="p-4">
-        <div className="flex items-center mb-4">
-          {student.imageUrl && (
-            <div className="mr-4 flex-shrink-0">
-              <Image
-                src={student.imageUrl}
-                alt={student.name}
-                width={80}
-                height={80}
-                className="rounded-full object-cover"
-              />
-            </div>
-          )}
-          <div>
-            <h3 className="text-lg font-semibold">{student.name}</h3>
-            {student.chineseName && <p className="text-gray-600">{student.chineseName}</p>}
-            <p className="text-sm text-gray-500">{student.status}</p>
+
+        {student.imageUrl && (
+          <div className="flex-shrink-0 mb-4">
+            <Image
+              src={student.imageUrl}
+              alt={student.name}
+              width={0}
+              height={0}
+              className="rounded-lg object-cover w-full h-40"
+            />
           </div>
-        </div>
+        )}
 
         <div className="text-sm">
-          {student.researchTopic && <p><strong>Research:</strong> {student.researchTopic}</p>}
-          {student.email && <p><strong>Email:</strong> {student.email}</p>}
-          {student.graduated && <p><strong>Graduated:</strong> Yes</p>}
-          {!student.graduated && student.graduationYear !== null && student.graduationYear !== undefined && <p><strong>Expected Graduation:</strong> {student.graduationYear}</p>}
+          <h3 className="text-lg font-semibold !mb-0">{student.name}</h3>
+          <p><strong>學年:</strong> {student.academicYear}</p>
+          <p><strong>興趣:</strong> {student.hobby}</p>
+          <p><strong>專長:</strong> {student.expert}</p>
+          {student.personalLink && (
+            <p>
+              <strong>個人網頁:</strong> <a href={student.personalLink} target="_blank" rel="noopener noreferrer">點我</a>
+            </p>
+          )}
+          <p><strong>E-mail:</strong> {student.email}</p>
         </div>
       </div>
     </div>

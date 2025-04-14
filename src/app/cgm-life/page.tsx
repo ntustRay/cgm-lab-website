@@ -1,44 +1,36 @@
 // src/app/cgm-life/page.tsx
 import PhotoGallery from "@/components/PhotoGallery/PhotoGallery";
 import Banner from "@/components/shared/Banner";
-import cgmLifeData from "@/data/cgm-life.json";
 import photosData from "@/data/photos.json";
-
-type CGMLifeEvent = {
-  id: string;
-  title: string;
-  date: string;
-  description: string;
-  imageUrl: string;
-};
+import photosOrderByDate from "@/data/photosOrderByDate.json";
 
 export default function CGMLifePage() {
-  const events = cgmLifeData as CGMLifeEvent[];
-
-  // Group events by year
-  const eventsByYear = events.reduce((acc, event) => {
-    const year = new Date(event.date).getFullYear();
-    if (!acc[year]) {
-      acc[year] = [];
+  // Create a map of album names to dates from photosOrderByDate
+  const albumDatesMap = photosOrderByDate.reduce((map, item) => {
+    if (item.name) {
+      map[item.name] = item.date;
     }
-    acc[year].push(event);
-    return acc;
-  }, {} as Record<number, CGMLifeEvent[]>);
+    return map;
+  }, {} as Record<string, string>);
 
-  // Sort years in descending order
-  const sortedYears = Object.keys(eventsByYear)
-    .map(Number)
-    .sort((a, b) => b - a);
+  // Add dates to albums
+  const albumsWithDates = photosData.map(album => ({
+    ...album,
+    date: albumDatesMap[album.name] || "1900-01-01" // Default date for items without a match
+  }));
+
+  // Sort albums by date (newest first)
+  const sortedAlbums = [...albumsWithDates].sort((a, b) => {
+    return new Date(b.date).getTime() - new Date(a.date).getTime();
+  });
 
   return (
     <>
       <Banner />
       <div>
         <div className="container mx-auto px-4 py-8">
-          <h1 className="text-xl font-bold text-[#BD3C3F] mb-4">CGM Lab Life</h1>
-          {/* Photo Gallery Section */}
           <section>
-            <PhotoGallery albums={photosData} />
+            <PhotoGallery albums={sortedAlbums} />
           </section>
         </div>
       </div>

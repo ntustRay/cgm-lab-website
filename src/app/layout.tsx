@@ -1,4 +1,5 @@
 // src/app/layout.tsx
+"client"
 import type {Metadata} from "next";
 import {Inter} from "next/font/google";
 import Header from "@/components/layout/Header";

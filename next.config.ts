@@ -4,7 +4,6 @@ const nextConfig: NextConfig = {
   // export client-side rendering static website 
   output: "export",
   // disable server-side rendering 
-  ssr: false,
   images: {
     // disable image optimization 
     unoptimized: true,

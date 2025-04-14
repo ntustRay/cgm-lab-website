@@ -2,25 +2,29 @@
 import PhotoGallery from "@/components/PhotoGallery/PhotoGallery";
 import Banner from "@/components/shared/Banner";
 import photosData from "@/data/photos.json";
-import photosOrderByDate from "@/data/photosOrderByDate.json";
+import photosInfo from "@/data/photosInfo.json";
 
 export default function CGMLifePage() {
-  // Create a map of album names to dates from photosOrderByDate
-  const albumDatesMap = photosOrderByDate.reduce((map, item) => {
+  // Create maps for both dates and titles
+  const albumInfoMap = photosInfo.reduce((map, item) => {
     if (item.name) {
-      map[item.name] = item.date;
+      map[item.name] = {
+        date: item.date,
+        title: item.title
+      };
     }
     return map;
-  }, {} as Record<string, string>);
+  }, {} as Record<string, { date: string, title: string }>);
 
-  // Add dates to albums
-  const albumsWithDates = photosData.map(album => ({
+  // Add dates and titles to albums
+  const albumsWithInfo = photosData.map(album => ({
     ...album,
-    date: albumDatesMap[album.name] || "1900-01-01" // Default date for items without a match
+    date: albumInfoMap[album.name]?.date || "1900-01-01", // Default date for items without a match
+    title: albumInfoMap[album.name]?.title || album.name // Use title if available, otherwise use name
   }));
 
   // Sort albums by date (newest first)
-  const sortedAlbums = [...albumsWithDates].sort((a, b) => {
+  const sortedAlbums = [...albumsWithInfo].sort((a, b) => {
     return new Date(b.date).getTime() - new Date(a.date).getTime();
   });
 

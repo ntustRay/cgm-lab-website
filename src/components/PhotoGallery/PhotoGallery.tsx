@@ -153,14 +153,6 @@ export default function PhotoGallery({albums}: PhotoGalleryProps) {
           <div className="flex items-center justify-center min-h-screen">
             <div className="fixed inset-0 bg-black opacity-95" aria-hidden="true"></div>
             <div className="relative w-full h-full flex flex-col items-center justify-center z-10 px-2 sm:px-4">
-              <button
-                type="button"
-                className="absolute top-2 right-2 sm:top-4 sm:right-4 text-white hover:text-gray-300 focus:outline-none"
-                onClick={() => setSelectedPhotoIndex(null)}
-              >
-                <XMarkIcon className="h-6 w-6 sm:h-8 sm:w-8" />
-              </button>
-
               {/* Photo Container */}
               <div className="relative w-full max-w-5xl h-[70vh] sm:h-[80vh]">
                 <Image
@@ -172,9 +164,17 @@ export default function PhotoGallery({albums}: PhotoGalleryProps) {
                   className="object-contain"
                 />
 
+                {/* Close button repositioned to overlay on the photo area */}
+                <button
+                  type="button"
+                  className="absolute top-2 right-2 z-20 bg-black/40 p-1.5 rounded-[10px] text-white hover:bg-black/60 focus:outline-none cursor-pointer transition-colors"
+                  onClick={() => setSelectedPhotoIndex(null)}
+                >
+                  <XMarkIcon className="h-5 w-5 sm:h-6 sm:w-6" />
+                </button>
                 {/* Navigation Buttons (Absolutely Positioned) */}
                 <button
-                  className="absolute left-0 top-1/2 transform -translate-y-1/2 bg-black/30 p-1 sm:p-2 rounded-r-md text-white hover:bg-black/50 transition"
+                  className="absolute left-0 top-1/2 transform -translate-y-1/2 bg-black/30 p-1 sm:p-2 rounded-[10px] text-white hover:bg-black/50 transition cursor-pointer"
                   onClick={handlePrevious}
                   aria-label="Previous photo"
                 >
@@ -182,7 +182,7 @@ export default function PhotoGallery({albums}: PhotoGalleryProps) {
                 </button>
 
                 <button
-                  className="absolute right-0 top-1/2 transform -translate-y-1/2 bg-black/30 p-1 sm:p-2 rounded-l-md text-white hover:bg-black/50 transition"
+                  className="absolute right-0 top-1/2 transform -translate-y-1/2 bg-black/30 p-1 sm:p-2 rounded-[10px] text-white hover:bg-black/50 transition"
                   onClick={handleNext}
                   aria-label="Next photo"
                 >

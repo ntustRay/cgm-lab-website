@@ -34,15 +34,14 @@ export default function ResearchPage() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {projects.map((project, index) => (
             <Link href={getProjectUrl(project.link)} key={index} className="block group" target="_blank" rel="noopener noreferrer">
-              <div className="border-[#2b2b2bf] rounded-lg overflow-hidden shadow-lg hover:shadow-xl transition-shadow duration-300 h-full flex flex-col">
-                <div className="relative w-full h-48"> {/* Fixed height for images */}
+              <div className="bg-white border border-gray-200 rounded-lg overflow-hidden shadow-sm hover:shadow-lg hover:scale-[1.03] hover:border-[#1b1b1b] transition-all duration-200 h-full flex flex-col">
+                <div className="relative w-full h-48">
                   <Image
-                    // Prepend '/' to make the path relative to the public directory
                     src={getProjectUrl(project.image_src)}
                     alt={project.title}
-                    layout="fill" // Use fill layout
-                    objectFit="cover" // Cover the container
-                    className="transition-transform duration-300 group-hover:scale-105"
+                    layout="fill"
+                    objectFit="cover"
+                    className="transition-transform duration-300"
                   />
                 </div>
                 <div className="p-4 flex flex-col flex-grow">
@@ -52,7 +51,7 @@ export default function ResearchPage() {
                   <p className="text-sm text-gray-600 mb-1">
                     {project.authors.join(", ")}
                   </p>
-                  <p className="text-sm text-gray-500 mt-auto">{project.year}</p> {/* Pushes year to the bottom */}
+                  <p className="text-sm text-gray-500 mt-auto">{project.year}</p>
                 </div>
               </div>
             </Link>

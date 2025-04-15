@@ -1,11 +1,11 @@
 // src/app/director/page.tsx
 import Banner from "@/components/shared/Banner";
 import directorData from "@/data/director.json";
-import {Person} from "@/types/index";
+import {Director} from "@/types/index";
 import Image from "next/image";
 
 export default function DirectorPage() {
-  const director: Person = directorData;
+  const director: Director = directorData;
 
   return (
     <>

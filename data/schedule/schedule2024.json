@@ -1,0 +1,632 @@
+[
+    {
+        "year": "2024",
+        "day": "Thursday",
+        "classroom": "MA314",
+        "time": "15:30-17:30"
+    },
+    {
+        "Date": "12\/26",
+        "Topic": "Paper",
+        "Speaker": "劉德駿",
+        "Title": "User-guided personalized image aesthetic assessment based on deep reinforcement learning."
+    },
+    {
+        "Date": "12\/26",
+        "Topic": "Abstract",
+        "Speaker": "孫耀庭",
+        "Title": "1.An Online Approach to Physical Watermark Design  2.Robust Blind Speech Watermarking via FFT-Based Perceptual Vector Norm Modulation With Frame Self-Synchronization  3.FSM Inspired Unconventional Hardware Watermark Using Field-Assisted SOT-MTJ  4.Adv-watermark: A Novel Watermark Perturbation for Adversarial Examples 5.Health Record Security Through Multiple Watermarking on Fused Medical Images"
+    },
+    {
+        "Date": "12\/19",
+        "Topic": "Paper",
+        "Speaker": "x",
+        "Title": "special topic"
+    },
+    {
+        "Date": "12\/19",
+        "Topic": "Abstract",
+        "Speaker": "x",
+        "Title": "special topic"
+    },
+    {
+        "Date": "12\/12",
+        "Topic": "Paper",
+        "Speaker": "林芳義",
+        "Title": "VIRD: Immersive Match Video Analysis for High-Performance Badminton Coaching"
+    },
+    {
+        "Date": "12\/12",
+        "Topic": "Abstract",
+        "Speaker": "劉德駿",
+        "Title": "1. Hierarchical layout-aware graph convolutional network for unified aesthetics assessment  2. Theme-aware visual attribute reasoning for image aesthetics assessment.  3. Composition-aware image aesthetics assessment  4. Composing photos like a photographer."
+    },
+    {
+        "Date": "12\/5",
+        "Topic": "Paper",
+        "Speaker": "許家瑋",
+        "Title": "Air Quality Classification and Measurement Based on Double Output Vision Transformer"
+    },
+    {
+        "Date": "12\/5",
+        "Topic": "Abstract",
+        "Speaker": "林芳義",
+        "Title": "1. Robust Automatic Camera Calibration in Badminton Court Recognition 2. Deep Reinforcement Learning in a Racket Sport for Player Evaluation With Technical and Tactical Contexts 3. The Effects of Mixed Reality-Based Badminton Training System on the Hitting Accuracy of Badminton and Cybersickness 4. Research on Deep Learning Based Badminton Players' Movement Analysis Methods  5. VIRD: Immersive Match Video Analysis for High-Performance Badminton Coaching"
+    },
+    {
+        "Date": "11\/28",
+        "Topic": "Paper",
+        "Speaker": "何思嫺",
+        "Title": "Watch Your Mouth: Silent Speech Recognition with Depth Sensing"
+    },
+    {
+        "Date": "11\/28",
+        "Topic": "Abstract",
+        "Speaker": "許家瑋",
+        "Title": "1. Image-based air quality analysis using deep convolutional neural network  2. Ensemble of Deep Neural Networks for Estimating Particulate Matter from Images  3. Image and Spectrum Based Deep Feature Analysis for Particle Matter Estimation with Weather Information  4. Eff-AQI: An Efficient CNN-Based Model for Air Pollution Estimation: A Study Case in India  5. Air Quality Classification and Measurement Based on Double Output Vision Transformer"
+    },
+    {
+        "Date": "11\/21",
+        "Topic": "Paper",
+        "Speaker": "蔡惠晴",
+        "Title": "Smart Song Equalization Based on the Classification of Musical Genres"
+    },
+    {
+        "Date": "11\/21",
+        "Topic": "Abstract",
+        "Speaker": "何思嫺",
+        "Title": "1. Audio-Visual Speech Recognition with a Hybrid CTC\/Attention Architecture  2. Training Strategies for Improved Lip-Reading  3. Lip-Interact: Improving Mobile Device Interaction with Silent Speech Commands  4. TongueBoard: An Oral Interface for Subtle Input  5. Watch Your Mouth: Silent Speech Recognition with Depth Sensing"
+    },
+    {
+        "Date": "11\/14",
+        "Topic": "Paper",
+        "Speaker": "鄭安哲",
+        "Title": "Tg-Critic: A Timbre-Guided Model For Reference-Independent Singing Evaluation"
+    },
+    {
+        "Date": "11\/14",
+        "Topic": "Abstract",
+        "Speaker": "蔡惠晴",
+        "Title": "1. Fuzzy Equalization of Musical Genres  2. Music Genre Recognition using Deep Neural Networks and Transfer Learning  3. Efficient Music Genre Classification with Deep Convolutional Neural Networks  4. A Fully Automated Music Equalizer Based On Music Genre Detection Using Deep Learning And Neural Network  5. Smart Song Equalization Based on the Classification of Musical Genres"
+    },
+    {
+        "Date": "11\/7",
+        "Topic": "Paper",
+        "Speaker": "x",
+        "Title": "林伯慎老師實驗室"
+    },
+    {
+        "Date": "11\/7",
+        "Topic": "Abstract",
+        "Speaker": "x",
+        "Title": "林伯慎老師實驗室"
+    },
+    {
+        "Date": "10\/31",
+        "Topic": "Paper",
+        "Speaker": "X",
+        "Title": "老師出國"
+    },
+    {
+        "Date": "10\/31",
+        "Topic": "Abstract",
+        "Speaker": "X",
+        "Title": "老師出國"
+    },
+    {
+        "Date": "10\/24",
+        "Topic": "Paper",
+        "Speaker": "Haile",
+        "Title": "Detection of Bird and Frog Species from Audio Dataset Using Deep Learning"
+    },
+    {
+        "Date": "10\/24",
+        "Topic": "Abstract",
+        "Speaker": "鄭安哲",
+        "Title": "1. A Study on Singing Performance Evaluation Criteria for Untrained Singers  2. FUNDAMENTAL FREQUENCY ALIGNMENT VS. NOTE-BASED MELODIC SIMILARITY FOR SINGING VOICE ASSESSMENT  3. Perceptual Evaluation of Singing Quality  4. Performance Scoring of Singing Voice  5. Tg-Critic: A Timbre-Guided Model For Reference-Independent Singing Evaluation"
+    },
+    {
+        "Date": "10\/17",
+        "Topic": "Paper",
+        "Speaker": "Marcell",
+        "Title": "A ResNet-Based Audio-Visual Fusion Model for Piano Skill Evaluation"
+    },
+    {
+        "Date": "10\/17",
+        "Topic": "Abstract",
+        "Speaker": "Haile",
+        "Title": "1. An Efficient Model for a Vast Number of Bird Species Identification Based on Acoustic Features  2. Multispecies bird sound recognition using a fully convolutional neural network  3. Multi-label classification for acoustic bird species detection using transfer learning approach  4. Multi-label bird species classification from audio recordings using attention framework  5. Detection of Bird and Frog Species from Audio Dataset Using Deep Learning"
+    },
+    {
+        "Date": "10\/10",
+        "Topic": "Paper",
+        "Speaker": "X",
+        "Title": "國慶日"
+    },
+    {
+        "Date": "10\/10",
+        "Topic": "Abstract",
+        "Speaker": "X",
+        "Title": "國慶日"
+    },
+    {
+        "Date": "10\/3",
+        "Topic": "Paper",
+        "Speaker": "x",
+        "Title": "颱風假"
+    },
+    {
+        "Date": "10\/3",
+        "Topic": "Abstract",
+        "Speaker": "x",
+        "Title": "颱風假"
+    },
+    {
+        "Date": "9\/26",
+        "Topic": "Paper",
+        "Speaker": "Molion",
+        "Title": "Traffic Lights Detection and Recognition Method Based on the Improved YOLOv4 Algorithm, SENSORS MDPI 2022"
+    },
+    {
+        "Date": "9\/26",
+        "Topic": "Abstract",
+        "Speaker": "Marcell",
+        "Title": "1. An Efficient Piano Performance Evaluation Model Using DTW based on Deep Learning  2. Musical Instrument Learning Feedback Through Hand and Finger Movement Tracking  3. PETA-System– A Piano Expression Teaching Aid System  4. Automatic Evaluation of Aspects of Performance and Scheduling in Playing the Piano  5. A ResNet-Based Audio-Visual Fusion Model for Piano Skill Evaluation"
+    },
+    {
+        "Date": "9\/19",
+        "Topic": "Paper",
+        "Speaker": "吳家霖",
+        "Title": "Image Super-Resolution via Iterative Refinement"
+    },
+    {
+        "Date": "9\/19",
+        "Topic": "Abstract",
+        "Speaker": "Molion",
+        "Title": "1. A YOLO Based Approach for Traffic Light Recognition for ADAS Systems, 2nd International (MIUCC) 2022  2. Remote Traffic Light Detection and Recognition Based on Deep Learning, 6th (WCCCT) 2023  3. Robust Traffic Light Detection Using Salience-Sensitive Loss: Computational Framework and Evaluations, arXiv (CVPR) 2023  4. Learning deep feature fusion for traffic light detection, Elsevier 2023  5. Traffic Lights Detection and Recognition Method Based on the Improved YOLOv4 Algorithm, SENSORS MDPI 2022"
+    },
+    {
+        "Date": "9\/12",
+        "Topic": "Paper",
+        "Speaker": "葉三吉",
+        "Title": "Analytical model for three-dimensional light-field displays based on voxel construction"
+    },
+    {
+        "Date": "9\/12",
+        "Topic": "Abstract",
+        "Speaker": "吳家霖",
+        "Title": "1.Private Eye: On the Limits of Textual Screen Peeking via Eyeglass Reflections in Video Conferencing  2.TR-MISR: Multi image Super-Resolution Based on Feature Fusion With Transformers  3.Monitoring AI-Modified Content at Scale: A Case Study on the Impact of ChatGPT on AI Conference Peer Reviews  4.Precise localization of corneal reflections in eye images using deep learning trained on synthetic data  5.Image Super-Resolution via Iterative Refinement"
+    },
+    {
+        "Date": "9\/5",
+        "Topic": "Paper",
+        "Speaker": "Nigus",
+        "Title": "A Hybrid Global-Local Perception Network for Lane Detection"
+    },
+    {
+        "Date": "9\/5",
+        "Topic": "Abstract",
+        "Speaker": "葉三吉",
+        "Title": "1. Part-Object Relational Visual Saliency 2. Capsule Networks With Residual Pose Routing  3. Tensorial Multi-View Clustering via Low-Rank Constrained High-Order Graph Learning  4. TCGNet: Type-Correlation Guidance for Salient Object Detection  5. Analytical model for three-dimensional light-field displays based on voxel construction"
+    },
+    {
+        "Date": "8\/29",
+        "Topic": "Paper",
+        "Speaker": "Jason",
+        "Title": "Three-Color Balancing for Color Constancy Correction"
+    },
+    {
+        "Date": "8\/29",
+        "Topic": "Abstract",
+        "Speaker": "Nigus",
+        "Title": "1. Rethinking Efficient Lane Detection via Curve Modeling 2. BSNet: lane detection via draw B-spline curve nearby 3. Keep your Eyes on the Lane: Real-time Attention -guided Lane Detection 4. CANET: Curved guide line network with adaptive decoder for lane 5. A Hybrid Global-Local Perception Network for Lane Detection"
+    },
+    {
+        "Date": "8\/22",
+        "Topic": "Paper",
+        "Speaker": "X",
+        "Title": ""
+    },
+    {
+        "Date": "8\/22",
+        "Topic": "Abstract",
+        "Speaker": "Jason",
+        "Title": "1. Deep White-Balance Editing  2. When Color Constancy Goes Wrong: Correcting Improperly White-Balanced Images  3. Predicting the Colors of Reference Surfaces for Color Constancy  4. Color Correction for Digital Photographs  5. Three-Color Balancing for Color Constancy Correction"
+    },
+    {
+        "Date": "8\/15",
+        "Topic": "Paper",
+        "Speaker": "Ferdinan",
+        "Title": "SAR Image Matching Based on Local Feature Detection and Description Using Convolutional Neural Network"
+    },
+    {
+        "Date": "8\/15",
+        "Topic": "Abstract",
+        "Speaker": "X",
+        "Title": ""
+    },
+    {
+        "Date": "8\/8",
+        "Topic": "Paper",
+        "Speaker": "Zephaniah",
+        "Title": "Performance evaluation of deep learning object detectors for weed detection for cotton"
+    },
+    {
+        "Date": "8\/8",
+        "Topic": "Abstract",
+        "Speaker": "Ferdinan",
+        "Title": "1. SuperGlue-Based Deep Learning Method for Image Matching from Multiple Viewpoints 2. An evaluation of conventional and deep learning-based image-matching methods on diverse datasets 3. Image-to-Image Subpixel Registration Based on Template Matching of Road Network Extracted by Deep Learning 4. Multi-Temporal Remote Sensing Image Registration Using Deep Convolutional Features  5. SAR Image Matching Based on Local Feature Detection and Description Using Convolutional Neural Networ"
+    },
+    {
+        "Date": "8\/1",
+        "Topic": "Paper",
+        "Speaker": "x",
+        "Title": "林伯慎老師實驗室"
+    },
+    {
+        "Date": "8\/1",
+        "Topic": "Abstract",
+        "Speaker": "x",
+        "Title": "林伯慎老師實驗室"
+    },
+    {
+        "Date": "7\/25",
+        "Topic": "Paper",
+        "Speaker": "颱風假",
+        "Title": ""
+    },
+    {
+        "Date": "7\/25",
+        "Topic": "Abstract",
+        "Speaker": "颱風假",
+        "Title": ""
+    },
+    {
+        "Date": "7\/18",
+        "Topic": "Paper",
+        "Speaker": "X",
+        "Title": ""
+    },
+    {
+        "Date": "7\/18",
+        "Topic": "Abstract",
+        "Speaker": "Zephaniah",
+        "Title": "1. Performance evaluation of deep learning object detectors for weed detection for cotton  2. Evaluation of YOLO Object Detectors for Weed Detection in Different Turfgrass Scenarios  3. Lightweight Deep Learning Model for Weed Detection for IoT Devices  4. Object-level benchmark for deep learning-based detection and classification of weed species  5. Vision-Based Deep Learning Approach for RealTime Detection of Weeds in Organic Farming"
+    },
+    {
+        "Date": "7\/11",
+        "Topic": "Paper",
+        "Speaker": "X",
+        "Title": "CGW 2024 @ NTU"
+    },
+    {
+        "Date": "7\/11",
+        "Topic": "Abstract",
+        "Speaker": "X",
+        "Title": "CGW 2024 @ NTU"
+    },
+    {
+        "Date": "7\/4",
+        "Topic": "Paper",
+        "Speaker": "林芳義",
+        "Title": "A deep learning based framework for badminton rally outcome prediction"
+    },
+    {
+        "Date": "7\/4",
+        "Topic": "Abstract",
+        "Speaker": "X",
+        "Title": ""
+    },
+    {
+        "Date": "6\/27",
+        "Topic": "Paper",
+        "Speaker": "Nguyễn",
+        "Title": "3D Face Reconstruction with Dense Landmarks"
+    },
+    {
+        "Date": "6\/27",
+        "Topic": "Abstract",
+        "Speaker": "林芳義",
+        "Title": "1. TrackNetV2: Efficient Shuttlecock Tracking Network  2. Bag of Tricks Toward Enhanced Shuttlecock Detection from Badminton Videos  3. Badminton Action Classification Based on Human Skeleton Data Extracted by AlphaPose  4. Ready-to-Serve Detection in Badminton Videos  5. A deep learning based framework for badminton rally outcome prediction"
+    },
+    {
+        "Date": "6\/20",
+        "Topic": "Paper",
+        "Speaker": "許家瑋",
+        "Title": "Integrating SIFT and CNN Feature Matching for Partial-Duplicate Image Detection"
+    },
+    {
+        "Date": "6\/20",
+        "Topic": "Abstract",
+        "Speaker": "Nguyễn",
+        "Title": "1. On the Unreasonable Effectiveness of Centroids in Image Retrieval  2. TinaFace: Strong but Simple Baseline for Face Detection 3. GhostFaceNets: Lightweight Face Recognition Model From Cheap Operations  4. Towards Robust and Unconstrained Full Range of Rotation Head Pose Estimation  5. 3D Face Reconstruction with Dense Landmarks"
+    },
+    {
+        "Date": "6\/13",
+        "Topic": "Paper",
+        "Speaker": "X",
+        "Title": "林伯慎老師實驗室"
+    },
+    {
+        "Date": "6\/13",
+        "Topic": "Abstract",
+        "Speaker": "X",
+        "Title": "林伯慎老師實驗室"
+    },
+    {
+        "Date": "6\/6",
+        "Topic": "Paper",
+        "Speaker": "X",
+        "Title": "SPECIAL TOPIC"
+    },
+    {
+        "Date": "6\/6",
+        "Topic": "Abstract",
+        "Speaker": "X",
+        "Title": "SPECIAL TOPIC"
+    },
+    {
+        "Date": "5\/30",
+        "Topic": "Paper",
+        "Speaker": "劉德駿",
+        "Title": "T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models"
+    },
+    {
+        "Date": "5\/30",
+        "Topic": "Abstract",
+        "Speaker": "許家瑋",
+        "Title": "1. SimpleNet: A Simple Network for Image Anomaly Detection and Localization  2. Adaptive Spot-Guided Transformer for Consistent Local Feature Matching  3. Pic2Word: Mapping Pictures to Words for Zero-shot Composed Image Retrieval  4. InstructPix2Pix: Learning to Follow Image Editing Instructions  5. Integrating SIFT and CNN Feature Matching for Partial-Duplicate Image Detection"
+    },
+    {
+        "Date": "5\/23",
+        "Topic": "Paper",
+        "Speaker": "廖庭婕",
+        "Title": "ResNet-LSTM for Real-Time PM2.5 and PM10 Estimation Using Sequential Smartphone Images"
+    },
+    {
+        "Date": "5\/23",
+        "Topic": "Abstract",
+        "Speaker": "劉德駿",
+        "Title": "1 QLoRA: Efficient Finetuning of Quantized LLMs  2 Optimizing the Hyperparameter Tuning of YOLOv5 for Underwater Detection  3 Multi-Attentional Deepfake Detection  4 Learning Self-Consistency for Deepfake Detection  5 T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models"
+    },
+    {
+        "Date": "5\/16",
+        "Topic": "Paper",
+        "Speaker": "X",
+        "Title": "教授出國"
+    },
+    {
+        "Date": "5\/16",
+        "Topic": "Abstract",
+        "Speaker": "X",
+        "Title": "教授出國"
+    },
+    {
+        "Date": "5\/9",
+        "Topic": "Paper",
+        "Speaker": "何思嫺",
+        "Title": "Research on a Lip Reading Algorithm Based on Efficient-GhostNet"
+    },
+    {
+        "Date": "5\/9",
+        "Topic": "Abstract",
+        "Speaker": "廖庭婕",
+        "Title": "1. PM2.5 Monitoring using Images from Smartphones in Participatory Sensing  2. PM2.5 Concentration Estimation Based on Image Quality Assessment  3. An Image-based Air Quality Analysis using Transfer Learning Algorithms  4. Image-Based Particulate Matter Pollution Analysis Using A Lightweight Autoencoder  5. ResNet-LSTM for Real-Time PM2.5 and PM10 Estimation Using Sequential Smartphone Images"
+    },
+    {
+        "Date": "5\/2",
+        "Topic": "Paper",
+        "Speaker": "Haile",
+        "Title": "Wearable Sensor-Based Human Activity Recognition with Transformer Model"
+    },
+    {
+        "Date": "5\/2",
+        "Topic": "Abstract",
+        "Speaker": "何思嫺",
+        "Title": "1. Design and Implementation of a Lip Reading System in Smart Phone Environment 2. Face and Lip-Reading Authentication System Based on Android Smart Phones  3. LipLearner Customizing Silent Speech Commands from Voice Input using One-shot Lipreading  4. Viseme Embeddings for Commonly Confused Words in Lip-Reading  5. Research on a Lip Reading Algorithm Based on Efficient-GhostNet"
+    },
+    {
+        "Date": "4\/25",
+        "Topic": "Paper",
+        "Speaker": "Marcell",
+        "Title": "Automatic Evaluation of Karaoke Singing Based on Pitch, Volume, and Rhythm Features"
+    },
+    {
+        "Date": "4\/25",
+        "Topic": "Abstract",
+        "Speaker": "Haile",
+        "Title": "1. Real-time Sound Source Localization for a Mobile Robot Based on the Guided Spectral-Temporal Position Method  2. A sound-source localization system using three-microphone array and cross power spectrum phase  3. Human activity recognition from multiple sensors data using deep CNNs  4. Device Position-Independent Human Activity Recognition with Wearable Sensors Using Deep Neural Networks  5. Wearable Sensor-Based Human Activity Recognition with Transformer Model"
+    },
+    {
+        "Date": "4\/18",
+        "Topic": "Paper",
+        "Speaker": "蔡明達",
+        "Title": "Physica: Interactive Tangible Physics Simulation based on Tabletop Mobile Robots Towards Explorable Physics Education"
+    },
+    {
+        "Date": "4\/18",
+        "Topic": "Abstract",
+        "Speaker": "Marcell",
+        "Title": "1. IMAGE SIMILARITY USING DYNAMIC TIME WARPING OF FRACTAL FEATURES 2. Real-Time Musical Applications using FFT-based Resynthesis  3. Pitching Motion Matching Based on Pose Similarity Using Dynamic Time Warping  4. Harmonium and Piano frequencies 5. Automatic Evaluation of Karaoke Singing Based on Pitch, Volume, and Rhythm Features"
+    },
+    {
+        "Date": "4\/11",
+        "Topic": "Paper",
+        "Speaker": "x",
+        "Title": "林伯慎老師實驗室"
+    },
+    {
+        "Date": "4\/11",
+        "Topic": "Abstract",
+        "Speaker": "x",
+        "Title": "林伯慎老師實驗室"
+    },
+    {
+        "Date": "4\/4",
+        "Topic": "Paper",
+        "Speaker": "X",
+        "Title": "清明節"
+    },
+    {
+        "Date": "4\/4",
+        "Topic": "Abstract",
+        "Speaker": "X",
+        "Title": "清明節"
+    },
+    {
+        "Date": "3\/28",
+        "Topic": "Paper",
+        "Speaker": "江柏宏",
+        "Title": "Poolimmersion: A Realistic Physically-Based Billiards Simulation"
+    },
+    {
+        "Date": "3\/28",
+        "Topic": "Abstract",
+        "Speaker": "蔡明達",
+        "Title": "1. CULTIVATING VISUALIZATION LITERACY FOR CHILDREN THROUGH CURIOSITY AND PLAY  2. VR Haptics at Home: Repurposing Everyday Objects and Environment for Casual and On-Demand VR Haptic Experiences  3. Augmented Math: Authoring AR-Based Explorable Explanations by Augmenting Static Math Textbooks  4. Sketched Reality: Sketching Bi-Directional Interactions Between Virtual and Physical Worlds with AR and Actuated Tangible UI  5. Xs: Interactive Scissor Mechanisms as Portable and Customizable Shape-Changing Interfaces"
+    },
+    {
+        "Date": "3\/21",
+        "Topic": "Paper",
+        "Speaker": "胡恩維",
+        "Title": "Collection Space Navigator: An Interactive Visualization Interface for Multidimensional Datasets"
+    },
+    {
+        "Date": "3\/21",
+        "Topic": "Abstract",
+        "Speaker": "江柏宏",
+        "Title": "1. Dynamic Modeling Based on Fuzzy Neural Network for a Billiard Robot  2. Billiards: an optimization challenge  3. Bill-EVR: An Embodied Virtual Reality Framework for Reward-and-Error-Based Motor Rehab-Learning  4. Billiards Detection and Tracking Technology Based on Artificial Intelligence Algorithm  5. Poolimmersion: A Realistic Physically-Based Billiards Simulation"
+    },
+    {
+        "Date": "3\/14",
+        "Topic": "Paper",
+        "Speaker": "Summer",
+        "Title": "HumanNeRF:Free-viewpoint Rendering of Moving People from Monocular Video"
+    },
+    {
+        "Date": "3\/14",
+        "Topic": "Abstract",
+        "Speaker": "胡恩維",
+        "Title": "1. Cross-domain Sound Recognition for Efficient Underwater Data Analysis  2. Analysis of Crime Data Visualization and Clustering: PCA + K-Means vs. Feature Extraction  3. Principal Component Analysis Visualization and State Discovery with Soil Data  4. Visualization of Topic Transitions in SNSs Using Document Embedding and Dimensionality Reduction  5. Collection Space Navigator: An Interactive Visualization Interface for Multidimensional Datasets"
+    },
+    {
+        "Date": "3\/7",
+        "Topic": "Paper",
+        "Speaker": "Jenny",
+        "Title": "Image Cropping under Design Constraints"
+    },
+    {
+        "Date": "3\/7",
+        "Topic": "Abstract",
+        "Speaker": "Summer",
+        "Title": "1. InstanceDiffusion: Instance-level Control for Image Generation  2. Vision Transformer for NeRF-Based View Synthesis from a Single Input Image  3. You Can Run but not Hide: Improving Gait Recognition with Intrinsic Occlusion Type Awareness  4. One-Shot Synthesis of Images and Segmentation Masks  5. HumanNeRF:Free-viewpoint Rendering of Moving People from Monocular Video"
+    },
+    {
+        "Date": "2\/29",
+        "Topic": "Paper",
+        "Speaker": "王怡淳",
+        "Title": "CLIP-Decoder : ZeroShot Multilabel Classification using Multimodal CLIP Aligned Representations"
+    },
+    {
+        "Date": "2\/29",
+        "Topic": "Abstract",
+        "Speaker": "Jenny",
+        "Title": "1. Good View Hunting: Learning Photo Composition from Dense View Pairs  2. Deep learning for video‐based automated pain recognition in rabbits  3. CatFLW: Cat Facial Landmarks in the Wild Dataset 4. AnyFace: A Data-Centric Approach For Input-Agnostic Face Detection 5. Image Cropping under Design Constraints"
+    },
+    {
+        "Date": "2\/22",
+        "Topic": "Paper",
+        "Speaker": "Molion",
+        "Title": "Road User Position and Speed Estimation via Deep Learning from Calibrated Fisheye Videos"
+    },
+    {
+        "Date": "2\/22",
+        "Topic": "Abstract",
+        "Speaker": "王怡淳",
+        "Title": "1. Efficient Segment-Anything Model for Automatic Mask Region Extraction in Livestock Monitoring  2. Exploiting Monocular Depth Estimation for Style Harmonization in Landscape Painting  3. Investigation on Object Detection models for plant disease detection framework  4. Multiclass Support Vector Machine based Plant Leaf Diseases Identification from Color, Texture and Shape Features  5. CLIP-Decoder : ZeroShot Multilabel Classification using Multimodal CLIP Aligned Representations"
+    },
+    {
+        "Date": "2\/15",
+        "Topic": "Paper",
+        "Speaker": "x",
+        "Title": "新年"
+    },
+    {
+        "Date": "2\/15",
+        "Topic": "Abstract",
+        "Speaker": "x",
+        "Title": ""
+    },
+    {
+        "Date": "2\/8",
+        "Topic": "Paper",
+        "Speaker": "吳家霖",
+        "Title": "PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment"
+    },
+    {
+        "Date": "2\/8",
+        "Topic": "Abstract",
+        "Speaker": "Molion",
+        "Title": "1. Explainable Multimodal Emotion Reasoning (arXiv, June 2023)  2. Multimodal Emotion Recognition via Convolutional Neural Networks: Comparison of different strategies on two multimodal datasets  3. Deep learning-based vehicle speed estimation using the YOLO detector and 1D-CNN  4. FARSEC: A Reproducible Framework for Automatic Real-Time Vehicle Speed Estimation Using Traffic Cameras  5. Road User Position and Speed Estimation via Deep Learning from Calibrated Fisheye Videos"
+    },
+    {
+        "Date": "2\/1",
+        "Topic": "Paper",
+        "Speaker": "x",
+        "Title": "林伯慎老師實驗室"
+    },
+    {
+        "Date": "2\/1",
+        "Topic": "Abstract",
+        "Speaker": "x",
+        "Title": "林伯慎老師實驗室"
+    },
+    {
+        "Date": "1\/25",
+        "Topic": "Paper",
+        "Speaker": "葉三吉",
+        "Title": "Design of OpenPose-Based of Exercise Assistant System with Instructor-User Synchronization for Self-Practice Dynamic Yoga"
+    },
+    {
+        "Date": "1\/25",
+        "Topic": "Abstract",
+        "Speaker": "吳家霖",
+        "Title": "1. FakeCatcher: Detection of Synthetic Portrait Videos using Biological Signals  2. Where Do Deep Fakes Look? Synthetic Face Detection via Gaze Tracking  3. Hiera: A Hierarchical Vision Transformer without the Bells-and-Whistles  4. Seeing is not always believing: Benchmarking Human and Model Perception of AI-Generated Images  5. PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment"
+    },
+    {
+        "Date": "1\/18",
+        "Topic": "Paper",
+        "Speaker": "Nigus",
+        "Title": "Improving the Accuracy of Lane Detection by Enhancing the Long-Range Dependence"
+    },
+    {
+        "Date": "1\/18",
+        "Topic": "Abstract",
+        "Speaker": "葉三吉",
+        "Title": "1.An OpenPose-Based Exercise and Performance Learning Assistant Design for Self-Practice Yoga 2.Deep Learning-Based Yoga Posture Recognition Using the Y_PN-MSSD Model for Yoga Practitioners 3.Real-time Yoga recognition using deep learning 4.INFINITY YOGA TUTOR : YOGA POSTURE DETECTION AND CORRECTION SYSTEM  5.Design of OpenPose-Based of Exercise Assistant System with Instructor-User Synchronization for Self-Practice Dynamic Yoga"
+    },
+    {
+        "Date": "1\/11",
+        "Topic": "Paper",
+        "Speaker": "Ferdinan",
+        "Title": "Line Segment Matching Fusing Local Gradient Order and Non-Local Structure Information"
+    },
+    {
+        "Date": "1\/11",
+        "Topic": "Abstract",
+        "Speaker": "Nigus",
+        "Title": "1. Lane Line Detection Based on Dynamic ROI and Adaptive Thresholding Segmentation  2. Conditional Convolutions for Instance Segmentation  3. Ultra Fast Structure-aware Deep Lane Detection  4. End-to-End Lane Marker Detection via Row-wise Classification  5. Improving the Accuracy of Lane Detection by Enhancing the Long-Range Dependence"
+    },
+    {
+        "Date": "1\/4",
+        "Topic": "Paper",
+        "Speaker": "Jason",
+        "Title": "1. Color Constancy by Deep Learning  2. FC4: Fully Convolutional Color Constancy with Conﬁdence-weighted Pooling  3. Guiding the Illumination Estimation Using the Attention Mechanism  4. Approaching the Computational Color Constancy as a Classification Problem through Deep Learning  5. One-net: Convolutional color constancy simplified"
+    },
+    {
+        "Date": "1\/4",
+        "Topic": "Abstract",
+        "Speaker": "Ferdinan",
+        "Title": "- An Enhanced Image Matching Strategy Using Binary-Stream Feature Descriptors  - Line Segment Matching: A Benchmark  - LINE SEGMENT MATCHING ALGORITHM BASED ON FEATURE GROUPING AND LBD DESCRIPTOR  - Line detection via a lightweight CNN with a Hough Layer  - Line Segment Matching Fusing Local Gradient Order and Non-Local Structure Information"
+    }
+]

@@ -1,0 +1,518 @@
+[
+    {
+        "year": "2012",
+        "day": "Monday",
+        "classroom": "MA316",
+        "time": "13:30-15:30"
+    },
+    {
+        "Date": "12\/28",
+        "Topic": "Paper",
+        "Speaker": "君豪",
+        "Title": "ZAME: Interactive Large-Scale Graph Visualization (PacificVIS 2008)"
+    },
+    {
+        "Date": "12\/28",
+        "Topic": "Abstract",
+        "Speaker": "冠中",
+        "Title": "Social behavior recognition in continuous video(CVPR 2012) Application-Oriented License Plate Recognition(IEEE Transaction and vehicle 2012) Practical Temporal Consistency for Image-Based Graphics Applications(SIGGRAPH 2012) Printing Reflectance Functions(SIGGRAPH 2012) Multiscale Vector Volumes(SIGGRAPH ASIA 2011)"
+    },
+    {
+        "Date": "12\/21",
+        "Topic": "Math",
+        "Speaker": "老師",
+        "Title": ""
+    },
+    {
+        "Date": "12\/14",
+        "Topic": "Paper",
+        "Speaker": "元棓",
+        "Title": "Stitch Meshes for Modeling Knitted Clothing with Yarn-level Detail (SIGGRAPH 2012)"
+    },
+    {
+        "Date": "12\/14",
+        "Topic": "Abstract",
+        "Speaker": "君豪",
+        "Title": "The Development of Process-Printed Munsell Charts for Selecting Map Colors (The American Cartographer 1989) ColorBrewer.org: An Online Tool for Selecting Colour Schemes for Maps (The Cartographic Journal 2003) Generating Color Palettes using Intuitive Parameters (Computer Graphics Forum 2008) ZAME: Interactive Large-Scale Graph Visualization (PacificVIS 2008) Adaptive Composite Map Projections (infoVIS 2012)"
+    },
+    {
+        "Date": "12\/7",
+        "Topic": "Paper",
+        "Speaker": "柏安",
+        "Title": "SD Models: Super-Deformed Character Models (PG2012)"
+    },
+    {
+        "Date": "12\/7",
+        "Topic": "Abstract",
+        "Speaker": "元棓",
+        "Title": "Technoculture of Handcraft_Fine Gesture Recognition for Haute Couture Skills Preservation and Transfer in Italy (SIGGRAPH 2012) Stitch Meshes for Modeling Knitted Clothing with Yarn-level Detail (SIGGRAPH 2012) Computer Generated Celtic Design (EGRW 2003) Virtual Interrupted Suturing Exercise with the Endo Stitch Suturing Device (ISVC 2011) Haptic Exploration of Mathematical Knots (ISVC 2007)"
+    },
+    {
+        "Date": "11\/30",
+        "Topic": "Paper",
+        "Speaker": "亞婷",
+        "Title": "Contextual Image Search(ACM Multimedia 2011)ACM international conference on Multimedia"
+    },
+    {
+        "Date": "11\/30",
+        "Topic": "Abstract",
+        "Speaker": "柏安",
+        "Title": "Variational Mesh Decomposition (SIGGRAPH 2012) SD Models: Super-Deformed Character Models (PG2012) Semi-supervised Mesh Segmentation and Labeling (PG2012) Mesh segmentation using feature point and core extraction (PG2005) Mesh Colorization (EUROGRAPHICS 2012)"
+    },
+    {
+        "Date": "11\/23",
+        "Topic": "Paper",
+        "Speaker": "芊妤",
+        "Title": "Retrieval and Visualization of Human Motion Data via Stick Figures (PG2012)"
+    },
+    {
+        "Date": "11\/23",
+        "Topic": "Abstract",
+        "Speaker": "亞婷",
+        "Title": "Contextual Image Search(ACM Multimedia 2011)ACM international conference on Multimedia YouPivot: Improving Recall with Contextual Search(SIGCHI 2011) Context Sensitive Paraphrasing with a Single Unsupervised Classifier(ECML2007) Hierarchical summarization for delivering information to mobile devices(SIGIR 2007) A Maximum Entropy Web Recommendation System:Combining Collaborative and Content Features(SIGKDD 2005)"
+    },
+    {
+        "Date": "11\/16",
+        "Topic": "Paper",
+        "Speaker": "昱宏",
+        "Title": "3D collage: expressive non-realistic modeling (NPAR 2007)"
+    },
+    {
+        "Date": "11\/16",
+        "Topic": "Abstract",
+        "Speaker": "芊妤",
+        "Title": "Black is Green: Adaptive Color Transformation For Redused Ink Usage(Eurographics 2012) A Multi-Layered Display with Water Drops(Siggraph 2010) Single-View Hair Modeling for Portrait Manipulation(siggraph 2012) Retrieval and Visualization of Human Motion Data via Stick Figures (PG2012) Depixelizing Pixel Art (SIGGRAPH 2011)"
+    },
+    {
+        "Date": "11\/9",
+        "Topic": "Paper",
+        "Speaker": "幸卿",
+        "Title": "Efficient multi-resolution histogram matching for fast image\/video retrieval(Pattern Recognition Letters 29 (2008) 1858–1867)"
+    },
+    {
+        "Date": "11\/9",
+        "Topic": "Abstract",
+        "Speaker": "幸卿",
+        "Title": "Efficient multi-resolution histogram matching for fast image\/video retrieval(Pattern Recognition Letters 29 (2008) 1858–1867) A Survey on Visual Content-Based Video Indexing and Retrieval(IEEE TRANSACTIONS ON SYSTEMS, MAN, AND CYBERNETICS—PART C: APPLICATIONS AND REVIEWS) Chinese University of Hong Kong at TRECVID 2006: Shot Boundary Detection and Video Search(TRECVID 2006) A Fast Multiresolution Feature Matching Algorithm for Exhaustive Search in Large Image Databases(IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY) Efficient matching of large-size histograms(Pattern Recognition Letters 25 (2004) 277–286)"
+    },
+    {
+        "Date": "11\/2",
+        "Topic": "N.A.",
+        "Speaker": "無",
+        "Title": "暫停"
+    },
+    {
+        "Date": "10\/26",
+        "Topic": "Paper",
+        "Speaker": "沅壕",
+        "Title": "Abnormal Crowd Behavior Detection using Social Force Model (CVPR 2009)"
+    },
+    {
+        "Date": "10\/26",
+        "Topic": "Abstract",
+        "Speaker": "昱宏",
+        "Title": "3D collage: expressive non-realistic modeling (NPAR 2007) 3D Polyomino Puzzle SIGGRAPH (ASIA 2009) Artistic Tessellations Growing Curves NPAR (2011) Making burr puzzles from 3D models SIGGRAPH (2011) Digital Micrography SIGGRAPH (2011)"
+    },
+    {
+        "Date": "10\/19",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "10\/12",
+        "Topic": "Paper",
+        "Speaker": "冠中",
+        "Title": "Make it Home: Automatic Optimization of Furniture Arrangement (SIGGRAPH 2011)"
+    },
+    {
+        "Date": "10\/12",
+        "Topic": "Abstract",
+        "Speaker": "沅壕",
+        "Title": "Trajectory Matching and Classification of Video Moving Objects (Multimedia Signal Processing, 2005 IEEE) Abnormal Behavior Detection via Sparse Reconstruction Analysis of Trajectory (ICIG 2011) Abnormal Crowd Behavior Detection using Social Force Model (CVPR 2009) Abnormal Crowd Behavior Detection Based on the Energy Model (ICIA 2011) Multi Feature Path Modeling for Video Surveillance (ICPR 2004)"
+    },
+    {
+        "Date": "10\/5",
+        "Topic": "N.A.",
+        "Speaker": "無",
+        "Title": "暫停"
+    },
+    {
+        "Date": "9\/28",
+        "Topic": "Paper",
+        "Speaker": "君豪",
+        "Title": "Matrix Visualization (part 2)"
+    },
+    {
+        "Date": "9\/28",
+        "Topic": "Abstract",
+        "Speaker": "冠中",
+        "Title": "Push it Real: Perceiving Causality in Virtual Interactions (SIGGRAPH 2012) How Do Humans Sketch Objects? (SIGGRAPH 2012) Interactive Furniture Layout Using Interior Design Guidelines (SIGGRAPH 2011) Position-Correcting Tools for 2D Digital Fabrication (SIGGRAPH 2012) Make it Home: Automatic Optimization of Furniture Arrangement (SIGGRAPH 2011)"
+    },
+    {
+        "Date": "9\/21",
+        "Topic": "Paper",
+        "Speaker": "元棓",
+        "Title": "Sketching Complex Generalized Cylinder Spines (Computer Graphics International 2008)"
+    },
+    {
+        "Date": "9\/21",
+        "Topic": "Abstract",
+        "Speaker": "君豪",
+        "Title": "Matrix Visualization (part 1)"
+    },
+    {
+        "Date": "9\/17",
+        "Topic": "Math",
+        "Speaker": "老師",
+        "Title": "How to do research in Experimental Computer Systems Lab? http:\/\/www.ecsl.cs.sunysb.edu\/objectives.html"
+    },
+    {
+        "Date": "9\/10",
+        "Topic": "Paper",
+        "Speaker": "柏安",
+        "Title": "Centroidal Voronoi Tessellation of Line Segments and Graphs (Eurographics 2012)"
+    },
+    {
+        "Date": "9\/10",
+        "Topic": "Abstract",
+        "Speaker": "元棓",
+        "Title": "Apparent Layer Operations for the Manipulation of Deformable Objects (SIGGRAPH 2010) Knitting a 3D Model (Computer Graphics Forum 2008) Sketching Complex Generalized Cylinder Spines (Computer Graphics International 2008) Spatial Sketch: Bridging Between Movement & Fabrication (TEI 2010) Programmed design of ship forms (Computer-Aided Design 2012)"
+    },
+    {
+        "Date": "9\/3",
+        "Topic": "Paper",
+        "Speaker": "亞婷",
+        "Title": "AAM based Face Tracking with Temporal Matching and Face Segmentation (CVPR 2010)"
+    },
+    {
+        "Date": "9\/3",
+        "Topic": "Abstract",
+        "Speaker": "柏安",
+        "Title": "A Probabilistic Model for Component-Based Shape Synthesis (SIGGRAPH 2012) An Algebraic Model for Parameterized Shape Editing (SIGGRAPH 2012) Robust Modeling of Constant Mean Curvature Surfaces (SIGGRAPH 2012) Unsupervised Co-Segmentation of a Set of Shapes via Descriptor-Space Spectral Clustering (SIGGRAPH Asia 2011) Centroidal Voronoi Tessellation of Line Segments and Graphs (Eurographics 2012)"
+    },
+    {
+        "Date": "8\/28",
+        "Topic": "Paper",
+        "Speaker": "幸卿",
+        "Title": "What Makes Paris Look like Paris?( SIGGRAPH 2012)"
+    },
+    {
+        "Date": "8\/28",
+        "Topic": "Abstract",
+        "Speaker": "亞婷",
+        "Title": "fast motion deblurring (SGA 2009) Noise Brush: Interactive High Quality Image-Noise Separation (SGA 2009) Image and Video Abstraction by Anisotropic Kuwahara Filtering (PG 2009) AAM based Face Tracking with Temporal Matching and Face Segmentation (CVPR 2010) Inverse Texture Synthesis (SG 2008)"
+    },
+    {
+        "Date": "8\/20",
+        "Topic": "Paper",
+        "Speaker": "昱宏",
+        "Title": "Nonlinear Revision Control for Images (SigGraph 2011)"
+    },
+    {
+        "Date": "8\/20",
+        "Topic": "Abstract",
+        "Speaker": "幸卿",
+        "Title": "What Makes Paris Look like Paris?( SIGGRAPH 2012)  Videoscapes: Exploring Sparse, Unstructured Video Collections( SIGGRAPH 2012)  Interactive Images: Cuboid Proxies for Smart Image Manipulation( SIGGRAPH 2012)  Resolution Enhancement by Vibrating Displays(SIGGRAPH 2012)  Tailored Displays to Compensate for Visual Aberrations(SIGGRAPH 2012)"
+    },
+    {
+        "Date": "8\/13",
+        "Topic": "N.A.",
+        "Speaker": "無",
+        "Title": "暫停"
+    },
+    {
+        "Date": "8\/6",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "7\/30",
+        "Topic": "Paper",
+        "Speaker": "沅壕",
+        "Title": "Interactive Offline Tracking for Color Objects (ICCV2007)"
+    },
+    {
+        "Date": "7\/30",
+        "Topic": "Abstract",
+        "Speaker": "昱宏",
+        "Title": "Antialiasing Recovery (SigGraph 2011) Nonlinear Revision Control for Images (SigGraph 2011) High-quality Image Deblurring with Panchromatic Pixels (SigGraph 2012) Exposing Photo Manipulation with Inconsistent Reflections (SigGraph 2012) Bilinear Spatiotemporal Basis Models (SigGraph 2012)"
+    },
+    {
+        "Date": "7\/23",
+        "Topic": "Paper",
+        "Speaker": "君豪",
+        "Title": "Understanding Climate Change Patterns with Multivariate Geovisualization (IEEE on Data Mining Workshops 2009)"
+    },
+    {
+        "Date": "7\/23",
+        "Topic": "Abstract",
+        "Speaker": "沅壕",
+        "Title": "Interactive Offline Tracking for Color Objects (ICCV2007) Fast Image Search for Learned Metrics (CVPR2008) Image Matching via Saliency Region Correspondences (CVPR2007) Learning Visual Similarity Measures for Comparing Never Seen Objects (CVPR2007) Tracking Dynamic Near-regular Texture under Occlusion and Rapid Movements (CVPR2007)"
+    },
+    {
+        "Date": "7\/16",
+        "Topic": "Rehearsal",
+        "Speaker": "家伃 孟庭",
+        "Title": ""
+    },
+    {
+        "Date": "7\/9",
+        "Topic": "Paper",
+        "Speaker": "柏安",
+        "Title": "3D Material Style Transfer(Eurographics 2012)"
+    },
+    {
+        "Date": "7\/9",
+        "Topic": "Abstract",
+        "Speaker": "君豪",
+        "Title": "Understanding Climate Change Patterns with Multivariate Geovisualization (IEEE on Data Mining Workshops 2009) SEMANTIC VISUALIZATION AND NAVIGATION IN TEXTUAL CORPUS (IJIST 2012) DiffMatrix: Matrix-based Interactive Visualization for Comparing Temporal Trends (EuroVis 2012) Comparing Color and Leader Line Approaches for Highlighting in Geovisualization (GIScience 2010) Monitoring Large IP Spaces with ClockView (VizSec2011)"
+    },
+    {
+        "Date": "7\/2",
+        "Topic": "Paper",
+        "Speaker": "政杰",
+        "Title": "Seamless mosaicking of image-based texture maps(CVPR 2007)"
+    },
+    {
+        "Date": "7\/2",
+        "Topic": "Abstract",
+        "Speaker": "柏安",
+        "Title": "Sketch-Based Shape Retrieval (SIGGRAPH 2012) Pose-Oblivious Shape Signature (TVCG 2007) Symmetry Hierarchy of Man-Made Objects(Eurographics 2011) Efficient Geometrically Exact Continuous Collision Detection (SIGGRAPH 2012) 3D Material Style Transfer(Eurographics 2012)"
+    },
+    {
+        "Date": "6\/25",
+        "Topic": "Paper",
+        "Speaker": "幸卿",
+        "Title": "Tools for Placing Cuts and Transitions in Interview Video(SIGGRAPH 2012)"
+    },
+    {
+        "Date": "6\/25",
+        "Topic": "Abstract",
+        "Speaker": "幸卿",
+        "Title": "Tools for Placing Cuts and Transitions in Interview Video(SIGGRAPH 2012) Selectively De-Animating Video(SIGGRAPH 2012) Video Deblurring for Hand-held Cameras Using Patch-based Synthesis(SIGGRAPH 2012) Understanding and Improving the Realism of Image Composites(SIGGRAPH 2012) Eulerian Video Magnification for Revealing Subtle Changes in the World (SIGGRAPH 2012)"
+    },
+    {
+        "Date": "6\/18",
+        "Topic": "Paper",
+        "Speaker": "沅壕",
+        "Title": "Coupled Detection and Trajectory Estimation for Multi-Object Tracking (ICCV 2007)"
+    },
+    {
+        "Date": "6\/18",
+        "Topic": "Abstract",
+        "Speaker": "政杰",
+        "Title": "Seamless mosaicking of image-based texture maps(CVPR 2007) Smooth geometry images(Eurographics 2003) Displaced subdivision surfaces(Siggraph 2000) A comparison and evaluation of multi-view stereo reconstruction algorithms(CVPR 2006) Human Detection Using Depth Information by Kinect(CVPR 2011)"
+    },
+    {
+        "Date": "6\/11",
+        "Topic": "Paper",
+        "Speaker": "全部",
+        "Title": "報告研究相關進度"
+    },
+    {
+        "Date": "6\/4",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "5\/28",
+        "Topic": "Paper",
+        "Speaker": "家伃",
+        "Title": "Exchanging Faces in Images (EG 2004)"
+    },
+    {
+        "Date": "5\/28",
+        "Topic": "Abstract",
+        "Speaker": "沅壕",
+        "Title": "Background Subtraction and Shadow Detection in Grayscale Video Sequences (CGIP 2005) Coupled Detection and Trajectory Estimation for Multi-Object Tracking (ICCV 2007) GPU implementation of Extended Gaussian mixture model for Background subtraction (RIVF 2010) Improved Shadow Removal for Robust Person Tracking in Surveillance Scenarios (ICPR 2010) Moving object detection and tracking system (GRETSI 1997)"
+    },
+    {
+        "Date": "5\/21",
+        "Topic": "Paper",
+        "Speaker": "孟庭",
+        "Title": "Non-Iterative Approach for Fast and Accurate Vanishing Point etection(ICCV2009)"
+    },
+    {
+        "Date": "5\/21",
+        "Topic": "Abstract",
+        "Speaker": "家伃",
+        "Title": "Automatic Face Replacement in Vide o Based on 2D Morphable Model(IEEE 2010) ExchangingFacesinImages (EG 2004) Creating Picture Legends for Group Photos(EG 2012) HelpingHand: Example-based Stroke Stylization(SIG 2012) ReanimatingFacesinImagesandVideo(EG 2003)"
+    },
+    {
+        "Date": "5\/14",
+        "Topic": "Math",
+        "Speaker": "老師",
+        "Title": ""
+    },
+    {
+        "Date": "5\/7",
+        "Topic": "Paper",
+        "Speaker": "君豪",
+        "Title": "Interactive Visual Comparison of Multiple Trees (VAST 2011)"
+    },
+    {
+        "Date": "5\/7",
+        "Topic": "Abstract",
+        "Speaker": "孟庭",
+        "Title": "Visual Storylines: Semantic Visualization of Movie Sequence(CG2012) Non-Iterative Approach for Fast and Accurate Vanishing Point etection(ICCV2009) Procedural Interpolation of Historical City Maps(EG2012) Interactive Multi-perspective Imagery from Photos and Videos(EG2012) PoseShop: A Human Image Database and Personalized Content Synthesis(TVCG)"
+    },
+    {
+        "Date": "4\/30",
+        "Topic": "Paper",
+        "Speaker": "柏安",
+        "Title": "Characterizing Structural Relationships in Scenes Using Graph Kernels (SIGGRAPH 2011)"
+    },
+    {
+        "Date": "4\/30",
+        "Topic": "Abstract",
+        "Speaker": "君豪",
+        "Title": "D3: Data-Driven Documents (InfoVis 2011) DICON: Interactive Visual Analysis of Multidimensional Clusters (InfoVis 2011) Visualization of Large Data Sets: The Zoom Star Solution (The Electronic Journal of SYMBOLIC DATA ANALYSIS 2002) Network-based Visual Analysis of Tabular Data (VAST 2011) Interactive Visual Comparison of Multiple Trees (VAST 2011)"
+    },
+    {
+        "Date": "4\/23",
+        "Topic": "Paper",
+        "Speaker": "幸卿",
+        "Title": "Motion Denoising with Application to Time-lapse Photography (CVPR 2011)"
+    },
+    {
+        "Date": "4\/23",
+        "Topic": "Abstract",
+        "Speaker": "柏安",
+        "Title": "Visual Similarity based 3D Shape Retrieval Using Bag-of-Features (Shape Modeling and applications , SMI 2010) Characterizing Structural Relationships in Scenes Using Graph Kernels (SIGGRAPH 2011) Markov Random Fields for Improving 3D Mesh Analysis and Segmentation (Eurographics 2008 Workshop on 3D Object Retrieval,3DOR 2008) Part Analogies in Sets of Objects (Eurographics 2008 Workshop on 3D Object Retrieval,3DOR 2008) Shape Analysis with Subspace Symmetries (Eurographics 2010)"
+    },
+    {
+        "Date": "4\/16",
+        "Topic": "Paper",
+        "Speaker": "政杰 KinectFusion: Real-Time Dense Surface Mapping and Tracking (IEEE ISMAR 2011)",
+        "Title": ""
+    },
+    {
+        "Date": "4\/16",
+        "Topic": "Abstract",
+        "Speaker": "幸卿",
+        "Title": "Time-Constrained Keyframe Selection Technique (Multimedia Tools and Applications 2000) A Comparative Study of Image Retargeting (SIGGRAPHASIA2010) Robust Image Retargeting via Axis-Aligned Deformation (EUROGRAPHICS 2012) How Not Seen – Object Removal from Videos of Crowded Scenes (EUROGRAPHICS 2012) Motion Denoising with Application to Time-lapse Photography (CVPR 2011)"
+    },
+    {
+        "Date": "4\/9",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "4\/2",
+        "Topic": "Festival",
+        "Speaker": "放假",
+        "Title": ""
+    },
+    {
+        "Date": "3\/26",
+        "Topic": "Paper",
+        "Speaker": "沅壕",
+        "Title": "Learning color and locality cues for moving object detection and segmentation (CVPR2009)"
+    },
+    {
+        "Date": "3\/26",
+        "Topic": "Abstract",
+        "Speaker": "政杰",
+        "Title": "Efficient Simplification of Point-Sampled Surfaces (IEEE Visualization 2002) Efﬁcient Adaptive Simpliﬁcation of Massive Meshes (TVCG 2001) Efﬁcient Variants of the ICP Algorithm (3DIM 2001) KinectFusion: Real-Time Dense Surface Mapping and Tracking (IEEE ISMAR 2011)"
+    },
+    {
+        "Date": "3\/19",
+        "Topic": "Paper",
+        "Speaker": "家伃",
+        "Title": "Video Face Replacement (SIG ASIA 2011)"
+    },
+    {
+        "Date": "3\/19",
+        "Topic": "Abstract",
+        "Speaker": "沅壕",
+        "Title": "Learning color and locality cues for moving object detection and segmentation (CVPR2009)  Video object segmentation by motion-based sequential feature clustering (MM '06 The 14th ACM on Multimedia 2006)  Discovering the Thematic Object in Commercial Videos (IEEE, 2011)  BilVideo-7:An MPEG-7- Compatible Video Indexing and Retrieval System (Multimedia, IEEE 2010)  Motion Trajectory Matching of Video Objects (Storage and Retrieval for Media Databases 2000)"
+    },
+    {
+        "Date": "3\/12",
+        "Topic": "Paper",
+        "Speaker": "孟庭",
+        "Title": "Large-scale Privacy Protection in Google Street View ( ICCV 2009 )"
+    },
+    {
+        "Date": "3\/12",
+        "Topic": "Abstract",
+        "Speaker": "家伃",
+        "Title": "Video Face Replacement (SIG ASIA 2011) Data-Driven Object Manipulation in Images (EG 2012) Rendering Synthetic Objects into Legacy Photographs(SIG ASIA 2011) WordsEye:AnAutomaticText-to-SceneConversionSystem(SIG 2001) Computer-Generated Papercutting(PG 2007)"
+    },
+    {
+        "Date": "3\/5",
+        "Topic": "Paper",
+        "Speaker": "君豪",
+        "Title": "VisBricks: Multiform Visualization of Large, Inhomogeneous Data (InfoVis2011)"
+    },
+    {
+        "Date": "3\/5",
+        "Topic": "Abstract",
+        "Speaker": "孟庭",
+        "Title": "Large-scale Privacy Protection in Google Street View ( ICCV 2009 ) Removing pedestrians from Google Street View images (IWMV 2010 ) Self Lane Assignment Using Egocentric Smart Mobile Camera For Intelligent GPS Navigation ( CVPR 2009 ) Multiple View Semantic Segmentation for Street View Images ( ICCV 2009 ) Automatic Alignment and Multi-View Segmentation of Street View Data using 3D Shape Priors ( 3DPVT 2010 )"
+    },
+    {
+        "Date": "2\/27",
+        "Topic": "Festival",
+        "Speaker": "放假",
+        "Title": ""
+    },
+    {
+        "Date": "2\/20",
+        "Topic": "Math",
+        "Speaker": "老師",
+        "Title": ""
+    },
+    {
+        "Date": "2\/13",
+        "Topic": "Paper",
+        "Speaker": "嘉洋",
+        "Title": "Content-Aware Display Adaptation and Interactive Editing for Stereoscopic Images (SIGGRAPH 2011) Structure-aware error diffusion (SIGGRAPH Asia 2009) Structure-aware halftoning (SIGGRAPH 2008) A new stereo matching algorithm for binocular vision (ICHIT '09) Hiding depth map into stereo image in JPEG format using reversible watermarking (ICIMCS '11)"
+    },
+    {
+        "Date": "2\/13",
+        "Topic": "Abstract",
+        "Speaker": "君豪",
+        "Title": "VisBricks: Multiform Visualization of Large, Inhomogeneous Data (InfoVis2011) Developing and Evaluating Quilts for the Depiction of Large Layered Graphs (InfoVis2011) Asymmetric Relations in Longitudinal Social Networks (InfoVis2011) Exploring Uncertainty in Geodemographics with Interactive Graphics (InfoVis2011) A 3D Visualization of Multiple Time Series on Maps (IV2010)"
+    },
+    {
+        "Date": "2\/6",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "1\/30",
+        "Topic": "Festival",
+        "Speaker": "過年",
+        "Title": ""
+    },
+    {
+        "Date": "1\/23",
+        "Topic": "Festival",
+        "Speaker": "過年",
+        "Title": ""
+    },
+    {
+        "Date": "1\/16",
+        "Topic": "Paper",
+        "Speaker": "全部",
+        "Title": "報告研究相關進度"
+    },
+    {
+        "Date": "1\/9",
+        "Topic": "Rehearsal",
+        "Speaker": "柏諺",
+        "Title": ""
+    },
+    {
+        "Date": "1\/2",
+        "Topic": "Paper",
+        "Speaker": "柏安",
+        "Title": "3D Zernike Descriptors for Content Based Shape Retrieval (SMA 2003)"
+    }
+]

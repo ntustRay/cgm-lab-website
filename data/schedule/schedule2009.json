@@ -1,0 +1,542 @@
+[
+    {
+        "year": "2009",
+        "day": "Wenesday",
+        "classroom": "MA316",
+        "time": "13:30-15:30"
+    },
+    {
+        "Date": "12/29",
+        "Topic": "Paper",
+        "Speaker": "士賢",
+        "Title": "Markerless Monocular Motion Capture Using Image Features and Physical Constraints(CGI 2005)"
+    },
+    {
+        "Date": "12/29",
+        "Topic": "Abstract",
+        "Speaker": "彥秀",
+        "Title": "The Feng Shui of Virtual Environments [VRST'00]  A Visibility Algorithm for Converting 3D Meshes into Editable 2D Vector Graphics [SIGGRAPH'09] A Lightweight Approach for Augmented Reality on Camera Phones using 2D Images to Simulate 3D [MUM'07]  Customer-Focused System for Pre-sale Housing Customiaztion:A Hybrid Approach Combining Case-Based Reasoning and Feng-Shui Theory  Back-of-device Interaction allows creating very small touch devices [CHI'09]"
+    },
+    {
+        "Date": "12\/22",
+        "Topic": "Math",
+        "Speaker": "老師",
+        "Title": "老師授課"
+    },
+    {
+        "Date": "12\/15",
+        "Topic": "Paper",
+        "Speaker": "琬潔",
+        "Title": "Model-Based Hand Tracking with Texture, Shading and Self-occlusions"
+    },
+    {
+        "Date": "12\/15",
+        "Topic": "Abstract",
+        "Speaker": "士賢",
+        "Title": "Pfinder: Real-Time Tracking of the Human Body(PAMI 1997)  Articulated Body Motion Capture by Annealed Particle Filtering(CVPR 2000)  Markerless Monocular Motion Capture Using Image Features and Physical Constraints(CGI 2005)  A non-local algorithm for image denoising(CVPR 2005)  A Model-Based Articulated Humna Motion Tracking System(ACCV 2004)"
+    },
+    {
+        "Date": "12\/8",
+        "Topic": "Paper",
+        "Speaker": "美杏",
+        "Title": "Live Video Montage (Paci?c Graphics 2009)"
+    },
+    {
+        "Date": "12\/8",
+        "Topic": "Abstract",
+        "Speaker": "琬潔",
+        "Title": "3D Hand Pose Estimation by Finding Appearance-Based Matches in a Large Database of Training Views Real-Time Tracking of Multiple Skin-Colored Objects with a Possibly Moving Camera Model-Based Hand Tracking with Texture, Shading and Self-occlusions 3D Hand Tracking in a Stochastic Approximation Setting A Novel Color Region Homogenization and Its Application in Improving Skin Detection Accuracy"
+    },
+    {
+        "Date": "12\/1",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "11\/24",
+        "Topic": "Paper",
+        "Speaker": "佳甯",
+        "Title": "Robust real-time object detection(CVPR 2001)"
+    },
+    {
+        "Date": "11\/24",
+        "Topic": "Abstract",
+        "Speaker": "美杏",
+        "Title": "Live Video Montage (Paci?c Graphics 2009)  WordsEye: An Automatic Text-to-Scene Conversion System (Siggraph 2001)  Word2Image: Towards Visual Interpretation of Words (MM'2008)  RHYTHMIXEARCH: SEARCHING FOR UNKNOWN MUSIC BY MIXING KNOWN MUSIC (ISMIR 2009)  SONGEXPLORER: A TABLETOP APPLICATION FOR EXPLORING LARGE COLLECTIONS OF SONGS (ISMIR 2009)"
+    },
+    {
+        "Date": "11\/17",
+        "Topic": "Paper",
+        "Speaker": "幸卿",
+        "Title": "Motion-Aware Temporal Coherence for Video Resizing"
+    },
+    {
+        "Date": "11\/17",
+        "Topic": "Abstract",
+        "Speaker": "佳甯",
+        "Title": "Frequential and color analysis for hair mask segmentation(ICIP 2008)  Robust real-time object detection(CVPR 2001)  Detection and analysis of hair(PAMI 2006)  Image and video matting:a survey(2008)  a Geodesic framework for fast interactive image and video segmentation and matting(ICCV 2007)"
+    },
+    {
+        "Date": "11\/10",
+        "Topic": "Paper",
+        "Speaker": "錦芬",
+        "Title": "Mesh Quilting For Geometric Texture Synthesis (siggraph'06)"
+    },
+    {
+        "Date": "11\/10",
+        "Topic": "Abstract",
+        "Speaker": "幸卿",
+        "Title": "Texture Splicing (Pacific Graphics 2009)  Vectorizing Cartoon Animations ( TVCG 2009)  Sketch2Photo: Internet Image Montage  A Shape-Preserving Approach to Image Resizing( Pacific Graphics 2009)  Motion-Aware Temporal Coherence for Video Resizing( Pacific Graphics 2009)"
+    },
+    {
+        "Date": "11\/3",
+        "Topic": "Paper",
+        "Speaker": "家愷",
+        "Title": "CaseCluster:Visualization of Supreme Court Cases(University of Maryland, class CMSC 838S:Information Visualization )"
+    },
+    {
+        "Date": "11\/3",
+        "Topic": "Abstract",
+        "Speaker": "錦芬",
+        "Title": "Paper Craft Models from Meshes (PG'06)  Mesh Quilting For Geometric Texture Synthesis (siggraph'06))  Shell Maps(siggraph'05))  Simplification Envelopes(siggraph'96))  The Thin Shell Tetrahedral Mesh"
+    },
+    {
+        "Date": "10\/27",
+        "Topic": "Paper",
+        "Speaker": "雅軒",
+        "Title": "Automatic photo pop_up"
+    },
+    {
+        "Date": "10\/27",
+        "Topic": "Abstract",
+        "Speaker": "家愷",
+        "Title": "An Organic User Interface For Searching Citation Links(ACM CHI 95' computer human interaction) CiteSense: supporting sensemaking of research literature(ACM CHI 08' computer human interaction) BiblioViz: a system for visualizing bibliography information(Asia-Pacific Symposium on Information Visualisation 2006) Vispedia: Interactive Visual Exploration of Wikipedia Data via Search-Based Integration (IEEE Transactions on Visualization and Computer Graphics 2008) CaseCluster:Visualization of Supreme Court Cases(University of Maryland, class CMSC 838S:Information Visualization )"
+    },
+    {
+        "Date": "10\/20",
+        "Topic": "Paper",
+        "Speaker": "彥秀",
+        "Title": "Parallel Tracking and Mapping for Small AR Workspaces [ISMAR'07]"
+    },
+    {
+        "Date": "10\/20",
+        "Topic": "Abstract",
+        "Speaker": "雅軒",
+        "Title": "Dominant Texture and Diffusion Distance Manifolds  Automating joiners  Automatic photo pop_up  Real-Time Deformation and Fracture in a Game Environment  ModelingwithRenderingPrimitives:AnInteractiveNon-PhotorealisticCanvas"
+    },
+    {
+        "Date": "10\/13",
+        "Topic": "Paper",
+        "Speaker": "士賢",
+        "Title": "Lazy Snapping(Siggraph 2004)"
+    },
+    {
+        "Date": "10\/13",
+        "Topic": "Abstract",
+        "Speaker": "彥秀",
+        "Title": "An Object-Oriented 3D Graphics Toolkit  What virtual reality can offer to the furniture industry  A Feasibility Study of Augmented Reality Furniture Configuration design  Realtime and robust monocular SLAM using predictive multi-resolution descriptors [ISVC'06] Parallel Tracking and Mapping for Small AR Workspaces [ISMAR'07]"
+    },
+    {
+        "Date": "10\/6",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "9\/29",
+        "Topic": "Math",
+        "Speaker": "老師",
+        "Title": "老師授課"
+    },
+    {
+        "Date": "9\/22",
+        "Topic": "Paper",
+        "Speaker": "琬潔",
+        "Title": "Real-Time Hand-Tracking with a Color Glove(SIGGRAPH 2009)"
+    },
+    {
+        "Date": "9\/22",
+        "Topic": "Abstract",
+        "Speaker": "士賢",
+        "Title": "A Motion Capture System Using Passive Markers  Practical Motion Capture in Everyday Surroundings(Siggraph 2007)  Marker-less Deformable Mesh Tracking for Human Shape and Motion Capture(CVPR 2007)  Articulated Mesh Animation from Multi-view Silhouettes(Siggraph 2008)  Markerless Motion Capture with Unsynchronized Moving Cameras(CVPR 2009)"
+    },
+    {
+        "Date": "9\/15",
+        "Topic": "Paper",
+        "Speaker": "美杏",
+        "Title": "Photo Navigator (MM'08)"
+    },
+    {
+        "Date": "9\/15",
+        "Topic": "Abstract",
+        "Speaker": "琬潔",
+        "Title": "Bare-Hand 3D Gesture Input to Interactive Systems  3D HAND TRACKING BY RAPID STOCHASTIC GRADIENT DESCENT USING A SKINNING MODEL  Visual Panel: Virtual Mouse, Keyboard and 3D Controller with an Ordinary Piece of Paper(SIGGRAPH 2009)  Real-Time Hand-Tracking with a Color Glove(SIGGRAPH 2009)  3D-aware Image Editing for Out of Bounds Photography"
+    },
+    {
+        "Date": "9\/9",
+        "Topic": "Paper",
+        "Speaker": "佳甯",
+        "Title": "Normalized Cuts and Image Segmentation (IEEE Transactions on Pattern Analysis and Machine Intelligence 2000)"
+    },
+    {
+        "Date": "9\/9",
+        "Topic": "Abstract",
+        "Speaker": "美杏",
+        "Title": "Photo Navigator (MM'08)  Feeler:Emotion Classification of Text Using Vector Space Model (AISB 2008)  Affective-Driven Music Production:Selection and Transformation of Music (Internatioal Conference on Digital Arts'08)  Modelling affective-based music compositional intelligence with the aid of ANS analyses  Background Music Generation Using Music Texture Synthesis."
+    },
+    {
+        "Date": "9\/2",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "8\/26",
+        "Topic": "Paper",
+        "Speaker": "幸卿",
+        "Title": "Multi-operator Media Retargeting (SIGGRAPH 2009)"
+    },
+    {
+        "Date": "8\/26",
+        "Topic": "Abstract",
+        "Speaker": "佳甯",
+        "Title": "Principal Component Analysis (PCA) (2005)  Local Preserving Projection (LPP) (NIPS 2003)  Random Walks For Interactive Alpha-Matting (VIIP 2005)  A Closed-Form Solution to Natural Image Matting (CVPR 2006)  Spectral Matting (IEEE Transactions on Pattern Analysis and Machine Intelligence 2008)"
+    },
+    {
+        "Date": "8\/19",
+        "Topic": "Paper",
+        "Speaker": "錦芬",
+        "Title": "Variational Shape Approximation (Siggraph 04)"
+    },
+    {
+        "Date": "8\/19",
+        "Topic": "Abstract",
+        "Speaker": "幸卿",
+        "Title": "Summarizing Visual Data Using Bidirectional Similarity(CVCR2008)  PatchMatch: A Randomized Correspondence Algorithm for Structural Image Editing (SIGGRAPH 2009)  Dynamic programming algorithm optimization for spoken word recognition (IEEE Transactions on Acoustics,  Speech, and Signal Processing 1978 )  Multi-operator Media Retargeting (SIGGRAPH 2009)  Content-Preserving Warps for 3D Video Stabilization (SIGGRAPH 2009)"
+    },
+    {
+        "Date": "8\/12",
+        "Topic": "Paper",
+        "Speaker": "家愷",
+        "Title": "Visualization of Sanitized Email Logs for Spam Analysis"
+    },
+    {
+        "Date": "8\/12",
+        "Topic": "Abstract",
+        "Speaker": "錦芬",
+        "Title": "SkyFinder: Attribute-based Sky Image Search(siggraph 09)  Mesh Clustering by Approximating Centroidal Voronoi Tessellation(CGW2009)  Local Layering(Siggraph 09)  Capacity-Constrained Point Distributions: A Variant of Lloyd’s Method (Siggraph 09)  Variational Shape Approximation (Siggraph 04)"
+    },
+    {
+        "Date": "8\/5",
+        "Topic": "Paper",
+        "Speaker": "雅軒",
+        "Title": "Manga Colorization (Siggraph 2006)"
+    },
+    {
+        "Date": "8\/5",
+        "Topic": "Abstract",
+        "Speaker": "家愷",
+        "Title": "color design for illustrative visualization(IEEE Visualization Conference 2008)  A Visualization Methodology for Characterization of Network Scans(Workshop on Visualization for Computer Security (VizSEC 2005)  StarGate: A Unified, Interactive Visualization of Software Projects(PacificVis 2008)  Visualizing Social Interaction in Open Source Software Projects(APVIS 2007)  Image Graphs - A Novel Interface for Visual Data Exploration(Visualization '99 Conference)"
+    },
+    {
+        "Date": "7\/29",
+        "Topic": "Paper",
+        "Speaker": "彥秀",
+        "Title": "Weighted Voronoi stippling [NPAR '02]"
+    },
+    {
+        "Date": "7\/29",
+        "Topic": "Abstract",
+        "Speaker": "雅軒",
+        "Title": "Dual pohtography  Color harmonization  Manga Colorization  Automating Joiners  ArtisticThresholding  Cut-OutImageMosaics"
+    },
+    {
+        "Date": "7\/22",
+        "Topic": "Paper",
+        "Speaker": "士賢",
+        "Title": "Video Object Cut and Paste(SIGGRAPH 2005)"
+    },
+    {
+        "Date": "7\/22",
+        "Topic": "Abstract",
+        "Speaker": "彥秀",
+        "Title": "Locally Adapted Projections to Reduce Panorama Distortions [Eurographics Symposium on Rendering '09] As Rigid As Possible Image Registration for Hand drawn Cartoon Animations [NPAR'09] Coordinates for Instant Image Cloning [SIGGRAPH '09] Weighted Voronoi stippling [NPAR '02] Inferring Architectural Designs from Physical Sketches:Application to Daylighting Analysis [GI '09]"
+    },
+    {
+        "Date": "7\/15",
+        "Topic": "Reheasal",
+        "Speaker": "佑鈞",
+        "Title": ""
+    },
+    {
+        "Date": "7\/15",
+        "Topic": "Reheasal",
+        "Speaker": "昱志",
+        "Title": ""
+    },
+    {
+        "Date": "7\/8",
+        "Topic": "Math",
+        "Speaker": "老師",
+        "Title": "老師授課"
+    },
+    {
+        "Date": "7\/1",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "6\/24",
+        "Topic": "口試",
+        "Speaker": "家愷",
+        "Title": ""
+    },
+    {
+        "Date": "6\/24",
+        "Topic": "口試",
+        "Speaker": "青揚",
+        "Title": ""
+    },
+    {
+        "Date": "6\/17",
+        "Topic": "Reheasal",
+        "Speaker": "家愷",
+        "Title": ""
+    },
+    {
+        "Date": "6\/17",
+        "Topic": "Reheasal",
+        "Speaker": "青揚",
+        "Title": ""
+    },
+    {
+        "Date": "6\/10",
+        "Topic": "Paper",
+        "Speaker": "美杏",
+        "Title": "Character Animation from 2D Pictures and 3D Motion Data(TG 2007)"
+    },
+    {
+        "Date": "6\/10",
+        "Topic": "Abstract",
+        "Speaker": "士賢",
+        "Title": "Human Pose Estimation from Monocular Image Captures(ICME 2009)  Tai Chi: Traning for Physical Tasks in Virtual Environments(IEEE VR 09)  Video Object Cut and Paste(SIGGRAPH 2005)  Drag-and-Drop Pasting(SIGGRAPH 2006)  Paint Selection(SIGGRAPH 2009)"
+    },
+    {
+        "Date": "6\/3",
+        "Topic": "研討會",
+        "Speaker": "無",
+        "Title": "暫停一次(資安研討會)"
+    },
+    {
+        "Date": "5\/27",
+        "Topic": "演講",
+        "Speaker": "",
+        "Title": "馬教授演講 (與林伯慎老師實驗室Meeting)"
+    },
+    {
+        "Date": "5\/20",
+        "Topic": "Paper",
+        "Speaker": "琬潔",
+        "Title": "Schematic Storyboarding for Video Visualization and Editing(SIGGRAPH 2006)"
+    },
+    {
+        "Date": "5\/20",
+        "Topic": "Abstract",
+        "Speaker": "美杏",
+        "Title": "Character Animation from 2D Pictures and 3D Motion Data(TG 2007)  A Regression Approach to Music Emotion Recognition (IEEE TRANSACTIONS ON AUDIO, SPEECH, AND LANGUAGE PROCESSING 2008)  Music Emotion Classification A Fuzzy Approach(MM 2006)  Eye-gaze Tracking Research Based on Image Processing (CISP 2008)  Geometric clustering for line drawing simpli?cation(ESR 2005)"
+    },
+    {
+        "Date": "5\/13",
+        "Topic": "Paper",
+        "Speaker": "佳甯",
+        "Title": "Image-Guided Maze Construction (SIGGRAPH 2007)"
+    },
+    {
+        "Date": "5\/13",
+        "Topic": "Abstract",
+        "Speaker": "琬潔",
+        "Title": "Schematic Storyboarding for Video Visualization and Editing(SIGGRAPH 2006)  Stylized Vector Art from 3D Models with Region Support(Eurographics 2008)  Retargetting Motion to New Characters(SIGGRAPH 1998)  Video Puppetry: A Performative Interface for Cutout Animation(SIGGRAPH Asia 2008)  Automatic Natural Video Matting with Depth(PG 2007)"
+    },
+    {
+        "Date": "5\/6",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "4\/29",
+        "Topic": "Paper",
+        "Speaker": "昱志",
+        "Title": "Poisson Image Editing (SIGGRAPH 2003)"
+    },
+    {
+        "Date": "4\/29",
+        "Topic": "Abstract",
+        "Speaker": "佳甯",
+        "Title": "Image-Guided Maze Construction (SIGGRAPH 2007)  Image-based Tree Modeling (SIGGRAPH 2007)  Approximate Image-Based Tree-Modeling using Particle Flows (SIGGRAPH 2007)  Volumetric Reconstruction and Interactive Rendering of Trees from Photographs (SIGGRAPH 2004)  Alpha Estimation in Natural Images (IEEE Conference on Computer Vision and Pattern Recognition 2000)"
+    },
+    {
+        "Date": "4\/22",
+        "Topic": "Paper",
+        "Speaker": "幸卿",
+        "Title": "Adaptive Content-Aware Image Resizing (EUROGRAPHICS 2009)"
+    },
+    {
+        "Date": "4\/22",
+        "Topic": "Abstract",
+        "Speaker": "昱志",
+        "Title": "Bundling Features for Large Scale Partial-Duplicate Web Image Search  Single Image Haze Removal Using Dark Channel Prior  Robust Wide Baseline Stereo from Maximally Stable Extremal Regions  Scalable Near Identical Image and Shot Detection  Understanding Images of Groups of People"
+    },
+    {
+        "Date": "4\/15",
+        "Topic": "Paper",
+        "Speaker": "錦芬",
+        "Title": "Virtual woodwork: making toys from geometric models(IJSM03)"
+    },
+    {
+        "Date": "4\/15",
+        "Topic": "Abstract",
+        "Speaker": "幸卿",
+        "Title": "High-quality Motion Deblurring from a Single Image (SIGGRAPH 2008)  3D Dynamic Grouping For Guided Stylization (NPR 2008)  Adaptive Content-Aware Image Resizing (EUROGRAPHICS 2009)  Texture-Consistent Shadow Removal (ECCV 2008)  Discovering Panoramas in Web Videos (ACM Multimedia 2008)"
+    },
+    {
+        "Date": "4\/8",
+        "Topic": "Paper",
+        "Speaker": "家愷",
+        "Title": "Energy Aware Color Sets(EuroGraphics 2009)"
+    },
+    {
+        "Date": "4\/8",
+        "Topic": "Abstract",
+        "Speaker": "錦芬",
+        "Title": "Virtual woodwork: making toys from geometric models(IJSM03)  Automated generation of control skeletons for use in animation (Visual Computer02)  Laplacian Mesh Optimization(ACM GRAPHITE 2006)  Structure from silhouettes:a new paradigm for fast sketch-based design of trees(EG09)  Skeleton Extraction by Mesh Contraction(Siggraph2008)"
+    },
+    {
+        "Date": "4\/1",
+        "Topic": "Paper",
+        "Speaker": "青揚",
+        "Title": "STRUCTURE-Preserving Reshape for Textured Architectural Scenes(EG09)"
+    },
+    {
+        "Date": "4\/1",
+        "Topic": "Abstract",
+        "Speaker": "家愷",
+        "Title": "ShapePalettes: Interactive Normal Transfer via Sketching(SIGGRAPH 2007)  Context Aware Terrain Visualization for Wayfinding and Navigation(Computer Graphics Forum 2008)  Laughing Out Loud Control for modeling anatomically inspired laughter using audio(SIGGRAPH Asia 2008)  Energy Aware Color Sets(EuroGraphics 2009)  Resolving Tag Ambiguity(ACM Multimedia 2008)"
+    },
+    {
+        "Date": "3\/25",
+        "Topic": "Paper",
+        "Speaker": "雅軒",
+        "Title": "Compressive Dual Photography"
+    },
+    {
+        "Date": "3\/25",
+        "Topic": "Abstract",
+        "Speaker": "青揚",
+        "Title": "STRUCTURE-Preserving Reshape for Textured Architectural Scenes(EG09)  Complex Barycentric Coordinates with Applications to Planar Shape Deformation(EG09)  Fast High-Quality Line Visibility(I3D 2009)  Skinning Arbitrary Deformations(I3D 2007)  Direct Manipulation of Interactive Character Skins(I3D 2003)"
+    },
+    {
+        "Date": "3\/18",
+        "Topic": "Paper",
+        "Speaker": "彥秀",
+        "Title": "Marker Tracking and HMD Calibration for a Video-based Augmented Reality Conferencing System [IWAR 99]"
+    },
+    {
+        "Date": "3\/18",
+        "Topic": "Abstract",
+        "Speaker": "雅軒",
+        "Title": "Programmable Aperture Photography Multiplexed Light Field Acquisition  Compressive Dual Photography  Hierarchical Photon Mapping  Image-Based Modeling and Photo Editing  Modeling Anisotropic Surface Reflectance with Example-Based Microfacet Synthesis"
+    },
+    {
+        "Date": "3\/11",
+        "Topic": "Paper",
+        "Speaker": "佑鈞",
+        "Title": "Dynamic Label Placement for Improved Interactive Exploration (NPAR 2008)"
+    },
+    {
+        "Date": "3\/11",
+        "Topic": "Abstract",
+        "Speaker": "彥秀",
+        "Title": "Real World Teleconferencing [IEEE Computer Graphics and Applications] Marker Tracking and HMD Calibration for a Video-based Augmented Reality Conferencing System [IWAR 99] Virtual Object Manipulation on a Table-Top AR Environment [ISAR 2000] 3-D live real time interaction for mixed reality [CSCW 2002] Interactive Modelling and Tracking for Mixed and Augmented Reality [VRST'06]"
+    },
+    {
+        "Date": "3\/4",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "2\/25",
+        "Topic": "Paper",
+        "Speaker": "士賢",
+        "Title": "Perceptually Consistant Example-based Human Motion Retrieval(I3D 2009)"
+    },
+    {
+        "Date": "2\/25",
+        "Topic": "Abstract",
+        "Speaker": "佑鈞",
+        "Title": "Motion-Invariant Photography (SIGGRAPH 2008)  Order and Entropy in Picture Passwords (GI 2008)  An Intelligent System for Chinese Calligraphy (AAAI 2007)  Dynamic Label Placement for Improved Interactive Exploration (NPAR 2008)  Stroke Segmentation of Chinese Characters Using Markov Random Fields (ICPR 2006)"
+    },
+    {
+        "Date": "2\/18",
+        "Topic": "Math",
+        "Speaker": "老師",
+        "Title": "老師授課"
+    },
+    {
+        "Date": "2\/11",
+        "Topic": "Paper",
+        "Speaker": "昱志",
+        "Title": "Image Restoration using Multiresolution Texture Synthesis and Image Inpainting"
+    },
+    {
+        "Date": "2\/11",
+        "Topic": "Abstract",
+        "Speaker": "士賢",
+        "Title": "Dynamic Range Independent Image Quality Assessment(SIGGRAPH 2008)  3D Unsharp Masking for Scene Coherent Enhancement(SIGGRAPH 2008)  Action Synopsis: Pose Selection and Illustration(SIGGRAPH 2005)  Motion Cues for Illustration of Skeletal Motion Capture Data(NPAR 2007)  Perceptually Consistant Example-based Human Motion Retrieval(I3D 2009)"
+    },
+    {
+        "Date": "2\/4",
+        "Topic": "Festival",
+        "Speaker": "無",
+        "Title": "跪泥"
+    },
+    {
+        "Date": "1\/28",
+        "Topic": "Festival",
+        "Speaker": "無",
+        "Title": "跪泥"
+    },
+    {
+        "Date": "1\/21",
+        "Topic": "Paper",
+        "Speaker": "幸卿",
+        "Title": "An Improved Motion Detection Method for Real-Time Surveillance (IAENG 2008)"
+    },
+    {
+        "Date": "1\/21",
+        "Topic": "Abstract",
+        "Speaker": "昱志",
+        "Title": "More effective image matching with Scale Invariant Feature Transform  Automatic Stained Glass Rendering  Video enhancement using reference photographs  Image Restoration using Multiresolution Texture Synthesis and Image Inpainting  Extracting Depth and Matte using a Color-Filtered Aperture"
+    },
+    {
+        "Date": "1\/14",
+        "Topic": "Paper",
+        "Speaker": "家愷",
+        "Title": "Image Appearance Exploration by Model-Based Navigation"
+    },
+    {
+        "Date": "1\/14",
+        "Topic": "Abstract",
+        "Speaker": "幸卿",
+        "Title": "An Improved Motion Detection Method for Real-Time Surveillance (IAENG 2008)  Feature-aware texturing (EGSR 2006)  Motion Magnification (SIGGRAPH 2005)  Dynamic Solid Textures for Real-Time Coherent Stylization (I3D 2009)  LazyBrush: Flexible Painting Tool for Hand-drawn Cartoons (EG 2009)"
+    },
+    {
+        "Date": "1\/7",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    }
+]

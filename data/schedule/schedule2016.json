@@ -1,0 +1,536 @@
+[
+    {
+        "year": "2016",
+        "day": "Thursday",
+        "classroom": "MA314",
+        "time": "17:30-19:30"
+    },
+    {
+        "Date": "12\/29",
+        "Topic": "Paper",
+        "Speaker": "育林",
+        "Title": "Shadow Removal Using Intensity Surfaces and Texture Anchor Points(IEEE PAMI, 2011)"
+    },
+    {
+        "Date": "12\/29",
+        "Topic": "Abstract",
+        "Speaker": "怡欣",
+        "Title": "Video Stylization by Single Image Example(IEEE International Conference on Image Processing, 2010)  Paint By Numbers: Abstract Image Representations(SIGGRAPH,1990)  Exploring Visual and Motion Saliency forAutomatic Video Object Extraction(IEEE Trans Image Process, 2013)  Paint By Relaxation(Computer Graphics International, 2001)  Synthesis of Oil-Style Paintings(PSIVT, 2015)"
+    },
+    {
+        "Date": "12\/22",
+        "Topic": "Paper",
+        "Speaker": "Tias",
+        "Title": "Popular Music Representation : Chorus Detection & Emotion Recognition (MultimedIA Tools Appl (2014) 73:2103 – 2128 DOI 10.1007\/s11042-013-1687-2)"
+    },
+    {
+        "Date": "12\/22",
+        "Topic": "Abstract",
+        "Speaker": "育林",
+        "Title": "SLIC Superpixels(EPFL Technical Report, 2010)  Super Pixel Extraction via Convexity Induced Boundary Adaption (IEEE ICME, 2013)  BASS: Boundary-Aware Superpixel Segmentation(ICPR, 2016)  Soft bilateral filtering shadows using multiple image-based algorithms(Multimedia Tools and Applications, 2016)  Shadow Removal Using Intensity Surfaces and Texture Anchor Points(IEEE PAMI, 2011)"
+    },
+    {
+        "Date": "12\/15",
+        "Topic": "Paper",
+        "Speaker": "Lukman",
+        "Title": "Shape based approach for detecting Musa Species in fruit industry (2014, Sixth International Conference on Advanced Computing(ICoAC))"
+    },
+    {
+        "Date": "12\/15",
+        "Topic": "Abstract",
+        "Speaker": "Tias",
+        "Title": "A Java Framework For Data Sonification and 3D Graphic Rendering (SMC - Sound and music computing 2009)  Audio-Adaptive Animation from Still Image (M.L. Gavrilova et al. (Eds.): Trans. on Comput. Sci. XIX, LNCS 7870, pp. 48–62, 2013)  Popular Music Representation : Chorus Detection & Emotion Recognition (MultimedIA Tools Appl (2014) 73:2103 – 2128 DOI 10.1007\/s11042-013-1687-2)  Selectively De-animating Video (journal ACM Transactions on Graphics (TOG) - Proceedings of ACM SIGGRAPH 2012 TOG Homepage Volume 31 Issue 4, July 2012 )  I Know Where You Live: Inferring Details of People’s Lives by Visualizing Publicly Shared Location Data (CHI Conference on Human Factors in Computing Systems may 2016)"
+    },
+    {
+        "Date": "12\/8",
+        "Topic": "Paper",
+        "Speaker": "林捷",
+        "Title": "Flow-based Scatterplots for Sensitivity Analysis (Visual Analytics Science and Technology,2010)"
+    },
+    {
+        "Date": "12\/8",
+        "Topic": "Abstract",
+        "Speaker": "Lukman",
+        "Title": "Χ2 (Chi-Square) Based Shot Boundary Detection and Key Frame Extraction for Video (International Journal Of Engineering And Science January 2013)  A multi-level Video Annotation Tool based on XML-dictionaries (Proceeding MAMECTIS’08)  A 3D Image Reconstruction Model from Multiple Images (Procedia Engineering, 2011)  A fruit Recognition Method via Image Conversion Optimized Through Evolution Strategy (2014, 17th International Conference on Computational Science an Enginering)  Shape based approach for detecting Musa Species in fruit industry (2014, Sixth International Conference on Advanced Computing(ICoAC))"
+    },
+    {
+        "Date": "12\/1",
+        "Topic": "Paper",
+        "Speaker": "韻宇",
+        "Title": "TF-IDF Method in Ranking Keywords of Instagram Users'Image Captions (ICITSI 2015)"
+    },
+    {
+        "Date": "12\/1",
+        "Topic": "Abstract",
+        "Speaker": "林捷",
+        "Title": "Fast Interactive Visualization for Multivariate Data Exploration （Information Visualisation, 2009）  GMap: Visualizing Graphs and Clusters as Maps （IEEE Pacific Visualisation Symposium,2010）  Visualizing Dynamic Data with Maps (IEEE Transactions on Visualization and Computer Graphics,2012)  A Hybrid Space-Filling and Force-Directed Layout Method for Visualizing Multiple-Category Graphs (Visualization Symposium, 2009)  Flow-based Scatterplots for Sensitivity Analysis (Visual Analytics Science and Technology,2010)"
+    },
+    {
+        "Date": "11\/24",
+        "Topic": "Paper",
+        "Speaker": "御廷",
+        "Title": "Multi-view Face Detection Using Deep Convolutional Neural Networks (June 2015 ICMR '15: Proceedings of the 5th ACM on International Conference on Multimedia Retrieval)"
+    },
+    {
+        "Date": "11\/24",
+        "Topic": "Abstract",
+        "Speaker": "韻宇",
+        "Title": "VisualIDs:Automatic Distinctive Icons for Desktop Interfaces (SIGGRAPH 2004)  Music Icons: Procedural Glyphs for Audio Files (SIBGRAPI 2006)  Lyrics-based Automatic Music Image Generation Using Scene Knowledge for Music Browsing (ICCE 2012)  Lyricon:A Visual Music Selection Interface Featuring Multiple Icons (IV 2011)  TF-IDF Method in Ranking Keywords of Instagram Users'Image Captions (ICITSI 2015)"
+    },
+    {
+        "Date": "11\/17",
+        "Topic": "Paper",
+        "Speaker": "冠宇",
+        "Title": "GameFlow : Narrative Visualization of NBA Basketball Games(IEEE Transactions on Multimedia ( Volume: 18, Issue: 11, Nov. 2016 ))"
+    },
+    {
+        "Date": "11\/17",
+        "Topic": "Abstract",
+        "Speaker": "御廷",
+        "Title": "A Personalized Recommender System for Digital Libraries (October 2008 WebMedia '08: Proceedings of the 14th Brazilian Symposium on Multimedia and the Web)  CommOnCV- Modelling the Competencies Underlying a Curriculum Vitae (July 2002 SEKE '02: Proceedings of the 14th international conference on Software engineering and knowledge engineering)  Distance Perception in Virtual Environments- A Closer Look at the Horizon and the Error (September 2009 APGV '09: Proceedings of the 6th Symposium on Applied Perception in Graphics and Visualization)  Events, actors and interaction of hybrid entities in virtual reality (November 2005 GRAPHITE '05: Proceedings of the 3rd international conference on Computer graphics and interactive techniques in Australasia and South East Asia)  Tweeting about the Tsunami - Ming Twitter for Information on the Tohoku Earthquake and Tsunami (April 2012 WWW '12 Companion: Proceedings of the 21st International Conference on World Wide Web)"
+    },
+    {
+        "Date": "11\/10",
+        "Topic": "Paper",
+        "Speaker": "君豪",
+        "Title": "HadoopViz: A MapReduce Framework for Extensible Visualization of Big Spatial Data (IEEE Intl. Conf. on Data Engineering (ICDE). 2016)"
+    },
+    {
+        "Date": "11\/10",
+        "Topic": "Abstract",
+        "Speaker": "冠宇",
+        "Title": "Visual Characterization of Personal Bibliographic Data Using a Botanical Tree Design(IEEE VIS 2015 Workshop on Personal Visualization: Exploring Data in Everyday Life)  Comparative Study of Different Methods of Social Network Analysis and Visualization(2016 International Conference on Networking Systems and Security (NSysS)  Event Localization and Visualization in Social Network2015 IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)  A data Visualization for horizontal eye-movement(2015 2nd Asia-Pacific World Congress on Computer Science and Engineering (APWC on CSE))  GameFlow : Narrative Visualization of NBA Basketball Games(IEEE Transactions on Multimedia ( Volume: 18, Issue: 11, Nov. 2016 ))"
+    },
+    {
+        "Date": "11\/3",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "10\/27",
+        "Topic": "Math",
+        "Speaker": "無",
+        "Title": "老師"
+    },
+    {
+        "Date": "10\/20",
+        "Topic": "Paper",
+        "Speaker": "元棓",
+        "Title": "Generation of an Omnidirectional Video without Invisible Areas Using Image Inpainting (ACM ACCV 2009)"
+    },
+    {
+        "Date": "10\/20",
+        "Topic": "Abstract",
+        "Speaker": "君豪",
+        "Title": "ℓ-Diversity: Privacy Beyond k-Anonymity (TKDD 2007)  Hiding the presence of individuals from shared databases (ACM SIGMOD 2007)  MultiLayerMatrix: Visualizing Large Taxonomic Datasets (EuroVis 2016)  Privacy-Preserving Data Visualization using Parallel Coordinates (IS&T\/SPIE Electronic Imaging 2011)  HadoopViz: A MapReduce Framework for Extensible Visualization of Big Spatial Data (IEEE Intl. Conf. on Data Engineering (ICDE). 2016)"
+    },
+    {
+        "Date": "10\/13",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "暫停一次"
+    },
+    {
+        "Date": "10\/6",
+        "Topic": "Paper",
+        "Speaker": "傳聖",
+        "Title": "ASCII Art Synthesis from Natural Photographs(IEEE TVCG 2015)"
+    },
+    {
+        "Date": "10\/6",
+        "Topic": "Abstract",
+        "Speaker": "元棓",
+        "Title": "DeepStereo_Learning to Predict New Views from the World's Imagery (CVPR 2015)  First-person Hyper-lapse Videos (ACM SIGGRAPH 2014 & TOG 2014)  Sphere_Multi-Touch Interactions on a Spherical Display (ACM UIST 2008)  Image Completion using Planar Structure Guidance (ACM SIGGRAPH 2014 & TOG 2014)  Generation of an Omnidirectional Video without Invisible Areas Using Image Inpainting (ACM ACCV 2009)"
+    },
+    {
+        "Date": "9\/29",
+        "Topic": "Paper",
+        "Speaker": "Indah",
+        "Title": "Real-time face detection and phone-to-face distance measuring for speech recognition for multi-modal interface in mobile device, Multimedia Tools Application (2016)"
+    },
+    {
+        "Date": "9\/29",
+        "Topic": "Abstract",
+        "Speaker": "傳聖",
+        "Title": "Density-enhanced perceptual mosaic on GPU(COMPUTER ANIMATION AND VIRTUAL WORLDS 2016)  Pairwise Geometric Matching for Large-scale Object Retrieval(CVPR 2015)  Arcimboldo-like Collage Using Internet Images (ACM Proceedings of the 2011 SIGGRAPH Asia Conference 2011)  Image Mosaics with Irregular Tiling( Computer-Aided Design and Computer Graphics (CAD\/Graphics) 2011)  ASCII Art Synthesis from Natural Photographs(IEEE TVCG 2015)"
+    },
+    {
+        "Date": "9\/22",
+        "Topic": "Paper",
+        "Speaker": "致平",
+        "Title": "Real-time video copy detection based on Hadoop (2016 Sixth International Conference on Information Science and Technology (ICIST))"
+    },
+    {
+        "Date": "9\/22",
+        "Topic": "Abstract",
+        "Speaker": "Indah",
+        "Title": "Measurement of Displacement and Velocity of a Moving Object from Real Time Video, International journal of computer applications (2012)  Improving Segment Based Stereo Matching Using Surf Key Points, IEEE International Conference on Image Processing (2012)  A New Approach for Disparity Map Estimation from Stereo Image Sequences using Hybrid Segmentation Algorithm, International Journal of Modern Engineering Research (IJMER), 2012 Monocular parking slots and obstacles detection and tracking, IEEE Intelligent Vehicles Symposium (IV), 2016  Real-time face detection and phone-to-face distance measuring for speech recognition for multi-modal interface in mobile device, Multimedia Tools Application (2016)"
+    },
+    {
+        "Date": "9\/15",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "中秋節暫停一次"
+    },
+    {
+        "Date": "9\/8",
+        "Topic": "Paper",
+        "Speaker": "怡欣",
+        "Title": "Perceptually Inspired Real-time Artistic Style Transfer for Video Stream (Article in Journal of Real-Time Image Processing 2016)"
+    },
+    {
+        "Date": "9\/8",
+        "Topic": "Abstract",
+        "Speaker": "致平",
+        "Title": "A New Mobile Streaming System Base-On HTTP Live Streaming Protocol (Wireless Communications, Networking and Mobile Computing (WiCOM), 2011 7th International Conference)  Design and Implementation of a Real-Time Video Stream Analysis System Based on FFMPEG (Software Engineering (WCSE), 2013 Fourth World Congress)  HTTP Adaptive Streaming with Media Fragment URIs (Multimedia and Expo (ICME), 2011 IEEE International Conference)  Live Streaming with Content Centric Networking (2012 Third International Conference on Networking and Distributed Computing)  Real-time video copy detection based on Hadoop (2016 Sixth International Conference on Information Science and Technology (ICIST))"
+    },
+    {
+        "Date": "9\/1",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "8\/25",
+        "Topic": "Paper",
+        "Speaker": "育林",
+        "Title": "Learning to Remove Soft Shadows(ACM Transactions on Graphics 2015)"
+    },
+    {
+        "Date": "8\/25",
+        "Topic": "Abstract",
+        "Speaker": "怡欣",
+        "Title": "Video Motion Analysis for Landscape Image Abstraction(PlatCon 2016)  Cartoon Filter via Adaptive Abstraction (Journal of Visual Communication and Image Representation 2016)  Region-Based Line Field Design Using Harmonic Functions (2012 IEEE Transactions on Visualization and Computer Graphics)  Painterly rendering for video and interaction (NPAR'00)  Perceptually Inspired Real-time Artistic Style Transfer for Video Stream (Article in Journal of Real-Time Image Processing 2016)"
+    },
+    {
+        "Date": "8\/18",
+        "Topic": "Paper",
+        "Speaker": "君豪",
+        "Title": "MotionExplorer: Exploratory Search in Human Motion Capture Data Based on Hierarchical Aggregation (TVCG 2013)"
+    },
+    {
+        "Date": "8\/18",
+        "Topic": "Abstract",
+        "Speaker": "育林",
+        "Title": "Texture-Consistent Shadow Removal(ECCV 2008)  Single-Image Shadow Detection and Removal using Paired Regions (CVPR 2011)  Fast shadow removal using adaptive multi-scale illumination transfer(Computer Graphics Forum 2013)  Detecting ground shadows in outdoor consumer photogtaphs (ECCV 2010)  Learning to Remove Soft Shadows(ACM Transactions on Graphics 2015)"
+    },
+    {
+        "Date": "8\/11",
+        "Topic": "Math",
+        "Speaker": "無",
+        "Title": "老師"
+    },
+    {
+        "Date": "8\/4",
+        "Topic": "Paper",
+        "Speaker": "元棓",
+        "Title": "Background Estimation for a Single Omnidirectional Image Sequence Captured with a Moving Camera (Transactions on Computer Vision and Applications, 6, 2014)"
+    },
+    {
+        "Date": "8\/4",
+        "Topic": "Abstract",
+        "Speaker": "君豪",
+        "Title": "An Interactive Web Based Spatio-Temporal Visualization System (Advances in Visual Computing 2013)  MotionExplorer: Exploratory Search in Human Motion Capture Data Based on Hierarchical Aggregation (TVCG 2013)  Generalized Pythagoras Trees for Visualizing Hierarchies (IVAPP 2014)  Google+ Ripples: A Native Visualization of Information Flow (WWW 2013)  Visits: A Spatiotemporal Visualization of Location Histories (EuroVis 2013)"
+    },
+    {
+        "Date": "7\/28",
+        "Topic": "Paper",
+        "Speaker": "名嘉",
+        "Title": "Autocorrelation Descriptor for Efficient Co-Alignment of 3D Shape Collections, (EUROGRAPHICS 2016)"
+    },
+    {
+        "Date": "7\/28",
+        "Topic": "Abstract",
+        "Speaker": "元棓",
+        "Title": "Digital Privacy: Replacing Pedestrians from Google Street View Images (ICPR 2012)  Grip-Ball: A spherical multi-touch interface for interacting with virtual worlds (IEEE ICCE 2013)  Building a Campus Tour Platform of Integrating Google Maps API and Panorama Technology (Journal of Internet, 16(4), 2015)  Ensemble of Exemplar-SVMs for Object Detection and Beyond (IEEE ICCV 2011)  Background Estimation for a Single Omnidirectional Image Sequence Captured with a Moving Camera (Transactions on Computer Vision and Applications, 6, 2014)"
+    },
+    {
+        "Date": "7\/21",
+        "Topic": "Paper",
+        "Speaker": "傳聖",
+        "Title": "Texture-Aware ASCII Art Synthesis with Proportional Fonts (Non-Photorealistic Animation and Rendering 2015)"
+    },
+    {
+        "Date": "7\/21",
+        "Topic": "Abstract",
+        "Speaker": "名嘉",
+        "Title": "What makes a chair a chair?, (CVPR 2011)  Active Co-Analysis of a Set of Shape, (SIGGRAPH Asia 2012)  Learning Part-based Templates from Large Collections of 3D Shapes, (SIGGRAPH 2013)  Meta-representation of Shape Families, (SIGGRAPH 2014)  Autocorrelation Descriptor for Efficient Co-Alignment of 3D Shape Collections, (EUROGRAPHICS 2016)"
+    },
+    {
+        "Date": "7\/14",
+        "Topic": "Paper",
+        "Speaker": "致平",
+        "Title": "Chinese Web Text Outlier Mining Based on Domain Knowledge (2010 Second WRI Global Congress on Intelligent Systems (Volume:2 ))"
+    },
+    {
+        "Date": "7\/14",
+        "Topic": "Abstract",
+        "Speaker": "傳聖",
+        "Title": "Efficient Partial Shape Matching of Outer Contours (ACCV 2009) Abstract Art by Shape Classification (IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS 2013) Synthesizing Illumination Mosaics from Internet Photo-Collections (IEEE International Conference on Computer Vision 2015)  Accurate and Discernible Photocollages (Computational Aesthetics in Graphics, Visualization, and Imaging 2012)  Texture-Aware ASCII Art Synthesis with Proportional Fonts (Non-Photorealistic Animation and Rendering 2015)"
+    },
+    {
+        "Date": "7\/7",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "6\/30",
+        "Topic": "Paper",
+        "Speaker": "怡欣",
+        "Title": "Primary object discovery and segmentation in videos via graph-based transductive inference(CVIU,2015)"
+    },
+    {
+        "Date": "6\/30",
+        "Topic": "Abstract",
+        "Speaker": "致平",
+        "Title": "A multimedia document database model based on multilayered description supporting complex multimedia structural and semantic contents(Multimedia Modelling Conference, 2004. Proceedings. 10th International)  Complementing Travel Diary Surveys with Twitter Data: Application of Text Mining Techniques on Activity Location, Type and Time (2015 IEEE 18th International Conference on Intelligent Transportation Systems)  Design and Effects of Personal Visualizations (IEEE Computer Graphics and Applications (Volume:35 , Issue: 4 ))  Visualization in Media Big Data Analysis (Computer and Information Science (ICIS), 2015 IEEE\/ACIS 14th International Conference)  Chinese Web Text Outlier Mining Based on Domain Knowledge (2010 Second WRI Global Congress on Intelligent Systems (Volume:2 ))"
+    },
+    {
+        "Date": "6\/23",
+        "Topic": "Paper",
+        "Speaker": "Indah",
+        "Title": "Obstacle Detection Using Stereovision For Android-Based Mobile Devices (IEEE International Conference On Intelligent Computer Communication And Processing (Iccp), Romania, 2014 )"
+    },
+    {
+        "Date": "6\/23",
+        "Topic": "Abstract",
+        "Speaker": "怡欣",
+        "Title": "Fast Video Object Selection for Interactive Television(ICMCS,2006)  Detection of Features to Track Objects and Segmentation using GrabCut for Application in Marker-less Augmented Reality(VisionNet,2015)  Study on performance improvement of oil paint image filter algorithm using parallel pattern library(CCSEA,2014)  Real-time saliency-aware video abstraction(Journal The Visual Computer: International Journal of Computer Graphics,2009)  Primary object discovery and segmentation in videos via graph-based transductive inference(CVIU,2015)"
+    },
+    {
+        "Date": "6\/16",
+        "Topic": "Paper",
+        "Speaker": "修課",
+        "Title": "報告研究相關進度"
+    },
+    {
+        "Date": "6\/9",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "暫停一次"
+    },
+    {
+        "Date": "6\/2",
+        "Topic": "Paper",
+        "Speaker": "育林",
+        "Title": "User-Assisted Intrinsic Images(SIGGRAPH Asia, 2009)"
+    },
+    {
+        "Date": "6\/2",
+        "Topic": "Abstract",
+        "Speaker": "Indah",
+        "Title": "A Robust Epipolar Rectification Method Of Stereo Pairs (International Conference On Measuring Technology And Mechatronics Automation, China, 2010)  A Monocular Distance Estimation Method Used In Video Sequence(International Conference On Information And Automation, China, 2012)  The Solution Of Stereo Correspondence Problem Using Block Matching Algorithm In Stereo Vision Mobile Robot (Second International Conference On Computer Research And Development, 2010 )  A Comparion Of Low-Cost Monocular Vision Techniques For Pothole Distance Estimation (IEEE Symposium Series On Computational Intelligence,Cape Town, 2015)  Obstacle Detection Using Stereovision For Android-Based Mobile Devices (IEEE International Conference On Intelligent Computer Communication And Processing (Iccp), Romania, 2014 )"
+    },
+    {
+        "Date": "5\/26",
+        "Topic": "Paper",
+        "Speaker": "君豪",
+        "Title": "Odd Visualizer: Scalable Open Data De-identification Visualizer (WCSE 2016)"
+    },
+    {
+        "Date": "5\/26",
+        "Topic": "Abstract",
+        "Speaker": "育林",
+        "Title": "Appearance Harmonization for Single Image Shadow Removal(CVPR, 2016)  Visual Road Following Using Intrinsic Images(European Conference on Mobile Robots, 2015)  Intrinsic Image Extraction from a Single Image(Journal of Information Science and Engineering, 2009)  Intrinsic Colorization(SIGGRAPH Asia, 2008)  User-Assisted Intrinsic Images(SIGGRAPH Asia, 2009)"
+    },
+    {
+        "Date": "5\/19",
+        "Topic": "Paper",
+        "Speaker": "元棓",
+        "Title": "Color-Based Road Detection in Urban Traffic Scenes (IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS 2004)"
+    },
+    {
+        "Date": "5\/19",
+        "Topic": "Paper",
+        "Speaker": "君豪",
+        "Title": "Visualizing the Insider Threat: Challenges and tools for identifying malicious user activity (VIZSEC 2015)  Odd Visualizer: Scalable Open Data De-identification Visualizer (WCSE 2016)  Interactive Visual Co-Cluster Analysis of Bipartite Graphs (VGTC 2016)  Effective Visualization of File System Access-Control (VIZSEC 2008)  PERCIVAL: Proactive and rEactive attack and Response assessment for Cyber Incidents using Visual AnaLytics (VIZSEC 2015)"
+    },
+    {
+        "Date": "5\/12",
+        "Topic": "Paper",
+        "Speaker": "Richard",
+        "Title": "Hand Movement and Gestures Characterization Using Quaternion Dynamic Time Warping Technique, 2015 IEEE Sensors Journal"
+    },
+    {
+        "Date": "5\/12",
+        "Topic": "Abstract",
+        "Speaker": "元棓",
+        "Title": "First Person Omnidirectional Video_System Design and Implications for Immersive Experience (TVX 2015) InfoPhys: Direct Manipulation of Information Visualisation through a Force-Feedback Pointing Device (ACM TEI 2016)  PapARt: Interactive 3D graphics and multi-touch augmented paper for artistic creation (IEEE Symposium on 3D User Interfaces 2012)  Using a Tangible Versus a Multi-touch Graphical User Interface to Support Data Exploration at a Museum Exhibit (TEI 2015)  Color-Based Road Detection in Urban Traffic Scenes (IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS 2004)"
+    },
+    {
+        "Date": "5\/5",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "4\/28",
+        "Topic": "Math",
+        "Speaker": "無",
+        "Title": "老師"
+    },
+    {
+        "Date": "4\/21",
+        "Topic": "無",
+        "Speaker": "無",
+        "Title": "IEEE PacificVis 2016"
+    },
+    {
+        "Date": "4\/14",
+        "Topic": "Paper",
+        "Speaker": "Pu-teri",
+        "Title": "Combining Sketch and Tone for Pencil Drawing Production - NPAR '12 Proceedings of the Symposium on Non-Photorealistic Animation and Rendering 2012."
+    },
+    {
+        "Date": "4\/14",
+        "Topic": "Abstract",
+        "Speaker": "Richard",
+        "Title": "Exploiting Thread-Level Parallelism in Template-Based Gesture Recognition with Dynamic Time Warping, Proceedings of the 2nd international Workshop on Sensor-based Activity Recognition and Interaction 2015 Early Recognition and Prediction of Gestures, The 18th International Conference on Pattern Recognition (ICPR’06)  Human Action Recognition Using Dynamic Time Warping, 2011 International Conference on Electrical Engineering and Informatics  Body Gesture Validation Using Multi-dimensional Dynamic Time Warping on Kinect Data,2015 IEEE International Conference on Intelligent Computer Communication and Processing (ICCP)  Hand Movement and Gestures Characterization Using Quaternion Dynamic Time Warping Technique, 2015 IEEE Sensors Journal"
+    },
+    {
+        "Date": "4\/7",
+        "Topic": "Paper",
+        "Speaker": "Vi",
+        "Title": "Management System using Face Recognition ( International Journal of Computer Applications International Conference and Workshop on Emerging Trends in Technology (ICWET 2015) )"
+    },
+    {
+        "Date": "4\/7",
+        "Topic": "Abstract",
+        "Speaker": "Pu-teri",
+        "Title": "Autocomplete Hand-drawn Animations - ACM Transactions on Graphics 34(6), November 2015  Data-driven Color Manifolds - ACM Transactions on Graphics 34(2), February 2015  Painting by Feature : Texture Boundaries for Example-based Image Creation - ACM Transactions on Graphics 32(4), July 2013  How Do Human Sketch Objects? - ACM Transactions on Graphics 31(4), July 2012  Combining Sketch and Tone for Pencil Drawing Production - NPAR '12 Proceedings of the Symposium on Non-Photorealistic Animation and Rendering 2012."
+    },
+    {
+        "Date": "3\/31",
+        "Topic": "Paper",
+        "Speaker": "家瑜",
+        "Title": "Joint View Expansion and Filtering for Automultiscopic 3D Displays (ACM SIGGRAPH Asia 2013)"
+    },
+    {
+        "Date": "3\/31",
+        "Topic": "Abstract",
+        "Speaker": "Vi",
+        "Title": "Static Hand Gesture Recognition for Sign Language Alphabets using Edge Oriented Histogram and Multi Class SVM (International Journal of Computer Applications - 2013))  American sign language (ASL) recognition based on Houghtransform and neural networks (Expert Systems with Applications 32 -2007))  Real-Time 2D Hands Detection and Tracking for SignLanguage Recognition (Proc. of the 2013 8th International Conference on System of Systems Engineering, USA -2013))  Dynamic approach for real-time skin detection(International Conference of Mechatronics and Automation (ICMA) -2015) Automated Attendance)  Management System using Face Recognition ( International Journal of Computer Applications International Conference and Workshop on Emerging Trends in Technology (ICWET 2015) )"
+    },
+    {
+        "Date": "3\/24",
+        "Topic": "Paper",
+        "Speaker": "名嘉",
+        "Title": "Interaction Context (ICON) - Towards A Geometric Functionality Descriptor (SIGGRAPH 2015)"
+    },
+    {
+        "Date": "3\/24",
+        "Topic": "Abstract",
+        "Speaker": "家瑜",
+        "Title": "Probabilistic Correspondence Matching using Random Walk with Restart (BMVC 2012)  A Perceptual Model for Disparity (ACM SIGGRAPH 2011)  A Metric of Visual Comfort for Stereoscopic Motion (ACM SIGGRAPH Asia 2013)  Stereoscopic 3D Line Drawing (ACM SIGGRAPH 2013)  Joint View Expansion and Filtering for Automultiscopic 3D Displays (ACM SIGGRAPH Asia 2013)"
+    },
+    {
+        "Date": "3\/17",
+        "Topic": "Paper",
+        "Speaker": "Norma",
+        "Title": "Enhance Frame Rate for Real Time Eye Tracking Using Circular Hough Transform (IEEE LISAT 2013)"
+    },
+    {
+        "Date": "3\/17",
+        "Topic": "Abstract",
+        "Speaker": "名嘉",
+        "Title": "Shape Distribution (ACM Transactions on Graphics Volume 21 Issue 4 Oct 2002) Learning 3D Articulation And Deformation Using 2D Images (EUROGRAPHIC 2016) Shape Segmentation By Approximate Convexity Analysis (SIGGRAPH 2015) SHED - Shape Edit Distance For Fine-grained Shape Similarity (SIGGRAPH ASIA 2015) Interaction Context (ICON) - Towards A Geometric Functionality Descriptor (SIGGRAPH 2015)"
+    },
+    {
+        "Date": "3\/10",
+        "Topic": "Paper",
+        "Speaker": "傳聖",
+        "Title": "Fast Rendering of Image Mosaics and ASCII Art (Computer Graphics Forum, 2015)"
+    },
+    {
+        "Date": "3\/10",
+        "Topic": "Abstract",
+        "Speaker": "Norma",
+        "Title": "Face and Eye Detection in Images using Skin Color Segmentation and Circular Hough Transform (IEEE iCREATE 2014) Eye State Analysis Using Iris Detection Based on Circular Hough Transform (IEEE ICMCS 2011) Pupil Center Coordinates Detection Using the Circular Hough Transform (IEEE Spring Seminar on Electronics Technology 2015) Detection of Eyes by Circular Hough Transform and Histogram of Gradient (IEEE ICPR 2012) Enhance Frame Rate for Real Time Eye Tracking Using Circular Hough Transform (IEEE LISAT 2013)"
+    },
+    {
+        "Date": "3\/3",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "2\/25",
+        "Topic": "Paper",
+        "Speaker": "Indah",
+        "Title": "Sensing the Driving Environment with Smart Mobile Devices (IEEE International Conference on ICCP 2015)"
+    },
+    {
+        "Date": "2\/25",
+        "Topic": "Abstract",
+        "Speaker": "傳聖",
+        "Title": "Arty Shapes (Eurographics conference on Computational Aesthetics in Graphics, Visualization and Imaging 2008) PicWords: Generator and Viewer (IEEE International Conference on Circuit, Power and Computing Technologies [ICCPCT] 2015) An artistic photographic collage on a mobile device (Multimedia Tools and Applications 2014) A study on stackable mosaic generation for mobile devices (Multimedia Tools and Applications 2013) Fast Rendering of Image Mosaics and ASCII Art (Computer Graphics Forum, 2015)"
+    },
+    {
+        "Date": "2\/18",
+        "Topic": "Paper",
+        "Speaker": "致平",
+        "Title": "Sophisticated Image Encryption Using OpenCV (International Journal of Advanced Research in Computer Science and Software Engineering, January 2012)"
+    },
+    {
+        "Date": "2\/18",
+        "Topic": "Abstract",
+        "Speaker": "Indah",
+        "Title": "Stereo Vision Based Depth Estimation Algorithm in Uncalibrated Rectification (International Journal of Video & Image Processing & Network 2013) Stereo Vision Images Processing for Real-time Object Distance and Size Measurements (ICCCE 2012) Statistical Approach for Distance Estimation using Inverse Perspective Mapping on Embedded Platform (India Conference (INDICON), 2014 Annual IEEE) Measurement of Size and Distance of Objects Using Mobile Devices (IEEE International Conference on Signal-Image Technology & Internet-Based Systems 2013) Sensing the Driving Environment with Smart Mobile Devices (IEEE International Conference on ICCP 2015)"
+    },
+    {
+        "Date": "2\/11",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "暫停一次"
+    },
+    {
+        "Date": "2\/4",
+        "Topic": "Paper",
+        "Speaker": "怡欣",
+        "Title": "Video SnapCut: Robust Video Object Cutout Using Localized Classifiers(ACM SIGGRAPH,2009)"
+    },
+    {
+        "Date": "2\/4",
+        "Topic": "Abstract",
+        "Speaker": "致平",
+        "Title": "Data visualization - National University of Singapore Video Based Moving Object Tracking by Particle Filter (International Journal of Signal Processing, Image Processing and Pattern, March 2009) Computer Vision for Skin Cancer Diagnosis and Recognition using RBF and SOM (IJIP, 2015) Image Restoration using Inpainting (International Journal of Advance Research in Computer Science and Management Studies, January 2014) Sophisticated Image Encryption Using OpenCV (International Journal of Advanced Research in Computer Science and Software Engineering, January 2012)"
+    },
+    {
+        "Date": "1\/28",
+        "Topic": "Paper",
+        "Speaker": "育林",
+        "Title": "Intrinsic Images by Entropy Minimization (ECCV, 2004)"
+    },
+    {
+        "Date": "1\/28",
+        "Topic": "Abstract",
+        "Speaker": "怡欣",
+        "Title": "Video Tooning(SIGGRAPH,2004) SenseShapes: Using Statistical Geometry for Object Selection in a Multimodal Augmented Reality System(ISMAR,2003) Image Stylization by Oil Paint Filtering using Color Palettes(The Eurographics Association,2015) Image and Video Abstraction by Anisotropic Kuwahara Filtering(Pacific Graphics,2009) Video SnapCut: Robust Video Object Cutout Using Localized Classifiers(ACM SIGGRAPH,2009)"
+    },
+    {
+        "Date": "1\/21",
+        "Topic": "Paper",
+        "Speaker": "君豪",
+        "Title": "Orientation-Enhanced Parallel Coordinate Plots(infoVis 2015)"
+    },
+    {
+        "Date": "1\/21",
+        "Topic": "Abstract",
+        "Speaker": "育林",
+        "Title": "A shadow detection and removal from a single image using LAB color space (IJCSI, 2013) Automatic and accurate shadow detection using near-infrared information (Smart Computing Review, 2014) Detecting illumination in images (IEEE TPMI, 2013)  Shadow Detection and Removal Based on YCbCr Color Space (IEEE ICCV, 2007)  Intrinsic Images by Entropy Minimization (ECCV, 2004)"
+    },
+    {
+        "Date": "1\/14",
+        "Topic": "Paper",
+        "Speaker": "修課",
+        "Title": "報告研究相關進度"
+    },
+    {
+        "Date": "1\/7",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    }
+]

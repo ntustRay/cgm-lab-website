@@ -1,0 +1,518 @@
+[
+    {
+        "year": "2008",
+        "day": "Wenesday",
+        "classroom": "MA314",
+        "time": "10:00-12:00"
+    },
+    {
+        "Date": "12\/31",
+        "Topic": "Paper",
+        "Speaker": "錦芬",
+        "Title": "SIG08_AppProp: All-Pairs Appearance-Space Edit Propagation"
+    },
+    {
+        "Date": "12\/31",
+        "Topic": "Abstract",
+        "Speaker": "家愷",
+        "Title": "Clone Attack! Perception of Crowd Variety(Siggraph 2008)  Mr. Emo Music Retrieval in the Emotion Plane(ACM MULTIMEDIA 2008)  Multiscale Texture Synthesis(Siggraph 2008)  Symmetry Detection Using Line Features(Eurographics 2008)  Image Analysis and Synthesis of Skin Color Textures by Wavelet Transform  (IEEE Image Analysis and Interpretation 2006)"
+    },
+    {
+        "Date": "12\/24",
+        "Topic": "Paper",
+        "Speaker": "青揚",
+        "Title": "PG06_SnapPaste: An Interactive Technique for Easy Mesh Composition"
+    },
+    {
+        "Date": "12\/24",
+        "Topic": "Abstract",
+        "Speaker": "錦芬",
+        "Title": "SIG06_Geometric Modeling with Conical Meshes and Developable Surfaces  SIG03_Hierarchical Mesh Decomposition using Fuzzy Clustering and Cuts  SIG08_AppProp: All-Pairs Appearance-Space Edit Propagation  A Fast Depth-Buffer-Based Voxelization Algorithm  Eg08-Efficient and Dynamic Simplification of Line Drawings"
+    },
+    {
+        "Date": "12\/17",
+        "Topic": "Paper",
+        "Speaker": "雅軒",
+        "Title": "Esthetics-based Quantitative Analysis of Photo Composition"
+    },
+    {
+        "Date": "12\/17",
+        "Topic": "Abstract",
+        "Speaker": "青揚",
+        "Title": "SIG08_Interactive Visual Editing of Grammars for Procedural Architecture  SIG08_Image-based Facade Modeling  PG06_SnapPaste: An Interactive Technique for Easy Mesh Composition  EG04_SMARTPAPER: An Interactive and User Friendly Sketching System  EG05_A Sketch-Based Interface for Iterative Design and Analysis of 3D Objects"
+    },
+    {
+        "Date": "12\/10",
+        "Topic": "Paper",
+        "Speaker": "彥秀",
+        "Title": "Magic Canvas: Interactive Design of a 3-D Scene Prototype from Freehand Sketches(GI 2007)"
+    },
+    {
+        "Date": "12\/10",
+        "Topic": "Abstract",
+        "Speaker": "雅軒",
+        "Title": "AutoCollage  Esthetics-based Quantitative Analysis of Photo Composition  Cat Head Detection - How to Effectively Exploit Shape  Defocus Magnification  Two-scale Tone Management for Photographic Look"
+    },
+    {
+        "Date": "12\/3",
+        "Topic": "Paper",
+        "Speaker": "佑鈞",
+        "Title": "(MMC 2008) Emotion-based Music Visualization using Photos"
+    },
+    {
+        "Date": "12\/3",
+        "Topic": "Abstract",
+        "Speaker": "彥秀",
+        "Title": "Interactive Animation of Shadow(ACE 2007)  Is That a Smile? Gaze-Dependent Facial Expressions(NPAR 2007)  Multi-scale Stroke-based Rendering by Evolutionary Algorithm  Learning Visual Similarity Measures for Comparing Never Seen Objects(CVPR 2007)  Magic Canvas: Interactive Design of a 3-D Scene Prototype from Freehand Sketches(GI 2007)"
+    },
+    {
+        "Date": "11\/26",
+        "Topic": "Paper",
+        "Speaker": "士賢",
+        "Title": "Inverse Texture Synthesis(Siggraph 2008)"
+    },
+    {
+        "Date": "11\/26",
+        "Topic": "Abstract",
+        "Speaker": "佑鈞",
+        "Title": "(GRAPP 2006) CINEMA COMICS : Cartoon Generation From Video Stream (IJCSNS 2006) Simplification of Raster Images to Extract Visual Information (MMC 2008) Emotion-based Music Visualization using Photos (SIGGRAPH Asia 2008) Depicting Procedural Caustics in Single Images (SIGGRAPH Asia 2008) Interactive Normal Reconstruction from a Single Image"
+    },
+    {
+        "Date": "11\/19",
+        "Topic": "Math",
+        "Speaker": "老師",
+        "Title": "老師授課"
+    },
+    {
+        "Date": "11\/12",
+        "Topic": "Paper",
+        "Speaker": "昱志",
+        "Title": "Fast Image\/Video Upsampling"
+    },
+    {
+        "Date": "11\/12",
+        "Topic": "Abstract",
+        "Speaker": "士賢",
+        "Title": "Wang Tiles for Image and Texture Generation(Siggraph 2003)  Texture Optimization for Example-based Synthesis(Siggraph 2005)  Inverse Texture Synthesis(Siggraph 2008)  Automated Generation of Interactive 3D Exploded View Diagrams(Siggraph 2008)  Factoring Repeated Content Within and Among Images(Siggraph 2008)"
+    },
+    {
+        "Date": "11\/5",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "10\/29",
+        "Topic": "Paper",
+        "Speaker": "幸卿",
+        "Title": "Optimized Scale-and-Stretch for Image Resizing"
+    },
+    {
+        "Date": "10\/29",
+        "Topic": "Abstract",
+        "Speaker": "昱志",
+        "Title": "Fast Image\/Video Upsampling  Automatic Facsimile of Chinese CalligraphicWritings  Re-coloring Images for Gamuts of Lower Dimension 2D Video Editing for 3D Effects  Example based painting generation"
+    },
+    {
+        "Date": "10\/22",
+        "Topic": "Paper",
+        "Speaker": "錦芬",
+        "Title": "Making Papercraft Toys from Meshes using Strip-based Approximate Unfolding -SIG04"
+    },
+    {
+        "Date": "10\/22",
+        "Topic": "Abstract",
+        "Speaker": "幸卿",
+        "Title": "Richness-Preserving Manga Screening  Optimized Scale-and-Stretch for Image Resizing  Shrinkability Maps for Content-Aware Video Resizing  Non-homogeneous Resizing of Complex Models  Space-time Surface Reconstruction Using Incompressible Flow"
+    },
+    {
+        "Date": "10\/15",
+        "Topic": "Paper",
+        "Speaker": "家愷",
+        "Title": "Continuous Model Synthesis(Siggraph Asia 2008)"
+    },
+    {
+        "Date": "10\/15",
+        "Topic": "Abstract",
+        "Speaker": "錦芬",
+        "Title": "Real-Time Gradient-Domain Painting -Siggraph2008  A Multiphase Approach to Efficient Surface Simplification -IEEE Visualization2002  Curved Folding -Siggraph2008  Knitting a 3D Model -Pacific Craphics2008  Making Papercraft Toys from Meshes using Strip-based Approximate Unfolding -SIG04"
+    },
+    {
+        "Date": "10\/8",
+        "Topic": "Others",
+        "Speaker": "無",
+        "Title": "老師參加Pacific Graphics"
+    },
+    {
+        "Date": "10\/1",
+        "Topic": "Paper",
+        "Speaker": "青揚",
+        "Title": "SIG04_Modeling by Example"
+    },
+    {
+        "Date": "10\/1",
+        "Topic": "Abstract",
+        "Speaker": "家愷",
+        "Title": "Enhancing Color Representation for the Color Vision Deficient(CVGIP 2008)  Continuous Model Synthesis(Siggraph Asia 2008)  Intrinsic Colorization(Siggraph Asia 2008)  Deep Photo: Model-Based Photograph Enhancement and Viewing(Siggraph Asia 2008)  Animating Animal Motion from Still(Siggraph Asia 2008)"
+    },
+    {
+        "Date": "9\/24",
+        "Topic": "Others",
+        "Speaker": "無",
+        "Title": "預計資訊視覺化國際研討會 International Workshop on Information Visualization"
+    },
+    {
+        "Date": "9\/17",
+        "Topic": "Paper",
+        "Speaker": "雅軒",
+        "Title": "Interactive Digital Photomontage"
+    },
+    {
+        "Date": "9\/17",
+        "Topic": "Abstract",
+        "Speaker": "青揚",
+        "Title": "I3D01_Shape by example  SIG02_Cut-and-Paste Editing of Multiresolution Surfaces  CGI08_Automatic_Feature_Preservation_Remeshing  SIG08_Perception of Complex Aggregates  SIG08_A Perceptually Validated Model for Surface Depth Hallucination"
+    },
+    {
+        "Date": "9\/10",
+        "Topic": "Paper",
+        "Speaker": "彥秀",
+        "Title": "Poisson Matting"
+    },
+    {
+        "Date": "9\/10",
+        "Topic": "Abstract",
+        "Speaker": "雅軒",
+        "Title": "Graphcut Textures Image and Video Synthesis Using Graph Cuts  Image Super-resolution using Gradient Profile Prior. CVPR 2008  Animating Pictures with Stochastic Motion Textures  Automatic Photo Pop-up  Interactive Digital Photomontage"
+    },
+    {
+        "Date": "9\/3",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "8\/27",
+        "Topic": "Paper",
+        "Speaker": "佑鈞",
+        "Title": "Semi-Automatic Stencil Creation through Error Minimization (NPAR 2008)"
+    },
+    {
+        "Date": "8\/27",
+        "Topic": "Abstract",
+        "Speaker": "彥秀",
+        "Title": "Lazy Snapping Poisson Matting GrabCut-Interactive Foreground Extraction using Iterated Graph Cuts 3-D model-based tracking of humans in action:a multi-view approach Skeleton-Based Motion Capture for Robust Reconstruction of Human Motion"
+    },
+    {
+        "Date": "8\/20",
+        "Topic": "Paper",
+        "Speaker": "家愷",
+        "Title": "Image Completion with Structure Propagation"
+    },
+    {
+        "Date": "8\/20",
+        "Topic": "Abstract",
+        "Speaker": "佑鈞",
+        "Title": "A Run-Based Two-Scan Labeling Algorithm (IP 2008) Virtual Programming with Bare-Hand-Based Interaction (ICMA 2005) Hand Tracking and Gesture Recognition for Human-Computer Interaction (CVIA 2005) Partial Visibility for Stylized Lines (NPAR 2008) Semi-Automatic Stencil Creation through Error Minimization (NPAR 2008)"
+    },
+    {
+        "Date": "8\/13",
+        "Topic": "Paper",
+        "Speaker": "昱志",
+        "Title": "Example-based Multiple Local Color Transfer by Strokes"
+    },
+    {
+        "Date": "8\/13",
+        "Topic": "Abstract",
+        "Speaker": "家愷",
+        "Title": "A Hidden-picture Puzzles Generator  A Virtual Painting knife  Colorization Using Optimization  Word2Image: Towards Visual Interpreting of Words The Shadow meets the Mask : Pyramid-based shadow removal"
+    },
+    {
+        "Date": "8\/6",
+        "Topic": "Paper",
+        "Speaker": "幸卿",
+        "Title": "Light Mixture Estimation for Spatially Varying White Balance"
+    },
+    {
+        "Date": "8\/6",
+        "Topic": "Abstract",
+        "Speaker": "昱志",
+        "Title": "Example-based Multiple Local Color Transfer by Strokes  Capturing Intention-based Full-Frame Video Stabilization  Shape-simplifying Image Abstraction  Finding Paths through the World’s Photos  Artistic Thresholding"
+    },
+    {
+        "Date": "7\/30",
+        "Topic": "Math",
+        "Speaker": "老師",
+        "Title": "老師授課"
+    },
+    {
+        "Date": "7\/23",
+        "Topic": "CGW",
+        "Speaker": "無",
+        "Title": "前往CGW參加研討會"
+    },
+    {
+        "Date": "7\/16",
+        "Topic": "Paper",
+        "Speaker": "錦芬",
+        "Title": "Plushie: An Interactive Design System for Plush Toys -sig2007"
+    },
+    {
+        "Date": "7\/16",
+        "Topic": "Abstract",
+        "Speaker": "幸卿",
+        "Title": "Lazy Solid Texture Synthesis  cribbleBoost: Adding Classification to Edge-Aware Interpolation of Local Image and Video Adjustments  Edge-Preserving Decompositions for Multi-Scale Tone and Detail Manipulation  A Perception-based Color Space for Illumination-invariant Image Processing  Light Mixture Estimation for Spatially Varying White Balance"
+    },
+    {
+        "Date": "7\/9",
+        "Topic": "Paper",
+        "Speaker": "士賢",
+        "Title": "Automatic Caricature Generation by Analyzing Facial Features(ACCV 2004)"
+    },
+    {
+        "Date": "7\/9",
+        "Topic": "Abstract",
+        "Speaker": "錦芬",
+        "Title": "Re-Tiling Polygonal Surfaces -sig1992  Surface Simplification Using Quadric Error Metrics -sig1997  Teddy: A Sketching Interface for 3D Freeform Design -sig1999  Plushie: An Interactive Design System for Plush Toys -sig2007  Diffusion Curves: A Vector Representation for Smooth-Shaded Images -sig2008"
+    },
+    {
+        "Date": "7\/2",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "6\/25",
+        "Topic": "Rehearsal",
+        "Speaker": "美蒓",
+        "Title": "基於內容的影片大小調整系統Content-Aware Video Resizing"
+    },
+    {
+        "Date": "6\/18",
+        "Topic": "Paper",
+        "Speaker": "青揚",
+        "Title": "SIG08_Interactive Procedural Street Modeling"
+    },
+    {
+        "Date": "6\/18",
+        "Topic": "Abstract",
+        "Speaker": "士賢",
+        "Title": "Example-based Facial Sketch Generation with Non-parametric Sampling(ICCV 2001)  Automatic Caricature Generation by Analyzing Facial Features(ACCV 2004)  Generation of 3D Caricature by Fusing Caricature Iamges(IEEE SMC 2006)  Feature-guided Image Stippling(EGSR 2008)  Face Swapping: Automatically Replacing Faces in Photographs(SIGGRAPH 2008)"
+    },
+    {
+        "Date": "6\/11",
+        "Topic": "Paper",
+        "Speaker": "佑鈞",
+        "Title": "Single Image Dehazing (SIGGRAPH 2008)"
+    },
+    {
+        "Date": "6\/11",
+        "Topic": "Abstract",
+        "Speaker": "青揚",
+        "Title": "建築風格演進之研究分享"
+    },
+    {
+        "Date": "6\/4",
+        "Topic": "Paper",
+        "Speaker": "士賢",
+        "Title": "Upright Orientation of Man-Made Objects(SIGGRAPH 2008)"
+    },
+    {
+        "Date": "6\/4",
+        "Topic": "Abstract",
+        "Speaker": "佑鈞",
+        "Title": "Single Image Dehazing (SIGGRAPH 2008)  Data-Driven Enhancement of Facial Attractiveness (SIGGRAPH 2008)  Vision-based human-computer interface using hand gesture (WIAMIS 2007)  Bare-Hand Human-Computer Interaction (ACM WPUI 2001)  Visual Tracking of Bare Fingers for Interactive Surface (UIST 2004)"
+    },
+    {
+        "Date": "5\/28",
+        "Topic": "Rehearsal",
+        "Speaker": "興東",
+        "Title": "自動人臉辨視整容系統"
+    },
+    {
+        "Date": "5\/21",
+        "Topic": "Math",
+        "Speaker": "老師",
+        "Title": "老師授課"
+    },
+    {
+        "Date": "5\/14",
+        "Topic": "Paper",
+        "Speaker": "昱志",
+        "Title": "Improved Seam Carving for Video Retargeting (SIGGRAPH 2008)"
+    },
+    {
+        "Date": "5\/14",
+        "Topic": "Abstract",
+        "Speaker": "士賢",
+        "Title": "Automatic Generation of Tourist Maps(SIGGRAPH 2008)  Where Do People Draw Lines.(SIGGRAPH 2008)  Lapped Solid Textures Filling a Model with Anisotropic Textures(SIGGRAPH 2008)  Interactive Simulation of Stylized Human Locomotion(SIGGRAPH 2008)  Upright Orientation of Man-Made Objects(SIGGRAPH 2008)"
+    },
+    {
+        "Date": "5\/7",
+        "Topic": "Paper",
+        "Speaker": "美蒓",
+        "Title": "Video Retargeting: Automating Pan and Scan"
+    },
+    {
+        "Date": "5\/7",
+        "Topic": "Abstract",
+        "Speaker": "昱志",
+        "Title": "Improved Seam Carving for Video Retargeting (SIGGRAPH 2008)  Structure-Aware Halftoning (SIGGRAPH 2008)  Progressive Inter-scale and Intra-scale Non-blind Image Deconvolution (SIGGRAPH 2008)  Self-Animating Images: Illusory Motion Using Repeated Asymmetric Patterns (SIGGRAPH 2008)  Cut-Out Image Mosaics (NPAR 2008)"
+    },
+    {
+        "Date": "4\/30",
+        "Topic": "Paper",
+        "Speaker": "幸卿",
+        "Title": "Non-homogeneous Content-driven Video-retargeting"
+    },
+    {
+        "Date": "4\/30",
+        "Topic": "Abstract",
+        "Speaker": "美蒓",
+        "Title": "Automatic Thumbnail Cropping and its Effectiveness  Automatic image retargeting with fisheye-view warping  Automatic Image Retargeting  DIP-IT Digital Infrared Painting on an Interactive Table  Highly Stylized Animation"
+    },
+    {
+        "Date": "4\/23",
+        "Topic": "Paper",
+        "Speaker": "興東",
+        "Title": "Extracting eyebrowcontour and chin contour for face recognition"
+    },
+    {
+        "Date": "4\/23",
+        "Topic": "Abstract",
+        "Speaker": "幸卿",
+        "Title": "Video Retargeting: Automating Pan and Scan  Seamless Image Stitching by Minimizing False Edges  Asynchronous Cloth Simulation  Context-Aware Textures  High Dynamic Range Image Hallucination"
+    },
+    {
+        "Date": "4\/9",
+        "Topic": "Paper",
+        "Speaker": "青揚",
+        "Title": "SG06_procedural modeling of buildings"
+    },
+    {
+        "Date": "4\/9",
+        "Topic": "Abstract",
+        "Speaker": "家愷",
+        "Title": "A Morphable Model For The Synthesis Of 3D Faces Reanimating Faces in Images and Video  Automated Animation in Photographs and Paintings  Creating Face Models from Vague Mental Images  Color Sketch Generation"
+    },
+    {
+        "Date": "4\/2",
+        "Topic": "Paper",
+        "Speaker": "佑鈞",
+        "Title": "Videl Relighting Using Infrared Illumination (EUROGRAPHICS2008)"
+    },
+    {
+        "Date": "4\/2",
+        "Topic": "Abstract",
+        "Speaker": "青揚",
+        "Title": "EG08_Real-time rendering and editing of vector-based terrains  EG08_An Adaptive Contact Model for the Robust Simulation of Knots  SG06_procedural modeling of buildings  I3D 2008_Real-Time Approximate Sorting for Self Shadowing and Transparency in Hair Rendering  I3D 2008_Interactive multiple anisotropic scattering in clouds"
+    },
+    {
+        "Date": "3\/26",
+        "Topic": "Paper",
+        "Speaker": "士賢",
+        "Title": "Isophote Distance A Shading Approach to Artistic Stroke Thickness(NPAR 2007)"
+    },
+    {
+        "Date": "3\/26",
+        "Topic": "Abstract",
+        "Speaker": "佑鈞",
+        "Title": "Video Relighting Using Infrared Illumination (EUROGRAPHICS2008)  Texture Synthesis From Photographs(EUROGRAPHICS2008)  Sketching and Composing Widgets for 3D Manipulation(EUROGRAPHICS2008)  Image-based Shaving(EUROGRAPHICS2008)  Deep Opacity maps(EUROGRAPHICS2008)"
+    },
+    {
+        "Date": "3\/19",
+        "Topic": "Math",
+        "Speaker": "老師",
+        "Title": "老師授課"
+    },
+    {
+        "Date": "3\/12",
+        "Topic": "Paper",
+        "Speaker": "昱志",
+        "Title": "Video Carving (EUROGRAPHICS 2008)"
+    },
+    {
+        "Date": "3\/12",
+        "Topic": "Abstract",
+        "Speaker": "士賢",
+        "Title": "Felt-Based Rendering(NPAR 2006)  Efficient Multi-viewpoint Acquisition of 3D Objects(I3D 2007)  Flow Simulation with Locally-Refined LBM(I3D 2007)  Isophote Distance A Shading Approach to Artistic Stroke Thickness(NPAR 2007)  Real-Time Procedural Volumetric(I3D 2007)"
+    },
+    {
+        "Date": "3\/5",
+        "Topic": "Paper",
+        "Speaker": "美蒓",
+        "Title": "Motion-based Video Representation for Scene Change Detection (2000 ICPR)"
+    },
+    {
+        "Date": "3\/5",
+        "Topic": "Abstract",
+        "Speaker": "昱志",
+        "Title": "Image-based Material Weathering (EUROGRAPHICS 2008)  Expressive Facial Gestures From Motion Capture Data (EUROGRAPHICS 2008)  Augmented Panoramic Video (EUROGRAPHICS 2008)  Viewnder Alignment (EUROGRAPHICS 2008)  Computer-Generated Papercutting (PG2007)"
+    },
+    {
+        "Date": "2\/27",
+        "Topic": "Paper",
+        "Speaker": "幸卿",
+        "Title": "Non-Chronological Video Synopsis and Indexing"
+    },
+    {
+        "Date": "2\/27",
+        "Topic": "Abstract",
+        "Speaker": "美蒓",
+        "Title": "Adaptive Video Fast Forward ( 2005 Multimedia Tools and Applications)  VIDEO SUMMARIZATION USING MPEG-7 MOTION ACTIVITY AND AUDIO DESCRIPTORS  A Generic Framework of User Attention Model and Its Application in Video Summarization (2005 IEEE Multimedia)  Motion-based Video Representation for Scene Change Detection (2000 ICPR)  Interactive Montages of Sprites for Indexing and Summarizing Security Video(2005 CVPR"
+    },
+    {
+        "Date": "2\/18",
+        "Topic": "Paper",
+        "Speaker": "興東",
+        "Title": "Automatic Facial Feature Extraction by Genetic Algorithms"
+    },
+    {
+        "Date": "2\/18",
+        "Topic": "Abstract",
+        "Speaker": "幸卿",
+        "Title": "Non-Chronological Video Synopsis and Indexing  Dynamic Textures  Event Detection in Crowded Videos  Fluid in Video: Augmenting Real Video with Simulated Fluids  Knitty: 3D Modeling of Knitted Animals with a Production Asistant Interface"
+    },
+    {
+        "Date": "1\/30",
+        "Topic": "Paper",
+        "Speaker": "家愷",
+        "Title": "Apparent Greyscale-A Simple and Fast Conversion to Perceptually Accurate Images and Video(EUROGRAPHICS 2008)"
+    },
+    {
+        "Date": "1\/30",
+        "Topic": "Abstract",
+        "Speaker": "興東",
+        "Title": "Stastical Coding Method for Facial Automatic Facial Feature Extraction by Genetic Algorithms  Facial Feature Extraction in an Intrared Image by Proxy With a Visible Face Image  Face Recognition for Face attractiveness  Face Transfer with Multilinear Models"
+    },
+    {
+        "Date": "1\/23",
+        "Topic": "Paper",
+        "Speaker": "青揚",
+        "Title": "Example-Based Model Synthesis(I3D 2007)"
+    },
+    {
+        "Date": "1\/23",
+        "Topic": "Abstract",
+        "Speaker": "家愷",
+        "Title": "A Multi-Resolution Dynamic Model for Face Aging Simulation  Animation Collage  Lighting with Paint  Matrix Row-Column Sampling for the Many Light Problem  Facial Feature Extraction Based on the Smallest Univalue Segment Assimilating Nucleus algorithm"
+    },
+    {
+        "Date": "1\/16",
+        "Topic": "Math",
+        "Speaker": "老師",
+        "Title": "老師授課"
+    },
+    {
+        "Date": "1\/9",
+        "Topic": "Paper",
+        "Speaker": "昱志",
+        "Title": "Hybrid Texture Synthesis"
+    },
+    {
+        "Date": "1\/9",
+        "Topic": "Abstract",
+        "Speaker": "青揚",
+        "Title": "Apparent Greyscale-A Simple and Fast Conversion to Perceptually Accurate Images and Video(EUROGRAPHICS 2008)  TwoStick_Writing with a Game Controller(GI 2007)  Example-Based Model Synthesis(I3D 2007)  Precise Vector Textures for Real-Time 3D Rendering(I3D 2008)  Image-based Procedural Modeling of Facades(SIGGRAPH 2007)"
+    }
+]

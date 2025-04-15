@@ -1,0 +1,513 @@
+[
+  {
+    "id": "cgm-life-1",
+    "title": "CGM LAB 慶祝老師生日快樂",
+    "date": "2024-11-01",
+    "imagePreviewUrl": "/images/cgm-life/professor-birthday-2024.jpg",
+    "linkPath": "/cgm-life/professor-birthday-2024"
+  },
+  {
+    "id": "cgm-life-2",
+    "title": "CGM LAB 教師節活動",
+    "date": "2024-10-15",
+    "imagePreviewUrl": "/images/cgm-life/teachers-day-2024.jpg",
+    "linkPath": "/cgm-life/teachers-day-2024"
+  },
+  {
+    "id": "cgm-life-3",
+    "title": "CGM LAB 迎新送舊",
+    "date": "2024-09-05",
+    "imagePreviewUrl": "/images/cgm-life/welcome-farewell-2024.jpg",
+    "linkPath": "/cgm-life/welcome-farewell-2024"
+  },
+  {
+    "id": "cgm-life-4",
+    "title": "CGW 2024 at NTU",
+    "date": "2024-06-20",
+    "imagePreviewUrl": "/images/cgm-life/cgw-2024.jpg",
+    "linkPath": "/cgm-life/cgw-2024"
+  },
+  {
+    "id": "cgm-life-5",
+    "title": "CGM LAB 尾牙",
+    "date": "2024-01-20",
+    "imagePreviewUrl": "/images/cgm-life/year-end-party-2024.jpg",
+    "linkPath": "/cgm-life/year-end-party-2024"
+  },
+  {
+    "id": "cgm-life-6",
+    "title": "CGMLAB慶祝老師生日快樂",
+    "date": "2023-11-09",
+    "imagePreviewUrl": "/images/cgm-life/professor-birthday-2023.jpg",
+    "linkPath": "/cgm-life/professor-birthday-2023"
+  },
+  {
+    "id": "cgm-life-7",
+    "title": "CGMLAB教師節活動(燒肉火鍋)",
+    "date": "2023-10-20",
+    "imagePreviewUrl": "/images/cgm-life/teachers-day-2023.jpg",
+    "linkPath": "/cgm-life/teachers-day-2023"
+  },
+  {
+    "id": "cgm-life-8",
+    "title": "CGMLab迎新送舊(涮乃葉)",
+    "date": "2023-08-31",
+    "imagePreviewUrl": "/images/cgm-life/welcome-farewell-2023.jpg",
+    "linkPath": "/cgm-life/welcome-farewell-2023"
+  },
+  {
+    "id": "cgm-life-9",
+    "title": "CGW2023(國立勤益科技大學)",
+    "date": "2023-07-11",
+    "imagePreviewUrl": "/images/cgm-life/cgw-2023.jpg",
+    "linkPath": "/cgm-life/cgw-2023"
+  },
+  {
+    "id": "cgm-life-10",
+    "title": "CGMLAB尾牙(果然匯)",
+    "date": "2023-01-13",
+    "imagePreviewUrl": "/images/cgm-life/year-end-party-2023.jpg",
+    "linkPath": "/cgm-life/year-end-party-2023"
+  },
+  {
+    "id": "cgm-life-11",
+    "title": "CGMLAB慶祝老師生日快樂",
+    "date": "2022-11-10",
+    "imagePreviewUrl": "/images/cgm-life/professor-birthday-2022.jpg",
+    "linkPath": "/cgm-life/professor-birthday-2022"
+  },
+  {
+    "id": "cgm-life-12",
+    "title": "CGMLAB教師節活動(燒肉火鍋)",
+    "date": "2022-09-29",
+    "imagePreviewUrl": "/images/cgm-life/teachers-day-2022.jpg",
+    "linkPath": "/cgm-life/teachers-day-2022"
+  },
+  {
+    "id": "cgm-life-13",
+    "title": "第一屆視覺化研討會(中研院)",
+    "date": "2022-08-19",
+    "imagePreviewUrl": "/images/cgm-life/visualization-workshop-2022.jpg",
+    "linkPath": "/cgm-life/visualization-workshop-2022"
+  },
+  {
+    "id": "cgm-life-14",
+    "title": "CGMLab迎新送舊(涮乃葉)",
+    "date": "2022-08-18",
+    "imagePreviewUrl": "/images/cgm-life/welcome-farewell-2022.jpg",
+    "linkPath": "/cgm-life/welcome-farewell-2022"
+  },
+  {
+    "id": "cgm-life-15",
+    "title": "CGW2022(外貿協會台北國際會議中心 (TICC))",
+    "date": "2022-07-22",
+    "imagePreviewUrl": "/images/cgm-life/cgw-2022.jpg",
+    "linkPath": "/cgm-life/cgw-2022"
+  },
+  {
+    "id": "cgm-life-16",
+    "title": "CGMLab尾牙(鼎豐鴛鴦麻辣火鍋)",
+    "date": "2022-01-20",
+    "imagePreviewUrl": "/images/cgm-life/year-end-party-2022.jpg",
+    "linkPath": "/cgm-life/year-end-party-2022"
+  },
+  {
+    "id": "cgm-life-17",
+    "title": "CGMLAB教師節活動(戰醬燒肉)",
+    "date": "2021-10-07",
+    "imagePreviewUrl": "/images/cgm-life/teachers-day-2021.jpg",
+    "linkPath": "/cgm-life/teachers-day-2021"
+  },
+  {
+    "id": "cgm-life-18",
+    "title": "CGMLAB迎新送舊(欣葉)",
+    "date": "2021-08-12",
+    "imagePreviewUrl": "/images/cgm-life/welcome-farewell-2021.jpg",
+    "linkPath": "/cgm-life/welcome-farewell-2021"
+  },
+  {
+    "id": "cgm-life-19",
+    "title": "CGMLab送舊迎新(欣葉日式料理)",
+    "date": "2020-07-23",
+    "imagePreviewUrl": "/images/cgm-life/welcome-farewell-2020.jpg",
+    "linkPath": "/cgm-life/welcome-farewell-2020"
+  },
+  {
+    "id": "cgm-life-20",
+    "title": "CGMLab尾牙(欣葉日式料理)",
+    "date": "2020-01-09",
+    "imagePreviewUrl": "/images/cgm-life/year-end-party-2020.jpg",
+    "linkPath": "/cgm-life/year-end-party-2020"
+  },
+  {
+    "id": "cgm-life-21",
+    "title": "CGMLAB中秋烤肉與教師節活動(狠生氣)",
+    "date": "2019-09-12",
+    "imagePreviewUrl": "/images/cgm-life/mid-autumn-teachers-day-2019.jpg",
+    "linkPath": "/cgm-life/mid-autumn-teachers-day-2019"
+  },
+  {
+    "id": "cgm-life-22",
+    "title": "CGMLAB2019 迎新送舊(凱達大飯店)",
+    "date": "2019-07-02",
+    "imagePreviewUrl": "/images/cgm-life/welcome-farewell-2019.jpg",
+    "linkPath": "/cgm-life/welcome-farewell-2019"
+  },
+  {
+    "id": "cgm-life-23",
+    "title": "CGW2019(元智大學)",
+    "date": "2019-06-27",
+    "imagePreviewUrl": "/images/cgm-life/cgw-2019.jpg",
+    "linkPath": "/cgm-life/cgw-2019"
+  },
+  {
+    "id": "cgm-life-24",
+    "title": "CGMLAB2018 尾牙(欣葉日式料理)",
+    "date": "2019-01-10",
+    "imagePreviewUrl": "/images/cgm-life/year-end-party-2019.jpg",
+    "linkPath": "/cgm-life/year-end-party-2019"
+  },
+  {
+    "id": "cgm-life-25",
+    "title": "CGMLAB2018 慶祝楊傳凱教授生日",
+    "date": "2018-11-15",
+    "imagePreviewUrl": "/images/cgm-life/professor-birthday-2018.jpg",
+    "linkPath": "/cgm-life/professor-birthday-2018"
+  },
+  {
+    "id": "cgm-life-26",
+    "title": "CGMLAB中秋節與教師節活動(戰醬燒肉)",
+    "date": "2018-07-12",
+    "imagePreviewUrl": "/images/cgm-life/mid-autumn-teachers-day-2018.jpg",
+    "linkPath": "/cgm-life/mid-autumn-teachers-day-2018"
+  },
+  {
+    "id": "cgm-life-27",
+    "title": "CGMLab2018 CGMLAB迎新送舊(藝奇)",
+    "date": "2018-07-12",
+    "imagePreviewUrl": "/images/cgm-life/welcome-farewell-2018.jpg",
+    "linkPath": "/cgm-life/welcome-farewell-2018"
+  },
+  {
+    "id": "cgm-life-28",
+    "title": "CGMLab2018 CGW研討會",
+    "date": "2018-06-29",
+    "imagePreviewUrl": "/images/cgm-life/cgw-2018.jpg",
+    "linkPath": "/cgm-life/cgw-2018"
+  },
+  {
+    "id": "cgm-life-29",
+    "title": "CGMLab2018響食天堂尾牙",
+    "date": "2018-01-11",
+    "imagePreviewUrl": "/images/cgm-life/year-end-party-2018.jpg",
+    "linkPath": "/cgm-life/year-end-party-2018"
+  },
+  {
+    "id": "cgm-life-30",
+    "title": "CGMLab2017中秋烤肉",
+    "date": "2017-10-04",
+    "imagePreviewUrl": "/images/cgm-life/mid-autumn-2017.jpg",
+    "linkPath": "/cgm-life/mid-autumn-2017"
+  },
+  {
+    "id": "cgm-life-31",
+    "title": "CGMLab2017教師節活動",
+    "date": "2017-09-28",
+    "imagePreviewUrl": "/images/cgm-life/teachers-day-2017.jpg",
+    "linkPath": "/cgm-life/teachers-day-2017"
+  },
+  {
+    "id": "cgm-life-32",
+    "title": "CGMLab2017迎新送舊(欣葉)",
+    "date": "2017-08-10",
+    "imagePreviewUrl": "/images/cgm-life/welcome-farewell-2017.jpg",
+    "linkPath": "/cgm-life/welcome-farewell-2017"
+  },
+  {
+    "id": "cgm-life-33",
+    "title": "2017CGW(靜宜大學)",
+    "date": "2017-06-29",
+    "imagePreviewUrl": "/images/cgm-life/cgw-2017.jpg",
+    "linkPath": "/cgm-life/cgw-2017"
+  },
+  {
+    "id": "cgm-life-34",
+    "title": "CGMLab尾牙(美麗信酒店)",
+    "date": "2017-01-12",
+    "imagePreviewUrl": "/images/cgm-life/year-end-party-2017.jpg",
+    "linkPath": "/cgm-life/year-end-party-2017"
+  },
+  {
+    "id": "cgm-life-35",
+    "title": "CGM實驗室教師節活動",
+    "date": "2016-09-29",
+    "imagePreviewUrl": "/images/cgm-life/teachers-day-2016.jpg",
+    "linkPath": "/cgm-life/teachers-day-2016"
+  },
+  {
+    "id": "cgm-life-36",
+    "title": "CGM饗食天堂迎新送舊",
+    "date": "2016-08-18",
+    "imagePreviewUrl": "/images/cgm-life/welcome-farewell-2016.jpg",
+    "linkPath": "/cgm-life/welcome-farewell-2016"
+  },
+  {
+    "id": "cgm-life-37",
+    "title": "CGM實驗室CGW研討會",
+    "date": "2016-07-13",
+    "imagePreviewUrl": "/images/cgm-life/cgw-2016.jpg",
+    "linkPath": "/cgm-life/cgw-2016"
+  },
+  {
+    "id": "cgm-life-38",
+    "title": "Pacificvis2016與慶功宴IN欣葉",
+    "date": "2016-05-26",
+    "imagePreviewUrl": "/images/cgm-life/pacificvis-2016.jpg",
+    "linkPath": "/cgm-life/pacificvis-2016"
+  },
+  {
+    "id": "cgm-life-39",
+    "title": "CGMLab尾牙(欣葉日式料理)",
+    "date": "2016-01-22",
+    "imagePreviewUrl": "/images/cgm-life/year-end-party-2016.jpg",
+    "linkPath": "/cgm-life/year-end-party-2016"
+  },
+  {
+    "id": "cgm-life-40",
+    "title": "2015CGMLab冬至煮湯圓",
+    "date": "2015-12-22",
+    "imagePreviewUrl": "/images/cgm-life/winter-solstice-2015.jpg",
+    "linkPath": "/cgm-life/winter-solstice-2015"
+  },
+  {
+    "id": "cgm-life-41",
+    "title": "CGM實驗室教師節活動",
+    "date": "2015-09-24",
+    "imagePreviewUrl": "/images/cgm-life/teachers-day-2015.jpg",
+    "linkPath": "/cgm-life/teachers-day-2015"
+  },
+  {
+    "id": "cgm-life-42",
+    "title": "CGM饗食天堂迎新送舊",
+    "date": "2015-08-26",
+    "imagePreviewUrl": "/images/cgm-life/welcome-farewell-2015.jpg",
+    "linkPath": "/cgm-life/welcome-farewell-2015"
+  },
+  {
+    "id": "cgm-life-43",
+    "title": "2015CGW研討會",
+    "date": "2015-07-10",
+    "imagePreviewUrl": "/images/cgm-life/cgw-2015.jpg",
+    "linkPath": "/cgm-life/cgw-2015"
+  },
+  {
+    "id": "cgm-life-44",
+    "title": "CGMLab尾牙(泰市場)",
+    "date": "2015-01-21",
+    "imagePreviewUrl": "/images/cgm-life/year-end-party-2015.jpg",
+    "linkPath": "/cgm-life/year-end-party-2015"
+  },
+  {
+    "id": "cgm-life-45",
+    "title": "CGM實驗室教師節活動",
+    "date": "2014-10-10",
+    "imagePreviewUrl": "/images/cgm-life/teachers-day-2014.jpg",
+    "linkPath": "/cgm-life/teachers-day-2014"
+  },
+  {
+    "id": "cgm-life-46",
+    "title": "CGM實驗室8月慶生&中秋烤肉",
+    "date": "2014-10-10",
+    "imagePreviewUrl": "/images/cgm-life/august-birthday-mid-autumn-2014.jpg",
+    "linkPath": "/cgm-life/august-birthday-mid-autumn-2014"
+  },
+  {
+    "id": "cgm-life-47",
+    "title": "CGM實驗室期末歡唱",
+    "date": "2014-07-21",
+    "imagePreviewUrl": "/images/cgm-life/semester-end-karaoke-2014.jpg",
+    "linkPath": "/cgm-life/semester-end-karaoke-2014"
+  },
+  {
+    "id": "cgm-life-48",
+    "title": "CGM實驗室CGW研討會",
+    "date": "2014-07-14",
+    "imagePreviewUrl": "/images/cgm-life/cgw-2014.jpg",
+    "linkPath": "/cgm-life/cgw-2014"
+  },
+  {
+    "id": "cgm-life-49",
+    "title": "CGM實驗室6月慶生會",
+    "date": "2014-06-12",
+    "imagePreviewUrl": "/images/cgm-life/june-birthday-2014.jpg",
+    "linkPath": "/cgm-life/june-birthday-2014"
+  },
+  {
+    "id": "cgm-life-50",
+    "title": "CGM實驗室4月慶生會",
+    "date": "2014-04-17",
+    "imagePreviewUrl": "/images/cgm-life/april-birthday-2014.jpg",
+    "linkPath": "/cgm-life/april-birthday-2014"
+  },
+  {
+    "id": "cgm-life-51",
+    "title": "CGM實驗室3月慶生會",
+    "date": "2014-03-20",
+    "imagePreviewUrl": "/images/cgm-life/march-birthday-2014.jpg",
+    "linkPath": "/cgm-life/march-birthday-2014"
+  },
+  {
+    "id": "cgm-life-52",
+    "title": "CGM尾牙(野宴極燒肉)",
+    "date": "2014-01-14",
+    "imagePreviewUrl": "/images/cgm-life/year-end-party-2014.jpg",
+    "linkPath": "/cgm-life/year-end-party-2014"
+  },
+  {
+    "id": "cgm-life-53",
+    "title": "CGM實驗室11月慶生會",
+    "date": "2013-11-28",
+    "imagePreviewUrl": "/images/cgm-life/november-birthday-2013.jpg",
+    "linkPath": "/cgm-life/november-birthday-2013"
+  },
+  {
+    "id": "cgm-life-54",
+    "title": "歡樂教師節-手工肥皂",
+    "date": "2013-09-23",
+    "imagePreviewUrl": "/images/cgm-life/teachers-day-soap-2013.jpg",
+    "linkPath": "/cgm-life/teachers-day-soap-2013"
+  },
+  {
+    "id": "cgm-life-55",
+    "title": "中秋節CGMLab烤肉趣",
+    "date": "2013-09-03",
+    "imagePreviewUrl": "/images/cgm-life/mid-autumn-bbq-2013.jpg",
+    "linkPath": "/cgm-life/mid-autumn-bbq-2013"
+  },
+  {
+    "id": "cgm-life-56",
+    "title": "CGM原燒迎新送舊+慶生",
+    "date": "2013-07-23",
+    "imagePreviewUrl": "/images/cgm-life/welcome-farewell-birthday-2013.jpg",
+    "linkPath": "/cgm-life/welcome-farewell-birthday-2013"
+  },
+  {
+    "id": "cgm-life-57",
+    "title": "2013CGW研討會",
+    "date": "2013-07-13",
+    "imagePreviewUrl": "/images/cgm-life/cgw-2013.jpg",
+    "linkPath": "/cgm-life/cgw-2013"
+  },
+  {
+    "id": "cgm-life-58",
+    "title": "恭賀老師榮升教授與七月生日",
+    "date": "2013-07-03",
+    "imagePreviewUrl": "/images/cgm-life/professor-promotion-july-birthday-2013.jpg",
+    "linkPath": "/cgm-life/professor-promotion-july-birthday-2013"
+  },
+  {
+    "id": "cgm-life-59",
+    "title": "CGM尾牙(日不落食堂)",
+    "date": "2013-01-25",
+    "imagePreviewUrl": "/images/cgm-life/year-end-party-2013.jpg",
+    "linkPath": "/cgm-life/year-end-party-2013"
+  },
+  {
+    "id": "cgm-life-60",
+    "title": "迎新第二攤(野宴極燒肉)",
+    "date": "2012-11-16",
+    "imagePreviewUrl": "/images/cgm-life/welcome-part2-2012.jpg",
+    "linkPath": "/cgm-life/welcome-part2-2012"
+  },
+  {
+    "id": "cgm-life-61",
+    "title": "歡樂教師節-鶯歌手拉坯",
+    "date": "2012-09-28",
+    "imagePreviewUrl": "/images/cgm-life/teachers-day-pottery-2012.jpg",
+    "linkPath": "/cgm-life/teachers-day-pottery-2012"
+  },
+  {
+    "id": "cgm-life-62",
+    "title": "IEEESummerSchool",
+    "date": "2012-09-10",
+    "imagePreviewUrl": "/images/cgm-life/ieee-summer-school-2012.jpg",
+    "linkPath": "/cgm-life/ieee-summer-school-2012"
+  },
+  {
+    "id": "cgm-life-63",
+    "title": "CGM迎新",
+    "date": "2012-09-10",
+    "imagePreviewUrl": "/images/cgm-life/welcome-2012.jpg",
+    "linkPath": "/cgm-life/welcome-2012"
+  },
+  {
+    "id": "cgm-life-64",
+    "title": "CGW研討會",
+    "date": "2012-09-10",
+    "imagePreviewUrl": "/images/cgm-life/cgw-2012.jpg",
+    "linkPath": "/cgm-life/cgw-2012"
+  },
+  {
+    "id": "cgm-life-65",
+    "title": "京采聚餐",
+    "date": "2009-07-21",
+    "imagePreviewUrl": "/images/cgm-life/jingcai-dinner-2009.jpg",
+    "linkPath": "/cgm-life/jingcai-dinner-2009"
+  },
+  {
+    "id": "cgm-life-66",
+    "title": "CGM迎新",
+    "date": "2009-03-05",
+    "imagePreviewUrl": "/images/cgm-life/welcome-2009.jpg",
+    "linkPath": "/cgm-life/welcome-2009"
+  },
+  {
+    "id": "cgm-life-67",
+    "title": "CGM天外天迎新",
+    "date": "2009-01-22",
+    "imagePreviewUrl": "/images/cgm-life/tianwaitian-welcome-2009.jpg",
+    "linkPath": "/cgm-life/tianwaitian-welcome-2009"
+  },
+  {
+    "id": "cgm-life-68",
+    "title": "2012CGW研討會",
+    "date": "2008-07-23",
+    "imagePreviewUrl": "/images/cgm-life/cgw-2008.jpg",
+    "linkPath": "/cgm-life/cgw-2008"
+  },
+  {
+    "id": "cgm-life-69",
+    "title": "CGM佳焰屋迎新送舊",
+    "date": "2008-07-02",
+    "imagePreviewUrl": "/images/cgm-life/jiayan-welcome-farewell-2008.jpg",
+    "linkPath": "/cgm-life/jiayan-welcome-farewell-2008"
+  },
+  {
+    "id": "cgm-life-70",
+    "title": "CGM大團圓",
+    "date": "2007-12-02",
+    "imagePreviewUrl": "/images/cgm-life/reunion-2007.jpg",
+    "linkPath": "/cgm-life/reunion-2007"
+  },
+  {
+    "id": "cgm-life-71",
+    "title": "歡樂教師節",
+    "date": "2007-9-29",
+    "imagePreviewUrl": "/images/cgm-life/teachers-day-2007.jpg",
+    "linkPath": "/cgm-life/teachers-day-2007"
+  },
+  {
+    "id": "cgm-life-72",
+    "title": "CGM中秋夜烤",
+    "date": "2007-9-24",
+    "imagePreviewUrl": "/images/cgm-life/mid-autumn-bbq-2007.jpg",
+    "linkPath": "/cgm-life/mid-autumn-bbq-2007"
+  },
+  {
+    "id": "cgm-life-73",
+    "title": "清境農場二日遊",
+    "date": "2005-1-31",
+    "imagePreviewUrl": "/images/cgm-life/cingjing-farm-trip-2005.jpg",
+    "linkPath": "/cgm-life/cingjing-farm-trip-2005"
+  }
+]

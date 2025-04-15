@@ -1,0 +1,608 @@
+[
+    {
+        "year": "2017",
+        "day": "Thursday",
+        "classroom": "MA314",
+        "time": "17:00-19:00"
+    },
+    {
+        "Date": "12\/28",
+        "Topic": "Paper",
+        "Speaker": "晉萱",
+        "Title": "A Markerless Augmented Reality Mobile Navigation Systemwith Multiple Targets Display Function(Applied System Innovation (ICASI), 2017 International Conference on)"
+    },
+    {
+        "Date": "12\/28",
+        "Topic": "Abstract",
+        "Speaker": "yulia",
+        "Title": "1. Dynamic 3D Avatar Creation from Hand-held Video Input  2. A Bayesian Approach to Camouflaged Moving Object Detection  3. Time Slice Video Synthesis by Robust Video Alignment  4. Sophisticated Construction and Search of 2D Motion Graphs for Synthesizing Videos  5. Video Frame Synthesis using Deep Voxel Flow"
+    },
+    {
+        "Date": "12\/21",
+        "Topic": "Paper",
+        "Speaker": "馮翊婷",
+        "Title": "VizSynth: An Engine for Image Video Synthesis In Traffic-Based Application Published in: Intelligent Control and Automation (WCICA), in 2010"
+    },
+    {
+        "Date": "12\/21",
+        "Topic": "Abstract",
+        "Speaker": "晉萱",
+        "Title": "1. Sport Video Intelligence Analysis Using Mid-Level and Low-Level VisionInformation(2011 International Conference on Future Computer Science and Education)  2. Facial Image Processing for Sleepiness Estimation(Bio-engineering for Smart Technologies (BioSMART), 2017 2nd International Conference on)  3. Using Augment Reality to IncreaseCapacity in QR Code(Digital Information and Communication Technology and it's Applications (DICTAP), 2014 Fourth International Conference on)  4. Augmented Reality Serious Game Framework forRehabilitation with Personal Health Records(e-Health Networking Applications and Services (Healthcom), 2011 13th IEEE International Conference on)  5. A Markerless Augmented Reality Mobile Navigation Systemwith Multiple Targets Display Function(Applied System Innovation (ICASI), 2017 International Conference on)"
+    },
+    {
+        "Date": "12\/14",
+        "Topic": "Paper",
+        "Speaker": "張怡臻",
+        "Title": "T2V: New Technology of Converting Text to CG Animation(J-STAGE ITE Transactions on Media Technology and Applications (MTA), 2014)"
+    },
+    {
+        "Date": "12\/14",
+        "Topic": "Abstract",
+        "Speaker": "馮翊婷",
+        "Title": "1. Digital recognition from lip texture analysis Published in:Digital Signal Processing (DSP), in 2016 IEEE  2. Mobile Phone Security using Automatic Lip Reading Published in: e-Commerce in Developing Countries: With focus on e-Business (ECDC),in 2015  3. FaceTime – Deep Learning Based Face Recognition Attendance System Published in :International Symposium on Intelligent Systems and Informatics,in 2017 IEE  4. Lip-Reading by Surveillance Cameras Published in: Smart City Symposium Prague (SCSP),in 2017  5. VizSynth: An Engine for Image Video Synthesis In Traffic-Based Application Published in: Intelligent Control and Automation (WCICA), in 2010"
+    },
+    {
+        "Date": "12\/7",
+        "Topic": "Paper",
+        "Speaker": "",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "12\/7",
+        "Topic": "Abstract",
+        "Speaker": "",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "11\/30",
+        "Topic": "Paper",
+        "Speaker": "陳昱文",
+        "Title": "The Skin Deformation of a 3D Virtual Human (nternational Journal of Automation and Computing, November 2009)"
+    },
+    {
+        "Date": "11\/30",
+        "Topic": "Abstract",
+        "Speaker": "張怡臻",
+        "Title": "1. Implementation of an Efficient Bangla Soft Keyboard with Text-To-Image Replacement Support(IEEE International Conference on Computer and Information Technology (ICCIT), 2012)  2. Food Image Recognition with Convolutional Neural Networks(IEEE Conference on Ubiquitous Intelligence and Computing, 2015)  3. Joint Image-Text Representation by Gaussian Visual-Semantic Embedding(Publish in proceeding of the 2016 ACM on Multimedia Conference)  4. I2T2I: Learning Text to Image Synthesis with Textural Data Augmentation(arXiv International Conference on Image Processing (ICIP), 2017)  5. T2V: New Technology of Converting Text to CG Animation(J-STAGE ITE Transactions on Media Technology and Applications (MTA), 2014)"
+    },
+    {
+        "Date": "11\/23",
+        "Topic": "Paper",
+        "Speaker": "徐明睿",
+        "Title": "Constructing 3D Human Model from 2D Images (Industrial Engineering and Engineering Management (IE&EM), 2010 IEEE 17Th International Conference on )"
+    },
+    {
+        "Date": "11\/23",
+        "Topic": "Abstract",
+        "Speaker": "陳昱文",
+        "Title": "1. Exploring the Space of Human body Shapes:Data-Driven Synthesis under Anthropometric Control (2004 SAE( Society of Automotive Engineers) International)  2. Topological Segmentation of Discrete Human Body Shapes in Various Postures Based on Geodesic Distance (Proceedings of the 17th International Conference on Pattern Recognition 2004 )  3. Robust Human Tracking using Statistical HumanShape Model with Postural Variation (Industrial Electronics Society, IECON 2013 - 39th Annual Conference of the IEEE)  4. Vehicle Tracking Iterative by Kalman-based Constrained  Multiple-Kernel and 3-D Model-based Localization (Circuits and Systems (ISCAS), 2013 IEEE International Symposium on)  5.The Skin Deformation of a 3D Virtual Human (nternational Journal of Automation and Computing, November 2009)"
+    },
+    {
+        "Date": "11\/16",
+        "Topic": "Paper",
+        "Speaker": "Tias",
+        "Title": "TurkDeck: Physical Virtual Reality Based on People (UIST '15 Proceedings of the 28th Annual ACM Symposium on User Interface Software & Technology)"
+    },
+    {
+        "Date": "11\/16",
+        "Topic": "Abstract",
+        "Speaker": "徐明睿",
+        "Title": "1.Real-time_ realistic full-body 3D reconstruction and texture mapping from multiple Kinects( IVMSP Workshop, (Image Video and Multidimensional Signal Processing), 2013 IEEE 11th )  2.Kinect controlled chess playing robot(Smart Technologies, IEEE EUROCON 2017 -17th International Conference on )  3.A Novel System to Visualize Aerial Weapon Scoring(Cyber and IT Service Management (CITSM) 2017 5th International Conference on )  4.Visualizing the Keyboard in Virtual Reality for Enhancing(SIGGRAPH '17 ACM SIGGRAPH 2017 Posters )  5.Constructing 3D Human Model from 2D Images (Industrial Engineering and Engineering Management (IE&EM), 2010 IEEE 17Th International Conference on )"
+    },
+    {
+        "Date": "11\/9",
+        "Topic": "Paper",
+        "Speaker": "韻宇",
+        "Title": "AutoWeb: Automatic Classification of Mobile Web Pages for Revisitation(MobileHCI 2012)"
+    },
+    {
+        "Date": "11\/9",
+        "Topic": "Abstract",
+        "Speaker": "Tias",
+        "Title": "1. A Hybrid sound model for 3d audio games with real walking (CASA '16 Proceedings of the 29th International Conference on Computer Animation and Social Agents)  2. Sound design to enhance presence in photorealistic virtual reality (Proceedings of ICAD 04-Tenth Meeting of the International Conference on Auditory Display, Sydney, Australia)  3. Developing an architectural Visualization using 3D for Photo Tourism (2014 IEEE 2014 International Conference on Computer, Communication, and Control Technology (I4CT 2014), September 2-4, 2014 - Langkawi, Kedah, Malaysia)  4. Increasing the motion of users in photo-realistic virtual environments by utilising auditory rendering of the environment and ego-motion (Proceedings of the 9th International Workshop on Presence, 2006)  5. TurkDeck: Physical Virtual Reality Based on People (UIST '15 Proceedings of the 28th Annual ACM Symposium on User Interface Software & Technology)"
+    },
+    {
+        "Date": "11\/2",
+        "Topic": "Paper",
+        "Speaker": "御廷",
+        "Title": "與林伯慎老師實驗室Meeting(我們報)  Towards the Automatic Anime Characters Creation with Generative Adversarial Networks(https:\/\/arxiv.org\/abs\/1708.05509)"
+    },
+    {
+        "Date": "11\/2",
+        "Topic": "Abstract",
+        "Speaker": "韻宇",
+        "Title": "與林伯慎老師實驗室Meeting(我們報)  1.Using Comics as a Visual Metaphor for Enriching SMS Messages with Contextual and Social Media(MobileHCI 2009)  2.Extracting Image Context from Pinterest for Image Recommendation(IEEE International Conference on Smart City 2015)  3.Document Thumbnails with Variable Text Scaling(EuroVis 2012)  4.MIST: A Music Icon Selection Technique Using Neural Network(Indian Journal of Science and Technology 2007)  5.AutoWeb: Automatic Classification of Mobile Web Pages for Revisitation(MobileHCI 2012)"
+    },
+    {
+        "Date": "10\/26",
+        "Topic": "Paper",
+        "Speaker": "老師出差",
+        "Title": "Professor go to Korea"
+    },
+    {
+        "Date": "10\/26",
+        "Topic": "Abstract",
+        "Speaker": "老師出差",
+        "Title": "Professor go to Korea"
+    },
+    {
+        "Date": "10\/19",
+        "Topic": "Paper",
+        "Speaker": "冠宇",
+        "Title": "iTTVis: Interactive Visualization of Table Tennis Data(IEEE Transactions on Visualization and Computer Graphics)"
+    },
+    {
+        "Date": "10\/19",
+        "Topic": "Abstract",
+        "Speaker": "御廷",
+        "Title": "1.Learning what to look in chest X-rays with a recurrent visual attention model(https:\/\/arxiv.org\/abs\/1701.06452)  2.Synthetic Medical Images from Dual Generative Adversarial Networks(https:\/\/arxiv.org\/abs\/1709.01872)  3.Computational Content Analysis of Negative Tweets for Obesity, Diet, Diabetes, and Exercise(https:\/\/arxiv.org\/abs\/1709.07915)  4.Are You Talking to a Machine? Dataset and Methods for Multilingual Image Question Answering(https:\/\/arxiv.org\/abs\/1505.05612)  5.Towards the Automatic Anime Characters Creation with Generative Adversarial Networks(https:\/\/arxiv.org\/abs\/1708.05509)"
+    },
+    {
+        "Date": "10\/12",
+        "Topic": "Paper",
+        "Speaker": "lukeman",
+        "Title": "On Comparing Colour Space From a Performance Perspective: Application to Automated Classification of Polished Natural Stone(Springer International Publishing Switzerland 2015)"
+    },
+    {
+        "Date": "10\/12",
+        "Topic": "Abstract",
+        "Speaker": "君豪",
+        "Title": ""
+    },
+    {
+        "Date": "10\/5",
+        "Topic": "Paper",
+        "Speaker": "",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "10\/5",
+        "Topic": "Abstract",
+        "Speaker": "",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "9\/28",
+        "Topic": "Paper",
+        "Speaker": "君豪",
+        "Title": ""
+    },
+    {
+        "Date": "9\/28",
+        "Topic": "Abstract",
+        "Speaker": "冠宇",
+        "Title": "1. A Gesture System for Graph Visualization in Virtual Reality Environments (Pacific Visualization Symposium (PacificVis), 2017 IEEE)  2.JCHVT: A Kind of Software Visualization Method for Java Code (2010 International Conference on Computer Application and System Modeling (ICCASM 2010)  3.3D Visualization of Multiscale Video Key Frames (2015 19th International Conference on Information Visualisation)  4.Visualizing Software Systems as Cities (2015 19th International Conference on Information Visualisation)  5.iTTVis: Interactive Visualization of Table Tennis Data (IEEE Transactions on Visualization and Computer Graphics)"
+    },
+    {
+        "Date": "9\/21",
+        "Topic": "Paper",
+        "Speaker": "元棓",
+        "Title": "Social street view: Blending immersive street views with geo-Tagged social media (ACM Web3D 2016)"
+    },
+    {
+        "Date": "9\/21",
+        "Topic": "Abstract",
+        "Speaker": "lukeman",
+        "Title": "1.Affinity CNN: Learning Pixel-Centric Pairwise Relation for Figure\/Ground Embedding(CVPR conference, 2016)  2.Automatic Region of Interest Extraction in Food Baking Images(ChinaSIP, 2014)  3.Convolution Neural Network approaches to granite tiles classification(Expert System with Application, 2017)  4.Classification MFCC feature from Culex and Aedes aegypti Mosquitoes Noise using Support Vector Machine(ICSIIT, 2017)  5.On Comparing Colour Space From a Performance Perspective: Application to Automated Classification of Polished Natural Stone(Springer International Publishing Switzerland 2015)"
+    },
+    {
+        "Date": "9\/14",
+        "Topic": "Paper",
+        "Speaker": "Tias",
+        "Title": "VIRTUAL REALITY PLATFORM FOR SONIFICATION EVALUATION (International Conference on Auditory Display (ICAD), 2015)"
+    },
+    {
+        "Date": "9\/14",
+        "Topic": "Abstract",
+        "Speaker": "元棓",
+        "Title": "1.Scalable methods to collect and visualize sidewalk accessibility data for people with mobility impairments (ACM UIST 2014)  2.Traveling through Space-Time: An Interactive Photo Browsing System (ACM Siggraph Asia 2012 poster)  3.Synthesizing a NPR navigating animation based on Route Recommendation (TAAI 2015)  4.VR-Rides: Interactive VR games for health (JCSG 2016)  5.Social street view: Blending immersive street views with geo-Tagged social media (ACM Web3D 2016)"
+    },
+    {
+        "Date": "9\/7",
+        "Topic": "Paper",
+        "Speaker": "韻宇",
+        "Title": "與林伯慎老師實驗室Meeting(我們報)  Wish I Hadn't Clicked That:Context Based Icons for Mobile Web Navigation and Directed Search Tasks(IUI 2011)"
+    },
+    {
+        "Date": "9\/7",
+        "Topic": "Abstract",
+        "Speaker": "Tias",
+        "Title": "與林伯慎老師實驗室Meeting(我們報)  1. Motion-sound interaction using sonification based on motiongram (ACHI 2012: The Fifth International Conference on Advances in Computer-Human Interactions. 2012)  2. Emotion-Based Music Visualization Using Photos ( Advances in Multimedia Modeling) ( MMM 2008 Proceedings of the 14th international conference on Advances in multimedia modeling)  3. Image-Based emotion retrieval approach with Multi-machine learning schemes (Future Information Technology, Application, and Service) (Springer Science+Business Media Dordrecht 2012)  4. Vremiere In-Headset Virtual Reality Video Editing (CHI '17 Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems)  5. VIRTUAL REALITY PLATFORM FOR SONIFICATION EVALUATION (International Conference on Auditory Display (ICAD), 2015)"
+    },
+    {
+        "Date": "8\/31",
+        "Topic": "Paper",
+        "Speaker": "老師上課",
+        "Title": ""
+    },
+    {
+        "Date": "8\/31",
+        "Topic": "Abstract",
+        "Speaker": "老師上課",
+        "Title": ""
+    },
+    {
+        "Date": "8\/24",
+        "Topic": "Paper",
+        "Speaker": "老師出差",
+        "Title": "Professor go to Bali Island"
+    },
+    {
+        "Date": "8\/24",
+        "Topic": "Abstract",
+        "Speaker": "老師出差",
+        "Title": "Professor go to Bali Island"
+    },
+    {
+        "Date": "8\/17",
+        "Topic": "Paper",
+        "Speaker": "御廷",
+        "Title": "DEEP PHOTO STYLE TRANSFER (https:\/\/arxiv.org\/abs\/1703.07511)"
+    },
+    {
+        "Date": "8\/17",
+        "Topic": "Abstract",
+        "Speaker": "韻宇",
+        "Title": "1.Generating Affective Music Icons in the Emotion Plane(SIGCHI 2009)  2.Context based adaptation of application icons in mobile computing devices(WICT 2013)  3.Document Cards:A Top Trumps Visualization for Documents(IEEE Transactions on Visualization and Computer Graphics, 2009)  4.Towards Using Visual Attributes to Infer Image Sentiment Of Social Events(IJCNN 2017)  5.Wish I Hadn't Clicked That:Context Based Icons for Mobile Web Navigation and Directed Search Tasks(IUI 2011)"
+    },
+    {
+        "Date": "8\/10",
+        "Topic": "Paper",
+        "Speaker": "冠宇",
+        "Title": "BKViz: A Basketball Visual Analysis Tool--IEEE Computer graphics and applications(volume: 36, issue:6, nov - dec 2016)"
+    },
+    {
+        "Date": "8\/10",
+        "Topic": "Abstract",
+        "Speaker": "御廷",
+        "Title": "1.SEGMENTING MUSIC LIBRARY FOR GENERATION OF PLAYLIST USING MACHINE LEARNING (2015 IEEE International Conference on Electro\/Information Technology (EIT))  2.MUSIC EMOTION IDENTIFICATION FROM LYRICS (2009 11th Ieee international sympposium on multimedia  )  3.A NEURAL ALGORITHM OF ARTISTIC STYLE (https:\/\/arxiv.org\/abs\/1508.06576)  4.PIX2CODE: GENERATING CODE FROM A GRAPHICAL USER INTERFACE SCREENSHOT (https:\/\/arxiv.org\/abs\/1705.07962)  5.DEEP PHOTO STYLE TRANSFER (https:\/\/arxiv.org\/abs\/1703.07511)"
+    },
+    {
+        "Date": "8\/3",
+        "Topic": "Paper",
+        "Speaker": "",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "8\/3",
+        "Topic": "Abstract",
+        "Speaker": "",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "7\/27",
+        "Topic": "Paper",
+        "Speaker": "君豪",
+        "Title": "Squares: Supporting Interactive Performance Analysis for Multiclass Classifiers (TVCG 2017)"
+    },
+    {
+        "Date": "7\/27",
+        "Topic": "Abstract",
+        "Speaker": "冠宇",
+        "Title": "1. 3D-Parallel Coordinates: Visualization for Time Varying Multidimensional Data--2016 7th IEEE International Conference on Software Engineering and Service (ICSESS)  2. Multi-Dimensional Visualization for Network Forensic Analysis--7th International Conference on Networked Computing(INC)  3. Time-Pie visualization: Providing Contextual Information for Energy Consumption Data--2013 17th International Conference on information visualization  4. Spherule Diagrams with Graph for Social Network Visualization--2016 8th international conference on communication system and networks  5. BKViz: A Basketball Visual Analysis Tool--IEEE Computer graphics and applications(volume: 36, issue:6, nov - dec 2016)"
+    },
+    {
+        "Date": "7\/20",
+        "Topic": "Paper",
+        "Speaker": "業師時間",
+        "Title": "No meeting"
+    },
+    {
+        "Date": "7\/20",
+        "Topic": "Abstract",
+        "Speaker": "業師時間",
+        "Title": "No meeting"
+    },
+    {
+        "Date": "7\/13",
+        "Topic": "Paper",
+        "Speaker": "老師出差",
+        "Title": "Professor go to HongKong"
+    },
+    {
+        "Date": "7\/13",
+        "Topic": "Abstract",
+        "Speaker": "老師出差",
+        "Title": "Professor go to HongKong"
+    },
+    {
+        "Date": "7\/6",
+        "Topic": "Paper",
+        "Speaker": "元棓",
+        "Title": "與林伯慎老師實驗室Meeting(我們報)  Discriminatively Trained Part Based Models (IEEE Transactions on Pattern Analysis and Machine Intelligence, 2010)"
+    },
+    {
+        "Date": "7\/6",
+        "Topic": "Abstract",
+        "Speaker": "君豪",
+        "Title": "與林伯慎老師實驗室Meeting(我們報)  1.Privacy Preserving Event Sequence Data Visualization using a Sankey Diagram-like Representation (SIGGRAPH ASIA 2016)  2.Privacy Preserving Visualization for Social Network Data with Ontology Information (Pacific Vis 2017)  3.Hybrid bisect K-means clustering algorithm (BCGIN 2011)  4.Visualizing the Impact of Geographical Variations on Multivariate Clustering (EuroVis 2016)  5.Squares: Supporting Interactive Performance Analysis for Multiclass Classifiers (TVCG 2017)"
+    },
+    {
+        "Date": "6\/29",
+        "Topic": "cgw",
+        "Speaker": "台中",
+        "Title": "靜宜大學唷~"
+    },
+    {
+        "Date": "6\/29",
+        "Topic": "cgw",
+        "Speaker": "台中",
+        "Title": "靜宜大學唷~"
+    },
+    {
+        "Date": "6\/22",
+        "Topic": "Paper",
+        "Speaker": "老師上課",
+        "Title": ""
+    },
+    {
+        "Date": "6\/22",
+        "Topic": "Abstract",
+        "Speaker": "老師上課",
+        "Title": ""
+    },
+    {
+        "Date": "6\/15",
+        "Topic": "Paper",
+        "Speaker": "final project",
+        "Title": "special topic's final presentation"
+    },
+    {
+        "Date": "6\/15",
+        "Topic": "Abstract",
+        "Speaker": "final project",
+        "Title": "special topic's final presentation"
+    },
+    {
+        "Date": "6\/8",
+        "Topic": "Paper",
+        "Speaker": "Indah",
+        "Title": "Incremental Convolutional Neural Network Training (ICPR, 2016)"
+    },
+    {
+        "Date": "6\/8",
+        "Topic": "Abstract",
+        "Speaker": "元棓",
+        "Title": "1.A Fast Pedestrians Counting Method Based on Haar Features and Spatio-temporal Correlation Analysis (ACM ICIMCS 2015)  2.CrossingGuard_Exploring Information Content in Navigation Aids for Visually Impaired Pedestrians (ACM CHI 2012)  3.Interaction Design of 2D_3D Map Navigation on Wall and Tabletop Displays (ACM ITS 2011)  4.Vision-based Vehicle Detection and Inter-Vehicle Distance Estimation (12th International Conference on Control, Automation and Systems, 2012)  5.Object Detection with Discriminatively Trained Part Based Models (IEEE Transactions on Pattern Analysis and Machine Intelligence, 2010)"
+    },
+    {
+        "Date": "6\/1",
+        "Topic": "Paper",
+        "Speaker": "",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "6\/1",
+        "Topic": "Abstract",
+        "Speaker": "",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "5\/25",
+        "Topic": "Paper",
+        "Speaker": "致平",
+        "Title": "Saliency Detection: A Spectral Residual Approach - 2007 IEEE Conference on Computer Vision and Pattern Recognition"
+    },
+    {
+        "Date": "5\/25",
+        "Topic": "Abstract",
+        "Speaker": "Indah",
+        "Title": "1. Sketch-a-Net: A Deep Neural Network that Beats Humans (International Journal of Computer Vision, 2017)  2. Edge Boxes: Locating Object Proposals from Edges (ECCV, 2014)  3. Faster R-CNN : Towards Real-Time Object Detection with Region Proposal Networks (NIPS 2016)  4. Fully automatic figure-ground segmentation algorithm based on deep convolutional neural network and GrabCut (IET Image Processing, 2016)  5. Incremental Convolutional Neural Network Training (ICPR, 2016)"
+    },
+    {
+        "Date": "5\/18",
+        "Topic": "no Paper",
+        "Speaker": "no 致平",
+        "Title": "Professor's travel to Indonesia"
+    },
+    {
+        "Date": "5\/18",
+        "Topic": "no Abstract",
+        "Speaker": "no Indah",
+        "Title": "Professor's travel to Indonesia"
+    },
+    {
+        "Date": "5\/11",
+        "Topic": "Paper",
+        "Speaker": "怡欣",
+        "Title": "Global Contrast Based Salient Region Detection (IEEE Transactions on Pattern Analysis and Machine Intelligence, 2015)"
+    },
+    {
+        "Date": "5\/11",
+        "Topic": "Abstract",
+        "Speaker": "致平",
+        "Title": "1.A Saliency Based Noise Reduction Method for Digital TV - 2011 IEEE on Consumer Electronics (ICCE)  2.Non-Local Means Denoising - Published in Image Processing On Line on 2011??9??3  3.A Corner-based Saliency Model - 2016 13th International Joint Conference on Computer Science and Software Engineering (JCSSE)  4.aliency-driven image coding improves overall perceived JPEG quality - Picture Coding Symposium (PCS), 2016  5.Saliency Detection: A Spectral Residual Approach - 2007 IEEE Conference on Computer Vision and Pattern Recognition"
+    },
+    {
+        "Date": "5\/4",
+        "Topic": "Paper",
+        "Speaker": "育林",
+        "Title": "與林伯慎老師實驗室Meeting(我們報)  Leave-one-out Kernel Optimization for Shadow Detection and Removal(IEEE PAMI, 2017)"
+    },
+    {
+        "Date": "5\/4",
+        "Topic": "Abstract",
+        "Speaker": "怡欣",
+        "Title": "與林伯慎老師實驗室Meeting(我們報)  1.DenseCut: Densely Connected CRFs for Realtime GrabCut (Pacific Graphics, 2015)  2.Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (Submitted to ICCV, 2017)  3.Visual Tracking with Online Multiple Instance Learning (CVPR, 2009)  4.A Highly Efficient Implementation of I\/O Functions on GPU (IPDPSW, 2012)  5.Global Contrast Based Salient Region Detection (IEEE Transactions on Pattern Analysis and Machine Intelligence, 2015)"
+    },
+    {
+        "Date": "4\/27",
+        "Topic": "Paper",
+        "Speaker": "Tias",
+        "Title": "Analyzing Emotional Semantics of Abstract Art Using Low-Level Image Features"
+    },
+    {
+        "Date": "4\/27",
+        "Topic": "Abstract",
+        "Speaker": "育林",
+        "Title": "1. Markov Random Fields for Super-resolution and Texture Synthesis(Advances in Markov Random Fields for Vision and Image Processing, Chapter 10. MIT Press, 2011) 2. Interactive Shadow Removal and Ground Truth for Variable Scene Categories(BMVC, 2014) 3 . Region Filling and Object Removal by Exemplar-Based Image Inpainting(IEEE Transactions on Image Processing, 2004)  4. Coherency Sensitive Hashing(IEEE ICCV, 2011) 5. Leave-one-out Kernel Optimization for Shadow Detection and Removal(IEEE PAMI, 2017)"
+    },
+    {
+        "Date": "4\/20",
+        "Topic": "Paper",
+        "Speaker": "Lukman",
+        "Title": "Discriminative Hierarchical Rank Pooling for Activity Recognition (2016 IEEE Conference on Computer Vision and Pattern Recognition)"
+    },
+    {
+        "Date": "4\/20",
+        "Topic": "Abstract",
+        "Speaker": "Tias",
+        "Title": "1.Design Your Room: Adding Virtual Objects to a Real Indoor Scenario 2.Color Sonification for the Visually Impaired 3.Evolutionary System Supporting Music Composition 4.Real-time emotion retrieval scheme in video with image sequence features 5.Analyzing Emotional Semantics of Abstract Art Using Low-Level Image Features"
+    },
+    {
+        "Date": "4\/13",
+        "Topic": "Paper",
+        "Speaker": "林捷",
+        "Title": "Visualizing the Hidden Activity of Artificial Neural Networks"
+    },
+    {
+        "Date": "4\/13",
+        "Topic": "Abstract",
+        "Speaker": "Lukman",
+        "Title": "1.\tGenetic Algorithm for Inter-frame Region Object Temporal Correlation in Binary Partition Tree (2012 International Conference on System Engineering and Technology)  2.\tDeep Background Subtraction with Scene-Specific Convolutional Neural Networks (The 23rd International Conference on Systems, Signal, and Images Processing, 2016)  3.\tA new Approach for Toe Recognition Using Mel Frequency Cepstral Coefficients (Proceedings of 2016 13th International Bhurban Conference on Applied Sciences and Technology, IBCAST)  4.\tFruit defect detection from color images using ACM and MFCM algorithms (2011 international Cenference on Electronics Devices, Systems and Applications, ICEDSA)  5.\tDiscriminative Hierarchical Rank Pooling for Activity Recognition (2016 IEEE Conference on Computer Vision and Pattern Recognition)"
+    },
+    {
+        "Date": "4\/6",
+        "Topic": "Paper",
+        "Speaker": "",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "4\/6",
+        "Topic": "Abstract",
+        "Speaker": "",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "3\/30",
+        "Topic": "Paper",
+        "Speaker": "韻宇",
+        "Title": "Semanticons: Visual Metaphors as File Icons [Eurographics (2005)]"
+    },
+    {
+        "Date": "3\/30",
+        "Topic": "Abstract",
+        "Speaker": "林捷",
+        "Title": "1. TSmap3D: Browser Visualization of High Dimensional Time Series Data  2. Automated Port Traffic Statistics: From Raw Data to Visualisation 3. Gaussian Cubes: Real-Time Modeling for Visual Exploration of Large Multidimensional Datasets  4. Evaluation of Graph Sampling: A Visualization Perspective 5. Visualizing the Hidden Activity of Artificial Neural Networks"
+    },
+    {
+        "Date": "3\/23",
+        "Topic": "Paper",
+        "Speaker": "御廷",
+        "Title": "Improving Human Body Part Detection using Deep Learning and Motion Consistency-2016 14th International Conference on Control, Automation, Robotics & Vision Phuket, Thailand, 13-15th November 2016 (ICARCV 2016)"
+    },
+    {
+        "Date": "3\/23",
+        "Topic": "Abstract",
+        "Speaker": "韻宇",
+        "Title": "1.Affecticon:Emotion-Based Icons for Music Retrieval [IEEE Computer Graphics and Applications(2011)]  2.Matching Images With Textual Document Using TFIDF Method [International Congress on Image and Signal Processing(CISP 2012)]  3.Document Clustering: TF-IDF approach [International Conference on Electrical, Electronics, and Optimization Techniques(ICEEOT 2016)]  4.Synthesizing evocative imagery through design patterns [Hawaii International Conference on System Sciences(HICSS 2003)]  5.Semanticons: Visual Metaphors as File Icons [Eurographics (2005)]"
+    },
+    {
+        "Date": "3\/16",
+        "Topic": "Paper",
+        "Speaker": "冠宇",
+        "Title": "Visualization of Crowd-Powered Impression Evaluation Results---(2015 19th International Conference on Information Visualization)"
+    },
+    {
+        "Date": "3\/16",
+        "Topic": "Abstract",
+        "Speaker": "御廷",
+        "Title": "1.AUTOMATIC IMAGE DESCRIPTION BY USING WORD-LEVEL FEATURES  2.Real-time Natural Language Processing for Crowdsourced Road Traffic Alerts-2015 International Conference on Advances in ICT for Emerging Regions (ICTer) : 058-062  3.Restaurant Attribute classification using Deep Learning  4.System for Monitoring Natural Disasters using Natural Language Processing in the Social Network Twitter  5.Improving Human Body Part Detection using Deep Learning and Motion Consistency-2016 14th International Conference on Control, Automation, Robotics & Vision Phuket, Thailand, 13-15th November 2016 (ICARCV 2016)"
+    },
+    {
+        "Date": "3\/9",
+        "Topic": "Paper",
+        "Speaker": "老師上課",
+        "Title": "線性代數"
+    },
+    {
+        "Date": "3\/9",
+        "Topic": "Abstract",
+        "Speaker": "老師上課",
+        "Title": "線性代數"
+    },
+    {
+        "Date": "3\/2",
+        "Topic": "Paper",
+        "Speaker": "君豪",
+        "Title": "與林伯慎老師實驗室Meeting  Visualizing Multiple Variables Across Scale and Geography (infoVis 2015)"
+    },
+    {
+        "Date": "3\/2",
+        "Topic": "Abstract",
+        "Speaker": "冠宇",
+        "Title": "1. A design of personal bibliographic data visualization ---(Pacific Visualization Symposium(PacificVis),2016 IEEE)  2. Immersive and Collaborative Data Visualization Using Virtual Reality Platforms ---(2014 IEEE International Conference on Big Data)  3. On using Tree Visualisation Techniques to support Source Code comprehension---(2016 IEEE Working Conference on Software Visualization)  4. Visualization of Origin-Destination Matrices Using a Connection Barchart and Coordinated Maps ---(Pacific Visualization Symposium(PacificVis), 2016 IEEE)  5. Visualization of Crowd-Powered Impression Evaluation Results---(2015 19th International Conference on Information Visualization)"
+    },
+    {
+        "Date": "2\/23",
+        "Topic": "Paper",
+        "Speaker": "元棓",
+        "Title": "PatchMatch: A Randomized Correspondence Algorithm for Structural Image Editing (ACM Siggraph 2009, TOG, 2009)"
+    },
+    {
+        "Date": "2\/23",
+        "Topic": "Abstract",
+        "Speaker": "君豪",
+        "Title": "1.A Visual Analytics Approach for Categorical Joint Distribution Reconstruction from Marginal Projections (VAST 2016)  2.Visualizing High-Dimensional Data: Advances in the Past Decade (TVCG 2017)  3.Visualizing the Evolution of Compound Digraphs with TimeArcTrees (EuroVis 2009)  4.TimeArcs: Visualizing Fluctuations in Dynamic Networks (EuroVis 2016)  5.Visualizing Multiple Variables Across Scale and Geography (infoVis 2015)"
+    },
+    {
+        "Date": "2\/16",
+        "Topic": "Paper",
+        "Speaker": "Indah",
+        "Title": "Gender and Smile Classification using Deep Convolutional Neural Network  IEEE Computer Vision and Pattern Recognition Workshops, 2016"
+    },
+    {
+        "Date": "2\/16",
+        "Topic": "Abstract",
+        "Speaker": "元棓",
+        "Title": "PuzzleTale: A Tangible Puzzle Game for Interactive Storytelling (ACM Computers in Entertainment, 2010)  Cascade Object Detection with Deformable Part Models (CVPR 2010)  Automatic Detection of Cars in Real Roads using Haar-like Features (CONTROL 2008)  Exemplar-SVMs for Visual Object Detection, Label Transfer and Image Retrieval (ICML 2012)"
+    },
+    {
+        "Date": "2\/9",
+        "Topic": "Paper",
+        "Speaker": "致平",
+        "Title": "Shallow and Deep Convolutional Networks for Saliency Prediction  2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)"
+    },
+    {
+        "Date": "2\/9",
+        "Topic": "Abstract",
+        "Speaker": "Indah",
+        "Title": "Sketch Me That Shoe  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016  ImageNet Classification with Deep Convolutional Neural Network  Advances in neural information processing systems  A Convolutional Neural Network for Leaves Recognition Using Data Augmentation  IEEE International Conference on Computer and Information Technology (2015)  Deep-Plant: Plant Identification with Convolutional Neural Network  IEEE International Conference on Image Processing (ICIP), 2015"
+    },
+    {
+        "Date": "2\/2",
+        "Topic": "Festival",
+        "Speaker": "無",
+        "Title": "跪泥"
+    },
+    {
+        "Date": "1\/26",
+        "Topic": "Festival",
+        "Speaker": "無",
+        "Title": "跪泥"
+    },
+    {
+        "Date": "1\/19",
+        "Topic": "Paper",
+        "Speaker": "怡欣",
+        "Title": "Synthesis of Oil-Style Paintings(PSIVT, 2015)"
+    },
+    {
+        "Date": "1\/19",
+        "Topic": "Abstract",
+        "Speaker": "致平",
+        "Title": "Digital Image Processing Techniques for Object Detection From Complex Background Image  International Symposium on Robotics and Intelligent Sensors 2012 (IRIS 2012)  Visual Saliency Detection in Color Images Based on Density Estimation  Electronics Letters ( Volume: 53, Issue: 1, 1 5 2017)  Image Complexity and Spatial Information  2013 Fifth International Workshop on Quality of Multimedia Experience (QoMEX)  Saliency Analysis and Region of Interest Detection via Orientation Information and Contrast Feature in Remote Sensing Images  Visual Communications and Image Processing (VCIP), 2016"
+    },
+    {
+        "Date": "1\/12",
+        "Topic": "Paper",
+        "Speaker": "修課",
+        "Title": "報告研究相關進度"
+    },
+    {
+        "Date": "1\/5",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    }
+]

@@ -1,0 +1,777 @@
+{
+  "Journal": [
+    {
+      "title": "A WebGL-Based 3D Furniture Modeling System: An Approach for Optimizing Visualization and Interaction",
+      "authors": "San-Chi Yeh, Chuan-Kai Yang and Ling-Chi Cheng",
+      "publication": "to appear in Multimedia Tools and Applications. (SCI)",
+      "link": "https://link.springer.com/article/10.1007/s11042-025-20746-w"
+    },
+    {
+      "title": "Water-Sensitive Paper Detection and Spray Analysis",
+      "authors": "Chia-Lin Wu, Chuan-Kai Yang and Ji-Yang Lin",
+      "publication": "to appear in Multimedia Tools and Applications. (SCI)",
+      "link": "https://link.springer.com/article/10.1007/s11042-023-14552-5"
+    },
+    {
+      "title": "Visualizing NBA Information via Storylines",
+      "authors": "Jie Lin, Chuan-Kai Yang and Chiun-How Kao",
+      "publication": "to appear in Computers & Graphics. (SCI)",
+      "link": "https://authors.elsevier.com/a/1kWJSMFvIGXMH"
+    },
+    {
+      "title": "Three-Dimensional Positioning On Image Point Of Interest Via Google Geographic Information",
+      "authors": "Jie Lin, Chuan-Kai Yang and Yi-Fang Kao",
+      "publication": "Signal, Image and Video Processing, 18(3), 2763–2771, 2024. (SCI)"
+    },
+    {
+      "title": "Video Visualization via Face and Speaker Clustering",
+      "authors": "Dehvari Mojiborrahman and Chuan-Kai Yang",
+      "publication": "Multimedia Tools and Applications, 82(17), 25865–25881, 2023. (SCI)"
+    },
+    {
+      "title": "Performance Analysis and Assessment of Type 2 Diabetes Screening Scores in Patients with Non-Alcoholic Fatty Liver Disease",
+      "authors": "Norma Latif Fitriyani, Muhammad Syafrudin, Siti Maghfirotul Ulyah, Ganjar Alfian, Syifa Latif Qolbiyani, Chuan-Kai Yang, Jongtae Rhee and Muhammad Anshari",
+      "publication": "Mathematics, 11(10), 2266, 2023 (SCI)"
+    },
+    {
+      "title": "Realistic Video Generation for American Sign Language",
+      "authors": "Meng-Chen Xu and Chuan-Kai Yang",
+      "publication": "Multimedia Tools and Applications, 81(27), 38849–38886, 2022. (SCI)"
+    },
+    {
+      "title": "Privacy Protection and Beautification of Cornea Images",
+      "authors": "Chia-Lin Wu, Chuan-Kai Yang and Yi-Ling Lin",
+      "publication": "Multimedia Tools and Applications, 81(22), 32421–32448, 2022. (SCI)"
+    },
+    {
+      "title": "Improving Deep Mutual Learning via Knowledge Distillation",
+      "authors": "Achmad Lukman and Chuan-Kai Yang",
+      "publication": "Applied Sciences, 12(15), 7916, 2022 (SCI)"
+    },
+    {
+      "title": "Interactive Sound Generation to Aid Visually Impaired People via Object Detection Using Touch Screen Sensor",
+      "authors": "Tias Kurniati, Chuan-Kai Yang, Tzer-Shyoung Chen, Yu-Fang Chung, Yu-Min Huang and Chih-Cheng Chen",
+      "publication": "Sensors and Materials, 33(11), 4047-4068, 2021. (SCI)."
+    },
+    {
+      "title": "Mental Map-Preserving Visualization through a Genetic Algorithm",
+      "authors": "Mojiborrahman Dehvari, Chuan-Kai Yang and Enrico Armando",
+      "publication": "Applied Sciences, 11(10), 4336-4352, 2021. (SCI).",
+      "link": "research/Mojib/Mental_Map_Preserving_Visualization_through_a_Genetic_Algorithm.html"
+    },
+    {
+      "title": "An Object Recognition System based on Convolutional Neural Networks and Angular Resolutions",
+      "authors": "Achmad Lukman and Chuan-Kai Yang",
+      "publication": "Multimedia Tools and Applications, 80(10), 16059-16085, 2021. (SCI)",
+      "link": "research/Lukman/object_recognition_summary/summary_object_recognition_journal.html"
+    },
+    {
+      "title": "A Multi-Person Selfie System via Augmented Reality",
+      "authors": "Jie Lin and Chuan-Kai Yang",
+      "publication": "Computer Graphics Forum, 39(7), 553-564, 2020. (SCI)",
+      "link": "research/Lin Jie/ARPhoto-Context-Research-CGM.htm"
+    },
+    {
+      "title": "Photo Composition with Real-Time Rating",
+      "authors": "Yi-Feng Li, Chuan-Kai Yang and Yi-Zhen Chang",
+      "publication": "Sensors, 20(3): 582-611, 2020. (SCI)",
+      "link": "https://www.mdpi.com/1424-8220/20/3/582/htm"
+    },
+    {
+      "title": "Generation of Design Ideas using EDOS-Touch",
+      "authors": "Yuan-Bang Cheng, Teng-Wen Chang and Chuan-Kai Yang",
+      "publication": "The Design Journal, 22(2): 169-190, 2019. (AHCI)",
+      "link": "Personal_website/101/Aban/designjournalpaper.html"
+    },
+    {
+      "title": "Automatic Generation of Video Navigation from Google Street View Data with Car Detection and Inpainting",
+      "authors": "Yuan-Bang Cheng, Chuan-Kai Yang, Guan-Chung Chang and Teng-Wen Chang",
+      "publication": "Multimedia Tools and Applications, 78(12): 16129-16158, 2019. (SCI)",
+      "link": "Personal_website/101/Aban/googlepaper.html"
+    },
+    {
+      "title": "Stereoscopic Image Stippling",
+      "authors": "Chuan-Kai Yang and Chien-Yu Hou",
+      "publication": "Signal, Image and Video Processing, 12(2), 215-222, 2018. (SCI)",
+      "link": "research/M10109115/stereo_i_s.html"
+    },
+    {
+      "title": "Disease-Specific Brain Template for Quantification of Brain Dopamine Transporter in Parkinson's Disease",
+      "authors": "Y. S. Liou, C. K. Yang, K. J. Lin, I. T. Hsiao, Y. H. Weng, M. J. Huang and M. R. Lin",
+      "publication": "Journal of the Neurological Sciences, 381, 805-805, 2017. (SCIE)",
+      "link": "pub.html"
+    },
+    {
+      "title": "Using Data Visualization Technique to Detect Sensitive Information Re-identification Problem of Real Open Dataset",
+      "authors": "Chiun-How Kao, Chih-Hung Hsieh, Yu-Feng Chu, Yu-Ting Kuang, and Chuan-Kai Yang",
+      "publication": "Journal of Systems Architecture, 80, 85-91, 2017. (SCI)",
+      "link": "pub.html"
+    },
+    {
+      "title": "Obfuscated Volume Rendering",
+      "authors": "Jia-Kai Chou and Chuan-Kai Yang",
+      "publication": "The Visual Computer, 32(12), 1593-1604, 2016. (SCI)",
+      "link": "/publications/journal/template.pdf"
+    },
+    {
+      "title": "Encryption Domain Content-based Image Retrieval and Convolution through a Block-based Transformation Algorithm",
+      "authors": "Jia-Kai Chou, Chuan-Kai Yang and Hsing-Ching Chang",
+      "publication": "Multimedia Tools and Applications, 75(21), 13805-13832, 2016. (SCI)",
+      "link": "/publications/journal/template_R2.pdf"
+    },
+    {
+      "title": "Integrated Model/Scene Construction through Context-Based Search, Data-Driven Suggestion and Component Replacement",
+      "authors": "Po-An Chen and Chuan-Kai Yang",
+      "publication": "Multimedia Tools and Applications, 75(18), 11555-11576, 2016. (SCI)",
+      "link": "/publications/journal/design.pdf"
+    },
+    {
+      "title": "Automatic Hair Extraction from 2D Images",
+      "authors": "Chuan-Kai Yang and Chia-Ning Kuo",
+      "publication": "Multimedia Tools and Applications 75(8): 4441-4465, 2016. (SCI)",
+      "link": "/publications/journal/draft.pdf"
+    },
+    {
+      "title": "Video Object Retrieval by Trajectory and Appearance",
+      "authors": "Yuan-Hao Lai and Chuan-kai Yang",
+      "publication": "IEEE Transactions on Circuits and Systems for Video Technology 25(6): 1026-1037, 2015. (SCI)",
+      "link": "/publications/journal/trace.pdf"
+    },
+    {
+      "title": "A HCI interface based on hand gestures",
+      "authors": "Chuan-Kai Yang and Yu-Chun Chen",
+      "publication": "Signal, Image and Video Processing 9(2): 451-462, 2015. (SCI)",
+      "link": "./publications/journal/hand_sivp_online_first.pdf"
+    },
+    {
+      "title": "Exploratory data analysis of interval-valued symbolic data with matrix visualization",
+      "authors": "Chiun-How Kao, Junji Nakano, Sheau-Hue Shieh, Yin-Jing Tien, Han-Ming Wu, Chuan-kai Yang and Chun-houh Chen",
+      "publication": "Computational Statistics & Data Analysis 79: 14-29, 2014. (SCI)",
+      "link": "/publications/journal/iGAP_1115.pdf"
+    },
+    {
+      "title": "Fast Content-Aware Video Length Reduction",
+      "authors": "Hsing-Ching Chang and Chuan-Kai Yang",
+      "publication": "Signal, Image and Video Processing 8(7):1383-1397, 2014. (SCI)",
+      "link": "/publications/journal/video.pdf"
+    },
+    {
+      "title": "Stain Removal in 2D Images with Globally-Varying Textures",
+      "authors": "Chuan-Kai Yang and Yu-Chih Yeh",
+      "publication": "Signal, Image and Video Processing 8(7):1373-1382, 2014. (SCI)",
+      "link": "/publications/journal/S2D.pdf"
+    },
+    {
+      "title": "Simulation of Face/Hairstyle Swapping in Photographs with Skin Texture Synthesis",
+      "authors": "Jia-Kai Chou and Chuan-Kai Yang",
+      "publication": "Multimedia Tools and Applications 63(3):729-756, 2013. (SCI)",
+      "link": "/publications/journal/haircut.pdf"
+    },
+    {
+      "title": "Face-off: Automatic Alteration of Facial Features",
+      "authors": "Jia-Kai Chou,Chuan-Kai Yang and Sing-Dong Gong",
+      "publication": "Multimedia Tools and Applications 56(3):569-596, 2012. (SCI)",
+      "link": "/publications/journal/faceoff.pdf"
+    },
+    {
+      "title": "Fast Architecture Prototyping through 3D Collage",
+      "authors": "Chuan-Kai Yang and Ching-Yang Tsai",
+      "publication": "Multimedia Tools and Applications 57(3):527-547, 2012. (SCI)",
+      "link": "/publications/journal/Architecture3dmodel.pdf"
+    },
+    {
+      "title": "PaperVis: Literature Review Made Easy",
+      "authors": "Jia-Kai Chou and Chuan-Kai Yang",
+      "publication": "Computer Graphics Forum 30(3):721-730, 2011. (SCI)",
+      "link": "/publications/journal/EuroVis_PaperVis_CameraReady.pdf"
+    },
+    {
+      "title": "The Digital Product Transaction Mechanism for Electronic Auction Environment",
+      "authors": "Chih-Ta Yen, Tzong-Chen Wu, Ming-Huang Guo, Chuan-kai Yang, and Han-Chieh Chao",
+      "publication": "IET Information Security 4(4): 248-257, 2010. (SCI)",
+      "link": "/publications/journal/drm.pdf"
+    },
+    {
+      "title": "An Optimal Balanced Partitioning of a Set of 1D Intervals",
+      "authors": "Chuan-kai Yang,",
+      "publication": "International Journal of Artificial Life Research 1(2): 72-79, 2010.",
+      "link": "/publications/journal/dpp_ijalr.pdf"
+    },
+    {
+      "title": "Synthesizing Solid Particle Textures via a Visual-Hull Algorithm",
+      "authors": "Hsing-Ching Chang, Chuan-kai Yang, Jia-Wei Chiou and Shih-Hsien Liu,",
+      "publication": "Computers & Graphics 33(5): 648-658, 2009.(SCI)",
+      "link": "/publications/conference/volsyn.pdf"
+    },
+    {
+      "title": "A New Seed-Set Finding Approach for Iso-Surface Extraction",
+      "authors": "Chuan-kai Yang and Chiang-Han Hong,",
+      "publication": "Journal of Information Science and Engineering 24(6):1771-1785, 2008. (SCI)",
+      "link": "/publications/conference/seedset_jise.pdf"
+    },
+    {
+      "title": "Automatic Mood-Transferring between Color Images",
+      "authors": "Chuan-kai Yang and Li-kai Peng,",
+      "publication": "IEEE Computer Graphics and Applications, 28(2): 52-61, 2008. (SCI)",
+      "link": "/publications/conference/color_mood_cgaa.pdf"
+    },
+    {
+      "title": "An Interactive Facial Expression Generation System",
+      "authors": "Chuan-kai Yang and Wei-ting Chiang,",
+      "publication": "Multimedia Tools and Applications 40(1):41-60, 2008. (SCI)",
+      "link": "/publications/conference/expr_mms_online.pdf"
+    },
+    {
+      "title": "Realization of Seurat’s Pointillism via Non-Photorealistic Rendering",
+      "authors": "Chuan-kai Yang and Hui-lin Yang,",
+      "publication": "The Visual Computer, 28(5):303-322, 2008, (SCI)",
+      "link": "/publications/conference/seurat_tvc_online.pdf"
+    },
+    {
+      "title": "An Optimal Algorithm for The Minimum Disc Cover Problem",
+      "authors": "Min-te Sun, Chih-wei Yi, Chuan-kai Yang , Ten-hwang Lai,",
+      "publication": "Algorithmica, 50(1): 58-71, 2008. (SCI)"
+    },
+    {
+      "title": "Time-Critical Rendering of Tetrahedral Meshes",
+      "authors": "Chuan-kai Yang and Tzi-cker Chiueh,",
+      "publication": "Journal of Information Science and Engineering, 23(5): 1437-1451, 2007. (SCI)"
+    },
+    {
+      "title": "Coexistence Proof Using Chain of Timestamps for Multiple RFID Tags",
+      "authors": "Chih-chung Lin and Yuan-cheng Lai and J. D. Tygar and Chuan-kai Yang and Chi-lung Chiang",
+      "publication": "Lecture Notes in Computer Science 4537/2007 (Advances in Web and Network Technologies, and Information Management)"
+    },
+    {
+      "title": "A New Algorithm for Solid Texture Synthesis",
+      "authors": "Jia-wei Chiou and Chuan-kai Yang ,",
+      "publication": "Lecture Notes in Computer Science 4292/2006 (Advances in Visual Computing), pp. 780-789, 2006. (SCI)"
+    },
+    {
+      "title": "A Non-photorealistic Rendering of Seurat's Pointillism",
+      "authors": "Hui-lin Yang and Chuan-kai Yang ,",
+      "publication": "Lecture Notes in Computer Science 4292/2006 (Advances in Visual Computing), pp. 760-769, 2006. (SCI)"
+    },
+    {
+      "title": "Integration of Volume Decompression and Out-of-Core Iso-Surface Extraction from Irregular Volume Data",
+      "authors": "Chuan-kai Yang and Tzi-cker Chiueh,",
+      "publication": "The Visual Computer 22(4): 249-265, 2006. (SCI)"
+    },
+    {
+      "title": "Zodiac: A History-based Interactive Video Authoring System",
+      "authors": "Tzi-cker Chiueh , Tulika Mitra , Anindya Neogi and Chuan- kai Yang",
+      "publication": "ACM Multimedia Systems Journal (SCI), special issue on Multimedia Authoring and Presentation Techniques, vol.8 no.3, October 2000. (SCI)"
+    }
+  ],
+  "Conference": [
+    {
+      "title": "Navigation on Hand-Crafted Map via Deformation-Tolerant Feature Matching with Google Maps",
+      "authors": "Ferdinan Gutana and Chuan-Kai Yang and Tien-Ruey Hsiang and Yuan-Cheng Lai",
+      "publication": "2025 International Conference on Consumer Technology - Pacific 2025 (ICCT-Pacific 2025), March 2025"
+    },
+    {
+      "title": "Different Lighting Environment Simulation Using Illuminant Estimator and Linear Color Correction",
+      "authors": "Jason Gerald Sutanto and Chuan-Kai Yang",
+      "publication": "2024 13th Global Conference on Consumer Electronics (GCCE 2024), October 2024"
+    },
+    {
+      "title": "VIDEO-BASED PIANO PERFORMANCE EVALUATION VIA DYNAMIC TIME WARPING",
+      "authors": "Vincentius Marcell and Chuan-Kai Yang",
+      "publication": "18th International Conference on Computer Graphics, Visualization, Computer Vision and Image Processing 2024 (CGVCVIP 2024), July 2024"
+    },
+    {
+      "title": "撞球運動智慧輔助系統之擊球路徑規劃",
+      "authors": "江柏宏 and 楊傳凱",
+      "publication": "Computer Graphics Workshop 2024 (CGW 2024), July 2024"
+    },
+    {
+      "title": "結合主成分分析與力導向之資料視覺化",
+      "authors": "胡恩維 and 楊傳凱",
+      "publication": "Computer Graphics Workshop 2024 (CGW 2024), July 2024"
+    },
+    {
+      "title": "基於2D影像輪廓之視角變換應用於步態辨識",
+      "authors": "左夏強 and 楊傳凱",
+      "publication": "Computer Graphics Workshop 2024 (CGW 2024), July 2024"
+    },
+    {
+      "title": "基於深度學習之貓臉影像輔助標註研究",
+      "authors": "林欣華 and 楊傳凱",
+      "publication": "Computer Graphics Workshop 2024 (CGW 2024), July 2024"
+    },
+    {
+      "title": "結合深度學習與影像優化之農作物疾病分類",
+      "authors": "王怡淳 and 楊傳凱",
+      "publication": "Computer Graphics Workshop 2024 (CGW 2024), July 2024"
+    },
+    {
+      "title": "虛擬實境撞球運動智慧輔助之動作分析系統",
+      "authors": "蔡明達 and 楊傳凱",
+      "publication": "Computer Graphics Workshop 2024 (CGW 2024), July 2024"
+    },
+    {
+      "title": "Path Finding via Shape Context Matching",
+      "authors": "Yi-Feng Li and Zun-Yao Hou, Chuan-Kai Yang and Yuan-Cheng Lai",
+      "publication": "16th International Conference on Advanced Computational Intelligence 2024 (ICACI 2024), May 2024"
+    },
+    {
+      "title": "Vehicle Speed Estimation & Traffic Light Classification using Deep-Learning Approaches",
+      "authors": "Edwin Indarto and Chuan-Kai Yang",
+      "publication": "2023 12th Global Conference on Consumer Electronics (GCCE 2023), October 2023"
+    },
+    {
+      "title": "社群媒體影片爬蟲與影片去識別化",
+      "authors": "楊雯筑 and 楊傳凱",
+      "publication": "Computer Graphics Workshop 2023 (CGW 2023), July 2023"
+    },
+    {
+      "title": "結合室內設計指南進行智慧空間規劃",
+      "authors": "林姿廷 and 楊傳凱",
+      "publication": "Computer Graphics Workshop 2023 (CGW 2023), July 2023"
+    },
+    {
+      "title": "A Lightweight American Sign Language Recognition using a Deep Learning Approach",
+      "authors": "Yohanes Satria Nugroho, Chuan-Kai Yang and Yuan-Cheng Lai",
+      "publication": "2022 10th International Conference on Signal and Image Processing (SIGL 2023), May 2023"
+    },
+    {
+      "title": "Chronic Disease Prediction Model Using Integration of DBSCAN, SMOTE-ENN, and Random Forest",
+      "authors": "Norma Latif Fitriyani, Muhammad Syafrudin, Ganjar Alfian, Chuan-kai Yang, Jongtae Rhee and Siti Maghfirotul Ulyah",
+      "publication": "2022 ASU International Conference in Emerging Technologies for Sustainability and Intelligent Systems (ICETSIS), June 2022"
+    },
+    {
+      "title": "鳥聲辨識與聲源定位APP",
+      "authors": "徐晟紘 and 楊傳凱",
+      "publication": "Computer Graphics Workshop 2022 (CGW 2022), July 2022"
+    },
+    {
+      "title": "利用Google Map圖像於地圖導覽之定位",
+      "authors": "宋逸慈 and 楊傳凱",
+      "publication": "Computer Graphics Workshop 2022 (CGW 2022), July 2022"
+    },
+    {
+      "title": "自動分析與偵測無人機農藥噴灑水敏試紙品質",
+      "authors": "林紀揚 and 楊傳凱",
+      "publication": "Computer Graphics Workshop 2022 (CGW 2022), July 2022"
+    },
+    {
+      "title": "Video-Based Text to ASL via Transitional Motion Synthesis",
+      "authors": "Yulia and Chuan-Kai Yand and Yuan-Cheng Lai",
+      "publication": "2022 12th International Conference on Advanced Computer Information Technologies (ACIT 2022), September 2022"
+    },
+    {
+      "title": "360相機環境下之物件追蹤",
+      "authors": "潘玟蓁 and 楊傳凱",
+      "publication": "Computer Graphics Workshop 2021 (CGW 2021), July 2021."
+    },
+    {
+      "title": "應用影片分析生成足球比賽精華片段",
+      "authors": "陳凱呈 and 楊傳凱",
+      "publication": "Computer Graphics Workshop 2021 (CGW 2021), July 2021."
+    },
+    {
+      "title": "瞳孔影像安全與美化之研究",
+      "authors": "吳家霖 and 楊傳凱",
+      "publication": "Computer Graphics Workshop 2021 (CGW 2021), July 2021."
+    },
+    {
+      "title": "A Multi-Person Selfie System via Augmented Reality",
+      "authors": "Jie Lin and Chuan-Kai Yang",
+      "publication": "Pacific Graphics 2020 (PG 2020), 2020."
+    },
+    {
+      "title": "利用Google圖資於影像興趣點之三維定位",
+      "authors": "高宜芳 and 楊傳凱",
+      "publication": "Computer Graphics Workshop 2020 (CGW 2020), July 2020."
+    },
+    {
+      "title": "基於形狀與高度之路徑比對",
+      "authors": "侯尊堯 and 楊傳凱",
+      "publication": "Computer Graphics Workshop 2020 (CGW 2020), July 2020."
+    },
+    {
+      "title": "基於WebGL與視覺化之三維傢俱建模系統",
+      "authors": "鄭鈴錡 and 楊傳凱",
+      "publication": "Computer Graphics Workshop 2020 (CGW 2020), July 2020."
+    },
+    {
+      "title": "基於人臉與語音分群之影片視覺化系統",
+      "authors": "盧立恩 and 楊傳凱",
+      "publication": "Computer Graphics Workshop 2020 (CGW 2020), July 2020."
+    },
+    {
+      "title": "Kinect v2 Based Real-Time Motion Comparison with Re-Targeting and Color Code Feedback",
+      "authors": "Chuan-Kai Yang and Richard Tondowidjojo",
+      "publication": "2019 IEEE 8-th Global Conference on Consumer Electronic (GCCE 2019), October, 2019."
+    },
+    {
+      "title": "Object-Locating via Object Recognition and Indoor Positioning",
+      "authors": "Chuan-Kai Yang and Hsuan Chin",
+      "publication": "International Conference on Computer Graphics, Visualization, Computer Vision and Image Processing 2019 (CGVCVIP 2019), July, 2019."
+    },
+    {
+      "title": "Twitch遊戲平台影片之視頻摘要",
+      "authors": "馮翊婷 and 楊傳凱",
+      "publication": "Computer Graphics Workshop 2019 (CGW 2019), June 2019."
+    },
+    {
+      "title": "影像構圖之即時評分系統",
+      "authors": "張怡臻 and 楊傳凱",
+      "publication": "Computer Graphics Workshop 2019 (CGW 2019), June 2019."
+    },
+    {
+      "title": "視覺化動作學習系統",
+      "authors": "徐明睿 and 楊傳凱",
+      "publication": "Computer Graphics Workshop 2019 (CGW 2019), June 2019."
+    },
+    {
+      "title": "動作學習之3D人體建模和變形",
+      "authors": "陳昱文 and 楊傳凱",
+      "publication": "Computer Graphics Workshop 2019 (CGW 2019), June 2019."
+    },
+    {
+      "title": "室內定位用於物品搜尋之研究",
+      "authors": "晉萱 and 楊傳凱",
+      "publication": "Computer Graphics Workshop 2019 (CGW 2019), June 2019."
+    },
+    {
+      "title": "Google街景導覽動畫與3D虛擬實境顯示",
+      "authors": "鄭元棓, 楊傳凱 and 張登文",
+      "publication": "Computer Graphics Workshop 2019 (CGW 2019), June 2019."
+    },
+    {
+      "title": "Transition Motion Synthesis for Video-Based Text to ASL",
+      "authors": "Yulia and Chuan-Kai Yang",
+      "publication": "Computer Graphics Workshop 2019 (CGW 2019), June 2019."
+    },
+    {
+      "title": "Privacy-Preserving Encryption-Domain Video Retrieval over the Cloud via Block Transformations of Key Frames",
+      "authors": "Chuan-Kai Yang, Chiun-How Kao, Yuan-Cheng Lai and Nai-Wei Lo",
+      "publication": "The 42nd International Convention on Information and Communication Technology, Electronics and Microelectronics (Mipro 2019), May 2019."
+    },
+    {
+      "title": "Cat's Nose Recognition Using You Only Look Once (Yolo) and Scale-Invariant Feature Transform (SIFT)",
+      "authors": "Rifka Widyastuti and Chuan-Kai Yang",
+      "publication": "2018 IEEE 7-th Global Conference on Consumer Electronic (GCCE 2018), October, 2018."
+    },
+    {
+      "title": "Password Memorization Made Easy -- An Augmented-Reality Approach",
+      "authors": "Chuan-Kai yang, Hsuan Chin and Yuan-Cheng Lai",
+      "publication": "International Conference on Computer Graphics, Visualization, Computer Vision and Image Processing 2018 (CGVCVIP 2018), July, 2018."
+    },
+    {
+      "title": "文件分析之圖示生成系統",
+      "authors": "邱韻宇，楊傳凱",
+      "publication": "Computer Graphics Workshop 2018 (CGW 2018), June, 2018."
+    },
+    {
+      "title": "SceneGAN: 以對抗生成網路和高校次級像素卷積神經網路所產生之即時風景照超解析放大及風格轉換",
+      "authors": "鄭御廷，楊傳凱",
+      "publication": "Computer Graphics Workshop 2018 (CGW 2018), June, 2018."
+    },
+    {
+      "title": "Google街景影像用妤場景重現之研究",
+      "authors": "陳冠宇，楊傳凱",
+      "publication": "Computer Graphics Workshop 2018 (CGW 2018), June, 2018."
+    },
+    {
+      "title": "Classification MFCC Feature from Culex and Aedes Aegypti Mosquitoes Noise Using Support Vector Machine",
+      "authors": "Achmad Lukman, Agus Harjoko and Chuan-Kai Yang",
+      "publication": "2017 5th International Conference on Soft Computing, Intelligent System and Information Technology (ICSIIT 2017), September, 2017"
+    },
+    {
+      "title": "Leaf App: Leaf Recognition with Deep Convolutional Neural Networks",
+      "authors": "Tri Luhur Indayanti Sugata and Chuan-Kai Yang",
+      "publication": "2017 International Confernce on Informatics, Technology and Engineering (InCITE 2017), August, 2017"
+    },
+    {
+      "title": "Collaborative Panoramic Image Generation from Multiple Mobile Phones",
+      "authors": "Jie Lin and Chuan-Kai Yang",
+      "publication": "2017 IEEE International Conference on Multimedia & Expo Workshops, (ICMEW 2017), July, 2017."
+    },
+    {
+      "title": "An Exploratory Study on the Memory Performance for Memorizing the English Words through the Apps with Three Different Learning Strategies and Highlights",
+      "authors": "Yuan-Bang Cheng and Chuan-Kai Yang",
+      "publication": "2017 ACM International Conference on Education and Multimedia Technology (ICEMT 2017), 2017"
+    },
+    {
+      "title": "三維模型代表性與形狀特徵關聯之研究",
+      "authors": "黃名嘉，楊傳凱",
+      "publication": "Computer Graphics Workshop 2017 (CGW 2017), July, 2017"
+    },
+    {
+      "title": "互動式影片處理之特定物件非擬真著色系統",
+      "authors": "劉怡欣，楊傳凱",
+      "publication": "Computer Graphics Workshop 2017 (CGW 2017), July, 2017"
+    },
+    {
+      "title": "改善半影邊緣偵測之研究",
+      "authors": "莊育林，楊傳凱",
+      "publication": "Computer Graphics Workshop 2017 (CGW 2017), July, 2017"
+    },
+    {
+      "title": "基於環境光之影像內容變化系統",
+      "authors": "王致平，楊傳凱",
+      "publication": "Computer Graphics Workshop 2017 (CGW 2017), July, 2017"
+    },
+    {
+      "title": "Google 街景播放器:街景影像中物件自動偵測、修補與串接",
+      "authors": "鄭元棓，楊傳凱，張冠中，張登文",
+      "publication": "Computer Graphics Workshop 2017 (CGW 2017), July, 2017"
+    },
+    {
+      "title": "A Translator for American Sign Language to Text and Speech",
+      "authors": "ViN. T. Tuong, Chuan-Kai Yang and Quoc-Viet Tran",
+      "publication": "IEEE 5th Global Conference on Consumer Electronics (GCCE 2016), October, 2016"
+    },
+    {
+      "title": "Real-Time Eye State Detection System Using Haar Cascade Classifier and Circular Hough Transform",
+      "authors": "Norma Latif Fitriyani, Chuan-Kai Yang and Mhuammad Syafrudin",
+      "publication": "IEEE 5th Global Conference on Consumer Electronics (GCCE 2016), October, 2016"
+    },
+    {
+      "title": "2D-Clothing Shape Design Using Spline Curve",
+      "authors": "Hoang Tra Linh and Chuan-Kai Yang",
+      "publication": "24th Conference on Computer Graphics, Visualization and Computer Vision (WSCG 2016), May, 2016"
+    },
+    {
+      "title": "Laser-Pointer Human Computer Interaction System",
+      "authors": "Siang-Hao Kang and Chuan-Kai Yang",
+      "publication": "IEEE International Conference on Multimedia & Expo Workshops, (ICMEW 2015), June, 2015."
+    },
+    {
+      "title": "基於形狀特徵的三維模型正面判斷研究",
+      "authors": "林孟儒，楊傳凱",
+      "publication": "Computer Graphics Workshop 2015 (CGW 2015), July, 2015"
+    },
+    {
+      "title": "基於自身相似性的多比例因子圖像及影像超解析",
+      "authors": "張思敏，楊傳凱",
+      "publication": "Computer Graphics Workshop 2015 (CGW 2015), July, 2015"
+    },
+    {
+      "title": "基於字幕與使用者回饋之影片推薦與回顧",
+      "authors": "楊承翰，楊傳凱",
+      "publication": "Computer Graphics Workshop 2015 (CGW 2015), July, 2015"
+    },
+    {
+      "title": "3D立體點畫系統",
+      "authors": "侯芊妤，楊傳凱",
+      "publication": "Computer Graphics Workshop 2014 (CGW 2014), July, 2014"
+    },
+    {
+      "title": "基於Google Earth之自動導航系統",
+      "authors": "張冠中，楊傳凱",
+      "publication": "Computer Graphics Workshop 2014 (CGW 2014), July, 2014"
+    },
+    {
+      "title": "雷射筆人機互動系統",
+      "authors": "楊傳凱，康翔豪",
+      "publication": "Computer Graphics Workshop 2014 (CGW 2014), July, 2014"
+    },
+    {
+      "title": "A Study on Enhancing Timeline-Like Visualization with Verbal Text",
+      "authors": "Jia-Kai Chou, Issac Liao, Kwan-Liu Ma and Chuan-Kai Yang",
+      "publication": "Cyberworlds 2013, Octobor, 2013."
+    },
+    {
+      "title": "Automatically Extracting Hairstyles from 2D Images",
+      "authors": "Chuan-Kai Yang and Chia-Ning Kuo",
+      "publication": "International Symposium on Visual Computing (ISVC 2013), July, 2013."
+    },
+    {
+      "title": "A Hand-Tracking HCI Interface",
+      "authors": "Chuan-Kai Yang and Yu-Chun Chen",
+      "publication": "International Conference on Image and Vision Computing (ICIVC2012), August, 2012"
+    },
+    {
+      "title": "Automatic MIDI Genre Conversion",
+      "authors": "Hsing-Ching Chang and Chuan-Kai Yang",
+      "publication": "International Conference on Engineering and Technology Innovation 2012 (ICETI2012), November, 2012"
+    },
+    {
+      "title": "基於KINECT的動態物件模型建立",
+      "authors": "黃政杰 and 楊傳凱",
+      "publication": "Computer Graphics 2012 (CGW 2012), July, 2012"
+    },
+    {
+      "title": "畫像真人化",
+      "authors": "郭家伃 and 楊傳凱",
+      "publication": "Computer Graphics 2012 (CGW 2012), July, 2012"
+    },
+    {
+      "title": "Google街景圖自動串接之研究",
+      "authors": "賴孟庭 and 楊傳凱",
+      "publication": "Computer Graphics 2012 (CGW 2012), July, 2012"
+    },
+    {
+      "title": "Matrix Visualization for Symboic Data Analysis",
+      "authors": "Chun-Houh Chen, Chiun-How Kao, Juni Nakano, Sheau-Hue Shieh, Yin-Jing Tien and Chuan-Kai Yang",
+      "publication": "Workshop in Symbolic Data Analysis 2011 (SDA 2011), 2011, June"
+    },
+    {
+      "title": "PaperVis: Literature Review Made Easy",
+      "authors": "Jia-Kai Chou and Chuan-Kai Yang",
+      "publication": "Eurographics / IEEE Symposium on Visualization 2011 (EuroVis 2011), June, 2011",
+      "link": "/publications/journal/EuroVis_PaperVis_CameraReady.pdf"
+    },
+    {
+      "title": "居家風水自動化室內設計系統",
+      "authors": "陳彥秀 and 楊傳凱",
+      "publication": "Computer Graphics Workshop 2010 (CGW 2010) July, 2010"
+    },
+    {
+      "title": "三維模型串珠化",
+      "authors": "蘇錦芬 and 楊傳凱",
+      "publication": "Computer Graphics Workshop 2010 (CGW 2010) July, 2010"
+    },
+    {
+      "title": "以手勢為主之視窗互動介面",
+      "authors": "陳佑鈞 and 楊傳凱",
+      "publication": "Computer Graphics Workshop 2009 (CGW 2009) July, 2009"
+    },
+    {
+      "title": "Automatic Hair Cutting and Cloning",
+      "authors": "周家愷 and 楊傳凱",
+      "publication": "Computer Graphics Workshop 2009 (CGW 2009) July, 2009"
+    },
+    {
+      "title": "Fast Architecture Prototyping through 3D Collage",
+      "authors": "蔡青揚 and 楊傳凱",
+      "publication": "Computer Graphics Workshop 2009 (CGW 2009). July, 2009"
+    },
+    {
+      "title": "Content-Aware Video Resizing in Temporal and Spatial Domain",
+      "authors": "Hsing-Ching Chang, Chuan-kai Yang",
+      "publication": "The 21th IPPR Conference on Computer Vision Graphics and Image Processing (CVGIP 2008).August, 2008"
+    },
+    {
+      "title": "Coexistence Proof Using Chain of Timestamps for Multiple RFID Tags",
+      "authors": "Chih-chung Lin and Yuan-cheng Lai and J. D. Tygar and Chuan-kai Yang and Chi-lung Chiang",
+      "publication": "International Workshop on Application and Security Service in Web and Pervasive Environments (ASWAN 2007) June, 2007"
+    },
+    {
+      "title": "A New Algorithm for Solid Texture Synthesis",
+      "authors": "Jia-wei Chiou and Chuan-kai Yang ,",
+      "publication": "Internatinal Symposium on Visual Computing (ISVC‘2006), pp. 780-789, November, 2006",
+      "link": "/publications/conference/volsyn_LNCS.pdf"
+    },
+    {
+      "title": "A Non-photorealistic Rendering of Seurat's Pointillism",
+      "authors": "Hui-lin Yang and Chuan-kai Yang ,",
+      "publication": "Internatinal Symposium on Visual Computing (ISVC ‘2006), pp. 760-769, November, 2006",
+      "link": "/publications/conference/seurat_LNCS.pdf"
+    },
+    {
+      "title": "Minimum Disc Cover Set Construction in Mobile Ad Hoc Networks",
+      "authors": "Min-Te Sun, Xiaoli Ma, Chih-Wei Yi, Chuan-Kai Yang and Ten-Huang Lai,",
+      "publication": "Proceeding of 2005 International Conference on Computer Networks and Mobile Computing (ICCNMC'05), August 2005",
+      "link": "/publications/conference/iccnmc.pdf"
+    },
+    {
+      "title": "Integration of Volume Decompression and Out-of-Core Iso-Surface Extraction from Irregular Volume Data",
+      "authors": "Chuan-Kai Yang and Tzi-Cker Chiueh , poster paper,",
+      "publication": "Proceeding of International Workshop on Volume Graphics, Stony Brook , NY , USA , June 20 - 21, 2005",
+      "link": "/publications/conference/vglayer.pdf"
+    },
+    {
+      "title": "An Integrated Pipeline of Decompression, Simplication and Rendering for Irregular Volume Data",
+      "authors": "Chuan-Kai Yang and Tzi-Cker Chiueh ,",
+      "publication": "Proceeding of International Workshop on Volume Graphics, Stony Brook , NY , USA , June 20 - 21, 2005",
+      "link": "/publications/conference/vg05.pdf"
+    },
+    {
+      "title": "A Simple and Novel Seed-Set Finding Approach for Iso-Surface Extraction",
+      "authors": "Chiang-Han Hung and Chuan- kai Yang,",
+      "publication": "Proceeding of EuroVis2005, Leeds , United Kindom , June1 - 3, 2005",
+      "link": "/publications/conference/seedset.pdf"
+    },
+    {
+      "title": "A New Approach of Seed-Set Finding for Iso-Surface Extraction",
+      "authors": "Chiang-Han Hung and Chuan- kai Yang,",
+      "publication": "Proceeding of international computer symposium (ICS 2004), Taipei , Taiwan , December 15 - 17, 2004",
+      "link": "/publications/conference/ics2004.pdf"
+    },
+    {
+      "title": "A Decoupled Architecture for Application-Specific File Prefetching",
+      "authors": "Chuan- kai Yang, Tulika Mitra and Tzi-cker Chiueh",
+      "publication": "FREENIX track of the Usenix 2002 annual conference, Monterey, CA, USA, June 10 - 15, 2002.",
+      "link": "/publications/conference/TR111.ps.gz"
+    },
+    {
+      "title": "I/O Conscious Volume Rendering",
+      "authors": "Chuan- kai Yang and Tzi-cker Chiueh",
+      "publication": "VisSym '01, Joint Eurographics - IEEE TCVG Symposium on Visualization, Ascona , Switzerland, May 28 - 30, 2001.",
+      "link": "/publications/conference/TR89.pdf"
+    },
+    {
+      "title": "On-the-Fly Rendering Of Losslessly Compressed Irregular Volume Data",
+      "authors": "Chuan- kai Yang ,Tulika Mitra and Tzi-cker Chiueh",
+      "publication": "IEEE Visualization '2000, Salt Lake City , Utah , USA , October 8 - 13, 2000 .",
+      "link": "/publications/conference/TR88.pdf"
+    },
+    {
+      "title": "Application-Specific File Prefetching for Multimedia Programs",
+      "authors": "Tulika Mitra , Chuan- kai Yang and Tzi-cker Chiueh",
+      "publication": "IEEE Multimedia 2000, New York City, NY, USA, July 20 - August 2, 2000.",
+      "link": "/publications/conference/TR73.ps.tgZ"
+    },
+    {
+      "title": "Zodiac: A History-Based Interactive Video Authoring System",
+      "authors": "Tzi-cker Chiueh , Tulika Mitra , Anindya Neogi and Chuan- kai Yang",
+      "publication": "ACM Multimedia Conference, September 1998",
+      "link": "/publications/conference/TR46.ps.tgZ"
+    },
+    {
+      "title": "Integrated Volume Compression and Visualization",
+      "authors": "Tzi-cker Chiueh , Chuan- kai Yang, Taosong He, Hanspeter Pfister and Arie Kaufman",
+      "publication": "IEEE Visualization '97, Phoenix , AZ , October 1997.",
+      "link": "/publications/conference/TR27.ps.tgZ"
+    },
+    {
+      "title": "The Synthesis of a Cavern with Eroded Stalactites and Stalagmites",
+      "authors": "Ming Ouhyoung and Chuan- kai Yang",
+      "publication": "Proc. of CAD/Graphics'93, New Advances in Computer Aided Design and Computer Graphics Beijing, PRC, August 1993."
+    },
+    {
+      "title": "A Stalactite Cave by Stochastic Modeling with Radiosity Illumination",
+      "authors": "Chuan- kai Yang and Ming Ouhyoung",
+      "publication": "Proc. of 1992 International Computer Symposium, Taiwan , 1992."
+    }
+  ],
+  "Technical": [
+    {
+      "title": "A Character-Based Animation System",
+      "authors": "\" 以字元為單位的動畫顯示系統 \" 張 陞 元 and Chuan- kai Yang",
+      "publication": "July 2005",
+      "link": "/dino/www/thesis/Thesis.pdf"
+    },
+    {
+      "title": "Automatic grayscale image colorization",
+      "authors": "\" 自動灰階影像上色系統 \" 張佑瑋 and Chuan- kai Yang",
+      "publication": "July 2005",
+      "link": "/enix/www/project/M9209213.pdf"
+    },
+    {
+      "title": "3D Model Alignment",
+      "authors": "\" 三維模型之對齊 \" 毛紹嘉 and Chuan- kai Yang",
+      "publication": "July 2004",
+      "link": "/publications/technical/alignment.pdf"
+    },
+    {
+      "title": "On-the-Fly Processing of Compressed Volume Data",
+      "authors": "Chuan- kai Yang",
+      "publication": "Phd Dissertation, August, 2002."
+    },
+    {
+      "title": "On-the-Fly Processing of Compressed Volume Data",
+      "authors": "Chuan- kai Yang",
+      "publication": "Dissertation Proposal Report, October, 2001."
+    },
+    {
+      "title": "Integration of Volume Compression and Visualization: A Survey",
+      "authors": "Chuan- kai Yang",
+      "publication": "submitted for publication."
+    }
+  ]
+}

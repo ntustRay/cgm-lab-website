@@ -1,0 +1,332 @@
+[
+    {
+        "year": "2025",
+        "day": "Thursday",
+        "classroom": "MA314",
+        "time": "15:30-17:30"
+    },
+    {
+        "Date": "7\/3",
+        "Topic": "Paper",
+        "Speaker": "x",
+        "Title": "林伯慎老師實驗室"
+    },
+    {
+        "Date": "7\/3",
+        "Topic": "Abstract",
+        "Speaker": "x",
+        "Title": "林伯慎老師實驗室"
+    },
+    {
+        "Date": "6\/26",
+        "Topic": "Paper",
+        "Speaker": "Kenny",
+        "Title": ""
+    },
+    {
+        "Date": "6\/26",
+        "Topic": "Abstract",
+        "Speaker": "蔡惠晴",
+        "Title": ""
+    },
+    {
+        "Date": "6\/19",
+        "Topic": "Paper",
+        "Speaker": "劉德駿",
+        "Title": ""
+    },
+    {
+        "Date": "6\/19",
+        "Topic": "Abstract",
+        "Speaker": "Kenny",
+        "Title": ""
+    },
+    {
+        "Date": "6\/12",
+        "Topic": "Paper",
+        "Speaker": "林芳義",
+        "Title": ""
+    },
+    {
+        "Date": "6\/12",
+        "Topic": "Abstract",
+        "Speaker": "劉德駿",
+        "Title": ""
+    },
+    {
+        "Date": "6\/5",
+        "Topic": "Paper",
+        "Speaker": "許家瑋",
+        "Title": ""
+    },
+    {
+        "Date": "6\/5",
+        "Topic": "Abstract",
+        "Speaker": "林芳義",
+        "Title": ""
+    },
+    {
+        "Date": "5\/29",
+        "Topic": "Paper",
+        "Speaker": "何思嫺",
+        "Title": ""
+    },
+    {
+        "Date": "5\/29",
+        "Topic": "Abstract",
+        "Speaker": "許家瑋",
+        "Title": ""
+    },
+    {
+        "Date": "5\/22",
+        "Topic": "Paper",
+        "Speaker": "Haile",
+        "Title": ""
+    },
+    {
+        "Date": "5\/22",
+        "Topic": "Abstract",
+        "Speaker": "何思嫺",
+        "Title": ""
+    },
+    {
+        "Date": "5\/15",
+        "Topic": "Paper",
+        "Speaker": "Molion",
+        "Title": ""
+    },
+    {
+        "Date": "5\/15",
+        "Topic": "Abstract",
+        "Speaker": "Haile",
+        "Title": ""
+    },
+    {
+        "Date": "5\/8",
+        "Topic": "Paper",
+        "Speaker": "吳家霖",
+        "Title": ""
+    },
+    {
+        "Date": "5\/8",
+        "Topic": "Abstract",
+        "Speaker": "Molion",
+        "Title": ""
+    },
+    {
+        "Date": "5\/1",
+        "Topic": "Paper",
+        "Speaker": "x",
+        "Title": "林伯慎老師實驗室"
+    },
+    {
+        "Date": "5\/1",
+        "Topic": "Abstract",
+        "Speaker": "x",
+        "Title": "林伯慎老師實驗室"
+    },
+    {
+        "Date": "4\/24",
+        "Topic": "Paper",
+        "Speaker": "Nigus",
+        "Title": ""
+    },
+    {
+        "Date": "4\/24",
+        "Topic": "Abstract",
+        "Speaker": "吳家霖",
+        "Title": ""
+    },
+    {
+        "Date": "4\/17",
+        "Topic": "Paper",
+        "Speaker": "葉三吉",
+        "Title": ""
+    },
+    {
+        "Date": "4\/17",
+        "Topic": "Abstract",
+        "Speaker": "Nigus",
+        "Title": ""
+    },
+    {
+        "Date": "4\/10",
+        "Topic": "Paper",
+        "Speaker": "Jason",
+        "Title": ""
+    },
+    {
+        "Date": "4\/10",
+        "Topic": "Abstract",
+        "Speaker": "葉三吉",
+        "Title": ""
+    },
+    {
+        "Date": "4\/3",
+        "Topic": "Paper",
+        "Speaker": "x",
+        "Title": "清明節放假"
+    },
+    {
+        "Date": "4\/3",
+        "Topic": "Abstract",
+        "Speaker": "x",
+        "Title": "清明節放假"
+    },
+    {
+        "Date": "3\/27",
+        "Topic": "Paper",
+        "Speaker": "x",
+        "Title": "老師出國"
+    },
+    {
+        "Date": "3\/27",
+        "Topic": "Abstract",
+        "Speaker": "x",
+        "Title": "老師出國"
+    },
+    {
+        "Date": "3\/20",
+        "Topic": "Paper",
+        "Speaker": "Ferdinan",
+        "Title": ""
+    },
+    {
+        "Date": "3\/20",
+        "Topic": "Abstract",
+        "Speaker": "Jason",
+        "Title": ""
+    },
+    {
+        "Date": "3\/13",
+        "Topic": "Paper",
+        "Speaker": "Eliezer",
+        "Title": "MISC: Ultra-Low Bitrate Image Semantic Compression Driven by Large Multimodal Model"
+    },
+    {
+        "Date": "3\/13",
+        "Topic": "Abstract",
+        "Speaker": "Ferdinan",
+        "Title": ""
+    },
+    {
+        "Date": "3\/6",
+        "Topic": "Paper",
+        "Speaker": "x",
+        "Title": "林伯慎老師實驗室"
+    },
+    {
+        "Date": "3\/6",
+        "Topic": "Abstract",
+        "Speaker": "x",
+        "Title": "林伯慎老師實驗室"
+    },
+    {
+        "Date": "2\/27",
+        "Topic": "Paper",
+        "Speaker": "Zephaniah",
+        "Title": "Beyond mAP: Towards practical object detection for weed spraying in precision agriculture"
+    },
+    {
+        "Date": "2\/27",
+        "Topic": "Abstract",
+        "Speaker": "Eliezer",
+        "Title": "Topic 1: Text + Sketch: Image Compression at Ultra Low Rates  Topic 2: Rich and Poor Texture Contrast: A Simple yet Effective Approach for AI-generated Image Detection  Topic 3: Glaze: Protecting Artists from Style Mimicry by Text-to-Image Models  Topic 4: Semantic Compression With Large Language Models  Topic 5: MISC: Ultra-Low Bitrate Image Semantic Compression Driven by Large Multimodal Model"
+    },
+    {
+        "Date": "2\/20",
+        "Topic": "Paper",
+        "Speaker": "x",
+        "Title": ""
+    },
+    {
+        "Date": "2\/20",
+        "Topic": "Abstract",
+        "Speaker": "Zephaniah",
+        "Title": "1. OBJECT DETECTION IN AGRICULTURAL CONTEXTS: A MULTIPLE RESOLUTION BENCHMARK AND COMPARISON TO HUMAN 2. Real-time object detection and robotic manipulation for agriculture using a YOLO-based learning approach  3. Deep Learning-based Object Detection for Crop Monitoring in Soybean Fields  4. Deep Learning for Weed Detection and Segmentation in Agricultural Crops Using Images Captured by an Unmanned Aerial Vehicle  5. Beyond mAP: Towards practical object detection for weed spraying in precision agriculture"
+    },
+    {
+        "Date": "2\/13",
+        "Topic": "Paper",
+        "Speaker": "黃晨宇",
+        "Title": "Monocular Depth Estimation using Diffusion Models."
+    },
+    {
+        "Date": "2\/13",
+        "Topic": "Abstract",
+        "Speaker": "x",
+        "Title": ""
+    },
+    {
+        "Date": "2\/6",
+        "Topic": "Paper",
+        "Speaker": "陳冠廷",
+        "Title": "5. Improving Visual Defect Detection and Localization in Industrial Thermal Images Using Autoencoders"
+    },
+    {
+        "Date": "2\/6",
+        "Topic": "Abstract",
+        "Speaker": "黃晨宇",
+        "Title": "1. A Survey of Depth Estimation Based on Computer Vision.  2. Face Depth Estimation and 3D Reconstruction.  3. Face Depth Prediction by the Scene Depth.  4. Depth Pro: Sharp Monocular Metric Depth In Less Than a Second.  5. Monocular Depth Estimation using Diffusion Models."
+    },
+    {
+        "Date": "1\/30",
+        "Topic": "Paper",
+        "Speaker": "x",
+        "Title": "春假"
+    },
+    {
+        "Date": "1\/30",
+        "Topic": "Abstract",
+        "Speaker": "x",
+        "Title": "春假"
+    },
+    {
+        "Date": "1\/23",
+        "Topic": "Paper",
+        "Speaker": "吳岱芸",
+        "Title": "Automatic Assessment of Tone Quality in Violin Music Performance"
+    },
+    {
+        "Date": "1\/23",
+        "Topic": "Abstract",
+        "Speaker": "陳冠廷",
+        "Title": "1. Clustering Visual Similar Objects for Enhanced Synthetic Image Data for Object Detection  2. GEB-YOLO: Optimized YOLOv7 Model for Surface Defect Detection on Aluminum Profiles  3. Deep Learning-Empowered Robot Vision for Efficient Robotic Grasp Detection and Defect Elimination in Industry 4.0  4. Object Detection for Autonomous Logistics: A YOLOv4 Tiny Approach with ROS Integration and LOCO Dataset Evaluation  5. Improving Visual Defect Detection and Localization in Industrial Thermal Images Using Autoencoders"
+    },
+    {
+        "Date": "1\/16",
+        "Topic": "Paper",
+        "Speaker": "鄭暐瀚",
+        "Title": "5. Correction_and_Estimation_of_Workout_Postures_with_Pose_Estimation_using_AI"
+    },
+    {
+        "Date": "1\/16",
+        "Topic": "Abstract",
+        "Speaker": "吳岱芸",
+        "Title": "1.A DATASET AND BASELINE FOR AUTOMATED ASSESSMENT OF TIMBRE QUALITY IN TRUMPET SOUND  2.A real-time system for measuring sound goodness in instrumental sounds  3.Objective Evaluation of Guqin Timbre By Digital Signal processing  4.Analysis and Modeling of Timbre Perception Features of Chinese Musical Instruments  5. Automatic Assessment of Tone Quality in Violin Music Performance"
+    },
+    {
+        "Date": "1\/9",
+        "Topic": "Paper",
+        "Speaker": "孫耀庭",
+        "Title": "5.Health Record Security Through Multiple Watermarking on Fused Medical Images"
+    },
+    {
+        "Date": "1\/9",
+        "Topic": "Abstract",
+        "Speaker": "鄭暐瀚",
+        "Title": "1. Implementation_of_Machine_Learning_Technique_for_Identification_of_Yoga_Poses  2. Kun_Khmer_Posture_Recognition_Using_Body_Landmarks_A_Comparative_Experiment  3. Pose Trainer Correcting Exercise Posture using Pose Estimation  4. Research_on_3D_Human_Pose_Estimation_Using_RGBD_Camera  5. Correction_and_Estimation_of_Workout_Postures_with_Pose_Estimation_using_AI"
+    },
+    {
+        "Date": "1\/2",
+        "Topic": "Paper",
+        "Speaker": "x",
+        "Title": "林伯慎老師實驗室"
+    },
+    {
+        "Date": "1\/2",
+        "Topic": "Abstract",
+        "Speaker": "x",
+        "Title": "林伯慎老師實驗室"
+    }
+]

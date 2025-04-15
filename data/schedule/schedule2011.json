@@ -1,0 +1,554 @@
+[
+    {
+        "year": "2011",
+        "day": "Wenesday",
+        "classroom": "MA316",
+        "time": "13:30-15:30"
+    },
+    {
+        "Date": "12\/26",
+        "Topic": "Paper",
+        "Speaker": "家愷",
+        "Title": "Saliency-Assisted Navigation of Very Large Landscape Images (IEEE Visualization 2011)"
+    },
+    {
+        "Date": "12\/26",
+        "Topic": "Abstract",
+        "Speaker": "柏安",
+        "Title": "Example-Based Image Color and Tone Style Enhancement (SIGGRAPH 2011) Mesh Decomposition with Cross-Boundary Brushes (Eurographics 2010) Feature-Aligned Shape Texturing (SIGGRAPH Asia 2009) Reassembling Fractured Objects by Geometric Matching (SIGGRAPH 2006) 3D Zernike Descriptors for Content Based Shape Retrieval (SMA 2003)"
+    },
+    {
+        "Date": "12\/19",
+        "Topic": "Paper",
+        "Speaker": "幸卿",
+        "Title": "Video Brush: A Novel Interface for Efficient Video Cutout(Pacific Graphics 2011"
+    },
+    {
+        "Date": "12\/19",
+        "Topic": "Abstract",
+        "Speaker": "家愷",
+        "Title": "BirdVis: Visualizing and Understanding Bird Populations (InfoVis 2011) BallotMaps: Detecting Name Bias in Alphabetically Ordered Ballot Papers (InfoVis 2011) Visualization of Parameter Space for Image Analysis (InfoVis 2011) Saliency-Assisted Navigation of Very Large Landscape Images (IEEE Visualization 2011) Color Lens: Adaptive Color Scale Optimization for Visual (TVCG)"
+    },
+    {
+        "Date": "12\/12",
+        "Topic": "Paper",
+        "Speaker": "政杰",
+        "Title": "Local Laplacian Filters Edge-aware Image Processing with a Laplacian Pyramid (SIGGRAPH 2011)"
+    },
+    {
+        "Date": "12\/12",
+        "Topic": "Abstract",
+        "Speaker": "幸卿",
+        "Title": "Arcimboldo-like Collage Using Internet Images(SIGGRAPH ASIA 2011) AniPaint: Interactive Painterly Animation from Video(2011 Transactions on Visualization and Computer Graphics) Real Time Edit Propagation by Efficient Sampling(Pacific Graphics 2011) A Single Image Representation Model for Efficient Stereoscopic Image Creation(Pacific Graphics 2011) Video Brush: A Novel Interface for Efficient Video Cutout(Pacific Graphics 2011)"
+    },
+    {
+        "Date": "12\/5",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "11\/28",
+        "Topic": "Paper",
+        "Speaker": "沅壕",
+        "Title": "Video Retrieval using Spatio-Temporal Descriptors (ICCV Workshops 2009)"
+    },
+    {
+        "Date": "11\/28",
+        "Topic": "Abstract",
+        "Speaker": "政杰",
+        "Title": "Fusion of Depth Maps with Multiple Scales (SIGGRAPH Asia 2011)  Global Registration of Dynamic Range Scans (SIGGRAPH 2011)  Interference-Aware Geometric Modeling (SIGGRAPH Asia 2011)  Local Laplacian Filters Edge-aware Image Processing with a Laplacian Pyramid (SIGGRAPH 2011)  Semantic Colorization with Internet Images (SIGGRAPH Asia 2011)"
+    },
+    {
+        "Date": "11\/21",
+        "Topic": "Paper",
+        "Speaker": "柏諺",
+        "Title": "Image Smoothing via L0 Gradient Minimization(SIGGRAPH Asia 2011)"
+    },
+    {
+        "Date": "11\/21",
+        "Topic": "Abstract",
+        "Speaker": "沅壕",
+        "Title": "Visual Islands: Intuitive Browsing of Visual Search Results (CIVR 2008)  Object Tracking: A Survey (CSUR 2006)  Video Retrieval using Spatio-Temporal Descriptors (ICCV Workshops 2009)  Online learning of robust object detectors during unstable tracking (Computer Vision Workshop 2009)  Face-TLD Tracking-learning-detection Applied To Faces (ICIP 2010)"
+    },
+    {
+        "Date": "11\/14",
+        "Topic": "Paper",
+        "Speaker": "家伃",
+        "Title": "A Graph-based Approach to Continuous Line Illustrations with Variable Levels of Detail(PG 2011)"
+    },
+    {
+        "Date": "11\/14",
+        "Topic": "Abstract",
+        "Speaker": "柏諺",
+        "Title": "Sky Detection in Images for Solar Exposure Prediction(NZCSRSC 2008)  Recognition using Regions(CVPR 2009)  Improving object detection with boosted histograms(Image and Vision Computing 2009)  Mixed-Order Compositing for 3D Paintings(SIGGRAPH Asia 2011)  Expression Flow for 3D-Aware Face Component Transfer.pdf(SIGGRAPH 2011 )"
+    },
+    {
+        "Date": "11\/7",
+        "Topic": "Paper",
+        "Speaker": "孟庭",
+        "Title": "Creating Fluid Animation from a Single Image using Video Database(PG2011)"
+    },
+    {
+        "Date": "11\/7",
+        "Topic": "Abstract",
+        "Speaker": "家伃",
+        "Title": "Animated Construction of Line Drawings(SIGGRAPH 2011)  A Graph-based Approach to Continuous Line Illustrations with Variable Levels of Detail(PG 2011)  Physically-Based Real-Time Lens Flare Rendering(SIGGRAPH 2011)  Data-driven Visual Similarity for Cross-domain Image Matching(SIG ASIA 2011)  Candid Portrait Selection From Video(SIG ASIA 2011)"
+    },
+    {
+        "Date": "10\/31",
+        "Topic": "Math",
+        "Speaker": "老師",
+        "Title": ""
+    },
+    {
+        "Date": "10\/24",
+        "Topic": "Paper",
+        "Speaker": "君豪",
+        "Title": "GMap: Visualizing Graphs and Clusters as Maps (IEEE Pacific Visualization Symposium 2010)"
+    },
+    {
+        "Date": "10\/24",
+        "Topic": "Abstract",
+        "Speaker": "孟庭",
+        "Title": "Animating Pictures of Fluid using Video Examples(EUROGRAPHICS 2009)  Creating Fluid Animation from a Single Image using Video Database( PG2011)  Non-Rigid Dense Correspondence with Applications for Image Enhancement( SIGGRAPH 2011)  Rephotography Using Image Collections(PG 2011)  Building Reconstruction using Manhattan-World Grammars(CVPR2010)"
+    },
+    {
+        "Date": "10\/17",
+        "Topic": "Paper",
+        "Speaker": "家愷",
+        "Title": "Colour image retrieval based on primitives of colour moments"
+    },
+    {
+        "Date": "10\/17",
+        "Topic": "Abstract",
+        "Speaker": "君豪",
+        "Title": "Voromap: A Voronoi-based tool for visual exploration of multi-dimensional data (infoVis 2006)  GMap: Visualizing Graphs and Clusters as Maps (IEEE Pacific Visualization Symposium 2010)  The WEKA Data Mining Software: An Update (SIGKDD 2009)  Multivariate Analysis and Geovisualization with an Integrated Geographic Knowledge Discovery Approach  (Cartography and Geographic Information Science 2005)  Hotmap: Looking at Geographic Attention(TVCG 2007)"
+    },
+    {
+        "Date": "10\/10",
+        "Topic": "Festival",
+        "Speaker": "百歲",
+        "Title": ""
+    },
+    {
+        "Date": "10\/3",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "9\/26",
+        "Topic": "Paper",
+        "Speaker": "柏安",
+        "Title": "Context-Based Search for 3D Models(SIG Asia 2010)"
+    },
+    {
+        "Date": "9\/26",
+        "Topic": "Abstract",
+        "Speaker": "家愷",
+        "Title": "Visual Boosting in Pixel-based Visualizations  The Undistort Lens  Visualizing the Evolution of Community Structures in Dynamic Social Networks  Dynamic Insets for Context-Aware Graph Navigation  An Image-based Hair Styling System Using Layered Texture Pieces"
+    },
+    {
+        "Date": "9\/19",
+        "Topic": "Paper",
+        "Speaker": "嘉洋",
+        "Title": "Photo-Inspired Model-Driven 3D Object Modeling"
+    },
+    {
+        "Date": "9\/19",
+        "Topic": "Abstract",
+        "Speaker": "柏安",
+        "Title": "Converting 3D Furniture Models to Fabricatable Parts and Connectors(SIG 2011)  Context-Based Search for 3D Models(SIG Asia 2010)  Data-Driven Suggestions for Creativity Support in 3D Modeling(SIG Asia 2010)  Interactive 3D Architectural Modeling from Unordered Photo Collections(SIG Asia 2008)  Real-time Control of Physically Based Simulations using Gentle Forces(SIG Asia 2008)"
+    },
+    {
+        "Date": "9\/14",
+        "Topic": "Paper",
+        "Speaker": "幸卿",
+        "Title": "Geodesic Image and Video Editing (SIGGRAPH 2011)"
+    },
+    {
+        "Date": "9\/14",
+        "Topic": "Abstract",
+        "Speaker": "嘉洋",
+        "Title": "Photo-Inspired Model-Driven 3D Object Modeling  Image-based material editing  Group Motion Editing  Fast ImageVideo Upsampling  Blur-Aware Image Downsizing"
+    },
+    {
+        "Date": "9\/7",
+        "Topic": "Paper",
+        "Speaker": "政杰",
+        "Title": "Tracking the Invisible: Learning Where the Object Might be(CVPR 2010)"
+    },
+    {
+        "Date": "9\/7",
+        "Topic": "Abstract",
+        "Speaker": "幸卿",
+        "Title": "Content-based video retrieval (Conference on Extending Database Technology (EDBT),2000))  A Survey of Content-Based Video Retrieval (Journal of Computer Science 4 (6): 474-486, 2008))  Geodesic Image and Video Editing (SIGGRAPH 2011)  Key-Segments for Video Object Segmentation (ICCV 2011)  City-Scale Landmark Identification on Mobile Devices (CVPR 2011)"
+    },
+    {
+        "Date": "8\/31",
+        "Topic": "FRANCE",
+        "Speaker": "無",
+        "Title": ""
+    },
+    {
+        "Date": "8\/24",
+        "Topic": "Paper",
+        "Speaker": "沅壕",
+        "Title": "Harvesting Image Databases from the Web"
+    },
+    {
+        "Date": "8\/24",
+        "Topic": "Abstract",
+        "Speaker": "政杰",
+        "Title": "Domain Transform for Edge-Aware Image and Video Processing(siggraph 2011)  Realtime Performance-Based Facial Animation(siggraph 2011)  Exploration of Continuous Variability in Collections of 3D Shapes(siggraph 2011)  Tracking the Invisible: Learning Where the Object Might be(CVPR 2010)  TexToons: Practical Texture Mapping for Hand-drawn Cartoon Animations(NPAR 2011)"
+    },
+    {
+        "Date": "8\/17",
+        "Topic": "Paper",
+        "Speaker": "柏諺",
+        "Title": "Portrait Painting Using Active Templates(NPAR 2011)"
+    },
+    {
+        "Date": "8\/17",
+        "Topic": "Abstract",
+        "Speaker": "沅壕",
+        "Title": "Developing on GPU with Nvidia CUDA"
+    },
+    {
+        "Date": "8\/10",
+        "Topic": "Paper",
+        "Speaker": "家伃",
+        "Title": "ShadowDraw: Real-Time User Guidance for Freehand Drawing(SIG 2011)"
+    },
+    {
+        "Date": "8\/10",
+        "Topic": "Abstract",
+        "Speaker": "柏諺",
+        "Title": "An Introduction to Interactive Sonification(Multimedia 2005)  Application of Image Sonification Methods to Music(ICMC 2005)  Browsing RNA Structures by Interactive Sonification(ISon 2010)  Bounded Biharmonic Weights for Real-Time Deformation(Siggraph 2011)  Portrait Painting Using Active Templates(NPAR 2011)"
+    },
+    {
+        "Date": "8\/3",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "7\/27",
+        "Topic": "Paper",
+        "Speaker": "孟庭",
+        "Title": "Urban Ecosystem Design"
+    },
+    {
+        "Date": "7\/27",
+        "Topic": "Abstract",
+        "Speaker": "家伃",
+        "Title": "Interactive Cover Design Considering Physical Constraints(PG 2009)  Tag-basedWeb Photo Retrieval Improved by Batch Mode Re-Tagging(CVPR 2010)  Formation Sketching: An Approach to Stylize Groups in Crowd Simulation(GI 2011)  ShadowDraw: Real-Time User Guidance for Freehand Drawing(SIG 2011)  Background Estimation using Graph Cuts and Inpainting(GI 2010)"
+    },
+    {
+        "Date": "7\/20",
+        "Topic": "Math",
+        "Speaker": "老師",
+        "Title": ""
+    },
+    {
+        "Date": "7\/13",
+        "Topic": "CGW2011",
+        "Speaker": "無",
+        "Title": ""
+    },
+    {
+        "Date": "7\/6",
+        "Topic": "Paper",
+        "Speaker": "君豪",
+        "Title": "The Design Space of Implicit Hierarchy Visualization: A Survey (TVCG 2011)"
+    },
+    {
+        "Date": "7\/6",
+        "Topic": "Abstract",
+        "Speaker": "孟庭",
+        "Title": "Deep Photo: Model-Based Photograph Enhancement and Viewing  Removing Image Artifacts Due to Dirty Camera Lenses and Thin Occluders  Urban Ecosystem Design  FaceTracer: A Search Engine for Large Collections of Images with Faces  Exploring Photobios"
+    },
+    {
+        "Date": "6\/29",
+        "Topic": "Paper",
+        "Speaker": "家愷",
+        "Title": "Visualization of Time-Series Data in Parameter Space for Understanding Facial Dynamics"
+    },
+    {
+        "Date": "6\/29",
+        "Topic": "Abstract",
+        "Speaker": "君豪",
+        "Title": "Visualizing Web Navigation Data with Polygon Graphs (InfoVis 2007) \tMany Eyes: A Site for Visualization at Internet Scale (InfoVis 2007) \tHierarchical Cluster Visualization in Web Mapping Systems (WWW 2010) \tHarmonic Colorization Using Proportion Contrast (Afrigraph 2010) \tThe Design Space of Implicit Hierarchy Visualization: A Survey (TVCG 2011)"
+    },
+    {
+        "Date": "6\/22",
+        "Topic": "Paper",
+        "Speaker": "幸卿",
+        "Title": "Scalable and Coherent Video Resizing with Per-Frame Optimization(SIGGRAPH 2011)"
+    },
+    {
+        "Date": "6\/22",
+        "Topic": "Abstract",
+        "Speaker": "家愷",
+        "Title": "Visual Analysis of User Behaviour in Pay-Per-Bid Auctions  Exploring Complex Mobile Life through Lightweight Visualizations  Exploring Collections of Tagged Text for Literary Scholarship  Semantic-PreservingWord Clouds by Seam Carving  An Evaluation of Visualization Techniques to Illustrate Statistical Deformation Models  Visualization of Time-Series Data in Parameter Space for Understanding Facial Dynamics"
+    },
+    {
+        "Date": "6\/15",
+        "Topic": "Paper",
+        "Speaker": "政杰",
+        "Title": "Stylized depiction of images based on depth perception"
+    },
+    {
+        "Date": "6\/15",
+        "Topic": "Abstract",
+        "Speaker": "幸卿",
+        "Title": "Tonal Stabilization of Video(SIGGRAPH 2011)  Subspace Video Stabilization(SIGGRAPH 2011)  Interactive Editing of Massive Imagery Made Simple:Turning Atlanta into Atlantis(SIGGRAPH 2011)  Image and Video Upscaling from Local Self-Examples(SIGGRAPH 2011) Scalable and Coherent Video Resizing with Per-Frame Optimization(SIGGRAPH 2011)"
+    },
+    {
+        "Date": "6\/8",
+        "Topic": "Paper",
+        "Speaker": "沅壕",
+        "Title": "Non-Photorealistic Rendering and Content-Based Image Retrieval (Pacific Graphics 2003)"
+    },
+    {
+        "Date": "6\/8",
+        "Topic": "Abstract",
+        "Speaker": "政杰",
+        "Title": "Object-Graphs for Context-Aware Category Discovery  OverCoat: An Implicit Canvas for 3D Painting  Stylized depiction of images based on depth perception  Digital Micrography  Perceptually Based Tone Mapping for Low-Light Conditions"
+    },
+    {
+        "Date": "6\/3",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "5\/27",
+        "Topic": "Paper",
+        "Speaker": "柏諺",
+        "Title": "Depixelizing Pixel Art"
+    },
+    {
+        "Date": "5\/27",
+        "Topic": "Abstract",
+        "Speaker": "沅壕",
+        "Title": "Image Retrieval: Current Techniques, Promising Directions, and Open Issues (JVCIR 1999) Consistent Line Clusters for Building Recognition in CBIR (Pattern Recognition 2002) Illustration of Complex Real-World Objects using Images with Normals (NPAR 2007) Non-Photorealistic Rendering and Content-Based Image Retrieval (Pacific Graphics 2003) CAT: A Techinque for Image Browing and Its Level-of-Detail Control (IIEEJ 2008)"
+    },
+    {
+        "Date": "5\/18",
+        "Topic": "Math",
+        "Speaker": "老師",
+        "Title": ""
+    },
+    {
+        "Date": "5\/11",
+        "Topic": "Paper",
+        "Speaker": "家伃",
+        "Title": "Data-Driven Image Color Theme Enhancement(SIGGRAPH Asia 2010)"
+    },
+    {
+        "Date": "5\/11",
+        "Topic": "Abstract",
+        "Speaker": "柏諺",
+        "Title": "Abstraction of 2D Shapes in Terms of Parts(NPAR 2009)  Depixelizing Pixel Art(SIGGRAPH 2011)  MusicStory: a Personalized Music Video Creator(MULTIMEDIA 2005)  Automated Music Video Generation using WEB Image Resource(ICASSP 2007)  Video Stylization for Digital Ambient Displays of Home Movies(NPAR 2010)"
+    },
+    {
+        "Date": "5\/6",
+        "Topic": "Paper",
+        "Speaker": "孟庭",
+        "Title": "Ambient Point Clouds for View Interpolation(SIGGRAPH 2010)"
+    },
+    {
+        "Date": "5\/6",
+        "Topic": "Abstract",
+        "Speaker": "家伃",
+        "Title": "Data-Driven Image Color Theme Enhancement(SIGGRAPH Asia 2010)  Stereoscopic 3D Copy & Paste(SIGGRAPH Asia 2010)  Free-hand Sketch Grouping for Video Retrieval(ICPR 2008)  Fruit Senescence and Decay Simulation(EG 2011)  Cuntour People(CVPR 2010)"
+    },
+    {
+        "Date": "4\/27",
+        "Topic": "Paper",
+        "Speaker": "君豪",
+        "Title": "Comparative analysis of multidimensional, Quantitative Data (infovis 2010)"
+    },
+    {
+        "Date": "4\/27",
+        "Topic": "Abstract",
+        "Speaker": "孟庭",
+        "Title": "Subspace Video Stabilization(SIGGRAPH 2011)  Ambient Point Clouds for View Interpolation(SIGGRAPH 2010)  Estimating Camera Pose from a Single Urban Ground-View Omnidirectional  Image and a 2D Building Outline Map(CVPR 2010)  Image-based Street-side City Modeling(SIGGRAPH Asia 2009)  Segmentation Method of Degree-based Transition Region Extraction for Coronary Angiograms(ICACC 2010)"
+    },
+    {
+        "Date": "4\/20",
+        "Topic": "Paper",
+        "Speaker": "幸卿",
+        "Title": "Instant Propagation of Sparse Edits on Images and Videos(Pacific Graphics 2010)"
+    },
+    {
+        "Date": "4\/20",
+        "Topic": "Abstract",
+        "Speaker": "君豪",
+        "Title": "Comparative analysis of multidimensional, Quantitative Data (infovis 2010) Bubble Sets: Revealing Set Relations with Isocontours over Existing Visualizations (infovis 2009) Configuring Hierarchical Layouts to Address Research Questions (TVCG 2009) Harmonic Colormaps for Volume Visualization (IEEE\/EG Symposium on Volume and Point-Based Graphics 2008) A novel method for large tree visualization (Bioinformatics applications note 2009)"
+    },
+    {
+        "Date": "4\/13",
+        "Topic": "Paper",
+        "Speaker": "政杰",
+        "Title": "Apparent Layer Operations for the Manipulation of Deformable Objects"
+    },
+    {
+        "Date": "4\/13",
+        "Topic": "Abstract",
+        "Speaker": "幸卿",
+        "Title": "Image Retargeting Quality Assessment((EUROGRAPHICS 2011)  Instant Propagation of Sparse Edits on Images and Videos(Pacific Graphics 2010)  Contrast-aware Halftoning (EUROGRAPHICS 2010)  Image Thumbnails That Represent Blur and Noise(IEEE TRANSACTIONS ON IMAGE PROCESSING 2010)  Blur-Aware Image Downsampling(EUROGRAPHICS 2011)"
+    },
+    {
+        "Date": "4\/8",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "3\/30",
+        "Topic": "Paper",
+        "Speaker": "家愷",
+        "Title": "Computer-suggested Facial Makeup (Eurographics 2011)"
+    },
+    {
+        "Date": "3\/30",
+        "Topic": "Abstract",
+        "Speaker": "政杰",
+        "Title": "Volumetric Modeling with Diffusion Surfaces  Procedural Generation of Roads  RepFinder: Finding Approximately Repeated Scene Elements for Image Editing  Apparent Layer Operations for the Manipulation of Deformable Objects  Vector Fluid: A Vector Graphics Depiction of Surface Flow"
+    },
+    {
+        "Date": "3\/23",
+        "Topic": "Paper",
+        "Speaker": "柏諺",
+        "Title": "Image Appearance Exploration by Model-Based Navigation(EUROGRAPHICS 2009)"
+    },
+    {
+        "Date": "3\/23",
+        "Topic": "Abstract",
+        "Speaker": "家愷",
+        "Title": "Two-Colored Pixels (Eurographics 2010)  Imaginary Interfaces Spatial Interaction with Empty Hands and without Visual Feedback (UIST 2010)  Disappearing Mobile Devices (UIST 2009)  Automatic Generation of Destination Maps (SIGGRAPH ASIA 2010)  Computer-suggested Facial Makeup (Eurographics 2011)"
+    },
+    {
+        "Date": "3\/16",
+        "Topic": "Math",
+        "Speaker": "老師",
+        "Title": ""
+    },
+    {
+        "Date": "3\/9",
+        "Topic": "Paper",
+        "Speaker": "家伃",
+        "Title": "3D Collage: Expressive Non-Realistic Modeling(NPAR2007)"
+    },
+    {
+        "Date": "3\/9",
+        "Topic": "Abstract",
+        "Speaker": "柏諺",
+        "Title": "Estimating Color and Texture Parameters for Vector Graphics(EUROGRAPHICS 2011)  Image and Video Abstraction by Coherence-Enhancing Filtering(EUROGRAPHICS 2011)  Electors Voting for Fast Automatic Shape Correspondence(EUROGRAPHICS 2010)  Diffusion Maps for Edge-Aware Image Editing(SIGGRAPH ASIA 2010)  Image Appearance Exploration by Model-Based Navigation(EUROGRAPHICS 2009)"
+    },
+    {
+        "Date": "3\/4",
+        "Topic": "Paper",
+        "Speaker": "孟庭",
+        "Title": "Unstructured Video-Based Rendering: Interactive Exploration of Casually Captured Videos"
+    },
+    {
+        "Date": "3\/4",
+        "Topic": "Abstract",
+        "Speaker": "家伃",
+        "Title": "3D Collage: Expressive Non-Realistic Modeling(NPAR2007)  Holly: A Drawing Editor for Designing Stencils(NPAR2010)  Self-Similar Texture for Coherent Line Stylization(NAPR2010)  Style-Content Separation by Anisotropic Part Scales(SIGGRAPH ASIA 2010)  Semiregular patterns on surfaces(NPAR2009)"
+    },
+    {
+        "Date": "2\/23",
+        "Topic": "Paper",
+        "Speaker": "君豪",
+        "Title": "Constructing Overview + Detail Dendrogram-Matrix Views (infovis 2009)"
+    },
+    {
+        "Date": "2\/23",
+        "Topic": "Abstract",
+        "Speaker": "孟庭",
+        "Title": "Image-Based Interactive Exploration of Real-World Environments  Unstructured Video-Based Rendering:Interactive Exploration of Casually Captured Videos  Markerless Motion Capture with Unsynchronized Moving Cameras  Image Warps for Artistic Perspective Manipulation  SYNTHESIZING FREE-VIEWPOINT IMAGES FROM MULTIPLE VIEW VIDEOS IN SOCCER STADIUM"
+    },
+    {
+        "Date": "2\/14",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "2\/7",
+        "Topic": "Festival",
+        "Speaker": "跪泥",
+        "Title": ""
+    },
+    {
+        "Date": "1\/31",
+        "Topic": "Paper",
+        "Speaker": "幸卿",
+        "Title": "By-example Synthesis of Architectural Textures(SIGGRAPH 2010)"
+    },
+    {
+        "Date": "1\/31",
+        "Topic": "Abstract",
+        "Speaker": "君豪",
+        "Title": "Constructing Overview + Detail Dendrogram-Matrix Views (infovis 2009)  Visualisation of Sensor Data from Animal Movement (Eurovis 2009)  Heapviz: Interactive Heap Visualization for Program Understanding and Debugging (softvis 2010)  MatrixExplorer: a Dual-Representation System to Explore Social Networks (infovis 2006)  NodeTrix: A Hybrid Visualization of Social Networks (infovis 2007)  Document Cards: A Top Trumps Visualization for Documents (infovis 2009)"
+    },
+    {
+        "Date": "1\/24",
+        "Topic": "Paper",
+        "Speaker": "家愷",
+        "Title": "Necklace Maps (infovis 2010)"
+    },
+    {
+        "Date": "1\/24",
+        "Topic": "Abstract",
+        "Speaker": "幸卿",
+        "Title": "Appearance Manifolds for Modeling Time-Variant Appearance of Materials(SIGGRAPH 2006)  Image-based Material Weathering(EUROGRAPHICS 2008)  Shift-Map Image Editing(ICCV2009)  Resizing by Symmetry-Summarization(ACM Transactions on Graphics 2010)  By-example Synthesis of Architectural Textures(SIGGRAPH 2010)"
+    },
+    {
+        "Date": "1\/17",
+        "Topic": "Rehearsal",
+        "Speaker": "琬潔",
+        "Title": "口 恭"
+    },
+    {
+        "Date": "1\/17",
+        "Topic": "Rehearsal",
+        "Speaker": "美杏",
+        "Title": "試 喜"
+    },
+    {
+        "Date": "1\/17",
+        "Topic": "Rehearsal",
+        "Speaker": "佳甯",
+        "Title": "成 畢"
+    },
+    {
+        "Date": "1\/17",
+        "Topic": "Rehearsal",
+        "Speaker": "士賢",
+        "Title": "功 業"
+    },
+    {
+        "Date": "1\/10",
+        "Topic": "Math",
+        "Speaker": "老師",
+        "Title": ""
+    },
+    {
+        "Date": "1\/3",
+        "Topic": "Paper",
+        "Speaker": "柏諺",
+        "Title": "Finding Approximately Repeated Scene Elements for Image Editing(SIGGRAPH 2010)"
+    },
+    {
+        "Date": "1\/3",
+        "Topic": "Abstract",
+        "Speaker": "家愷",
+        "Title": "How Information Visualization Novices Construct Visualizations (infovis 2010)  Necklace Maps (infovis 2010)  Matching Visual Saliency to Confidence in Plots of Uncertain Data (infovis 2010)  Pargnostics: Screen-Space Metrics for Parallel Coordinates (infovis 2010)  SparkClouds: Visualizing Trends in Tag Clouds (infovis 2010)"
+    }
+]

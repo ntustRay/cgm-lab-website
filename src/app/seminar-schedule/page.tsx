@@ -24,7 +24,7 @@ export default function SeminarSchedulePage() {
   // Start from the latest year
   const [currentYearIndex, setCurrentYearIndex] = useState(years.length - 1);
   const currentYear = years[currentYearIndex];
-  const scheduleData = schedules[currentYear];
+  const scheduleData = schedules[(currentYear as unknown) as keyof typeof schedules];
 
   // Defensive: skip if no data
   if (!scheduleData || scheduleData.length === 0) {
@@ -44,6 +44,27 @@ export default function SeminarSchedulePage() {
     const [month, day] = md?.split("/").map(Number);
     if (!month || !day) return null;
     return new Date(Number(scheduleInfo.year), month - 1, day);
+  }
+
+  // Helper to format titles with numbered items
+  function formatTitle(title: string): React.ReactNode {
+    // Check if the title has a pattern like "1. ... 2. ..." 
+    if (/\d+\.\s.*\d+\.\s/.test(title)) {
+      // Use regex to split the title at points where a number followed by a period is found
+      const parts = title.split(/(?=\d+\.\s)/g);
+
+      return (
+        <div className="whitespace-pre-line">
+          {parts.map((part, i) => (
+            <div key={i} className={i > 0 ? "mt-1" : ""}>
+              {part.trim()}
+            </div>
+          ))}
+        </div>
+      );
+    }
+
+    return title;
   }
 
   return (
@@ -80,9 +101,9 @@ export default function SeminarSchedulePage() {
           <table className="w-full border-collapse">
             <thead>
               <tr>
-                <th className="border border-gray-400 p-2 text-left bg-gray-700 text-white">Date</th>
-                <th className="border border-gray-400 p-2 text-left bg-gray-700 text-white">Topic</th>
-                <th className="border border-gray-400 p-2 text-left bg-gray-700 text-white">Speaker</th>
+                <th className="border border-gray-400 p-2 text-center bg-gray-700 text-white">Date</th>
+                <th className="border border-gray-400 p-2 text-center bg-gray-700 text-white">Topic</th>
+                <th className="border border-gray-400 p-2 text-center bg-gray-700 text-white">Speaker</th>
                 <th className="border border-gray-400 p-2 text-left bg-gray-700 text-white">Title</th>
               </tr>
             </thead>
@@ -105,6 +126,9 @@ export default function SeminarSchedulePage() {
                   highlightClass = "bg-yellow-200";
                 }
 
+                // Format title for numbered lists
+                const formattedTitle = formatTitle(item.Title);
+
                 return (
                   <tr key={index} className={`${bgColor} ${highlightClass}`}>
                     {isEvenRow && (
@@ -112,9 +136,9 @@ export default function SeminarSchedulePage() {
                         {item.Date}
                       </td>
                     )}
-                    <td className="border border-gray-300 p-2">{item.Topic}</td>
-                    <td className="border border-gray-300 p-2">{item.Speaker}</td>
-                    <td className="border border-gray-300 p-2">{item.Title}</td>
+                    <td className="border border-gray-300 p-2 text-center">{item.Topic}</td>
+                    <td className="border border-gray-300 p-2 text-center">{item.Speaker}</td>
+                    <td className="border border-gray-300 p-2">{formattedTitle}</td>
                   </tr>
                 );
               })}

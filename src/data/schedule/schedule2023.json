@@ -1,0 +1,626 @@
+[
+    {
+        "Date": "12/28",
+        "Topic": "Paper",
+        "Speaker": "林芳義",
+        "Title": "Shot-By-Shot: Technical Data Collection for Badminton Doubles Games"
+    },
+    {
+        "Date": "12/28",
+        "Topic": "Abstract",
+        "Speaker": "Jason",
+        "Title": ""
+    },
+    {
+        "Date": "12/21",
+        "Topic": "Paper",
+        "Speaker": "Special Topic",
+        "Title": "Special Topic"
+    },
+    {
+        "Date": "12/21",
+        "Topic": "Abstract",
+        "Speaker": "Special Topic",
+        "Title": "Special Topic"
+    },
+    {
+        "Date": "12/14",
+        "Topic": "Paper",
+        "Speaker": "x",
+        "Title": ""
+    },
+    {
+        "Date": "12/14",
+        "Topic": "Abstract",
+        "Speaker": "Tim",
+        "Title": "4 + 1"
+    },
+    {
+        "Date": "12/7",
+        "Topic": "Paper",
+        "Speaker": "林伯慎老師實驗室",
+        "Title": "X"
+    },
+    {
+        "Date": "12/7",
+        "Topic": "Abstract",
+        "Speaker": "林伯慎老師實驗室",
+        "Title": "X"
+    },
+    {
+        "Date": "11/30",
+        "Topic": "Paper",
+        "Speaker": "許家瑋",
+        "Title": "GridDehazeNet: Attention-Based Multi-Scale Network for Image Dehazing"
+    },
+    {
+        "Date": "11/30",
+        "Topic": "Abstract",
+        "Speaker": "林芳義",
+        "Title": "1/ Intelligent System of Badminton Serve Action Based on YOLOv5 and OpenPose\n            2/ Adapting Faster R-CNN and Video Inpainting for Badminton Player Detection\n            3/ Inertial Sensor Binding Position and Combination in Badminton Action Recognition Using Machine Learning\n            4/ Optimizing Badminton Action Recognition with Deep Learning and Sensor Fusion A Study of Sensor Numbers and Combinations\n            5/ Shot-By-Shot: Technical Data Collection for Badminton Doubles Games"
+    },
+    {
+        "Date": "11/23",
+        "Topic": "Paper",
+        "Speaker": "許瓊方",
+        "Title": "Can Machines Generate Personalized Music A Hybrid Favorite-Aware Method For User Preference Music Transfer"
+    },
+    {
+        "Date": "11/23",
+        "Topic": "Abstract",
+        "Speaker": "許家瑋",
+        "Title": "1/ Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial\n            2/ VehicleNet: Learning Robust Feature Representation for Vehicle Re-identification\n            3/ A Strong Baseline for Vehicle Re-Identification\n            4/ A Robust Attentional Framework for License Plate Recognition in the Wild \n            5/ GridDehazeNet: Attention-Based Multi-Scale Network for Image Dehazing"
+    },
+    {
+        "Date": "11/16",
+        "Topic": "Paper",
+        "Speaker": "廖庭婕",
+        "Title": "PM2.5 Concentration Estimation using Convolutional Neural Network and Gradient Boosting Machine"
+    },
+    {
+        "Date": "11/16",
+        "Topic": "Abstract",
+        "Speaker": "許瓊方",
+        "Title": "1/ Novel Music Genre Classfication System Using Transfer Learning On A Small Dataset\n            2/ Style-Conditioned Music Generation\n            3/ Transferring The Style Of Homophonic Music Using Recurrent Neural Networks And Autoregressive Models\n            4/ Groove2Groove: One-shot Music Style Transfer With Supervision From Synthetic Data\n            5/ Can Machines Generate Personalized Music A Hybrid Favorite-Aware Method For User Preference Music Transfer"
+    },
+    {
+        "Date": "11/9",
+        "Topic": "Paper",
+        "Speaker": "何思嫺",
+        "Title": "END-TO-END SENTENCE-LEVEL LIPREADING"
+    },
+    {
+        "Date": "11/9",
+        "Topic": "Abstract",
+        "Speaker": "廖庭婕",
+        "Title": "1. Particle Pollution Estimation Based on Image Analysis\n            2. PM2.5 Concentration Estimation Based on Image Processing Schemes and Simple Linear Regression        \n            3. Using High-Frequency Information and RH to Estimate AQI Based on SVR        \n            4. AIX Implementation in Image-Based PM2.5 Estimation: Toward an AI Model for Better Understanding        \n            5. PM2.5 Concentration Estimation using Convolutional Neural Network and Gradient Boosting Machine"
+    },
+    {
+        "Date": "11/2",
+        "Topic": "Paper",
+        "Speaker": "Haile",
+        "Title": "Towards End-to-End Acoustic Localization using Deep Learning: from Audio Signal to Source Position Coordinates"
+    },
+    {
+        "Date": "11/2",
+        "Topic": "Abstract",
+        "Speaker": "何思嫺",
+        "Title": "1. AUTOMATIC LIP-READING OF HEARING IMPAIRED PEOPLE\n            2. DAVIS: Driver's Audio-Visual Speech Recognition \n            3. IMPROVED AUTOMATIC LIP-READING BASED ON THE EVALUATION OF INTENSITY LEVEL OF SPEAKER'S EMOTION\n            4. Diverse Pose Lip-Reading Framework\n            5. END-TO-END SENTENCE-LEVEL LIPREADING"
+    },
+    {
+        "Date": "10/26",
+        "Topic": "Paper",
+        "Speaker": "Marcell",
+        "Title": "Observing Pianist Accuracy and Form with Computer Vision​"
+    },
+    {
+        "Date": "10/26",
+        "Topic": "Abstract",
+        "Speaker": "Haile",
+        "Title": "1. Design of Bird Sound Recognition Model Based on Lightweight\n            2. Multitask Learning of Time-Frequency CNN for Sound Source Localization\n            3. Real-Time Sound Source Localization for Low-Power IoT Devices Based on Multi-Stream CNN\n            4. Mobile Phone-Based Audio Announcement Detection and Recognition for People with Hearing Impairment\n            5. Towards End-to-End Acoustic Localization using Deep Learning: from Audio Signal to Source Position Coordinates"
+    },
+    {
+        "Date": "10/19",
+        "Topic": "Paper",
+        "Speaker": "Jack",
+        "Title": "Adding Conditional Control to Text-to-Image Diffusion Models"
+    },
+    {
+        "Date": "10/19",
+        "Topic": "Abstract",
+        "Speaker": "Marcell",
+        "Title": "1. Real-Time Piano Music Transcription Based on Computer Vision​\n            2. Detecting Hand Posture in Piano Playing Using Depth Data​\n            3. Observing Pianist Accuracy and Form with Computer Vision​\n            4. JOINT MULTI-PITCH DETECTION AND SCORE TRANSCRIPTION FOR POLYPHONIC PIANO MUSIC ​\n            5. An Augmented Reality Piano Learning Tool​"
+    },
+    {
+        "Date": "10/12",
+        "Topic": "Paper",
+        "Speaker": "X",
+        "Title": "老師出國，暫停一次"
+    },
+    {
+        "Date": "10/12",
+        "Topic": "Abstract",
+        "Speaker": "X",
+        "Title": "老師出國，暫停一次"
+    },
+    {
+        "Date": "10/5",
+        "Topic": "Paper",
+        "Speaker": "林伯慎老師實驗室",
+        "Title": "X"
+    },
+    {
+        "Date": "10/5",
+        "Topic": "Abstract",
+        "Speaker": "林伯慎老師實驗室",
+        "Title": "X"
+    },
+    {
+        "Date": "9/28",
+        "Topic": "Paper",
+        "Speaker": "Hank",
+        "Title": "Toward Human-like Billiard AI Bot Based on Backward Induction and Machine Learning"
+    },
+    {
+        "Date": "9/28",
+        "Topic": "Abstract",
+        "Speaker": "Jack",
+        "Title": "1. Are We All in a Truman Show? Spotting Instagram Crowdturfing through Self-Training\n            2. DETRs Beat YOLOs on Real-time Object Detection\n            3. Nougat：Neural Optical Understanding for Academic Documents\n            4. SDD-FIQA: Unsupervised Face Image Quality Assessment with Similarity Distribution Distance\n            5. Adding Conditional Control to Text-to-Image Diffusion Models"
+    },
+    {
+        "Date": "9/21",
+        "Topic": "Paper",
+        "Speaker": "Summer",
+        "Title": "ECON: Explicit Clothed humans Optimized via Normal integration"
+    },
+    {
+        "Date": "9/21",
+        "Topic": "Abstract",
+        "Speaker": "Hank",
+        "Title": "1. Robot Theory of Mind with Reverse Psychology\n            2. Experiments Focused on Exploration in Deep Reinforcement Learning\n            3. Partners Who Grow Together: Collaborative Machine Learning in Video Game AI Design\n            4. Computational Foresight: Realtime Forecast of Human Body Motion\n            5. Toward Human-like Billiard AI Bot Based on Backward Induction and Machine Learning"
+    },
+    {
+        "Date": "9/14",
+        "Topic": "Paper",
+        "Speaker": "Allen",
+        "Title": "Data Brushes: Interactive Style Transfer for Data Ar"
+    },
+    {
+        "Date": "9/14",
+        "Topic": "Abstract",
+        "Speaker": "Summer",
+        "Title": "1.3D Video Loops from Asynchronous Input\n            2.Occlusion-Aware Human Mesh Model-Based Gait Recognition\n            3.Conditional Image-to-Video Generation with Latent Flow Diffusion Models\n            4.FILM: Frame Interpolation for Large Motion\n            5.ECON: Explicit Clothed humans Optimized via Normal integration"
+    },
+    {
+        "Date": "9/7",
+        "Topic": "Paper",
+        "Speaker": "Jenny",
+        "Title": "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold"
+    },
+    {
+        "Date": "9/7",
+        "Topic": "Abstract",
+        "Speaker": "Allen",
+        "Title": "1. Thai Sentiment Analysis and Visualization of Movie Reviews From Social Media\n            2. Visualization of Correlations Between Places of Music Listening and Acoustic Features\n            3. Exploring Time-Series Through Force-Directed Timelines\n            4. Spatial and Temporal Visualization of Pedestrians Based on Walking States\n            5. Data Brushes: Interactive Style Transfer for Data Ar"
+    },
+    {
+        "Date": "8/31",
+        "Topic": "Paper",
+        "Speaker": "Vicky",
+        "Title": "Dual Illumination Estimation for Robust Exposure Correction"
+    },
+    {
+        "Date": "8/31",
+        "Topic": "Abstract",
+        "Speaker": "Jenny",
+        "Title": "1. Automated Recognition of Pain in Cats\n            2. An Intelligent Photographing Guidance System Based on Compositional Deep Features and Intepretable Machine Learning Model\n            3. High-level Semantic Photographic Composition Analysis And Understanding  With Deep Neural Networks\n            4. The Use of Image Processing Techniques for Detection of Weed in Lawns\n            5. Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold"
+    },
+    {
+        "Date": "8/24",
+        "Topic": "Paper",
+        "Speaker": "Edwin",
+        "Title": ""
+    },
+    {
+        "Date": "8/24",
+        "Topic": "Abstract",
+        "Speaker": "Vicky",
+        "Title": "1. Multiclass Weather Classification using EfficientNet-B4 with Attention\n            2. Feature Extraction with Triplet Loss to Classify Disease on Leaf Data\n            3. Convolutional Neural Networks Using MobileNet for Skin Lesion Classification\n            4. Classification of Blueberry Varieties Based on Improved EfficientNet\n            5. Dual Illumination Estimation for Robust Exposure Correction"
+    },
+    {
+        "Date": "8/17",
+        "Topic": "Paper",
+        "Speaker": "Molion",
+        "Title": "ProGesAR: Mobile AR Prototyping for Proxemic and Gestural Interactions with Real-world IoT Enhanced Spaces"
+    },
+    {
+        "Date": "8/17",
+        "Topic": "Abstract",
+        "Speaker": "Edwin",
+        "Title": ""
+    },
+    {
+        "Date": "8/10",
+        "Topic": "Paper",
+        "Speaker": "吳家霖",
+        "Title": "EGO VEHICLE SPEED ESTIMATION USING 3D CONVOLUTION WITH MASKED ATTENTION"
+    },
+    {
+        "Date": "8/10",
+        "Topic": "Abstract",
+        "Speaker": "Molion",
+        "Title": "1. MuscleSense: Exploring Weight Sensing using Wearable Surface Electromyography (sEMG)\n            2. StrengthGaming: Enabling Dynamic Repetition Tempo in Strength Training-based Exergame Design            \n            3. Reality Rifts: Wonder-ful Interfaces by Disrupting Perceptual Causality            \n            4. Miniature Haptics: Experiencing Haptic Feedback through Hand-based and Embodied Avatars            \n            5. ProGesAR: Mobile AR Prototyping for Proxemic and Gestural Interactions with Real-world IoT Enhanced Spaces"
+    },
+    {
+        "Date": "8/3",
+        "Topic": "Paper",
+        "Speaker": "X",
+        "Title": ""
+    },
+    {
+        "Date": "8/3",
+        "Topic": "Abstract",
+        "Speaker": "X",
+        "Title": ""
+    },
+    {
+        "Date": "7/27",
+        "Topic": "Paper",
+        "Speaker": "葉三吉",
+        "Title": "Tele-Snap: a joint impedance estimation system using snap motor and openPose for remote rehabilitation diagnosis"
+    },
+    {
+        "Date": "7/27",
+        "Topic": "Abstract",
+        "Speaker": "吳家霖",
+        "Title": "1. Traffic Lights Detection and Recognition Method Based on the Improved YOLOv4 Algorithm\n            2. An Enhanced Deep Learning Model for Obstacle and Traffic Light Detection Based on YOLOv5\n            3. Deep learning-based vehicle speed estimation using the YOLO detector and 1D-CNN\n            4. An End to End Learning based Ego Vehicle Speed Estimation System\n            5. EGO VEHICLE SPEED ESTIMATION USING 3D CONVOLUTION WITH MASKED ATTENTION"
+    },
+    {
+        "Date": "7/20",
+        "Topic": "Paper",
+        "Speaker": "老師上課",
+        "Title": ""
+    },
+    {
+        "Date": "7/20",
+        "Topic": "Abstract",
+        "Speaker": "老師上課",
+        "Title": ""
+    },
+    {
+        "Date": "7/13",
+        "Topic": "Paper",
+        "Speaker": "李一峯",
+        "Title": "Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition"
+    },
+    {
+        "Date": "7/13",
+        "Topic": "Abstract",
+        "Speaker": "葉三吉",
+        "Title": "1 Reliability and validity of OpenPose  for measuring hip‑knee‑ankle angle  in patients with knee osteoarthritis\n            2 Automated Implementation of the Edinburgh Visual Gait Score (EVGS) Using OpenPose and Handheld Smartphone Video\n            3 Robust Abnormal Human-Posture Recognition Using OpenPose and Multiview Cross-Information\n            4 Human’s Reaction Time Based Score Calculation of  Self-practice Dynamic Yoga System for User’s Feedback by OpenPose and Fuzzy Rules \n            5 Tele-Snap: a joint impedance estimation system using snap motor and openPose for remote rehabilitation diagnosis"
+    },
+    {
+        "Date": "7/6",
+        "Topic": "Paper",
+        "Speaker": "X",
+        "Title": ""
+    },
+    {
+        "Date": "7/6",
+        "Topic": "Abstract",
+        "Speaker": "X",
+        "Title": ""
+    },
+    {
+        "Date": "6/29",
+        "Topic": "Paper",
+        "Speaker": "Nigus",
+        "Title": "LLDNet: A Lightweight Lane Detection Approach for Autonomous Cars Using Deep Learning. Sensors"
+    },
+    {
+        "Date": "6/29",
+        "Topic": "Abstract",
+        "Speaker": "李一峯",
+        "Title": "1. Explaining and Harnessing Adversarial Examples\n            2. Adversarial Examples in the Physical World\n            3. Adversarial Patch\n            4. One Pixel Attack for Fooling Deep Neural Networks\n            5. Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition"
+    },
+    {
+        "Date": "6/22",
+        "Topic": "Paper",
+        "Speaker": "X",
+        "Title": ""
+    },
+    {
+        "Date": "6/22",
+        "Topic": "Abstract",
+        "Speaker": "X",
+        "Title": ""
+    },
+    {
+        "Date": "6/15",
+        "Topic": "Paper",
+        "Speaker": "Haile",
+        "Title": "Sound Source Localization Using a Convolutional Neural Network and Regression Model"
+    },
+    {
+        "Date": "6/15",
+        "Topic": "Abstract",
+        "Speaker": "Nigus",
+        "Title": "1. Innovative lane detection method to increase the accuracy of lane departure warning system\n            2. Spatial As Deep: Spatial CNN for Traffic Scene Understanding\n            3. A Deep Learning Approach for Lane Detection\n            4. Applying deep neural networks for multi-level classification of driver drowsiness using Vehicle-based measures\n            5. LLDNet: A Lightweight Lane Detection Approach for Autonomous Cars Using Deep Learning. Sensors"
+    },
+    {
+        "Date": "6/8",
+        "Topic": "Paper",
+        "Speaker": "X",
+        "Title": ""
+    },
+    {
+        "Date": "6/8",
+        "Topic": "Abstract",
+        "Speaker": "X",
+        "Title": ""
+    },
+    {
+        "Date": "6/1",
+        "Topic": "Paper",
+        "Speaker": "Marcell",
+        "Title": "Attention! A Lightweight 2D Hand Pose Estimation Approach"
+    },
+    {
+        "Date": "6/1",
+        "Topic": "Abstract",
+        "Speaker": "Haile",
+        "Title": "1. Acoustic Classification of Bird Species Using an Early Fusion of Deep Features\n            2. Investigation of Different CNN-Based Models for Improved Bird Sound Classification\n            3. Sound Source Distance Estimation Using Deep Learning: An Image Classification Approach\n            4. Drone sound detection system based on feature result-level fusion using deep learning\n            5. Sound Source Localization Using a Convolutional Neural Network and Regression Model"
+    },
+    {
+        "Date": "5/25",
+        "Topic": "Paper",
+        "Speaker": "Jack",
+        "Title": "Push-Ups: Enhancing Kinesthetic Experience with Shape-Forming Devices on the Feet Soles"
+    },
+    {
+        "Date": "5/25",
+        "Topic": "Abstract",
+        "Speaker": "Marcell",
+        "Title": "1. Detection and tracking of pianist hands and fingers \n            2. Marker-less piano fingering recognition using sequential depth images \n            3. Attention! A Lightweight 2D Hand Pose Estimation Approach \n            4. 3D Hand Shape and Pose Estimation from a Single RGB Image \n            5. LG-Hand: Advancing 3D Hand Pose Estimation with Locally and Globally Kinematic Knowledge"
+    },
+    {
+        "Date": "5/18",
+        "Topic": "Paper",
+        "Speaker": "X",
+        "Title": ""
+    },
+    {
+        "Date": "5/18",
+        "Topic": "Abstract",
+        "Speaker": "X",
+        "Title": ""
+    },
+    {
+        "Date": "5/11",
+        "Topic": "Paper",
+        "Speaker": "Hank",
+        "Title": "A Fast Deep Learning Based Approach for Basketball Video Analysis"
+    },
+    {
+        "Date": "5/11",
+        "Topic": "Abstract",
+        "Speaker": "Jack",
+        "Title": "1. Assist Home Training Table Tennis Skill Acquisition via Immersive Learning and Web Technologies\n            2. BetterSight: Immersive Vision Training for Basketball Players\n            3. GroundFlow: Liquid-based Haptics for Simulating Fluid on the Ground in Virtual Reality\n            4. Augmented Tai-Chi Chuan Practice Tool with Pose Evaluation\n            5. Push-Ups: Enhancing Kinesthetic Experience with Shape-Forming Devices on the Feet Soles"
+    },
+    {
+        "Date": "5/4",
+        "Topic": "Paper",
+        "Speaker": "X",
+        "Title": ""
+    },
+    {
+        "Date": "5/4",
+        "Topic": "Abstract",
+        "Speaker": "X",
+        "Title": ""
+    },
+    {
+        "Date": "4/27",
+        "Topic": "Paper",
+        "Speaker": "Summer",
+        "Title": "GaitEdge: Beyond Plain End-to-end Gait Recognition for Better Practicality"
+    },
+    {
+        "Date": "4/27",
+        "Topic": "Abstract",
+        "Speaker": "Hank",
+        "Title": "1. In-Pulse: Inducing Fear and Pain in Virtual Experiences\n            2. Catching a Real Ball in Virtual Reality\n            3. VR system to simulate tightrope walking with a standalone VR headset and slack rails\n            4. A Tangible Haptic Feedback Box for Mixed Reality Billiard in Tight Spaces\n            5. A Fast Deep Learning Based Approach for Basketball Video Analysis"
+    },
+    {
+        "Date": "4/20",
+        "Topic": "Paper",
+        "Speaker": "Allen",
+        "Title": "A new multimodal deep-learning model to video scene segmentation"
+    },
+    {
+        "Date": "4/20",
+        "Topic": "Abstract",
+        "Speaker": "Summer",
+        "Title": "1. Continuous Sign Language Recognition with Correlation Network\n            2. 3D Cinemagraphy from a Single Image\n            3. Kubric: A scalable dataset generator\n            4. CASIA-E: A Large Comprehensive Dataset for Gait Recognition\n            5. GaitEdge: Beyond Plain End-to-end Gait Recognition for Better Practicality"
+    },
+    {
+        "Date": "4/13",
+        "Topic": "Paper",
+        "Speaker": "Jenny",
+        "Title": "BANMo: Building Animatable 3D Neural Models from Many Casual Videos"
+    },
+    {
+        "Date": "4/13",
+        "Topic": "Abstract",
+        "Speaker": "Allen",
+        "Title": "1. A Mobile Robot Generating Video Summaries of Seniors' Indoor Activities\n            2. A Web Service for Video Summarization\n            3. Data Visualization and Analysis of Agricultural Land Use System Employing GI\n            4. Towards Multimodal Search and Visualization of Movies Based on Emotions\n            5. A new multimodal deep-learning model to video scene segmentation"
+    },
+    {
+        "Date": "4/6",
+        "Topic": "Paper",
+        "Speaker": "Vicky",
+        "Title": "Visualizing Paired Image Similarity in Transformer Networks"
+    },
+    {
+        "Date": "4/6",
+        "Topic": "Abstract",
+        "Speaker": "Jenny",
+        "Title": "1. Storyline Visualizations of Eye Tracking of Movie Viewing\n            2. Book Cover Synthesis from the Summary\n            3. StoryPrint: an interactive visualization of stories\n            4. 4W1H Keyword Extraction basedSummarization Model  \n            5. BANMo: Building Animatable 3D Neural Models from Many Casual Videos"
+    },
+    {
+        "Date": "3/30",
+        "Topic": "Paper",
+        "Speaker": "張宗雅",
+        "Title": "Cinematographic Shot Classification with Deep Ensemble Learning"
+    },
+    {
+        "Date": "3/30",
+        "Topic": "Abstract",
+        "Speaker": "Vicky",
+        "Title": "1. Geometry-Guided Adaptation for Road Segmentation        \n            2. Recognizing the style of a fine-art painting with EfficientNet and Transfer learning        \n            3. Plant Disease Identification from Leaf Images using Deep CNN’s EfficientNet        \n            4. Shadow Removal via Shadow Image Decomposition        \n            5. Visualizing Paired Image Similarity in Transformer Networks"
+    },
+    {
+        "Date": "3/23",
+        "Topic": "Paper",
+        "Speaker": "Edwin",
+        "Title": "Dist-YOLO: Fast Object Detection with Distance Estimation"
+    },
+    {
+        "Date": "3/23",
+        "Topic": "Abstract",
+        "Speaker": "張宗雅",
+        "Title": "1. Locate and Label: A Two-stage Identifier for Nested Named Entity Recognition \n            2. Multi-modal Graph Fusion for Named Entity Recognition with Targeted Visual\n            3. Playing a Part: Speaker Verification at the movies\n            4. Speaker Naming in TV programs Based on Speaker Role Recognition\n            5. Cinematographic Shot Classification with Deep Ensemble Learning"
+    },
+    {
+        "Date": "3/16",
+        "Topic": "Paper",
+        "Speaker": "Molion",
+        "Title": "Audio Style Transfer Using Shallow Convolutional Networks And Random Filters"
+    },
+    {
+        "Date": "3/16",
+        "Topic": "Abstract",
+        "Speaker": "Edwin",
+        "Title": "1. Object Distance Measurement System Using Monocular Camera on Vehicle\n            2. Aggressive Driving Detection Using Deep Learning-based Time Series Classification\n            3. Drivable Area Detection Using Deep Learning Models for Autonomous Driving\n            4. Distance Estimation Between Camera and Vehicles from an Image using YOLO and Machine Learning\n            5. Dist-YOLO: Fast Object Detection with Distance Estimation"
+    },
+    {
+        "Date": "3/9",
+        "Topic": "Paper",
+        "Speaker": "Rini",
+        "Title": "Pose Trainer: Correcting Exercise Posture using Pose Estimation"
+    },
+    {
+        "Date": "3/9",
+        "Topic": "Abstract",
+        "Speaker": "Molion",
+        "Title": "1. AUDIO STYLE TRANSFER\n            2. MelGAN-VC: Voice Conversion and Audio Style Transfer on arbitrarily long samples using Spectrograms\n            3. Timbre-enhanced Multi-modal Music Style Transfer with Domain Balance Loss\n            4. Audio Mixing using Image Neural Style Transfer Networks\n            5. Audio Style Transfer Using Shallow Convolutional Networks And Random Filters"
+    },
+    {
+        "Date": "3/2",
+        "Topic": "Paper",
+        "Speaker": "X",
+        "Title": ""
+    },
+    {
+        "Date": "3/2",
+        "Topic": "Abstract",
+        "Speaker": "X",
+        "Title": ""
+    },
+    {
+        "Date": "2/23",
+        "Topic": "Paper",
+        "Speaker": "姿廷",
+        "Title": "Interactive Furniture Layout Using Interior Design Guidelines"
+    },
+    {
+        "Date": "2/23",
+        "Topic": "Abstract",
+        "Speaker": "Rini",
+        "Title": "1. PoseTrack: A Benchmark for Human Pose Estimation and Tracking\n            2. Detect-and-Track: Efficient Pose Estimation in Videos\n            3. MediaPipe Hands: On-device Real-time Hand Tracking\n            4. Pen Spinning Hand Movement Analysis Using MediaPipe Hands\n            5. Pose Trainer: Correcting Exercise Posture using Pose Estimation"
+    },
+    {
+        "Date": "2/16",
+        "Topic": "Paper",
+        "Speaker": "雯筑",
+        "Title": "Video Summarization by Learning from Unpaired Data"
+    },
+    {
+        "Date": "2/16",
+        "Topic": "Abstract",
+        "Speaker": "姿廷",
+        "Title": "1. Style Compatibility for 3D Furniture Models\n            2. A Search-Classify Approach for Cluttered Indoor Scene Understanding\n            3. Human-centric metrics for indoor scene assessment and synthesis Graph Models 110\n            4. SceneFormer: Indoor Scene Generation with Transformers\n            5. Interactive Furniture Layout Using Interior Design Guidelines"
+    },
+    {
+        "Date": "2/9",
+        "Topic": "Paper",
+        "Speaker": "吳家霖",
+        "Title": "Perspective Reconstruction of Human Faces by Joint Mesh and Landmark Regression"
+    },
+    {
+        "Date": "2/9",
+        "Topic": "Abstract",
+        "Speaker": "雯筑",
+        "Title": "1. Deepfakes for Medical Video De-Identification: Privacy Protection and Diagnostic Information Preservation\n            2. De-identification Without Losing Faces\n            3. Deep Motion Flow Aided Face Video De-identification\n            4. Query-guided End-to-End Person Search\n            5. Video Summarization by Learning from Unpaired Data"
+    },
+    {
+        "Date": "2/2",
+        "Topic": "Paper",
+        "Speaker": "葉三吉",
+        "Title": "Fall detection based on OpenPose and MobileNetV2 network"
+    },
+    {
+        "Date": "2/2",
+        "Topic": "Abstract",
+        "Speaker": "吳家霖",
+        "Title": "1. Improving Deepfake Detection by Mixing Top Solutions of the DFDC            \n            2. Exposing Deep Fakes Using Inconsistent Head Poses            \n            3. Adversarial Threats to DeepFake Detection: A Practical Perspective            \n            4. Towards Robust Blind Face Restoration with Codebook Lookup Transformer            \n            5. Perspective Reconstruction of Human Faces by Joint Mesh and Landmark Regression"
+    },
+    {
+        "Date": "1/26",
+        "Topic": "Paper",
+        "Speaker": "X",
+        "Title": ""
+    },
+    {
+        "Date": "1/26",
+        "Topic": "Abstract",
+        "Speaker": "X",
+        "Title": ""
+    },
+    {
+        "Date": "1/19",
+        "Topic": "Paper",
+        "Speaker": "老師上課",
+        "Title": ""
+    },
+    {
+        "Date": "1/19",
+        "Topic": "Abstract",
+        "Speaker": "老師上課",
+        "Title": ""
+    },
+    {
+        "Date": "1/12",
+        "Topic": "Paper",
+        "Speaker": "X",
+        "Title": ""
+    },
+    {
+        "Date": "1/12",
+        "Topic": "Abstract",
+        "Speaker": "X",
+        "Title": ""
+    },
+    {
+        "Date": "1/5",
+        "Topic": "Paper",
+        "Speaker": "X",
+        "Title": ""
+    },
+    {
+        "Date": "1/5",
+        "Topic": "Abstract",
+        "Speaker": "X",
+        "Title": ""
+    }
+]

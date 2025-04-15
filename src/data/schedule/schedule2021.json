@@ -1,0 +1,374 @@
+[
+    {
+        "Date": "8\/5",
+        "Topic": "Paper",
+        "Speaker": "宋逸慈",
+        "Title": "與林伯慎老師實驗室Meeting(our turn)  5.Efficient retrieval of deformable shape classes using local self-similarities (2009 IEEE 12th International Conference on Computer Vision Workshops, ICCV Workshops)"
+    },
+    {
+        "Date": "8\/5",
+        "Topic": "Abstract",
+        "Speaker": "林紀揚",
+        "Title": "與林伯慎老師實驗室Meeting(our turn)  Human action recognition using dynamic time warping. In: Proceedings of the 2011 International Conference on Electrical Engineering and Informatics. IEEE, 2011. p. 1-5.  A robust human activity recognition approach using openpose, motion features, and deep recurrent neural network. In: Scandinavian conference on image analysis. Springer, Cham, 2019. p. 299-310  A smartphone application to measure the quality of pest control spraying machines via image analysis. In: Proceedings of the 33rd Annual ACM Symposium on Applied Computing. 2018. p. 956-963.  A segmentation method for disease spot images incorporating chrominance in Comprehensive Color Feature and Region Growing. Computers and Electronics in Agriculture, 2019, 165: 104934  From Shadow Generation to Shadow Removal. In: Proceedings of the IEEE\/CVF Conference on Computer Vision and Pattern Recognition. 2021. p. 4927-4936."
+    },
+    {
+        "Date": "7\/29",
+        "Topic": "Paper",
+        "Speaker": "徐晟紘",
+        "Title": "5.Nondeterministic Sound Source Localization with Smartphones in Crowdsensing"
+    },
+    {
+        "Date": "7\/29",
+        "Topic": "Abstract",
+        "Speaker": "宋逸慈",
+        "Title": "1.DTM: Deformable template matching(2016 IEEE International Conference on Acoustics, Speech and Signal Processing(ICASSP))  2.CAPTCHA Recognition Algorithm Based on the Relative Shape Context and Point Pattern Matching(2017 9th International Conference on Measuring Technology and Mechatronics Automation (ICMTMA))  3.Efficient shape matching using shape contexts(IEEE Transactions on Pattern Analysis and Machine Intelligence ( Volume: 27, Issue: 11, Nov. 2005))  4.Shape matching and object recognition using shape contexts(2010 3rd International Conference on Computer Science and Information Technology)  5.Efficient retrieval of deformable shape classes using local self-similarities (2009 IEEE 12th International Conference on Computer Vision Workshops, ICCV Workshops)"
+    },
+    {
+        "Date": "7\/22",
+        "Topic": "Paper",
+        "Speaker": "Richard",
+        "Title": "5.Structured Prediction Helps 3D Human Motion Modelling  Aksan, Emre & Kaufmann, Manuel & Hilliges, Otmar.  International Conference on Computer Vision (ICCV)  2019"
+    },
+    {
+        "Date": "7\/22",
+        "Topic": "Abstract",
+        "Speaker": "徐晟紘",
+        "Title": "1.An Active Sound Localization Method Based on Mobile Phone  2.A Software Based Sonar Ranging Sensor for Smart Phones  3.Sound-based_proximity_detection_with_mobile_phones  4.A New Sound Source Localization Approach Using Stereo Directional Microphones  5.Nondeterministic Sound Source Localization with Smartphones in Crowdsensing"
+    },
+    {
+        "Date": "7\/15",
+        "Topic": "Paper",
+        "Speaker": "張宗雅",
+        "Title": "5. Sentence-BERT Sentence Embeddings using Siamese BERT-Networks"
+    },
+    {
+        "Date": "7\/15",
+        "Topic": "Abstract",
+        "Speaker": "Richard",
+        "Title": "1.Deep representation learning for human motion prediction and classification  Bütepage, Judith & Black, Michael & Kragic, Danica & Kjellström, Hedvig IEEE Conference on Computer Vision and Pattern Recognition (CVPR)  2017  2.Human Motion Prediction via Learning Local Structure Representations and Temporal Dependencies  Xiao Guo,Jongmoo Choi  Association for the Advancement of Artificial Intelligence (AAAI)  2019  3.Motion Prediction Using Temporal Inception Module  Lebailly, Tim & Kiciroglu, Sena & Salzmann, Mathieu & Fua, Pascal & Wang, Wei  ACCV 2020 (pp.651-665)  4.On human motion prediction using recurrent neural networks  J. Martinez, M. J. Black and J. Romero  2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)  5.Structured Prediction Helps 3D Human Motion Modelling  Aksan, Emre & Kaufmann, Manuel & Hilliges, Otmar.  International Conference on Computer Vision (ICCV)  2019"
+    },
+    {
+        "Date": "7\/8",
+        "Topic": "Paper",
+        "Speaker": "趙姵璇",
+        "Title": "05:Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition (Published in: 2018, Association for the Advancement of Artificial Intelligence)"
+    },
+    {
+        "Date": "7\/8",
+        "Topic": "Abstract",
+        "Speaker": "張宗雅",
+        "Title": "1. Abstractive Dialogue Summarization with Sentence-Gated Modeling Optimized by Dialogue Acts  2. Bag of Tricks for Efficient Text Classification  3. Cross-Thought for Sentence Encoder Pre-training  4. Get To The Point Summarization with Pointer-Generator Networks  5. Sentence-BERT Sentence Embeddings using Siamese BERT-Networks"
+    },
+    {
+        "Date": "7\/1",
+        "Topic": "Paper",
+        "Speaker": "X",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "7\/1",
+        "Topic": "Abstract",
+        "Speaker": "X",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "6\/24",
+        "Topic": "Paper",
+        "Speaker": "X",
+        "Title": "SpecialTopic"
+    },
+    {
+        "Date": "6\/24",
+        "Topic": "Abstract",
+        "Speaker": "X",
+        "Title": "SpecialTopic"
+    },
+    {
+        "Date": "6\/17",
+        "Topic": "Paper",
+        "Speaker": "老師上課",
+        "Title": "X"
+    },
+    {
+        "Date": "6\/17",
+        "Topic": "Abstract",
+        "Speaker": "老師上課",
+        "Title": "X"
+    },
+    {
+        "Date": "6\/10",
+        "Topic": "Paper",
+        "Speaker": "葉三吉",
+        "Title": "5.A Neural Rendering Framework for Free-Viewpoint Relighting  (Published in: 2020 IEEE\/CVF Conference on Computer Vision and Pattern Recognition (CVPR))"
+    },
+    {
+        "Date": "6\/10",
+        "Topic": "Abstract",
+        "Speaker": "趙姵璇",
+        "Title": "01:MotionExplorer: Exploratory Search in Human Motion Capture Data Based on Hierarchical Aggregation (Published in: December 2013 IEEE Transactions on Visualization and Computer Graphics)  02:Motion Track: Visualizing Variations of Human Motion Data (Published in: 2010 IEEE Pacific Visualization Symposium (PacificVis))  03:Using LSTM for Automatic Classification of Human Motion Capture Data (Published in: 14th International Conference on Computer Graphics Theory and Applications)  04:MOTION-LET CLUSTERING FOR SKELETON-BASED ACTION RECOGNITION (Published in: 2019 IEEE International Conference on Multimedia & Expo Workshops (ICMEW))  05:Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition (Published in: 2018, Association for the Advancement of Artificial Intelligence)"
+    },
+    {
+        "Date": "6\/3",
+        "Topic": "Paper",
+        "Speaker": "李一峯",
+        "Title": "與林伯慎老師實驗室Meeting(our turn)  5.Hybrid Neural Fusion For Full-frame Video Stabilization (Computer Vision And Pattern Recognition, 2021)"
+    },
+    {
+        "Date": "6\/3",
+        "Topic": "Abstract",
+        "Speaker": "葉三吉",
+        "Title": "與林伯慎老師實驗室Meeting(our turn)  1.  Single Image Portrait Relighting  (Published in: SIGGRAPH 2019 Technical Paper)  2.  DeProCams: Simultaneous Relighting, Compensation and Shape Reconstruction for Projector-Camera Systems  (Published in:IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS, VOL. 27, NO. 5, MAY 2021)  3.  Multi-modal Bifurcated Network for Depth Guided Image Relighting  (Accepted by CVPRW 2021)  4.  S3Net: A Single Stream Structure for Depth Guided Image Relighting  (Accepted by CVPRW 2021)  5.  A Neural Rendering Framework for Free-Viewpoint Relighting  (Published in: 2020 IEEE\/CVF Conference on Computer Vision and Pattern Recognition (CVPR))"
+    },
+    {
+        "Date": "5\/27",
+        "Topic": "Paper",
+        "Speaker": "Glleen",
+        "Title": "- MixMash: A Visualisation System for Musical Mashup Creation"
+    },
+    {
+        "Date": "5\/27",
+        "Topic": "Abstract",
+        "Speaker": "李一峯",
+        "Title": "1.Instance-aware Image Colorization  (Computer Vision And Pattern Recognition, 2020 )  2.Time-travel Rephotography  (Computer Vision And Pattern Recognition, 2020 )  3.Training Generative Adversarial Networks with Limited Data (Computer Vision And Pattern Recognition, 2020 )  4.Learning Video Stabilization Using Optical Flow (Computer Vision And Pattern Recognition, 2020 )  5.Hybrid Neural Fusion For Full-frame Video Stabilization (Computer Vision And Pattern Recognition, 2021)"
+    },
+    {
+        "Date": "5\/20",
+        "Topic": "Paper",
+        "Speaker": "Mojib",
+        "Title": "5- Gait Biometric-based Human Recognition System Using Deep Convolutional Neural Network in Surveillance System  Published in: 2020 Asia Conference on Computers and Communications (ACCC)  Date of Conference: 18-20 Sept. 2020"
+    },
+    {
+        "Date": "5\/20",
+        "Topic": "Abstract",
+        "Speaker": "Glleen",
+        "Title": "- Arc Diagrams: Visualizing Structure in Strings  - Musician Map: Visualizing music collaborations over time  - Interactive music visualization for music player using processing  - Hibiki: A Graph Visualization of Asian Music  - MixMash: A Visualisation System for Musical Mashup Creation"
+    },
+    {
+        "Date": "5\/13",
+        "Topic": "Paper",
+        "Speaker": "X",
+        "Title": "513大停電"
+    },
+    {
+        "Date": "5\/13",
+        "Topic": "Abstract",
+        "Speaker": "X",
+        "Title": "513大停電"
+    },
+    {
+        "Date": "5\/6",
+        "Topic": "Paper",
+        "Speaker": "X",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "5\/6",
+        "Topic": "Abstract",
+        "Speaker": "X",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "4\/29",
+        "Topic": "Paper",
+        "Speaker": "Ann",
+        "Title": "5.Language-based Colorization of Scene Sketches"
+    },
+    {
+        "Date": "4\/29",
+        "Topic": "Abstract",
+        "Speaker": "Mojib",
+        "Title": "1- Autonomous Inpainting Algorithm for Wire Removal from Image  Published in: 2021 International Conference on Emerging Smart Computing and Informatics (ESCI)  Date of Conference: 5-7 March 2021  ****************  2- A Novel Face Inpainting Approach Based on Guided Deep Learning Published in: 2020 International Conference on Communications, Signal Processing, and their Applications (ICCSPA)  Date of Conference: 16-18 March 2021  ****************  3- Face Image Inpainting With Evolutionary Generators  Published in: IEEE Signal Processing Letters  Date of Publication: 01 January 2021 ************  4- Face Image Inpainting Network based on Dense Multi-Scale Fusion of Local Binary Patterns  Published in: 2021 IEEE 5th Advanced Information Technology, Electronic and Automation Control Conference (IAEAC)  Date of Conference: 12-14 March 2021  ***********  5- Gait Biometric-based Human Recognition System Using Deep Convolutional Neural Network in Surveillance System  Published in: 2020 Asia Conference on Computers and Communications (ACCC)  Date of Conference: 18-20 Sept. 2020"
+    },
+    {
+        "Date": "4\/22",
+        "Topic": "Paper",
+        "Speaker": "林紀揚",
+        "Title": "5.Document Rectification and Illumination Correction using a Patch-based CNN.(ACM Transactions on Graphics (TOG), 2019, 38.6: 1-11.)"
+    },
+    {
+        "Date": "4\/22",
+        "Topic": "Abstract",
+        "Speaker": "Ann",
+        "Title": "1.Coloring With Limited Data:Few-Shot Colorization via Memory-Augmented Networks. 2. A Blind Color Separation Model for Faithful Palette-based Image Recoloring 3.Colorization of Mountainous Landscape Images in Grayscale Using Texture Feature Analysis  4.ChromaGAN: Adversarial Picture Colorization with Semantic Class Distribution 5.Language-based Colorization of Scene Sketches"
+    },
+    {
+        "Date": "4\/15",
+        "Topic": "Paper",
+        "Speaker": "宋逸慈",
+        "Title": "5.An Indoor and Outdoor Navigation System for Visually Impaired People (IEEE Access ( Volume: 7) November 2019)"
+    },
+    {
+        "Date": "4\/15",
+        "Topic": "Abstract",
+        "Speaker": "林紀揚",
+        "Title": "1.Robust Detection of Water Sensitive Papers.( International Conference Image Analysis and Recognition. Springer, Cham, 2018. p. 218-226.)  2.Development of a Matlab Code for the Evaluation of Spray Distribution with Water-Sensitive Paper.( International Mid-Term Conference of the Italian Association of Agricultural Engineering. Springer, Cham, 2019. p. 845-853.)  3.YOLO v3-Tiny: Object Detection and Recognition using one stage improved model .( 2020 6th International Conference on Advanced Computing and Communication Systems (ICACCS). IEEE, 2020. p. 687-694.)  4.Real-time object detection method based on improved YOLOv4-tiny.(arXiv preprint arXiv:2011.04244, 2020. )  5.Document Rectification and Illumination Correction using a Patch-based CNN.(ACM Transactions on Graphics (TOG), 2019, 38.6: 1-11.)"
+    },
+    {
+        "Date": "4\/8",
+        "Topic": "Paper",
+        "Speaker": "徐晟紘",
+        "Title": "與林伯慎老師實驗室Meeting(our turn)  5.Progressive Mirror Detection 2020 IEEE\/CVF Conference on Computer Vision and Pattern Recognition (CVPR)  June 2020"
+    },
+    {
+        "Date": "4\/8",
+        "Topic": "Abstract",
+        "Speaker": "宋逸慈",
+        "Title": "1. SCAN: Indoor Navigation Interface on a User-Scanned Indoor Map (MobileHCI '19: Proceedings of the 21st International Conference on Human-Computer Interaction with Mobile Devices and Services (2019))  2.An Image-based Indoor Positioning for Digital Museum Applications (2010 16th International Conference on Virtual Systems and Multimedia)  3.Indoor navigation system using image and sensor data processing on a smartphone (2012 13th International Conference on Optimization of Electrical and Electronic Equipment (OPTIM))  4.Mobile Indoor Navigation System in iOS Platform Using Augmented Reality (2015 9th International Conference on Application of Information and Communication Technologies (AICT))  5.An Indoor and Outdoor Navigation System for Visually Impaired People (IEEE Access ( Volume: 7) November 2019)"
+    },
+    {
+        "Date": "4\/1",
+        "Topic": "Paper",
+        "Speaker": "校慶放假",
+        "Title": "放假"
+    },
+    {
+        "Date": "4\/1",
+        "Topic": "Abstract",
+        "Speaker": "校慶放假",
+        "Title": "放假"
+    },
+    {
+        "Date": "3\/25",
+        "Topic": "Paper",
+        "Speaker": "Richard",
+        "Title": "5. SkeleMotion: A New Representation of Skeleton Joint Sequences Based on Motion Information for 3D Action Recognition.  C. Caetano, J. Sena, F. Brémond, J. A. Dos Santos and W. R. Schwartz  2019 16th IEEE International Conference on Advanced Video and Signal Based Surveillance (AVSS)"
+    },
+    {
+        "Date": "3\/25",
+        "Topic": "Abstract",
+        "Speaker": "徐晟紘",
+        "Title": "1.Wide & Deep Learning for Recommender Systems  DLRS 2016: Proceedings of the 1st Workshop on Deep Learning for Recommender Systems  September 2016  2.Deep Interest Network for Click-Through Rate Prediction  KDD '18: Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining  July 2018 3.Real-time Personalization using Embeddings for Search Ranking at Airbnb  KDD '18: Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining  July 2018  4.OOPS! Predicting Unintentional Action in Video  2020 IEEE\/CVF Conference on Computer Vision and Pattern Recognition (CVPR)  2020  5.Progressive Mirror Detection 2020 IEEE\/CVF Conference on Computer Vision and Pattern Recognition (CVPR)  June 2020"
+    },
+    {
+        "Date": "3\/18",
+        "Topic": "Paper",
+        "Speaker": "陳凱呈",
+        "Title": "Shot Classification and Replay Detection in Broadcast Soccer Video( Advanced Computing and Systems for Security pp 57-66(2020))"
+    },
+    {
+        "Date": "3\/18",
+        "Topic": "Abstract",
+        "Speaker": "Richard",
+        "Title": "1.Late Temporal Modeling in 3D CNN Architectures with BERT for Action Recognition.  Kalfaoglu, Esat & Kalkan, Sinan & Alatan, A..  ECCV Workshops 2020  Computer Science  2.Skeleton Image Representation for 3D Action Recognition based on Tree Structure and Reference Joints.  C. Caetano, F. Brémond, W. Schwartz  2019  Computer Science  2019 32nd SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI)  3. Interpretable 3D Human Action Analysis with Temporal Convolutional Networks.  T. Kim, A. Reiter  Computer Science  2017 IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)  4. 3DV: 3D Dynamic Voxel for Action Recognition in Depth Video.  Yancheng Wang, Yang Xiao, J. Yuan  Computer Science  2020 IEEE\/CVF Conference on Computer Vision and Pattern Recognition (CVPR)  5. SkeleMotion: A New Representation of Skeleton Joint Sequences Based on Motion Information for 3D Action Recognition.  C. Caetano, J. Sena, F. Brémond, J. A. Dos Santos and W. R. Schwartz  2019 16th IEEE International Conference on Advanced Video and Signal Based Surveillance (AVSS)"
+    },
+    {
+        "Date": "3\/11",
+        "Topic": "Paper",
+        "Speaker": "潘玟蓁",
+        "Title": "5. Multi-View Object Detection Based on Deep Learning (Applied Sciences. 2018, 8, 1423.)"
+    },
+    {
+        "Date": "3\/11",
+        "Topic": "Abstract",
+        "Speaker": "陳凱呈",
+        "Title": "SoccerNet: A Scalable Dataset for Action Spotting in Soccer Videos(IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2018, pp. 1711-1721)  A Method for Detecting Lines on Soccer Field by Color of Grass Variation(2020 12th International Conference on Knowledge and Smart Technology (KST))  Automatic key moment extraction and highlights generation based on comprehensive soccer video understanding( 2020 IEEE International Conference on Multimedia & Expo Workshops (ICMEW))  Playfield extraction in soccer video based on Lab color space classification(27th Iranian Conference on Electrical Engineering (ICEE2019))  Shot Classification and Replay Detection in Broadcast Soccer Video( Advanced Computing and Systems for Security pp 57-66(2020))"
+    },
+    {
+        "Date": "3\/4",
+        "Topic": "Paper",
+        "Speaker": "X",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "3\/4",
+        "Topic": "Abstract",
+        "Speaker": "X",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "2\/25",
+        "Topic": "Paper",
+        "Speaker": "老師上課",
+        "Title": "老師上課"
+    },
+    {
+        "Date": "2\/25",
+        "Topic": "Abstract",
+        "Speaker": "老師上課",
+        "Title": "老師上課"
+    },
+    {
+        "Date": "2\/18",
+        "Topic": "Paper",
+        "Speaker": "Glleen",
+        "Title": "- Music Recommendation Based on Feature Similarity (IEEE International Conference of Safety Produce Informatization (IICSPI), 2018)"
+    },
+    {
+        "Date": "2\/18",
+        "Topic": "Abstract",
+        "Speaker": "潘玟蓁",
+        "Title": "1. A Small Object Detection Solution by Using Super-Resolution Recovery (2019 IEEE International Conference on Computer Science and Network Technology)  2. Real-time road surface marking detection from a bird’s-eye view image using convolutional neural networks (2019 International Conference on Machine Vision)  3. Research on Small Size Object Detection in Complex Background (2018 Chinese Automation Congress)  4. Small object detection in aerial view based on improved YoloV3 neural network (2020 IEEE International Conference on Advances in Electrical Engineering and Computer Applications)  5. Multi-View Object Detection Based on Deep Learning (Applied Sciences. 2018, 8, 1423.)"
+    },
+    {
+        "Date": "2\/11",
+        "Topic": "Paper",
+        "Speaker": "X過年",
+        "Title": "X過年"
+    },
+    {
+        "Date": "2\/11",
+        "Topic": "Abstract",
+        "Speaker": "X過年",
+        "Title": "X過年"
+    },
+    {
+        "Date": "2\/4",
+        "Topic": "Paper",
+        "Speaker": "葉三吉",
+        "Title": "與林伯慎老師實驗室Meeting(our turn)  5.  IMAGE RELIGHTING AND MATCHING WITH ILLUMINATION INFORMATIO (2012 IEEE)"
+    },
+    {
+        "Date": "2\/4",
+        "Topic": "Abstract",
+        "Speaker": "Glleen",
+        "Title": "與林伯慎老師實驗室Meeting(our turn)  - A Comparative Study of Music Recommendation Systems (IEEE International Students Conference on Electrical, Electronics and Computer Science, 2018)  - What to play next? A RNN-based music recommendation system (51st Asilomar Conference on Signals, Systems, and Computers, 2017)  - A Conceptual Framework for an Enhancing Running Motivation by Matching Music and Real-time Training Load (The 4th International Conference on Digital Arts, Media and Technology and 2nd ECTI Northern Section Conference on Electrical, Electronics, Computer and Telecommunications Engineering, 2019)  - Emotion aware Smart Music Recommender System using Two Level CNN (The 3rd International Conference on Smart Systems and Inventive Technology (ICSSIT 2020))  - Music Recommendation Based on Feature Similarity (IEEE International Conference of Safety Produce Informatization (IICSPI), 2018)"
+    },
+    {
+        "Date": "1\/28",
+        "Topic": "Paper",
+        "Speaker": "李一峯",
+        "Title": "Deep Single-Image Portrait Relighting (Proceedings Of The IEEE\/CVF International Conference on Computer Vision (ICCV), 2019)"
+    },
+    {
+        "Date": "1\/28",
+        "Topic": "Abstract",
+        "Speaker": "葉三吉",
+        "Title": "1. 3D OBJECT RELIGHTING BASED ON MULTI-VIEW STEREO AND IMAGE BASED LIGHTING TECHNIQUES (2009 International Conference on Virtual Reality and Visualization)  2.  Analytic Double Product Integrals for All-Frequency Relighting (2013 IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS)  3.  FACE RELIGHTING FOR FACE  RECOGNITION UNDER GENERIC ILLUMINATION (2004 IEEE) 4.  Relighting Photographs of Tree Canopies (2011, IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS, OCTOBER)  5.  IMAGE RELIGHTING AND MATCHING WITH ILLUMINATION INFORMATIO (2012 IEEE)"
+    },
+    {
+        "Date": "1\/21",
+        "Topic": "Paper",
+        "Speaker": "Mojib",
+        "Title": "5-  Structure-Guided Deep Video Inpainting  Published in: IEEE Transactions on Circuits and Systems for Video Technology  Date of Publication: 28 October 2020  Publisher: IEEE"
+    },
+    {
+        "Date": "1\/21",
+        "Topic": "Abstract",
+        "Speaker": "李一峯",
+        "Title": "1. Portrait Shadow Manipulation  (ACM Transactions on Graphics 2020)  2. Castle In The Sky: Dynamic Sky Replacement And Harmonization In Videos  (Computer Vision And Pattern Recognition, Oct 2020 )  3. Layered Neural Rendering for Retiming People in Video\t(SIGGRAPH Asia 2020)  4. Generating Digital Painting Lighting Effects via RGB-space Geometry  (ACM Transactions on Graphics 2020)  5. Deep Single-Image Portrait Relighting (Proceedings Of The IEEE\/CVF International Conference on Computer Vision (ICCV), 2019)"
+    },
+    {
+        "Date": "1\/14",
+        "Topic": "Paper",
+        "Speaker": "X",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "1\/14",
+        "Topic": "Abstract",
+        "Speaker": "X",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "1\/7",
+        "Topic": "Paper",
+        "Speaker": "X",
+        "Title": "SpecialTopic(一個人15分鐘)"
+    },
+    {
+        "Date": "1\/7",
+        "Topic": "Abstract",
+        "Speaker": "X",
+        "Title": "SpecialTopic(一個人15分鐘)"
+    }
+]

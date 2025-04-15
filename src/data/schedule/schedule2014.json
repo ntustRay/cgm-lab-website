@@ -1,0 +1,506 @@
+[
+    {
+        "Date": "12\/25",
+        "Topic": "Paper",
+        "Speaker": "Richar",
+        "Title": ""
+    },
+    {
+        "Date": "12\/25",
+        "Topic": "Abstract",
+        "Speaker": "茶靈",
+        "Title": ""
+    },
+    {
+        "Date": "12\/18",
+        "Topic": "Paper",
+        "Speaker": "Pu-teri",
+        "Title": ""
+    },
+    {
+        "Date": "12\/18",
+        "Topic": "Abstract",
+        "Speaker": "Richar",
+        "Title": ""
+    },
+    {
+        "Date": "12\/11",
+        "Topic": "Paper",
+        "Speaker": "Vi",
+        "Title": ""
+    },
+    {
+        "Date": "12\/11",
+        "Topic": "Abstract",
+        "Speaker": "Pu-teri",
+        "Title": ""
+    },
+    {
+        "Date": "12\/4",
+        "Topic": "Paper",
+        "Speaker": "家瑜",
+        "Title": "Disparity Map Estimation Using A Total Variation Bound(IEEE CRV'06)"
+    },
+    {
+        "Date": "12\/4",
+        "Topic": "Abstract",
+        "Speaker": "Vi",
+        "Title": ""
+    },
+    {
+        "Date": "11\/27",
+        "Topic": "Paper",
+        "Speaker": "名嘉",
+        "Title": "A Benchmark for 3D Mesh Segmentation (SIGGRAPH 2009)"
+    },
+    {
+        "Date": "11\/27",
+        "Topic": "Abstract",
+        "Speaker": "家瑜",
+        "Title": "Retargetting Motion to New Characters(SIGGRAPH 1998)  Fast Motion Deblurring(SIGGRAPH ASIA 2009)  High-quality Motion Deblurring from a Single Image(SIGGRAPH 2008)  Layered Photo Pop-Up(SIGGRAPH 2011)  Disparity Map Estimation Using A Total Variation Bound(IEEE CRV'06)"
+    },
+    {
+        "Date": "11\/20",
+        "Topic": "Paper",
+        "Speaker": "思敏",
+        "Title": "Single Image Super-resolution using Deformable Patches (CVPR 2014)"
+    },
+    {
+        "Date": "11\/20",
+        "Topic": "Abstract",
+        "Speaker": "名嘉",
+        "Title": "Consistent Segmentation of 3D models (ELSEVIER Computers & Graphics 33, 2009)  A Benchmark for 3D Mesh Segmentation (SIGGRAPH 2009)  Robust Repair of Polygonal Models (SIGGRAPH 2004)  Mesh Segmentation - A Comparative Study (IEEE International Conference on Shape Modeling and Applications, 2006)  Learning 3D Mesh Segmentation and Labeling (SIGGRAPH 2010)"
+    },
+    {
+        "Date": "11\/13",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "暫停一次"
+    },
+    {
+        "Date": "11\/13",
+        "Topic": "",
+        "Speaker": "",
+        "Title": ""
+    },
+    {
+        "Date": "11\/6",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "10\/30",
+        "Topic": "Paper",
+        "Speaker": "承翰",
+        "Title": "Error Detection and Correction Based on Chinese Phonemic Alphabet in Chinese Text(MDAI 2007)"
+    },
+    {
+        "Date": "10\/30",
+        "Topic": "Abstract",
+        "Speaker": "思敏",
+        "Title": "Super Resolution based on image pyramid and patch selection  Fast Image\/Video Upsampling (SIGGRAPH ASIA 2008)  Image Super-Resolution using Gradient Profile Prior (CVPR 2008)  Single Image Super-Resolution using Gaussian Process Regression (CVPR 2011)"
+    },
+    {
+        "Date": "10\/23",
+        "Topic": "Paper",
+        "Speaker": "孟儒",
+        "Title": "Topology-Varying 3D Shape Creation via Structural Blending(SIGGRAPH 2014)"
+    },
+    {
+        "Date": "10\/23",
+        "Topic": "Abstract",
+        "Speaker": "承翰",
+        "Title": "Why Press Backspace? Understanding User Input Behaviors in Chinese Pinyin Input Method(ACL 2011)  Automatic detecting\/correcting errors in Chinese text by an approximate Word-matching algorithm(ACL 2000)  Automated Error Detection and Correction of Chinese Characters in Written Essays Based on Weighted Finite-State Transducer(ICDAR 2013)  YouPivot: Improving Recall with Contextual Search(CHI 2011)  Error Detection and Correction Based on Chinese Phonemic Alphabet in Chinese Text(MDAI 2007)"
+    },
+    {
+        "Date": "10\/16",
+        "Topic": "Paper",
+        "Speaker": "志民",
+        "Title": "Visualizing Mobility of Public Transportation System (IEEE InfoVis 2014)"
+    },
+    {
+        "Date": "10\/16",
+        "Topic": "Abstract",
+        "Speaker": "孟儒",
+        "Title": "Salient Local Visual Features for Shape-Based 3D Model Retrieval (SMI 2008)  Consistent Mesh Partitioning and Skeletonisation using the Shape Diameter Function (International Journal of Computer Graphics 2008)  A Part-aware Surface Metric for Shape Analysis (EUROGRAPHICS 2009)  Bag of Words and Local Spectral Descriptor for 3D Partial (EUROGRAPHICS WORKSHOP on 3D OBJECT RETRIEVAL 2011)  Topology-Varying 3D Shape Creation via Structural Blending(SIGGRAPH 2014)"
+    },
+    {
+        "Date": "10\/9",
+        "Topic": "Paper",
+        "Speaker": "君豪",
+        "Title": "Introduction to Spark"
+    },
+    {
+        "Date": "10\/9",
+        "Topic": "Abstract",
+        "Speaker": "志民",
+        "Title": "Visual Analysis of Time-Series Similarities for Anomaly Detection in Sensor Networks (EuroVis 2014)  OpinionFlow:Visual Analysis of Opinion Diffusion on Social Media (IEEE InfoVis 2014)  VAET: A Visual Analytics Approachfor E-transactions Time-series (IEEE InfoVis 2014)  Using Topological Analysis to Support Event-Guided Exploration in Urban Data (IEEE InfoVis 2014)  Visualizing Mobility of Public Transportation System (IEEE InfoVis 2014)"
+    },
+    {
+        "Date": "10\/2",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "暫停一次"
+    },
+    {
+        "Date": "9\/25",
+        "Topic": "Math",
+        "Speaker": "無",
+        "Title": "老師"
+    },
+    {
+        "Date": "9\/18",
+        "Topic": "Paper",
+        "Speaker": "元棓",
+        "Title": "6D Hands: Markerless Hand Tracking for Computer Aided Design (UIST 2011)"
+    },
+    {
+        "Date": "9\/18",
+        "Topic": "Abstract",
+        "Speaker": "君豪",
+        "Title": "*OnSet: A Visualization Technique for Large-scale Binary Set Data (infoVis 2014)  Multivariate Network Exploration and Presentation: From Detail to Overview via Selections and Aggregations (infoVis 2014)  Social Network Clustering and Visualization using Hierarchical Edge Bundles (EuroVis 2011)  Tree Colors: Color Schemes for Tree-Structured Data (infoVis 2014)  Introduction to Spark"
+    },
+    {
+        "Date": "9\/11",
+        "Topic": "Paper",
+        "Speaker": "茶靈",
+        "Title": "Color Image Segmentation (CVPR 99)"
+    },
+    {
+        "Date": "9\/11",
+        "Topic": "Abstract",
+        "Speaker": "元棓",
+        "Title": "6D Hands: Markerless Hand Tracking for Computer Aided Design (UIST 2011)  Developing Kinect Games Integrated with Virtual Reality on Activities of Daily Living for Children with Developmental Delay (2014 Advanced Technologies, Embedded and Multimedia for Human-centric Computing)  Leaderboards in a virtual classroom: A test of stereotype threat and social comparison explanations for women's math performance (CAE, SCI, SSCI)  Learning with desktop virtual reality: Low spatial ability learners are more positively affected (CAE, SCI, SSCI)  Multi-Viewer Gesture-Based Interaction for Omni-Directional Video (CHI 2014)"
+    },
+    {
+        "Date": "9\/4",
+        "Topic": "Paper",
+        "Speaker": "思敏",
+        "Title": "Image Interpolation by Adaptive 2-D Autoregressive Modeling and Soft-Decision Estimation (TIP 2008)"
+    },
+    {
+        "Date": "9\/4",
+        "Topic": "Abstract",
+        "Speaker": "思敏",
+        "Title": "A Bayesian Approach to Adaptive Video Super Resolution (CVPR 2011)  Video Super-Resolution by Motion Compensated Iterative Back-Projection Approach (JISE 2011)  Video Super Resolution using Duality Based TV-L1 Optical Flow (DAGM 2009)  Video Super-resolution for Dual-Mode Digital Cameras via Scene-matched Learning (MMSP 2010)  Image Interpolation by Adaptive 2-D Autoregressive Modeling and Soft-Decision Estimation (TIP 2008)"
+    },
+    {
+        "Date": "8\/28",
+        "Topic": "Paper",
+        "Speaker": "承翰",
+        "Title": "Text Segmentation for Chinese Spell Checking (JOURNAL OF THE AMERICAN SOCIETY FOR INFORMATION SCIENCE 1999)"
+    },
+    {
+        "Date": "8\/28",
+        "Topic": "Abstract",
+        "Speaker": "茶靈",
+        "Title": "A New Flood-Fill Algorithm for Closed Contour (SIBCON 2005)  Color Image Segmentation (CVPR 99)  Sub-Pixel Edge Detection in Character Digitization (RIDT 91)  Image Shape Representation Using Curve Fitting (WSEAS 2006)  Capturing Outlines of 2D Image (CISST 2000)"
+    },
+    {
+        "Date": "8\/21",
+        "Topic": "Paper",
+        "Speaker": "孟儒",
+        "Title": "Organizing Heterogeneous Scene Collections through Contextual Focal Points (sigraphic 2014)"
+    },
+    {
+        "Date": "8\/21",
+        "Topic": "Abstract",
+        "Speaker": "承翰",
+        "Title": "Using Structural Information for Identifying Similar Chinese Characters (HLT 2008)  LSH-Based Large Scale Chinese Calligraphic Character Recognition (JCDL 2013)  Spell Checking for Chinese (LREC 2012)  Introduction to CKIP Chinese Spelling Check System for SIGHAN Bakeoff 2013 Evaluation (SIGHAN 2013)  Text Segmentation for Chinese Spell Checking (JOURNAL OF THE AMERICAN SOCIETY FOR INFORMATION SCIENCE 1999)"
+    },
+    {
+        "Date": "8\/14",
+        "Topic": "Paper",
+        "Speaker": "志民",
+        "Title": "imMens: Real-time Visual Querying of Big Data(EuroVis 2013)"
+    },
+    {
+        "Date": "8\/14",
+        "Topic": "Abstract",
+        "Speaker": "孟儒",
+        "Title": "A Simple, Fast,and Effective Polygon Reduction Algorithm (game developer 1998)  Mesh segmentation using feature point and core extraction (visual comput 2005)  Symmetry Detection Using Feature Lines (EUROGRAPHIC 2009)  Organizing Heterogeneous Scene Collections through Contextual Focal Points (sigraphic 2014)  A Similarity Measure for Illustration Style (sigraphic 2014)"
+    },
+    {
+        "Date": "8\/7",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "7\/31",
+        "Topic": "Paper",
+        "Speaker": "君豪",
+        "Title": "Visualizing Dynamic Networks with Matrix Cubes(CHI 2014)"
+    },
+    {
+        "Date": "7\/31",
+        "Topic": "Abstract",
+        "Speaker": "志民",
+        "Title": "Tracing Genelogical Data with TimeNet(AVI 2010)  Webzeitgeist: Design Mining the Web(CHI 2013)  Information visualization and proxemics: design opportunities and empirical findings(IEEE InfoVis 2013)  Lyra: An Interactive Visualization Design Environment (EuroVis 2014)  imMens: Real-time Visual Querying of Big Data(EuroVis 2013)"
+    },
+    {
+        "Date": "7\/24",
+        "Topic": "TBD",
+        "Speaker": "TBD",
+        "Title": ""
+    },
+    {
+        "Date": "7\/17",
+        "Topic": "Math",
+        "Speaker": "無",
+        "Title": "老師"
+    },
+    {
+        "Date": "7\/10",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "CGW暫停一次"
+    },
+    {
+        "Date": "7\/3",
+        "Topic": "Paper",
+        "Speaker": "元棓",
+        "Title": "A New Writing Experience: Finger Writing in the Air Using a Kinect Sensor (MultiMedia journal, SCI, 2013)"
+    },
+    {
+        "Date": "7\/3",
+        "Topic": "Abstract",
+        "Speaker": "君豪",
+        "Title": "SoccerStories: A Kick-off for Visual Soccer Analysis(TVCG 2013)  Visualizing the Effects of Logically Combined Filters(IV’2011)  Visualizing Dynamic Networks with Matrix Cubes(CHI 2014)  MapReduce: Simplified Data Processing on Large Clusters(Communications of the ACM 2008)  A Matrix-Based Visualization for Exploring Dynamic Compound Digraphs(IV' 2013)"
+    },
+    {
+        "Date": "6\/26",
+        "Topic": "Paper",
+        "Speaker": "幸卿",
+        "Title": "PatchNet: A Patch-based Image Representation for Interactive Library-driven Image Editing (SIGGRAPH Asia 2013)"
+    },
+    {
+        "Date": "6\/26",
+        "Topic": "Abstract",
+        "Speaker": "元棓",
+        "Title": "A kinect-based interface to animate virtual characters (J Multimodal User Interfaces, SCI, 2013)  Embodied play to learn: Exploring Kinect-facilitated memory performance (BJET journal, SSCI, 2013)  From on-line sketching to 2D and 3D geometry: a system based on fuzzy knowledge (CAD journal, SCI, 2000)  Wiimote and Kinect: Gestural User Interfaces add a Natural third dimension to HCI (AVI 2012)  A New Writing Experience: Finger Writing in the Air Using a Kinect Sensor (MultiMedia journal, SCI, 2013)"
+    },
+    {
+        "Date": "6\/19",
+        "Topic": "Paper",
+        "Speaker": "茶靈",
+        "Title": "RealBrush: Painting with Examples of Physical Media ACM Transactions(SIGGRAPH 2013)"
+    },
+    {
+        "Date": "6\/19",
+        "Topic": "Abstract",
+        "Speaker": "幸卿",
+        "Title": "Automating Image Morphing using Structural Similarity on a Halfway Domain (SIGGRAPH 2014)  Art-Photographic Detail Enhancement (EUROGRAPHICS 2014)  “Mind the Gap”: Tele-Registration for Structure-Driven Image Completion(SIGGAPH ASIA 2013)  Content-Adaptive Image Downscaling (SIGGRAPH Asia 2013)  PatchNet: A Patch-based Image Representation for Interactive Library-driven Image Editing (SIGGRAPH Asia 2013)"
+    },
+    {
+        "Date": "6\/12",
+        "Topic": "Paper",
+        "Speaker": "全部",
+        "Title": "報告研究相關進度"
+    },
+    {
+        "Date": "6\/5",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "5\/29",
+        "Topic": "Paper",
+        "Speaker": "芊妤",
+        "Title": "Seamless Stitching of Stereo Images for Generating Infinite Panoramas(VRST 2013)"
+    },
+    {
+        "Date": "5\/29",
+        "Topic": "Abstract",
+        "Speaker": "茶靈",
+        "Title": "PicToon: A Personalized Image-based Cartoon System(International Conference on Multimedia 2002)  Hairy Brushes(SIGGRAPH 1986)  Painting with Texture(Eurographics Symposium on Rendering 2006)  RealBrush: Painting with Examples of Physical Media ACM Transactions(SIGGRAPH 2013)  Painting by Feature: Texture Boundaries for Example-based Image Creation(SIGGRAPH 2013)"
+    },
+    {
+        "Date": "5\/22",
+        "Topic": "Paper",
+        "Speaker": "亞婷",
+        "Title": "PENS: A Machine-aided English Writing System for Chinese Users(ACL 2000)"
+    },
+    {
+        "Date": "5\/22",
+        "Topic": "Abstract",
+        "Speaker": "芊妤",
+        "Title": "Automatic Generation of Stippling Illustrations from two Photographs(Mayo 2012)  Mean Shift: A Robust Approach Toward Feature Space Analysis(TPAMI 2002)  Segment-Based Stereo Matching Using Belief Propagation and a Self-Adapting Dissimilarity Measure(ICPR 2006)  Consistent Stereo Image Editing(Multimedia 2013)  Seamless Stitching of Stereo Images for Generating Infinite Panoramas(VRST 2013)"
+    },
+    {
+        "Date": "5\/15",
+        "Topic": "Paper",
+        "Speaker": "翔豪",
+        "Title": "Real-Time Compressive Tracking(ECCV 2012)"
+    },
+    {
+        "Date": "5\/15",
+        "Topic": "Abstract",
+        "Speaker": "亞婷",
+        "Title": "Determining Negation Scope and Strength in Sentiment Analysis (SMC 2011)  Probabilistic Model for Contextual Retrieval (SIGIR 2004)  Talking NPCs in a Virtual Game World(ACL 2010)  Using Statistical Techniques and Web Search to Correct ESL Errors(CALICO Journal 2008)  PENS: A Machine-aided English Writing System for Chinese Users(ACL 2000)"
+    },
+    {
+        "Date": "5\/8",
+        "Topic": "Paper",
+        "Speaker": "昱宏",
+        "Title": "Who Should I Add as a Friend, A Study of Friend Recommendations using Proximity and Homophily(MSM 2013)"
+    },
+    {
+        "Date": "5\/8",
+        "Topic": "Abstract",
+        "Speaker": "翔豪",
+        "Title": "Offline Painted Media for Digital Animation Authoring(CHI2014)  GaussBricks: Magnetic Building Blocks for Constructive Tangible Interactions on Portable Displays(CHI2014)  Paper Generators: Harvesting Energy from Touching, Rubbing and Sliding(CHI2014)  Finding a Laser Dot(In Online progress logfor the Ladypack project, Cambridge)  Real-Time Compressive Tracking(ECCV 2012)"
+    },
+    {
+        "Date": "5\/1",
+        "Topic": "Paper",
+        "Speaker": "冠中",
+        "Title": "Versatile Vision Detection for Lanes and Vehicles(2007NCS全國計算機會議)"
+    },
+    {
+        "Date": "5\/1",
+        "Topic": "Abstract",
+        "Speaker": "昱宏",
+        "Title": "A Distributed Fuzzy Recommendation System(CNS 2012)  Who Should I Add as a Friend, A Study of Friend Recommendations using Proximity and Homophily(MSM 2013)  Recommending Twitter Users to Follow Using Content and Collaborative Filtering Approaches(RecSys 2010)  A Group Recommendation Approach for Service Selection(Internetware 2012)  TasteWeights_A Visual Interactive Hybrid Recommender System(RecSys12)"
+    },
+    {
+        "Date": "4\/24",
+        "Topic": "Paper",
+        "Speaker": "思敏",
+        "Title": "Image Super-Resolution via Sparse Representation(TIP 2010)"
+    },
+    {
+        "Date": "4\/24",
+        "Topic": "Abstract",
+        "Speaker": "冠中",
+        "Title": "Non-parametric Model for Background Subtraction(IEEE 2000)  Fast Digital Image Inpainting(VIIP 2001)  A Fast and Simple Gradient Function Guided Filling Order Prioritization for Examplar-Based Color Image Inpainting(ICIP 2010)  Hidden View Game: Designing Human Computation Games to Update Maps and Street Views(WWW Companion 2013)  Versatile Vision Detection for Lanes and Vehicles(2007NCS全國計算機會議)"
+    },
+    {
+        "Date": "4\/17",
+        "Topic": "Paper",
+        "Speaker": "承翰",
+        "Title": "A Filter Based Post-OCR Accuracy Boost System(HDP 2004)"
+    },
+    {
+        "Date": "4\/17",
+        "Topic": "Abstract",
+        "Speaker": "思敏",
+        "Title": "Space-Time Super-Resolution from a Single Video(CVPR 2011)  A Lifting-Based Wavelet Transform Supporting Non-Dyadic Spatial(ICIP 2006)  Fast Image Super-resolution Based on In-place Example Regression(CVPR 2013)  grouplet-base color image super resoultion(EUSIPCO 2009)  Image Super-Resolution via Sparse Representation(TIP 2010)"
+    },
+    {
+        "Date": "4\/10",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "3\/27",
+        "Topic": "Paper",
+        "Speaker": "孟儒",
+        "Title": "Variational Shape Approximation(SIGGRAPH 2004)"
+    },
+    {
+        "Date": "3\/27",
+        "Topic": "Abstract",
+        "Speaker": "承翰",
+        "Title": "A New Video Text Detection Method(JCDL 2011)  An Eigen Value Based Approach for Text Detection in Video(DAS 2010)  A New Wavelet-Median-Moment based Method for Multi-Oriented Video Text Detection(DAS 2010)  Con-Text:Text Detection Using Background Connectivity for Fine-Grained Object Classification(MM 2013)  A Filter Based Post-OCR Accuracy Boost System(HDP 2004)"
+    },
+    {
+        "Date": "3\/20",
+        "Topic": "Paper",
+        "Speaker": "志民",
+        "Title": "Egocentric Storylines for Visual Analysis of Large Dynamic Graphs(IEEE BigDataVis 2013 WORKSHOP)"
+    },
+    {
+        "Date": "3\/20",
+        "Topic": "Abstract",
+        "Speaker": "孟儒",
+        "Title": "Probabilistic Color-by-Numbers:Suggesting Pattern Colorizations Using Factor Graphs(SIGGRAPH 2013)  Recurring Part Arrangements in Shape Collections(EUROGAPHICS 2014)  Variational Shape Approximation(SIGGRAPH 2004)  Partial and Approximate Symmetry Detection for 3D Geometry(SIGGRAPH 2006)  A Planar-Reective Symmetry Transform for 3D Shapes(SIGGRAPH 2006)"
+    },
+    {
+        "Date": "3\/13",
+        "Topic": "無",
+        "Speaker": "無",
+        "Title": "暫停Meeting一次"
+    },
+    {
+        "Date": "3\/6",
+        "Topic": "Paper",
+        "Speaker": "君豪",
+        "Title": "Perceptually Driven Visibility Optimization for Categorical Data Visualization (TVCG 2013)"
+    },
+    {
+        "Date": "3\/6",
+        "Topic": "Abstract",
+        "Speaker": "志民",
+        "Title": "Egocentric Storylines for Visual Analysis of Large Dynamic Graphs(IEEE BigDataVis 2013 WORKSHOP)  LeadLine Interactive Visual Analysis of Text Data through Event(IEEE VAST 2012)  ScatterBlogs2 Real-Time Monitoring of Microblog Messages(IEEE TVCG 2013)  Sketchy Rendering for Information Visualization(IEEE INFOVIS 2012)  Visual Analysis of Topic Competition on Social Media(IEEE TVCG 2013)"
+    },
+    {
+        "Date": "2\/27",
+        "Topic": "Paper",
+        "Speaker": "元棓",
+        "Title": "An Adaptive Contact Model for the Robust Simulation of Knots (Eurographics 2008, Computer Graphics Forum 2008)"
+    },
+    {
+        "Date": "2\/27",
+        "Topic": "Abstract",
+        "Speaker": "君豪",
+        "Title": "NetVisia: Heat Map & Matrix Visualization of Dynamic Social Network Statistics & Content (2011 IEEE International Conference on Privacy, Security, Risk, and Trust, and IEEE International Conference on Social Computing)  A Comparison of the Readability of Graphs Using Node-Link and Matrix-Based Representations (IEEE Symposium on Information Visualization 2004)  Visual Exploration of Relationships between Document Clusters (2014 SciTePress - Science and Techology Publications)  Perceptually Driven Visibility Optimization for Categorical Data Visualization (TVCG 2013)  iVisClustering: An Interactive Visual Document Clustering via Topic Modeling (Eurographic Conference on Visualization 2012)"
+    },
+    {
+        "Date": "2\/20",
+        "Topic": "Math",
+        "Speaker": "無",
+        "Title": "老師"
+    },
+    {
+        "Date": "2\/10",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "1\/27",
+        "Topic": "Paper",
+        "Speaker": "幸卿",
+        "Title": "3D+2DTV: 3D Displays with No Ghosting for Viewers Without Glasses(Siggraph 2013)"
+    },
+    {
+        "Date": "1\/27",
+        "Topic": "Abstract",
+        "Speaker": "元棓",
+        "Title": "Flexpad: Highly Flexible Bending Interactions for Projected Handheld Displays(CHI 2013)  inFORM: Dynamic Physical Affordances and Constraints through Shape and Object Actuation (UIST 2013)  SpatialEase: learning language through body motion (CHI 2013)  Dynamic Thread for Real-Time Knot-Tying (Joint Conference of Eurohaptics and World Haptics 2005)  An Adaptive Contact Model for the Robust Simulation of Knots (Eurographics 2008, Computer Graphics Forum 2008)"
+    },
+    {
+        "Date": "1\/20",
+        "Topic": "Paper",
+        "Speaker": "芊妤",
+        "Title": "Stereoscopic 3D Line Drawing(SIGGRAPH 2013)"
+    },
+    {
+        "Date": "1\/20",
+        "Topic": "Abstract",
+        "Speaker": "幸卿",
+        "Title": "Video Google: A Text Retrieval Approach to Object Matching in Videos(Computer Vision, 2003)  Robust Wide Baseline Stereo from Maximally Stable Extremal Regions(Image and vision computing,2004–Elsevier)  Scalable Recognition with a Vocabulary Tree(CVPR 2006)  Object retrieval with large vocabularies and fast spatial matching(Computer Vision and Pattern Recognition,2007.CVPR'07)  3D+2DTV: 3D Displays with No Ghosting for Viewers Without Glasses(Siggraph 2013)"
+    },
+    {
+        "Date": "1\/13",
+        "Topic": "Paper",
+        "Speaker": "茶靈",
+        "Title": "Image Quilting for Texture Synthesis and Transfer(SIGGRAPH 2001)"
+    },
+    {
+        "Date": "1\/13",
+        "Topic": "Abstract",
+        "Speaker": "芊妤",
+        "Title": "Interactive image segmentation by maximal similarity based region merging(Pattern Recognition 2010)  Context-Aware Saliency Detection(CVPR 2010)  Efficient Stereo-to-multiview Synthesis(ICASSP 2011)  Stereoscopic Inpainting: Joint Color and Depth Completion from Stereo Images(CVPR 2008)  Stereoscopic 3D Line Drawing(SIGGRAPH 2013)"
+    },
+    {
+        "Date": "1\/6",
+        "Topic": "Paper",
+        "Speaker": "全部",
+        "Title": "報告研究相關進度"
+    }
+]

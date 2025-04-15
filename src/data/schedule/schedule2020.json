@@ -1,0 +1,638 @@
+[
+    {
+        "Date": "12\/31",
+        "Topic": "Paper",
+        "Speaker": "Ann",
+        "Title": "5. Turning Diffusion-Based Image Colorization Into Efficient Color Compression"
+    },
+    {
+        "Date": "12\/31",
+        "Topic": "Abstract",
+        "Speaker": "Mojib",
+        "Title": "1-  End-to-End Neural Speaker Diarization with Permutation-Free Objectives Accepted : INTERSPEECH 2019  Date & place : September 15–19, 2019, Graz, Austria Published : arXiv:1909.05952  2-  Multimodal Speaker Diarization Using a Pre-TrainedAudio-Visual Synchronization Model  Published in: Sensors 2019  Date of Publication: 25 November 2019  Publisher: MDPI  3-  Speaker Embeddings Incorporating Acoustic Conditions for Diarization  Published in: ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)  Date of Conference: 4-8 May 2020  Publisher: IEEE  4-  Multimodal Speaker Diarization of Real-World Meetings Using D-Vectors With Spatial Features  Published in: ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)  Date of Conference: 4-8 May 2020  Publisher: IEEE  5-  Structure-Guided Deep Video Inpainting  Published in: IEEE Transactions on Circuits and Systems for Video Technology  Date of Publication: 28 October 2020  Publisher: IEEE"
+    },
+    {
+        "Date": "12\/24",
+        "Topic": "Paper",
+        "Speaker": "林紀揚",
+        "Title": "5. A New Color-to-Gray Conversion Method Based on Edge Detection (2018 10th International Conference on Communications, Circuits and Systems (ICCCAS))"
+    },
+    {
+        "Date": "12\/24",
+        "Topic": "Abstract",
+        "Speaker": "Ann",
+        "Title": "1. Confidence-aware Practical Anime-style Colorization  2. Single Image Colorization Via Modified CycleGAN  3. Fully Automatic Colorization for Anime Character Considering Accurate Eye Colors  4. Fast Colorization of Grayscale Images by Convolutional Neural Network  5. Turning Diffusion-Based Image Colorization Into Efficient Color Compression"
+    },
+    {
+        "Date": "12\/17",
+        "Topic": "Paper",
+        "Speaker": "宋逸慈",
+        "Title": "5. FoRConvD: An approach for food recognition on mobile devices using convolutional neural networks and depth maps (2020 IEEE 14th International Symposium on Applied Computational Intelligence and Informatics (SACI))"
+    },
+    {
+        "Date": "12\/17",
+        "Topic": "Abstract",
+        "Speaker": "林紀揚",
+        "Title": "1. Color2Gray: salience-preserving color removal(ACM Transactions on Graphics July 2005 )  2. An Adaptive Threshold Based on Multiple Resolution Levels for Canny Edge Detection(In International Conference of Reliable Information and Communication Technology (pp. 316-323)2017)  3. Automatic detection of particle size distribution by image analysis based on local adaptive canny edge detection and modified circular Hough transform (Micron,Volume 106, March 2018, Pages 34-41)  4. Gender classification on 2D human skeleton(2019 3rd International Conference on Bio-engineering for Smart Technologies (BioSMART))  5. A New Color-to-Gray Conversion Method Based on Edge Detection (2018 10th International Conference on Communications, Circuits and Systems (ICCCAS))"
+    },
+    {
+        "Date": "12\/10",
+        "Topic": "Paper",
+        "Speaker": "Richard",
+        "Title": "5.PoseNet3D: Learning Temporally Consistent 3D Human Pose via Knowledge Distillation.  Tripathi,Shashank , Ranade,Siddhant, Tyagi,Ambrish, Agrawal,Amit  Computer Vision and Pattern Recognition 2020"
+    },
+    {
+        "Date": "12\/10",
+        "Topic": "Abstract",
+        "Speaker": "宋逸慈",
+        "Title": "1. An Automatic Calorie Estimation System of Food Images on a Smartphone (2016 MADiMa ‘16: Proceedings of the 2nd International Workshop on Multimedia Assisted Dietary Management Pages 63–70)  2. A New Large-scale Food Image Segmentation Dataset and Its Application to Food Calorie Estimation Based on Grains of Rice (2019 MADiMa '19: Proceedings of the 5th International Workshop on Multimedia Assisted Dietary Management Pages 82–87)  3. Point Cloud Processing Method for Food Volume Estimation Based on Dish Space (2020 42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC))  4. DepthCalorieCam: A Mobile Application for Volume-Based Food Calorie Estimation using Depth Cameras (2019 MADiMa '19: Proceedings of the 5th International Workshop on Multimedia Assisted Dietary Management Pages 76–81)  5. FoRConvD: An approach for food recognition on mobile devices using convolutional neural networks and depth maps (2020 IEEE 14th International Symposium on Applied Computational Intelligence and Informatics (SACI))"
+    },
+    {
+        "Date": "12\/3",
+        "Topic": "Paper",
+        "Speaker": "徐晟紘",
+        "Title": "與林伯慎老師實驗室Meeting(our turn)  5.Sound Classification Using Convolutional Neural Network and Tensor Deep Stacking Network"
+    },
+    {
+        "Date": "12\/3",
+        "Topic": "Abstract",
+        "Speaker": "Richard",
+        "Title": "與林伯慎老師實驗室Meeting(our turn)  1. 3D Human Pose Estimation Using Convolutional Neural Networks with 2D Pose Information.Park, Sungheon & Hwang, Jihye & Kwak, Nojun. (2016).  ECCV 2016 workshop  Computer Vision and Pattern Recognition  2. 3D Human Pose Estimation from RGB+D Images with  Convolutional Neural Networks.Cai, Yiheng & Wang, Xueyan & Kong, Xinran ICBEB 2018: Proceedings of the 2nd International Conference on Biomedical Engineering and Bioinformatics September 2018 Pages 64–69  3. 3D human pose estimation in video with temporal convolutions and semi-supervised training.Pavllo, Dario & Feichtenhofer, Christoph & Grangier, David & Auli, Michael.  CVPR.2019  4.VoxelPose: Towards Multi-Camera 3D Human Pose Estimation in Wild Environment.Tu H., Wang C., Zeng W.  ECCV 2020 pp 197-212  5.PoseNet3D: Learning Temporally Consistent 3D Human Pose via Knowledge Distillation.  Tripathi,Shashank , Ranade,Siddhant, Tyagi,Ambrish, Agrawal,Amit  Computer Vision and Pattern Recognition 2020"
+    },
+    {
+        "Date": "11\/26",
+        "Topic": "Paper",
+        "Speaker": "徐孟辰",
+        "Title": "Text2Sign: Towards Sign Language Production Using Neural Machine Translation and Generative Adversarial Networks (IJCV 2020)"
+    },
+    {
+        "Date": "11\/26",
+        "Topic": "Abstract",
+        "Speaker": "徐晟紘",
+        "Title": "1.CNN ARCHITECTURES FOR LARGE-SCALE AUDIO CLASSIFICATION  2.Deep Neural Networks for YouTube Recommendations  3.AI SONG CONTEST: HUMAN-AI CO-CREATION IN SONGWRITING  4.Label Noise Types and Their Effects on Deep Learning  5.Sound Classification Using Convolutional Neural Network and Tensor Deep Stacking Network"
+    },
+    {
+        "Date": "11\/19",
+        "Topic": "Paper",
+        "Speaker": "陳凱呈",
+        "Title": "5.Automatic Soccer Video Event Detection Based On A Deep Neural Network Combined CNN and RNN(2016 IEEE 28th International Conference on Tools with Artificial Intelligence)"
+    },
+    {
+        "Date": "11\/19",
+        "Topic": "Abstract",
+        "Speaker": "徐孟辰",
+        "Title": "STEFANN: Scene Text Editor using Font Adaptive Neural Network (CVPR 2020)  FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks (CVPR 2017)  Video-to-Video Synthesis (NIPS 2018)  Few-shot Video-to-Video Synthesis (NIPS 2019)  Text2Sign: Towards Sign Language Production Using Neural Machine Translation and Generative Adversarial Networks (IJCV 2020)"
+    },
+    {
+        "Date": "11\/12",
+        "Topic": "Paper",
+        "Speaker": "潘玟蓁",
+        "Title": "FisheyeDet: A Self-Study and Contour-Based Object Detector in Fisheye Images (IEEE Access Journal April 2020)"
+    },
+    {
+        "Date": "11\/12",
+        "Topic": "Abstract",
+        "Speaker": "陳凱呈",
+        "Title": "1.AutoHighlight : Automatic Highlights Detection and Segmentation in Soccer Matches(2018 IEEE International Conference on Big Data)  2.End-to-End Soccer Video Scene and Event Classification with Deep Transfer Learning(2018 International Conference on Intelligent Systems and Computer Vision)  3.Blurred Image Region Detection and Classification(Proceedings of the 19th ACM international conference on Multimedia(2011))  4.Soccer Video Event Detection Using 3D Convolutional Networks and Shot Boundary Detection via Deep Feature Distance(International Conference on Neural Information Processing ICONIP 2017: Neural Information Processing pp 440-449)  5.Automatic Soccer Video Event Detection Based On A Deep Neural Network Combined CNN and RNN(2016 IEEE 28th International Conference on Tools with Artificial Intelligence)"
+    },
+    {
+        "Date": "11\/5",
+        "Topic": "Paper",
+        "Speaker": "X",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "11\/5",
+        "Topic": "Abstract",
+        "Speaker": "X",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "10\/29",
+        "Topic": "Paper",
+        "Speaker": "Enrico",
+        "Title": "Mental map preserving graph drawing using simulated annealing. (Asia Pacific Symposium on Information Visualization 2006)"
+    },
+    {
+        "Date": "10\/29",
+        "Topic": "Abstract",
+        "Speaker": "潘玟蓁",
+        "Title": "1. Mask-RCNN Based People Detection Using A Top-View Fisheye Camera (2019 International Conference on Technologies and Applications of Artiﬁcial Intelligence)  2. Learning Rotation Sensitive Neural Network for Deformed Objects' Detection in Fisheye Images (2019 International Conference on Robotics and Automation Engineering)  3. FDDB-360: Face Detection in 360-Degree Fisheye Images (2019 IEEE Conference on Multimedia Information Processing and Retrieval)  4. A New Approach for Distorted Image Restoration By Distance-based Correction and Cubic Spline Interpolation(2019 International Conference on Watermarking and Image Processing)  5. FisheyeDet: A Self-Study and Contour-Based Object Detector in Fisheye Images (IEEE Access Journal April 2020)"
+    },
+    {
+        "Date": "10\/22",
+        "Topic": "Paper",
+        "Speaker": "林怡伶",
+        "Title": "YOLOv4: Optimal Speed and Accuracy of Object Detection (2020 Computer Vision and Pattern Recognition (cs.CV))"
+    },
+    {
+        "Date": "10\/22",
+        "Topic": "Abstract",
+        "Speaker": "Enrico",
+        "Title": "1.New Quality Metrics for Dynamic Graph Drawing (Proceedings of the 28th International Symposium on Graph Drawing and Network Visualization (GD 2020))  2.GRASP and Path Relinking for 2-Layer Straight Line Crossing Minimization (INFORMS Journal on Computing Vol. 11, No. 1, Winter 1999)  3.Graph drawing using tabu search coupled with path relinking (PLoS One. 2018)  4.Dynamic graph drawing with a hybridized genetic algorithm( Adaptive Computing in Design and Manufacture VI, 2004)  5.Mental map preserving graph drawing using simulated annealing. (Asia Pacific Symposium on Information Visualization 2006)"
+    },
+    {
+        "Date": "10\/15",
+        "Topic": "Paper",
+        "Speaker": "葉三吉",
+        "Title": "Research on lip detection based on Opencv(2011 International Conference on Transportation, Mechanical, and Electrical Engineering(TMEE))"
+    },
+    {
+        "Date": "10\/15",
+        "Topic": "Abstract",
+        "Speaker": "林怡伶",
+        "Title": "1. The World in the Eye (2004 IEEE Conference on Computer Vision and Pattern Recognition)  2. DSLR-Quality Photos on Mobile Devices with Deep Convolutional Networks (2017 Computer Vision and Pattern Recognition (cs.CV) )  3. A Benchmark for Iris Location and a Deep Learning Detector Evaluation (2018 International Joint Conference on Neural Networks (IJCNN))  4. Rethinking Data Augmentation for Image Super-resolution: A Comprehensive Analysis and a New Strategy (2020 Image and Video Processing (eess.IV); Computer Vision and Pattern Recognition (cs.CV))  5. YOLOv4: Optimal Speed and Accuracy of Object Detection (2020 Computer Vision and Pattern Recognition (cs.CV))"
+    },
+    {
+        "Date": "10\/8",
+        "Topic": "Paper",
+        "Speaker": "李一峯",
+        "Title": "與林伯慎老師實驗室Meeting(our turn)  Learning to See Through Obstructions (Computer Vision And Pattern Recognition 2020)"
+    },
+    {
+        "Date": "10\/8",
+        "Topic": "Abstract",
+        "Speaker": "葉三吉",
+        "Title": "與林伯慎老師實驗室Meeting(our turn)  Object Image Relighting through Patch MAtch Warping and Color Transfer(Accepted to 2016 International Conference on Virtual Reality and Visualization)  Deep Single-Image Portrait Relighting(2019 IEEE\/CVF International Conference on Computer Vision(ICCV))  Implementation of Linear Structuring Element in OpenCV for Blood Vessel Segmentation form Color Fundus Images(Published in 2019: 10th International COnference on COmputin, Communication and Networking Technologies(ICCCNT))  Development of Android Application for Gender, Age and Face Recognition Using OpenCV(MIPRO 2019, May 20-24, 2019, Opatija Croatia)  Research on lip detection based on Opencv(2011 International Conference on Transportation, Mechanical, and Electrical Engineering(TMEE))"
+    },
+    {
+        "Date": "10\/1",
+        "Topic": "Paper",
+        "Speaker": "X",
+        "Title": "中秋節放假"
+    },
+    {
+        "Date": "10\/1",
+        "Topic": "Abstract",
+        "Speaker": "X",
+        "Title": "中秋節放假"
+    },
+    {
+        "Date": "9\/24",
+        "Topic": "Paper",
+        "Speaker": "Mojib",
+        "Title": "5-Self-Supervised Learning of Audio-Visual Objects from Video (full paper)  Published in: European Conference on Computer Vision (ECCV)  Date of Conference: 10 Aug 2020"
+    },
+    {
+        "Date": "9\/24",
+        "Topic": "Abstract",
+        "Speaker": "李一峯",
+        "Title": "CNN-generated images are surprisingly easy to spot… for now (Accepted to CVPR 2020) Deep Image Matting (Computer Vision And Pattern Recognition 2017)  Background Matting: The World is Your Green Screen (Computer Vision And Pattern Recognition 2020)  “Double-DIP”: Unsupervised Image Decomposition via Coupled-Imaged-Priors (Computer Vision And Pattern Recognition 2019)  Learning to See Through Obstructions (Computer Vision And Pattern Recognition 2020)"
+    },
+    {
+        "Date": "9\/17",
+        "Topic": "Paper",
+        "Speaker": "老師上課",
+        "Title": "老師上課"
+    },
+    {
+        "Date": "9\/17",
+        "Topic": "Abstract",
+        "Speaker": "老師上課",
+        "Title": "老師上課"
+    },
+    {
+        "Date": "9\/10",
+        "Topic": "Paper",
+        "Speaker": "鄭元棓",
+        "Title": "Depth-Aware Video Frame Interpolation (CVPR 2019)"
+    },
+    {
+        "Date": "9\/10",
+        "Topic": "Abstract",
+        "Speaker": "Mojib",
+        "Title": "1-Contextual Residual Aggregation for UltraHigh-Resolution Image Inpainting  Published in: 2020 IEEE\/CVF Conference on Computer Vision and Pattern Recognition (CVPR)  Date of Conference: 13-19 June 2020  2-Foreground-aware Image Inpainting Published in: 2019 IEEE\/CVF Conference on Computer Vision and Pattern Recognition (CVPR)  Date of Conference: Jun 2019  3-Combining detection and tracking for human pose estimation in videos  Published in: 2020 IEEE\/CVF Conference on Computer Vision and Pattern Recognition (CVPR)  Date of Conference: 13-19 June 2020  4-SIMPLE ONLINE AND REALTIME TRACKING WITH A DEEP ASSOCIATION METRIC  Published in: 2017 IEEE International Conference on Image Processing (ICIP)  Date of Conference: 17-20 Sept. 2017  5-Self-Supervised Learning of Audio-Visual Objects from Video (full paper)  Published in: European Conference on Computer Vision (ECCV)  Date of Conference: 10 Aug 2020"
+    },
+    {
+        "Date": "9\/3",
+        "Topic": "Paper",
+        "Speaker": "X",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "9\/3",
+        "Topic": "Abstract",
+        "Speaker": "X",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "8\/27",
+        "Topic": "Paper",
+        "Speaker": "Richard",
+        "Title": "A simple yet effective baseline for 3d human pose estimation  J. Martinez, R. Hossain, J. Romero and J. J. Little  2017 IEEE International Conference on Computer Vision (ICCV), Venice, 2017, pp. 2659-2668"
+    },
+    {
+        "Date": "8\/27",
+        "Topic": "Abstract",
+        "Speaker": "鄭元培",
+        "Title": "A machine learning approach to predict the winner in StarCraft based on influence maps (Entertainment Computing 2017)  Playing first-person shooter games with machine learning techniques and methods using the VizDoom Game-AI research platform  (Entertainment Computing 2020)  3D Photography using Context-aware Layered Depth Inpainting (CVPR 2020)  Interactive Video Stylization Using Few-Shot Patch-Based Training (CVPR 2020)  Depth-Aware Video Frame Interpolation (CVPR 2019)"
+    },
+    {
+        "Date": "8\/20",
+        "Topic": "Paper",
+        "Speaker": "徐晟紘",
+        "Title": "Deep Learning Towards Mobile Applications(IEEE 2018)"
+    },
+    {
+        "Date": "8\/20",
+        "Topic": "Abstract",
+        "Speaker": "Richard",
+        "Title": "1. Deeper Depth Prediction with Fully Convolutional Residual Networks  I. Laina, C. Rupprecht, V. Belagiannis, F. Tombari and N. Navab  2016 Fourth International Conference on 3D Vision (3DV), Stanford, CA, 2016, pp. 239-248  IEEE 2016  2. Depth Map Prediction from a Single Image using a Multi-Scale Deep Network  Eigen, David & Puhrsch, Christian & Fergus, Rob.  Proceedings of the 27th International Conference on Neural Information Processing Systems - Volume 2December 2014  Pages 2366–2374  3. Joint Training of a Convolutional Network and a Graphical Model for Human Pose Estimation  Jonathan Tompson, Arjun Jain, et al  Proceedings of the 27th International Conference on Neural Information Processing Systems  - Volume 1 December 2014 Pages 1799–1807  4. Learning Human Pose Estimation Features with Convolutional Networks  Arjun Jain, Jonathan Tompson, et al  ICLR 2014 conference Apr 14 - 16, 2014, Banff, Canada  5. A simple yet effective  baseline for 3d human pose estimation  J. Martinez, R. Hossain, J. Romero and J. J. Little  2017 IEEE International Conference on Computer Vision (ICCV), Venice, 2017, pp. 2659-2668"
+    },
+    {
+        "Date": "8\/13",
+        "Topic": "Paper",
+        "Speaker": "徐孟辰",
+        "Title": "Generating Long Sequences with Sparse Transformers"
+    },
+    {
+        "Date": "8\/13",
+        "Topic": "Abstract",
+        "Speaker": "徐晟紘",
+        "Title": "1.Acoustic event detection in real life recordings(IEEE 2010)  2.Automatic bird sound detection in long real-field recordings Applcations and tools(2014 Applied Acousticcs)  3.Bird detection in audio A survey and a challenge(IEEE 2016)  4.Bird Sound Recognition Using a Convolutional Neural Network(IEEE 2018)  5.Deep Learning Towards Mobile Applications(IEEE 2018)"
+    },
+    {
+        "Date": "8\/6",
+        "Topic": "Paper",
+        "Speaker": "陳凱呈",
+        "Title": "與林伯慎老師實驗室Meeting(our turn)  SVM-based Soccer Video Summarization System(2011 Third World Congress on Nature and Biologically Inspired Computing)"
+    },
+    {
+        "Date": "8\/6",
+        "Topic": "Abstract",
+        "Speaker": "徐孟辰",
+        "Title": "與林伯慎老師實驗室Meeting(our turn)  1.Transformers: State-of-the-Art Natural Language Processing  2.SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing  3.Language Models are Few-Shot Learners  4.Revisiting Pre-Trained Models for Chinese Natural Language Processing  5.Generating Long Sequences with Sparse Transformers"
+    },
+    {
+        "Date": "7\/30",
+        "Topic": "Paper",
+        "Speaker": "潘玟蓁",
+        "Title": "Object Detection in Equirectangular Panorama (2018 International Conference on Pattern Recognition)"
+    },
+    {
+        "Date": "7\/30",
+        "Topic": "Abstract",
+        "Speaker": "陳凱呈",
+        "Title": "1.Shot Type and Replay Detection for Soccer Video Parsing(2012 IEEE International Symposium on Multimedia)  2.Soccer Video Summarization based on Cinematography and Motion Analysis(2014 IEEE 16th International Workshop on Multimedia Signal Processing  (MMSP))  3.Automatic analysis of broadcast football videos using contextual priors(Signal, Image and Video Processing volume 11, pages171–178(2017))  4.Highlight Ranking for Sports Video Browsing (MULTIMEDIA '2005: Proceedings of the 13th  annual ACM international conference on Multimedia Pages 519–522)  5.SVM-based Soccer Video Summarization System(2011 Third World Congress on Nature and Biologically Inspired Computing)"
+    },
+    {
+        "Date": "7\/23",
+        "Topic": "Paper",
+        "Speaker": "Enrico",
+        "Title": "5. GPU-Based Parallel Particle Swarm Optimization Methods for Graph Drawing (Discrete Dynamics in Nature and Society Volume 2017)"
+    },
+    {
+        "Date": "7\/23",
+        "Topic": "Abstract",
+        "Speaker": "潘玟蓁",
+        "Title": "1. Multiple Object Detection in 360◦ Videos for Robust Tracking (2019 International Conference on Pattern Recognition and Machine Intelligence)  2. Diminishing unwanted objects based on object detection using deep learning and image inpainting  (2018 International Workshop on Advanced Image Technology)  3. Assessing Individual Dietary Intake in Food Sharing Scenarios with a 360 Camera and Deep Learning (2019 IEEE International Conference on Wearable and Implantable Body Sensor Networks)  4. Object Detection on Panoramic Images Based on Deep Learning (2017 International Conference on Control, Automation and Robotics)  5. Object Detection in Equirectangular Panorama (2018 International Conference on Pattern Recognition)"
+    },
+    {
+        "Date": "7\/16",
+        "Topic": "Paper",
+        "Speaker": "林怡伶",
+        "Title": "SSD: Single Shot MultiBox Detector (ECCV 2016)"
+    },
+    {
+        "Date": "7\/16",
+        "Topic": "Abstract",
+        "Speaker": "Enrico",
+        "Title": "1. An Algorithm for Drawing General Undirected Graph (Information Processing Letters 31 1989)  2. Graph Layout Using a Genetic Algorithm (Proceedings. Vol.1. Sixth Brazilian Symposium on Neural Networks IEEE 2000)  3. TimGA: A Genetic Algorithm  for Drawing Undirected Graphs (Divulgaciones Matematicas Vol 9 no. 2 2001)  4. Drawing Undirected Graphs with Genetic Algorithms (ICNC 2005: Advances in Natural Computation)  5. GPU-Based Parallel Particle Swarm Optimization Methods for Graph  Drawing (Discrete Dynamics in Nature and Society Volume 2017)"
+    },
+    {
+        "Date": "7\/9",
+        "Topic": "Paper",
+        "Speaker": "X",
+        "Title": "CGW"
+    },
+    {
+        "Date": "7\/9",
+        "Topic": "Abstract",
+        "Speaker": "X",
+        "Title": "CGW"
+    },
+    {
+        "Date": "7\/2",
+        "Topic": "Paper",
+        "Speaker": "X",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "7\/2",
+        "Topic": "Abstract",
+        "Speaker": "X",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "6\/25",
+        "Topic": "Paper",
+        "Speaker": "X",
+        "Title": "Dragon Boat Festival 端午節"
+    },
+    {
+        "Date": "6\/25",
+        "Topic": "Abstract",
+        "Speaker": "X",
+        "Title": "Dragon Boat Festival 端午節"
+    },
+    {
+        "Date": "6\/18",
+        "Topic": "Paper",
+        "Speaker": "X",
+        "Title": "Special Topic"
+    },
+    {
+        "Date": "6\/18",
+        "Topic": "Abstract",
+        "Speaker": "X",
+        "Title": "Special Topic"
+    },
+    {
+        "Date": "6\/11",
+        "Topic": "Paper",
+        "Speaker": "X",
+        "Title": "老師上課"
+    },
+    {
+        "Date": "6\/11",
+        "Topic": "Abstract",
+        "Speaker": "X",
+        "Title": "老師上課"
+    },
+    {
+        "Date": "6\/4",
+        "Topic": "Paper",
+        "Speaker": "李一峯",
+        "Title": "與林伯慎老師實驗室Meeting(our turn)"
+    },
+    {
+        "Date": "6\/4",
+        "Topic": "Abstract",
+        "Speaker": "林怡伶",
+        "Title": "1.Photographic Tone Reproduction for Digital Images(ACM Transactions on Graphics, 2002)  2.Brightness Calculation in Digital Image Processing(Society for Imaging Science and Technology, 2007)  3.The Beauty of Capturing Faces: Rating the Quality  of Digital Portraits(Computer Vision and Pattern Recognition, 2015)  4.Human Iris Segmentation for Iris Recognition in Unconstrained Environments(International Journal of Computer Science Issues, 2012)  5.SSD: Single Shot MultiBox Detector  (ECCV 2016)"
+    },
+    {
+        "Date": "5\/28",
+        "Topic": "Paper",
+        "Speaker": "Mojib",
+        "Title": "Image Inpainting by Hyperbolic Selection of Pixels for Two-Dimensional Bicubic Interpolations(2018 IEEE Iranian Conference on Electrical Engineering (ICEE))"
+    },
+    {
+        "Date": "5\/28",
+        "Topic": "Abstract",
+        "Speaker": "李一峯",
+        "Title": "1.One Pixel Attack for Fooling Deep Neural Networks(IEEE Transactions on Evolutionary Computation, 2019)  2.Adversarial Policies: Attacking Deep Reinforcement Learning(Under review as a conference paper at ICLR 2020)  3.An Ensemble of VGG Networks for Video-Based Facial Expression Recognition(2018 First Asian Conference on Affective Computing and Intelligent Interaction (ACII Asia))  4.Learning Rich Features for Image Manipulation Detection(2018 Conference  on Computer Vision and Pattern Recognition)  5.Image Inpainting for Irregular Holes Using Partial Convolutions(2019 European Conference on Computer Vision (ECCV))"
+    },
+    {
+        "Date": "5\/21",
+        "Topic": "Paper",
+        "Speaker": "Richard",
+        "Title": "DeepPose: Human Pose Estimation via Deep Neural Networks(2014 IEEE Conference on Computer Vision and Pattern Recognition)"
+    },
+    {
+        "Date": "5\/21",
+        "Topic": "Abstract",
+        "Speaker": "Mojib",
+        "Title": "1.Object Removal by Exemplar-Based Inpainting(2003 IEEE Computer Society Conference on Computer Vision and Pattern Recognition,Proceeding)  2.Semi automatic image inpainting using partial JSEG segmentation(2017 IEEE International Conference  on Inventive Systems and Control (ICISC))  3.Robust exemplar based image and video inpainting for object removal and region filling(2017 IEEE International Conference on Intelligent Computing and Control (I2C2))  4.Image Inpainting Based  on Image Mapping and Object Removal Using Semi-Automatic Method(2018 IEEE International Conference On Advances in Communication and Computing Technology (ICACCT))  5.RIBBONS: Rapid Inpainting Based on Browsing of Neighborhood Statistics(2018  IEEE Iranian Conference on Electrical Engineering (ICEE))"
+    },
+    {
+        "Date": "5\/14",
+        "Topic": "Paper",
+        "Speaker": "徐孟辰",
+        "Title": "3D human pose estimation in video with temporal convolutions and semi-supervised training(IEEE CVPR, 2019)"
+    },
+    {
+        "Date": "5\/14",
+        "Topic": "Abstract",
+        "Speaker": "Richard",
+        "Title": "1.Helmet Violation Processing Using Deep Learning(2018 IEEE International Workshop on Advanced Image Technology (IWAIT))  2.Detection of Motorcyclists without Helmet in Videos using Convolutional Neural Network(2017 IEEE International Joint  Conference on Neural Networks (IJCNN))  3.An Efficient Helmet Detection for MVD using Deep learning(Proceedings of the Third International Conference on Trends in Electronics and Informatics (ICOEI 2019),IEEE)  4.Evaluation of Deep Learning  based Pose Estimation for Sign Language Recognition(Proceedings of the 9th ACM International Conference on PErvasive Technologies Related to Assistive Environments,2016)  5.DeepPose: Human Pose Estimation via Deep Neural Networks(2014 IEEE Conference  on Computer Vision and Pattern Recognition)"
+    },
+    {
+        "Date": "5\/7",
+        "Topic": "Paper",
+        "Speaker": "X",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "5\/7",
+        "Topic": "Abstract",
+        "Speaker": "X",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "4\/30",
+        "Topic": "Paper",
+        "Speaker": "高宜芳",
+        "Title": "Cross-View Image Matching for Geo-localization in Urban Environments (2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR))"
+    },
+    {
+        "Date": "4\/30",
+        "Topic": "Abstract",
+        "Speaker": "徐孟辰",
+        "Title": "1. OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields (IEEE PAMI 2019)  2. Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition(AAAI CVPR, 2018)  3. DensePose: Dense Human Pose Estimation In The Wild(IEEE CVPR, 2018)  4. LCR-Net++: Multi-person 2D and 3D Pose Detection in Natural Images(IEEE PAMI, 2019)  5. 3D human pose estimation in video with temporal convolutions and semi-supervised  training(IEEE CVPR, 2019)"
+    },
+    {
+        "Date": "4\/23",
+        "Topic": "Paper",
+        "Speaker": "鄭鈴錡",
+        "Title": "A Probabilistic Model for Component-Based Shape Synthesis(ACM Transactions on Graphics (TOG), 2011)"
+    },
+    {
+        "Date": "4\/23",
+        "Topic": "Abstract",
+        "Speaker": "高宜芳",
+        "Title": "1. Vision Based Campus Guide System On Intelligent Mobile Phone (2013 IEEE International Conference on Multimedia and Expo Workshops (ICMEW))  2. Building Extraction Based on Hue Cluster Analysis in Complex Scene (2009 2nd International Congress  on Image and Signal Processing)  3. Extraction building based on adaptive detection algorithm of key points (2011 19th International Conference on Geoinformatics)  4. Single Image Depth Estimation Using Deep Adversarial Training (2019 IEEE  International Conference on Image Processing (ICIP))  5. Cross-View Image Matching for Geo-localization in Urban Environments (2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR))"
+    },
+    {
+        "Date": "4\/16",
+        "Topic": "Paper",
+        "Speaker": "盧立恩",
+        "Title": "Speaker Diarization With Region Proposal Network (2020 International Conference on Acoustics, Speech, and Signal Processing)"
+    },
+    {
+        "Date": "4\/16",
+        "Topic": "Abstract",
+        "Speaker": "鄭鈴錡",
+        "Title": "1.The Trimmed Iterative Closest Point Algorithm(International Conference on Pattern Recognition, 2002)  2.Filling holes in complex surfaces using volumetric diffusion(First International Symposium on 3D Data Processing Visualization and Transmission, 2002)  3.Optimal boundaries for Poisson mesh merging(ACM Symposium on Solid and Physical  Modeling, 2007)  4.Drag, Drop, and Clone: An Interactive Interface for Surface Composition(Technical Report CSRG-611, Department of Computer Science, 2010)  5.A Probabilistic Model for Component-Based Shape Synthesis(ACM Transactions on Graphics  (TOG), 2011)"
+    },
+    {
+        "Date": "4\/9",
+        "Topic": "Paper",
+        "Speaker": "Adawiyah",
+        "Title": "與林伯慎老師實驗室Meeting(our turn)  Large-Scale Bird Sound Classification using Convolutional Neural Networks (2017, Conference and Labs of the Evaluation Forum (CLEF))"
+    },
+    {
+        "Date": "4\/9",
+        "Topic": "Abstract",
+        "Speaker": "盧立恩",
+        "Title": "與林伯慎老師實驗室Meeting(our turn)  1.Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks (Audio and Speech Processing, IEEE 2016)  2.Comparison of Scene Change Detection Algorithms for Videos (2015 Fifth International  Conference on Advanced Computing & Communication Technologies, IEEE 2015)  3.Linkage Based Face Clustering via Graph Convolution Network (2019 Conference on Computer Vision and Pattern Recognition)  4.Self-Supervised Learning For Audio-visual  Speaker Diarization (2020 Electrical Engineering and Systems Science)  5.Speaker Diarization With Region Proposal Network (2020 International Conference on Acoustics, Speech, and Signal Processing)"
+    },
+    {
+        "Date": "4\/2",
+        "Topic": "Paper",
+        "Speaker": "X",
+        "Title": "Holiday"
+    },
+    {
+        "Date": "4\/2",
+        "Topic": "Abstract",
+        "Speaker": "X",
+        "Title": "Holiday"
+    },
+    {
+        "Date": "3\/26",
+        "Topic": "Paper",
+        "Speaker": "陳凱呈",
+        "Title": "Soccer Video Summarization using Deep Learning(2019 IEEE Conference on Multimedia Information Processing and Retrieval (MIPR))"
+    },
+    {
+        "Date": "3\/26",
+        "Topic": "Abstract",
+        "Speaker": "Adawiyah",
+        "Title": "1.Convolutional Neural Networks for Large-Scale Bird Song Classification in Noisy Environment (2016 Conference and Labs of the Evaluation Forum (CLEF) South America)  2.Simultaneous Segmentation and Classification of Bird Song using CNN (2017  - IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP))  3.Bird Sound Classification using Convolutional Neural Networks (2019, Conference and Labs of the Evaluation Forum (CLEF), Lugano, Switzerland)  4.Audio-based  Bird Species Identification with Deep Convolutional Neural Networks (2018, Conference and Labs of the Evaluation Forum (CLEF))  5.Large-Scale Bird Sound Classification using Convolutional Neural Networks (2017, Conference and Labs of the Evaluation  Forum (CLEF))"
+    },
+    {
+        "Date": "3\/19",
+        "Topic": "Paper",
+        "Speaker": "潘玟蓁",
+        "Title": "AR interior designer: Automatic furniture arrangement using spatial and functional relationships(2014 International Conference on Virtual Systems & Multimedia)"
+    },
+    {
+        "Date": "3\/19",
+        "Topic": "Abstract",
+        "Speaker": "陳凱呈",
+        "Title": "1.Automatic Broadcast Soccer Video Analysis, Player Detection, and Tracking Based on Color Histogram(2013 Intelligent Technologies and Engineering Systems pp 123-130)  2.A Decision Tree-based Multimodal Data Mining Framework for Soccer Goal  Detection(2004 IEEE International Conference on Multimedia and Expo (ICME))  3.ALGORITHMS AND SYSTEM FOR SEGMENTATION AND STRUCTURE ANALYSIS IN SOCCER VIDEO(IEEE International Conference on Multimedia and Expo, 2001. ICME 2001)  4.An SVM-Based  Soccer Video Shot Classification Scheme Using Projection Histograms (Advances in Multimedia Information Processing - PCM 2008)  5.Soccer Video Summarization using Deep Learning(2019 IEEE Conference on Multimedia Information Processing and Retrieval  (MIPR))"
+    },
+    {
+        "Date": "3\/12",
+        "Topic": "Paper",
+        "Speaker": "Enrico",
+        "Title": "Dynamic Drawing of Clustered Graphs (IEEE 2014)"
+    },
+    {
+        "Date": "3\/12",
+        "Topic": "Abstract",
+        "Speaker": "潘玟蓁",
+        "Title": "1.Integrating YOLO Object Detection with Augmented Reality for iOS Apps(2018 9th IEEE Annual Ubiquitous Computing, Electronics & Mobile Communication Conference)  2.AR DeepCalorieCam V2: Food Calorie Estimation with CNN and AR-based Actual Size  Estimation(Proceedings of the 24th ACM Symposium on Virtual Reality Software and Technology, 2018)  3.Detecting hand-palm orientation and hand shapes for sign language gesture recognition using 3D images(2012 Western New York Image Processing  Workshop)  4.Camera Pose Navigation using Augmented Reality(2010 IEEE International Symposium on Mixed and Augmented Reality)  5.AR interior designer: Automatic furniture arrangement using spatial and functional relationships(2014 International  Conference on Virtual Systems & Multimedia)"
+    },
+    {
+        "Date": "3\/5",
+        "Topic": "Paper",
+        "Speaker": "X",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "3\/5",
+        "Topic": "Abstract",
+        "Speaker": "X",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "2\/27",
+        "Topic": "Paper",
+        "Speaker": "林怡伶",
+        "Title": "Super-Identity Convolutional Neural Network for Face Hallucination(ECCV, 2018)"
+    },
+    {
+        "Date": "2\/27",
+        "Topic": "Abstract",
+        "Speaker": "Enrico",
+        "Title": "1.Cluster Busting in Anchored Graph Drawing (Proceedings of the 1992 Conference of the Centre for Advanced Studies on Collaborative Research)  2.Laplacian-based Dynamic Graph Visualization (IEEE 2015)  3.The Mental Map and Memorability in  Dynamic Graphs (IEEE 2012)  4.Interactive Visualization of Evolving Force-Directed Graphs (DUXU 2013)  5.Dynamic Drawing of Clustered Graphs (IEEE 2014)"
+    },
+    {
+        "Date": "2\/20",
+        "Topic": "Paper",
+        "Speaker": "侯尊堯",
+        "Title": "Generalized Dynamic Time Warping：Unleashing the Warping Power Hidden in Point-Wise Distances(2018 IEEE 34th International Conference on Data Engineering)"
+    },
+    {
+        "Date": "2\/20",
+        "Topic": "Abstract",
+        "Speaker": "林怡伶",
+        "Title": "1.Lens Distortion Correction Using Ideal Image Coordinates(Transactions on Consumer Electronics, 2009 IEEE)  2.Identifiable Images of Bystanders Extracted from Corneal Reflections(PLoS ONE, 2013) 3.Estimating Focused Object using Corneal Surface Image for Eye-based Interaction(Journal of Eye Movement Research , 2014)  4.Image Location Estimation  of Well-known Places from Multi-source based Information(IEEE Transactions on Image Processing, 2015)  5.Super-Identity Convolutional Neural Network for Face Hallucination(ECCV, 2018)"
+    },
+    {
+        "Date": "2\/13",
+        "Topic": "Paper",
+        "Speaker": "Luckman",
+        "Title": "Video Face Clustering with Unknown Number of Clusters(Proceedings of the IEEE International Conference on Computer Vision, 2019)"
+    },
+    {
+        "Date": "2\/13",
+        "Topic": "Abstract",
+        "Speaker": "侯尊堯",
+        "Title": "1.Objective Distortion Measure for Binary Text Image Based on Edge Line Segment Similarity(2007 IEEE Transactions on Image Processing)  2.Hidden Images(2011 Proceedings of the ACM SIGGRAPH\/ Eurographics Symposium on　Non-Photorealistic Animation  and Rendering(NPAR))  3.Structure Importance-Aware Hidden Images(2019 IEEE 11th International Conference on Advanced Infocomm Technology)  4.A Hybrid Time Series Matching Algorithm Based on Feature-Points and DTW(2016 IEEE 9th International Symposium on Computational Intelligence and Design)  5.Generalized Dynamic Time Warping：Unleashing the Warping Power Hidden in Point-Wise  Distances(2018 IEEE 34th International Conference on Data Engineering)"
+    },
+    {
+        "Date": "2\/6",
+        "Topic": "Paper",
+        "Speaker": "李一峯",
+        "Title": "與林伯慎老師實驗室Meeting(our turn)  Live Face De-Identification in Video(Proceedings of IEEE International Conference on Computer Vision 2019)"
+    },
+    {
+        "Date": "2\/6",
+        "Topic": "Abstract",
+        "Speaker": "Luckman",
+        "Title": "與林伯慎老師實驗室Meeting(our turn)  1.Deep clustering with convolutional autoencoders(International conference on neural information processing. 2017)  2.Overcoming catastrophic forgetting in neural networks(arXiv:1612.00796v2 [cs.LG] 25 january  2017)  3.Deep Mutual Learning(Computer Vision and Pattern Recognition Conference 2017)  4.Generalizing Pooling Functions in Convolutional Neural Networks: Mixed, Gated, and Tree(Artificial intelligence and statistics, 2016)  5.Video Face  Clustering with Unknown Number of Clusters(Proceedings of the IEEE International Conference on Computer Vision, 2019)"
+    },
+    {
+        "Date": "1\/30",
+        "Topic": "Paper",
+        "Speaker": "Mojib",
+        "Title": "“Ready Player One”: Enhancing Omnidirectional Treadmills for Use in Virtual Environments(2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR))"
+    },
+    {
+        "Date": "1\/30",
+        "Topic": "Abstract",
+        "Speaker": "李一峯",
+        "Title": "1.A complexity approach for identifying aesthetic composite landscapes(Third International Conference, EvoMUSART 2014)  2.Hand Gesture Recognition Using Kinect(Proceedings of 2012 IEEE 3rd International Conference on Software Engineering and  Service Science)  3.VGGFace2：A dataset for recognising faces across pose and age(Proceedings of 13th IEEE International Conference on Automatic Face and Gesture Recognition, 2018)  4.On face segmentation, face swapping, and face perception(Proceedings  of 13th IEEE International Conference on Automatic Face and Gesture Recognition, 2018)  5.Live Face De-Identification in Video(Proceedings of IEEE International Conference on Computer Vision 2019)"
+    },
+    {
+        "Date": "1\/23",
+        "Topic": "Paper",
+        "Speaker": "X",
+        "Title": "Chinese New Year 春假"
+    },
+    {
+        "Date": "1\/23",
+        "Topic": "Abstract",
+        "Speaker": "X",
+        "Title": "Chinese New Year 春假"
+    },
+    {
+        "Date": "1\/16",
+        "Topic": "Paper",
+        "Speaker": "X",
+        "Title": "老師上課"
+    },
+    {
+        "Date": "1\/16",
+        "Topic": "Abstract",
+        "Speaker": "X",
+        "Title": "老師上課"
+    },
+    {
+        "Date": "1\/9",
+        "Topic": "Paper",
+        "Speaker": "X",
+        "Title": "Special Topic"
+    },
+    {
+        "Date": "1\/9",
+        "Topic": "Abstract",
+        "Speaker": "X",
+        "Title": "Special Topic"
+    },
+    {
+        "Date": "1\/2",
+        "Topic": "Paper",
+        "Speaker": "X",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "1\/2",
+        "Topic": "Abstract",
+        "Speaker": "X",
+        "Title": "與林伯慎老師實驗室Meeting"
+    }
+]

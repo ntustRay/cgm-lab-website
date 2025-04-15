@@ -1,0 +1,518 @@
+[
+    {
+        "Date": "12\/30",
+        "Topic": "Paper",
+        "Speaker": "亞婷",
+        "Title": "Online Plagiarism Detection Through Exploiting Lexical, Syntactic, and Semantic Information (ACL2012)"
+    },
+    {
+        "Date": "12\/30",
+        "Topic": "Abstract",
+        "Speaker": "茶靈",
+        "Title": "Synthesis Natural Textures(SIGGRAPH 2000)  Image Quilting for Texture Synthesis and Transfer(SIGGRAPH 2001)  Graphcut Textures Image and Video Synthesis Using Graph Cuts(SIGGRAPH 2003)  TextureshopTexture Synthesis as a Photograph Editing Tool(SIGGRAPH 2004)  Texture Synthesis using Exact Neighborhood Matching(Computer Graphics Forum 2007)"
+    },
+    {
+        "Date": "12\/23",
+        "Topic": "Paper",
+        "Speaker": "翔豪",
+        "Title": "Gestures without Libraries, Toolkits or Training:A $1 Recognizer for User Interface Prototypes(UIST 2007)"
+    },
+    {
+        "Date": "12\/23",
+        "Topic": "Abstract",
+        "Speaker": "亞婷",
+        "Title": "A classifier-based approach to preposition and determiner errorcorrection in L2 English (COLING 2008)  Automated Suggestions for Miscollocations (HLT2009)  EdIt: a broad-coverage grammar checker using pattern grammar (HLT 2011)  Using Contextual Speller Techniques and Language Modeling for ESL Error Correction (IJCNLP)  Online Plagiarism Detection Through Exploiting Lexical, Syntactic, and Semantic Information (ACL2012)"
+    },
+    {
+        "Date": "12\/16",
+        "Topic": "Paper",
+        "Speaker": "昱宏",
+        "Title": "How to Calculate Trust between Social Network Users?(IEEE SotfCOM 2012)"
+    },
+    {
+        "Date": "12\/16",
+        "Topic": "Abstract",
+        "Speaker": "翔豪",
+        "Title": "TeleKinect: A Telepresence Platform for Shared Experiences in a Composited Video Environment(CHI 2013)  Touch and Copy, Touch and Paste(CHI 2011)  Gestures without Libraries, Toolkits or Training:A $1 Recognizer for User Interface Prototypes(UIST 2007)  ViBe: A Universal Background Subtraction Algorithm for Video Sequences(IEEE 2011)  B-spline Curves Notes(Dr. C.-K. Shene Professor,Department of Computer Science,Michigan Technological University)"
+    },
+    {
+        "Date": "12\/9",
+        "Topic": "Paper",
+        "Speaker": "冠中",
+        "Title": "Image inpainting (SIGGRAPH 2000)"
+    },
+    {
+        "Date": "12\/9",
+        "Topic": "Abstract",
+        "Speaker": "昱宏",
+        "Title": "A community based algorithm for deriving users's profiles from egocentrics networks(IEEE ASONAM 2012) A Trust-based Top-K Recommender System Using Social Tagging Network(IEEE FSKD 2012)  A User-Centric Approach for Social Data Integration and Recommendation(IEEE HUMANCOM 2010)  A social network activity recommender system for ubiquitous devices(IEEE ISDA 2011)  How to Calculate Trust between Social Network Users?(IEEE SotfCOM 2012)"
+    },
+    {
+        "Date": "12\/2",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "11\/25",
+        "Topic": "Paper",
+        "Speaker": "思敏",
+        "Title": "Image and Video Upscaling from Local Self-Examples(ACM TOG 2010)"
+    },
+    {
+        "Date": "11\/25",
+        "Topic": "Abstract",
+        "Speaker": "冠中",
+        "Title": "Combining Crowdsourcing and Google Street View to Identify Street-level accessibility Problems (CHI 2013)  Novel Video Inpainting Using Patch Sparsity (ICRTIT 2011)  Automatic detection and inpainting of text image(ICA 2013)  Background inpainting for videos with dynamic objects and a free-moving camera(ECCV 2012)  Image inpainting (SIGGRAPH 2000)"
+    },
+    {
+        "Date": "11\/18",
+        "Topic": "Paper",
+        "Speaker": "承翰",
+        "Title": "Efficient Service Recommendation System for Cloud Computing Market (ICIS '09)"
+    },
+    {
+        "Date": "11\/18",
+        "Topic": "Abstract",
+        "Speaker": "思敏",
+        "Title": "Joint Bilateral Upsampling(SIGGRAPH 2007) Fast multi-scale joint bilateral texture upsampling(CAD\/Graphics 2009)  Image Upsampling via Imposed Edge Statistics(SIGGRAPH 2007)  Image Upsampling via Texture Hallucination(ICCP 2010)  Image and Video Upscaling from Local Self-Examples(ACM TOG 2010)"
+    },
+    {
+        "Date": "11\/11",
+        "Topic": "Paper",
+        "Speaker": "孟儒",
+        "Title": "Upright Orientation of Man-Made Objects(siggraph2008)"
+    },
+    {
+        "Date": "11\/11",
+        "Topic": "Abstract",
+        "Speaker": "承翰",
+        "Title": "Prototyping Recommender Systems in jCOLIBRI(RecSys '08)  Implications of Psychological Phenomenons for Recommender Systems(RecSys '08)  UTA-Rec: A Recommender System based on Multiple Criteria Analysis(RecSys '08)  Each to His Own: How Different Users Call for Different Interaction Methods in Recommender Systems (RecSys '11)  Efficient Service Recommendation System for Cloud Computing Market (ICIS '09)"
+    },
+    {
+        "Date": "11\/4",
+        "Topic": "Paper",
+        "Speaker": "志民",
+        "Title": "StoryFlow: Tracking the Evolution of Stories(Infovis 2013)"
+    },
+    {
+        "Date": "11\/4",
+        "Topic": "Abstract",
+        "Speaker": "孟儒",
+        "Title": "Viewpoint Selection using Viewpoint Entropy (VMV2001)  Automatic 2D Shape Orientation (smi2007)  Detector of Image Orientation Based on Borda-Count(IbPRIA 2005)  Example-based Synthesis of 3D Object Arrangements(siggraph A2012)  Upright Orientation of Man-Made Objects(siggraph2008)"
+    },
+    {
+        "Date": "10\/28",
+        "Topic": "無",
+        "Speaker": "無",
+        "Title": "暫停Meeting一次"
+    },
+    {
+        "Date": "10\/21",
+        "Topic": "Paper",
+        "Speaker": "君豪",
+        "Title": "Reinventing the Contingency Wheel: Scalable Visual Analytics of Large Categorical Data(TVCG 2012)"
+    },
+    {
+        "Date": "10\/21",
+        "Topic": "Abstract",
+        "Speaker": "志民",
+        "Title": "How Capacity Limits of Attention InfluenceInformation Visualization Effectiveness(Infovis 2012)  Expanding Plus-Minus for Visual and Statistical Analysis of NBA Box-Score Data(Infovis workshop 2013)  LineUp: Visual Analysis ofMulti-Attribute Rankings(Infovis 2013)  Design Considerations for Optimizing Storyline Visualizations(Infovis 2012)  StoryFlow: Tracking the Evolution of Stories(Infovis 2013)"
+    },
+    {
+        "Date": "10\/14",
+        "Topic": "Paper",
+        "Speaker": "元棓",
+        "Title": "AIREAL: Interactive Tactile Experiences in Free Air (SIGGRAPH 2013)"
+    },
+    {
+        "Date": "10\/14",
+        "Topic": "Abstract",
+        "Speaker": "君豪",
+        "Title": "Visual Links across Applications(Proceedings of Graphics Interface 2010)  Two-Tone Pseudo Coloring: Compact Visualization for One-Dimensional Data(infoVis 2005)  Highlighting in Geovisualization.(Cartography and Geographic Information Science 2011)  Reinventing the Contingency Wheel: Scalable Visual Analytics of Large Categorical Data(TVCG 2012)  Contingency Wheel: Visual Analysis of Large Contingency Tables"
+    },
+    {
+        "Date": "10\/7",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "9\/30",
+        "Topic": "Math",
+        "Speaker": "無",
+        "Title": "老師"
+    },
+    {
+        "Date": "9\/23",
+        "Topic": "Paper",
+        "Speaker": "幸卿",
+        "Title": "Bundled Camera Paths for Video Stabilization(SIGGRAPH 2013)"
+    },
+    {
+        "Date": "9\/23",
+        "Topic": "Abstract",
+        "Speaker": "元棓",
+        "Title": "A Further Try: Composing Knitted Patterns by Playing on a Multi-Input Device (VRCAI 2011)  AIREAL: Interactive Tactile Experiences in Free Air (SIGGRAPH 2013)  Spyn: Augmenting Knitting to Support Storytelling and Reflection (UbiComp 2008)  Video Puppetry: A Performative Interface for Cutout Animation (SIGGRAPH Asia 2008)  LaserOrigami: Laser-Cutting 3D Objects (CHI 2013)"
+    },
+    {
+        "Date": "9\/16",
+        "Topic": "Paper",
+        "Speaker": "芊妤",
+        "Title": "Stereoscopic 3D image stylization (NPAR 2012)"
+    },
+    {
+        "Date": "9\/16",
+        "Topic": "Abstract",
+        "Speaker": "幸卿",
+        "Title": "Virtual Passepartouts(NPAR 2012)  Pixelated Image Abstraction(NPAR 2012)  Automatic Exposure Correction of Consumer Photographs(ECCV 2012)  Video Stabilization with a Depth Camera(CVPR 2012)  Bundled Camera Paths for Video Stabilization(SIGGRAPH 2013)"
+    },
+    {
+        "Date": "9\/9",
+        "Topic": "Paper",
+        "Speaker": "亞婷",
+        "Title": "WriteAhead: An Abstracts Writing Assistant System for Academic Writing (2009 清大資應所)"
+    },
+    {
+        "Date": "9\/9",
+        "Topic": "Abstract",
+        "Speaker": "芊妤",
+        "Title": "Capacity-Constrained Delaunay Triangulation for Point Distribution (SMI 2011)  Guided Image Filtering (TPAMI 2012)  Fast Cost-Volume Filtering for Visual Correspondence and Beyond (TPAMI 2013)  Scene Warping : Layer-based Stereoscopic Image Resizing (CVPR 2012)  Stereoscopic 3D image stylization (NPAR 2012)"
+    },
+    {
+        "Date": "9\/2",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "8\/26",
+        "Topic": "Paper",
+        "Speaker": "翔豪",
+        "Title": "vedio object cut and paste(siggraph 2005)"
+    },
+    {
+        "Date": "8\/26",
+        "Topic": "Abstract",
+        "Speaker": "亞婷",
+        "Title": "Learning to Tell Tales: A Data-driven Approach to Story Generation (ACL 2009)  Modeling Local Coherence: An Entity-based Approach (ACL 2005)  A Word Clustering Approach for Language Model-based Sentence Retrieval in Question Answering Systems (CIKM 2009)  A Markov Random Field Model for Term Dependencies (SIGIR 2005)  WriteAhead: An Abstracts Writing Assistant System for Academic Writing (2009 清大資應所)"
+    },
+    {
+        "Date": "8\/19",
+        "Topic": "Paper",
+        "Speaker": "昱宏",
+        "Title": "Inferring User Interest using Familiarity and Topic Simiarity with Social Neighbors in Facebook(IEEE WI_IAT 2012)"
+    },
+    {
+        "Date": "8\/19",
+        "Topic": "Abstract",
+        "Speaker": "翔豪",
+        "Title": "Laser Pointer Interaction(CHI 2001)  Self-Calibrating Camera-Assisted Presentation Interface(ICARCV 2000)  Interaction with a Projection Screen Using a Camera-Tracked Laser Pointer(Proceedings of the 1998 Conference on Multimedia modeling)  Designing Laser Gesture Interface for Robot Control(Proceedings of the 1998 Conference on control,Automation,Robot and Vision)  Lazy Snapping(siggraph 2004)  vedio object cut and paste(siggraph 2005)  Camera-projector presentation system(中山大學 2005)"
+    },
+    {
+        "Date": "8\/12",
+        "Topic": "無",
+        "Speaker": "無",
+        "Title": "暫停Meeting一次"
+    },
+    {
+        "Date": "8\/5",
+        "Topic": "Paper",
+        "Speaker": "冠中",
+        "Title": "Integrated Videos and Maps for Driving Direction(UIST 2009)"
+    },
+    {
+        "Date": "8\/5",
+        "Topic": "Abstract",
+        "Speaker": "昱宏",
+        "Title": "An online new recommender system for social networks(SIGIR 2009)  Group Recommendation System for Facebook(OTM 2008)  On the Evolution of User Interaction in Facebook(ACM 2009)  The Impact of YouTube Recommendation System on Video Views(ACM SIGCOMM 2010)  Inferring User Interest using Familiarity and Topic Simiarity with Social Neighbors in Facebook(IEEE WI_IAT 2012)"
+    },
+    {
+        "Date": "7\/22",
+        "Topic": "Paper",
+        "Speaker": "君豪",
+        "Title": "Compressed Adjacency Matrices: Untangling Gene Regulatory Networks (TVCG 2012)"
+    },
+    {
+        "Date": "7\/22",
+        "Topic": "Abstract",
+        "Speaker": "冠中",
+        "Title": "AUTOMATIC ANNOTATION OF GEO-INFORMATION IN PANORAMIC STREET VIEW BY IMAGE RETRIEVAL(ICIP 2010))  Automatic Street View Walk-through System Using Characteristics of Modified Maps(W2GIS 2011))  Integrated Google Maps and smooth street view videos for Route Planning(ICS 2010))  Integrated Videos and Maps for Driving Direction(UIST 2009))  Development of Three Dimensional Digital Tourism Presentation System Based on Google Earth API(ICSDM 2011)"
+    },
+    {
+        "Date": "7\/15",
+        "Topic": "Paper",
+        "Speaker": "元棓",
+        "Title": "Gaze Correction for Home Video Conferencing(TOG2012)"
+    },
+    {
+        "Date": "7\/15",
+        "Topic": "Abstract",
+        "Speaker": "君豪",
+        "Title": "Selecting Semantically-Resonant Colors for Data Visualization (EuroVis 2013)  Compressed Adjacency Matrices: Untangling Gene Regulatory Networks (TVCG 2012)  MLMD: Multi-Layered Visualization for Multi-Dimensional Data (EuroVis 2013)  PolyZoom: Multiscale and Multifocus Exploration in 2D Visual Spaces (CHI 2012)  Escaping RGBland: Selecting Colors for Statistical Graphics (CSDA 2009)"
+    },
+    {
+        "Date": "7\/8",
+        "Topic": "Paper",
+        "Speaker": "亞婷",
+        "Title": "Modeling Higher-Order Term Dependencies in Information Retrieval using Query Hypergraphs(SIGIR 2012)"
+    },
+    {
+        "Date": "7\/8",
+        "Topic": "Abstract",
+        "Speaker": "元棓",
+        "Title": "Simulated Knot Tying (ICRA 2002)  Real-time knot-tying simulation (The Visual Computer, 2004)  A Robust Method for Real-Time Thread Simulation (VRST 2007)  Super Mirror: A Kinect Interface for Ballet Dancers (CHI 2012)  I See You There! Developing Identity-Preserving Embodied Interaction for Museum Exhibits (CHI 2013)"
+    },
+    {
+        "Date": "7\/1",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "6\/24",
+        "Topic": "Paper",
+        "Speaker": "芊妤",
+        "Title": "Stereoscopic 3d Copy & Paste (SIGGRAPH Asia 2010)"
+    },
+    {
+        "Date": "6\/24",
+        "Topic": "Abstract",
+        "Speaker": "幸卿",
+        "Title": "Automated Video Looping with Progressive Dynamism(Siggraph 2013)  Phase-Based Video Motion Processing(Siggraph 2013)  Optimizing Color Consistency in Photo Collections (Siggraph 2013)  Texture Brush: An Interactive Surface Texturing Interface(I3D 2013)  A Multi-touch Interface for Fast Architectural Sketching and Massing(Siggraph 2013)"
+    },
+    {
+        "Date": "6\/17",
+        "Topic": "Paper",
+        "Speaker": "幸卿",
+        "Title": "Example-Based Video Color Grading(Siggraph2013)"
+    },
+    {
+        "Date": "6\/17",
+        "Topic": "Abstract",
+        "Speaker": "芊妤",
+        "Title": "Semi-automatic Stereo Extraction from Video Footage (ICCV2009) OSCAM – Optimized Stereoscopic Camera Control for Interactive 3D (SIGGRAPH Asia 2011) Depth Extraction from Video Using Non-parametric Sampling (ECCV 2012) Stereoscopic 3d Copy & Paste (SIGGRAPH Asia 2010) Image Melding : Combining Inconsistent Images using Patch-based Synthesis (SIGGRAPH 2012)"
+    },
+    {
+        "Date": "6\/10",
+        "Topic": "Paper",
+        "Speaker": "翔豪",
+        "Title": "3D Puppetry: A Kinect-based Interface for 3D Animation(UIST’12)"
+    },
+    {
+        "Date": "6\/10",
+        "Topic": "Abstract",
+        "Speaker": "亞婷",
+        "Title": "FLOW: A First-Language-Oriented Writing Assistant System (ACM ACL 2012) Exploration of Term Dependence in Sentence Retrieval (ACM ACL 2007) Paraphrasing with Bilingual Parallel Corpora (ACM ACL 2005) Image Search by Concept Map(SIGIR 2010) Modeling Higher-Order Term Dependencies in Information Retrieval using Query Hypergraphs(SIGIR 2012)"
+    },
+    {
+        "Date": "6\/3",
+        "Topic": "Paper",
+        "Speaker": "昱宏",
+        "Title": "Social Media Recommendation based on People and Tags(SIGIR2010)"
+    },
+    {
+        "Date": "6\/3",
+        "Topic": "Abstract",
+        "Speaker": "翔豪",
+        "Title": "Capacitive Fingerprinting: Exploring User Differentiation by Sensing Electrical Properties of the Human Body(UIST2012) WorldKit: Rapid and Easy Creation of Ad-hoc Interactive Applications on Everyday Surfaces(CHI 2013) GaussBits: Magnetic Tangible Bits for Portable and Occlusion-Free Near-Surface Interactions(CHI 2013) SideBySide: Ad-hoc Multi-user Interaction with Handheld Projectors(UIST’11) 3D Puppetry: A Kinect-based Interface for 3D Animation(UIST’12)"
+    },
+    {
+        "Date": "5\/27",
+        "Topic": "Paper",
+        "Speaker": "沅壕",
+        "Title": "On-line conservative learning for person detection (Visual Surveillance and Performance Evaluation of Tracking and Surveillance 2005)"
+    },
+    {
+        "Date": "5\/27",
+        "Topic": "Abstract",
+        "Speaker": "昱宏",
+        "Title": "Social Media Recommendation based on People and Tags(SIGIR2010) On Social Networks and Collaborative Recommendation(SIGIR2009) Graph-based Recommendation on Social Networks(IEEE2010-International Asia-Pacific Web Conference) Learning Optimal Ranking with Tensor Factorization for Tag Recommendation(KDD2009) Predicting Tie Strength With Social Media(SIGCHI2009)"
+    },
+    {
+        "Date": "5\/20",
+        "Topic": "Paper",
+        "Speaker": "家愷",
+        "Title": "Adaptive Privacy-Preserving Visualization Using Parallel Coordinates (InfoVis 2011)"
+    },
+    {
+        "Date": "5\/20",
+        "Topic": "Abstract",
+        "Speaker": "沅壕",
+        "Title": "On-line conservative learning for person detection (Visual Surveillance and Performance Evaluation of Tracking and Surveillance, 2005) Histograms of Oriented Gradients for Human Detection (CVPR 2005) Is Pedestrian Detection Really a Hard Task? (Workshop on Performance Evaluation of Tracking and Surveillance. 2007.) Person re-identification in multi-camera system by signature based on interest point descriptors collected on short video sequences (Distributed Smart Cameras, 2008. ICDSC 2008. Second) Person Re-identiﬁcation Using Haar-based and DCD-based Signature (Advanced Video and Signal Based Surveillance (AVSS), 2010)"
+    },
+    {
+        "Date": "5\/13",
+        "Topic": "Paper",
+        "Speaker": "冠中",
+        "Title": "Looking into the world on Google Maps with view direction estimated photos (Neurocomputing, 2012)"
+    },
+    {
+        "Date": "5\/13",
+        "Topic": "Abstract",
+        "Speaker": "家愷",
+        "Title": "A Room with a View: Understanding Users’ Stages in Picking a Hotel Online (CHI 2012) Big Data Storytelling through Interactive Maps (IEEE Data Engineering Bulletin) Gesture Avatar: A Technique for Operating Mobile User Interfaces Using Gestures (CHI 2011) Social Annotations in Web Search (CHI 2012) Analytics: The Real-World Use of Big Data"
+    },
+    {
+        "Date": "5\/6",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "4\/29",
+        "Topic": "Paper",
+        "Speaker": "君豪",
+        "Title": "TimeMatrix: Analyzing Temporal Social Networks Using Interactive Matrix-Based Visualizations (Journal of Human - Computer Interaction 2010)"
+    },
+    {
+        "Date": "4\/29",
+        "Topic": "Abstract",
+        "Speaker": "冠中",
+        "Title": "Google Map Based User Interface for Network Resource Planning in Post Disaster Management (ACM DEV 2013) Using Weather Information to Improve Route Planning(AGILE 2012) Which cities produce more excellent papers than can be expected(JASIST 2011) An Evaluation of Multiobjective Urban Tourist Route(UCAml 2012) Looking into the world on Google Maps with view direction estimated photos (Neurocomputing, 2012)"
+    },
+    {
+        "Date": "4\/22",
+        "Topic": "Math",
+        "Speaker": "無",
+        "Title": "老師"
+    },
+    {
+        "Date": "4\/15",
+        "Topic": "N.A.",
+        "Speaker": "",
+        "Title": ""
+    },
+    {
+        "Date": "4\/8",
+        "Topic": "Paper",
+        "Speaker": "元棓",
+        "Title": "Touchless gesture user interface for interactive image visualization in urological surgery (World J Urol 2012)"
+    },
+    {
+        "Date": "4\/8",
+        "Topic": "Abstract",
+        "Speaker": "君豪",
+        "Title": "Time on the Horizon (Visual Business Intelligence Newsletter, Jun\/Jul 2008) Data Vases: 2D and 3D Plots for Visualizing Multiple Time Series (5th International Symposium on Visual Computing, 2009) Sizing the Horizon: The Effects of Chart Size and Layering on the Graphical Perception of Time Series Visualizations (CHI 2009) The GreatWall of Space-Time (Eurographics Association 2012) TimeMatrix: Analyzing Temporal Social Networks Using Interactive Matrix-Based Visualizations (Journal of Human - Computer Interaction 2010)"
+    },
+    {
+        "Date": "4\/1",
+        "Topic": "Paper",
+        "Speaker": "柏安",
+        "Title": "Design-Driven Quadrangulation of Closed 3D Curves (SIGGRAPH Asia 2012)"
+    },
+    {
+        "Date": "4\/1",
+        "Topic": "Abstract",
+        "Speaker": "元棓",
+        "Title": "Markerless Kinect-Based Hand Tracking for Robot Teleoperation (Int J Adv Robotic Sy 2012) Rapid Characterization of Vegetation Structure with a Microsoft Kinect Sensor (Sensors 2013) Touchless gesture user interface for interactive image visualization in urological surgery (World J Urol 2012) Tracking of Fingertips and Centres of Palm using KINECT (IEEE CIMSim 2011) Using Kinect for hand tracking and rendering in wearable haptics (IEEE WHC 2011)"
+    },
+    {
+        "Date": "3\/25",
+        "Topic": "Paper",
+        "Speaker": "芊妤",
+        "Title": "Perspective-Aware Warping for Seamless Stereoscopic Image Cloning (SIGGRAPH ASIA 2012)"
+    },
+    {
+        "Date": "3\/25",
+        "Topic": "Abstract",
+        "Speaker": "柏安",
+        "Title": "Design-Driven Quadrangulation of Closed 3D Curves (SIGGRAPH Asia 2012) Multi-Scale Partial Intrinsic Symmetry Detection (SIGGRAPH Asia 2012) Functional Maps: A Flexible Representation of Maps Between Shapes (SIGGRAPH 2012) Blue Noise through Optimal Transport (SIGGRAPH Asia 2012) Hybrid Long-Range Collision Avoidance for Crowd Simulation (I3D 2013)"
+    },
+    {
+        "Date": "3\/18",
+        "Topic": "N.A.",
+        "Speaker": "",
+        "Title": ""
+    },
+    {
+        "Date": "3\/11",
+        "Topic": "Paper",
+        "Speaker": "亞婷",
+        "Title": "See-To-Retrieve: Efficient Processing of Spatio-Visual Keyword Queries (ACM SIGIR 2012)"
+    },
+    {
+        "Date": "3\/11",
+        "Topic": "Abstract",
+        "Speaker": "芊妤",
+        "Title": "Enabling Warping on Stereoscopic Image (SIGGRAPH ASIA 2012) Perspective-Aware Warping for Seamless Stereoscopic Image Cloning (SIGGRAPH ASIA 2012) A Single Image Representation Model for Efficient Stereoscopic Image Creation (PACIFIC GRAPHICS 2011) Combining Sketch and Tone for Pencil Drawing Production (NPAR 2012) Physical Face Cloning (SIGGRAPH 2012)"
+    },
+    {
+        "Date": "3\/4",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "2\/25",
+        "Topic": "N.A.",
+        "Speaker": "",
+        "Title": ""
+    },
+    {
+        "Date": "2\/6",
+        "Topic": "Paper",
+        "Speaker": "翔豪",
+        "Title": "NailDisplay:Bringing an Always-Available Visual Display to Fingertips (SIGCHI 2013)"
+    },
+    {
+        "Date": "2\/6",
+        "Topic": "Abstract",
+        "Speaker": "亞婷",
+        "Title": "¨Is the Sky Pure Today?〃AwkChecker: An Assistive Tool for Detecting and Correcting Collocation Errors (ACM UIST 2008) Automatic Collocation Suggestion in Academic Writing (ACM ACL 2010) The YouTube Video Recommendation System (ACM RecSvs 2010) Text Cohesion Visualizer (IEEE ICCSE 2011) See-To-Retrieve: Efficient Processing of Spatio-Visual Keyword Queries (ACM SIGIR 2012)"
+    },
+    {
+        "Date": "2\/1",
+        "Topic": "Paper",
+        "Speaker": "昱宏",
+        "Title": "Adderssing Cold-Start Problem in Recommendation Systems(ICUIMC 2008)"
+    },
+    {
+        "Date": "2\/1",
+        "Topic": "Abstract",
+        "Speaker": "翔豪",
+        "Title": "Animating Pictures with Stochastic Motion Textures (SIGGRAPH2005) Augmented Reality Flavors: Gustatory Display Based on Edible Marker and Cross-Modal Interaction (CHI 2011) Augmented Satiety: Interactive Nutritional Intake Controller (SIGGRAPH ASIA 2012) GaussBrush: Drawing with Magnetic Stylus (ACM SIGGRAPH ASIA 2012) NailDisplay:Bringing an Always-Available Visual Display to Fingertips (SIGCHI 2013)"
+    },
+    {
+        "Date": "1\/25",
+        "Topic": "Paper",
+        "Speaker": "沅壕",
+        "Title": "Video object matching across multiple independent views using local descriptors and adaptive learning (Pattern Recognition Letters 2009)"
+    },
+    {
+        "Date": "1\/25",
+        "Topic": "Abstract",
+        "Speaker": "昱宏",
+        "Title": "Mobile recommendation systems for decision making ．on the go・(IEEE ICMB2005) A Mobile Product Recommendation System Interacting with Tagged Products(IEEE 2009) Foafing The Music:A Music Recommendation System Based on RSS feeds and User Preferences(WWW2008) Incorporating Multi-Criteria Ratings in Recommendation Systems(IEEE 2005) Adderssing Cold-Start Problem in Recommendation Systems(ICUIMC 2008)"
+    },
+    {
+        "Date": "1\/18",
+        "Topic": "Paper",
+        "Speaker": "家愷",
+        "Title": "ImageHive: Interactive Content-Aware Image Summarization (CG&A)"
+    },
+    {
+        "Date": "1\/18",
+        "Topic": "Abstract",
+        "Speaker": "沅壕",
+        "Title": "Efﬁcient Object Detection and Matching using Feature Classiﬁcation (ICPR 2010) A Master-slave Approach For Object Detection And Matching With Fixed And Mobile Cameras (Image Processing 2008) Object Matching Using Feature Aggregation Over a Frame Sequence Applications of Computer Vision (WACV 2011) Video object matching across multiple independent views using local descriptors and adaptive learning (Pattern Recognition Letters 2009) Image Matching in Large Scale Indoor Environment (Computer Vision and Pattern Recognition 2009)"
+    },
+    {
+        "Date": "1\/11",
+        "Topic": "Paper",
+        "Speaker": "冠中",
+        "Title": "Paper Multiscale Vector Volumes(SIGGRAPH ASIA 2011)"
+    },
+    {
+        "Date": "1\/11",
+        "Topic": "Abstract",
+        "Speaker": "家愷",
+        "Title": "ImageHive: Interactive Content-Aware Image Summarization (CG&A) Scientifi c Storytelling Using Visualization (CG&A) Visual Methods for Analyzing Time-Oriented Data (TVCG) RankExplorer: Visualization of Ranking Changes in Large Time Series Data (TVCG) Using Signposts for Navigation in Large Graphs (EuroVis 2012)"
+    },
+    {
+        "Date": "1\/4",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    }
+]

@@ -1,0 +1,536 @@
+[
+    {
+        "Date": "12\/27",
+        "Topic": "Paper",
+        "Speaker": "家伃",
+        "Title": "Shadow Art(SIGGRAPH Asia 2009)"
+    },
+    {
+        "Date": "12\/27",
+        "Topic": "Abstract",
+        "Speaker": "柏諺",
+        "Title": "Finding Approximately Repeated Scene Elements for Image Editing(SIGGRAPH 2010)  Image-based plant modeling(SIGGRAPH 2006)  Image Deformation Using Moving Least Squares(SIGGRAPH 2006)  Photographing Long Scenes with Multi-Viewpoint Panoramas(SIGGRAPH 2006)  Synthesizing Structured Image Hybrids(SIGGRAPH 2010)"
+    },
+    {
+        "Date": "12\/20",
+        "Topic": "Paper",
+        "Speaker": "孟庭",
+        "Title": "Street Slide: Browsing Street Level Imagery(SIGGRAPH 2010)"
+    },
+    {
+        "Date": "12\/20",
+        "Topic": "Abstract",
+        "Speaker": "家伃",
+        "Title": "Modeling and Rendering of Impossible Figures(SIGGRAPH 2010)  Shadow Art(SIGGRAPH Asia 2009)  Computer-Generated Floral Ornament  Diffusion Coded Photography for Extended Depth of Field(SIGGRAPH 2010)  Shape Matching and Object Recognition using Shape Contexts"
+    },
+    {
+        "Date": "12\/13",
+        "Topic": "Paper",
+        "Speaker": "佳甯",
+        "Title": "Multi-scale Image Harmonization (SIGGRAPH 2010)"
+    },
+    {
+        "Date": "12\/13",
+        "Topic": "Abstract",
+        "Speaker": "孟庭",
+        "Title": "Hybrid images(SIGGRAPH 2006)  Street Slide: Browsing Street Level Imagery(SIGGRAPH 2010)  Locally Adapted Projections to Reduce Panorama Distortions(EGSR 2009)  Adding Depth to Cartoons Using Sparse Depth (In)equalities(EUROGRAPHICS 2010)  TouchTone: Interactive Local Image Adjustment Using Point-and-Swipe(EUROGRAPHICS 2010)"
+    },
+    {
+        "Date": "12\/6",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "11\/29",
+        "Topic": "Paper",
+        "Speaker": "君豪",
+        "Title": "Color Harmonization (SIGGRAPH 2006)"
+    },
+    {
+        "Date": "11\/29",
+        "Topic": "Abstract",
+        "Speaker": "佳甯",
+        "Title": "Mesh Colors (SIGGRAPH 2010)  Structure-based ASCII Art (SIGGRAPH 2010)  Multi-scale Image Harmonization (SIGGRAPH 2010)  Using Blur to Affect Perceived Distance and Size (SIGGRAPH 2010)  Image Deblurring using Inertial Measurement Sensors (SIGGRAPH 2010)"
+    },
+    {
+        "Date": "11\/22",
+        "Topic": "Evaluate",
+        "Speaker": "無",
+        "Title": "資管系評鑑"
+    },
+    {
+        "Date": "11\/15",
+        "Topic": "Paper",
+        "Speaker": "士賢",
+        "Title": "Motion Graph(SIGGRAPH 2002)"
+    },
+    {
+        "Date": "11\/15",
+        "Topic": "Abstract",
+        "Speaker": "君豪",
+        "Title": "Color Harmonization(SIGGRAPH 2006)  Color Harmonization for Videos(ICVGIP 2008)  ZAME: Interactive Large-Scale Graph Visualization (IEEE Pacific Visualisation Symposium 2008) The Table Lens: Merging Graphical and Symbolic Representations in an Interactive Focus+Context Visualization for Tabular Information (ACM SIGCHI Conference on Human Factors in Computing Systems 1994) Visualizing Cyber Attacks using IP Matrix (Workshop on Visualization for Computer Security 2005)"
+    },
+    {
+        "Date": "11\/8",
+        "Topic": "Paper",
+        "Speaker": "幸卿",
+        "Title": "MovieReshape: Tracking and Reshaping of Humans in Videos (SIGGRAPH ASIA 2010)"
+    },
+    {
+        "Date": "11\/8",
+        "Topic": "Abstract",
+        "Speaker": "士賢",
+        "Title": "A Non-Linear, Two-Step Estimation Algorithm for Calibrating Solid-State Strapdown  Extension of a Two-Step Calibration Methodology to Include Nonorthogonal Sensor  Axes(Aerospace and Electronic Systems, IEEE Transactions, 2008)  Accelerometer-based User Interfaces for the Control of a Physically Simulated Character( SIGGRAPH Asia 2008)  A Low-cost Motion Tracker and Its Error Analysis( Robotics and Automation, IEEE Conference, 2008)"
+    },
+    {
+        "Date": "11\/1",
+        "Topic": "Paper",
+        "Speaker": "家愷",
+        "Title": "Search, Show Context, Expand on Demand”: Supporting Large Graph Exploration with Degree-of-Interest"
+    },
+    {
+        "Date": "11\/1",
+        "Topic": "Abstract",
+        "Speaker": "幸卿",
+        "Title": "CRAM: Compact Representation of Actions in Movies (CVPR2010) Interest Seam Image (CVPR2010)  MovieReshape: Tracking and Reshaping of Humans in Videos (SIGGRAPH ASIA 2010)  Figure-Ground Segmentation Improves Handled Object Recognition in Egocentric Video (CVPR2010)  Feature-Preserving Volume Data Reduction and Focus+Context Visualization (IEEE Transactions on Visualization and Compute"
+    },
+    {
+        "Date": "10\/25",
+        "Topic": "Paper",
+        "Speaker": "柏諺",
+        "Title": "Animating Animal Motion from Still(SIGGRAPH ASIA 2008)"
+    },
+    {
+        "Date": "10\/25",
+        "Topic": "Abstract",
+        "Speaker": "家愷",
+        "Title": "OpinionSeer: Interactive Visualization of Hotel Customer Feedback  Generalized Fisheye Views  Path Visualization for Adjacency Matrices  Search, Show Context, Expand on Demand”: Supporting Large Graph Exploration with Degree-of-Interest  Process and Pitfalls in Writing Information Visualization Research Papers"
+    },
+    {
+        "Date": "10\/18",
+        "Topic": "Math",
+        "Speaker": "老師",
+        "Title": ""
+    },
+    {
+        "Date": "10\/11",
+        "Topic": "Paper",
+        "Speaker": "美杏",
+        "Title": "Detail-Preserving Paint Modeling for 3D Brushes(NPAR, 2010)"
+    },
+    {
+        "Date": "10\/11",
+        "Topic": "Abstract",
+        "Speaker": "柏諺",
+        "Title": "Animating Animal Motion from Still(SIGGRAPH ASIA 2008)  Efficient Use of Local Edge Histogram Descriptor  Content-Based Image Retrieval Using Color and Edge Direction Features(ICACC 2010)  A Novel Approach for Content-Based Image Indexing and Retrieval System using Global and Region Features(IJCSNS 2009)  A new representation for video editing(SIGGRAPH 2008)"
+    },
+    {
+        "Date": "10\/4",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "9\/27",
+        "Topic": "Paper",
+        "Speaker": "琬潔",
+        "Title": "Model-Based Hand Tracking Using a Hierarchical Bayesian Filter(PAMI2006)"
+    },
+    {
+        "Date": "9\/27",
+        "Topic": "Abstract",
+        "Speaker": "美杏",
+        "Title": "Detection and Tracking of Eyes for Gaze-camera Control(Image and Vision Computing, 2004)  Non-Photorealistic Rendering and the Science of Art(NPAR, 2010)  Head Pose Estimation on Low Resolution Images (Lecture Notes in Computer Science, 2007)  3D Modeling with Silhouettes(Siggraph, 2010)  Detail-Preserving Paint Modeling for 3D Brushes(NPAR, 2010)"
+    },
+    {
+        "Date": "9\/20",
+        "Topic": "Paper",
+        "Speaker": "家伃",
+        "Title": "Face Swapping: Automatically Replacing Faces in Photographs(sig2008)"
+    },
+    {
+        "Date": "9\/20",
+        "Topic": "Abstract",
+        "Speaker": "琬潔",
+        "Title": "Using Multiple Cues for Hand Tracking and Model Refinement(CVPR03)  Capturing Natural Hand Articulation(ICCV2001)  Model-Based Hand Tracking Using a Hierarchical Bayesian Filter(PAMI2006)  Handy AR: Markerless Inspection of Augmented Reality Objects Using Fingertip Tracking(ISWC)  Vision-based hand pose estimation: A review(Computer Vision and Image Understanding2007)"
+    },
+    {
+        "Date": "9\/13",
+        "Topic": "Paper",
+        "Speaker": "孟庭",
+        "Title": "Parametric Reshaping of Human Bodies in Images (SIGGRAPH 2010)"
+    },
+    {
+        "Date": "9\/13",
+        "Topic": "Abstract",
+        "Speaker": "家伃",
+        "Title": "Real-Time Pencil Rendering(npar2006) Optimizing Photo Composition (eg2010) Face Swapping: Automatically Replacing Faces in Photographs(sig2008) Photo Clip Art(siggraph2007) Simulating Wax Crayons(Pacific Graphics2003)"
+    },
+    {
+        "Date": "9\/8",
+        "Topic": "Happy",
+        "Speaker": "老師",
+        "Title": "出國"
+    },
+    {
+        "Date": "9\/1",
+        "Topic": "Paper",
+        "Speaker": "佳甯",
+        "Title": "Popup: Automatic Paper Architectures from 3D Models (SIGGRAPH 2010)"
+    },
+    {
+        "Date": "9\/1",
+        "Topic": "Abstract",
+        "Speaker": "孟庭",
+        "Title": "VideoTrace: Rapid interactive scene modelling from video (SIGGRAPH 2007)  Parametric Reshaping of Human Bodies in Images (SIGGRAPH 2010)  Finding Paths through the World’s Photos(SIGGRAPH 2008)  Efficient Video Watermarking using Motion Estimation Approach(IEEE\/ACIS 2009)  Blind Watermarking Capacity Analysis of MPEG2 Coded Video(IEEE 2007)"
+    },
+    {
+        "Date": "8\/25",
+        "Topic": "Paper",
+        "Speaker": "君豪",
+        "Title": "GAP: A graphical environment for matrix visualization and cluster analysis.(CSDA 2010)"
+    },
+    {
+        "Date": "8\/25",
+        "Topic": "Abstract",
+        "Speaker": "佳甯",
+        "Title": "Active Shape Models - Their Training and Application (CVIU 1995)  Active Appearance Models (PAMI 2001)  Popup: Automatic Paper Architectures from 3D Models (SIGGRAPH 2010)  Outlier Detection (Data Mining and Knowledge Discovery Handbook: A Complete Guide for Practitioners and Researchers ,2005)  Using Integrated Color And Texture Features For Automatic Hair Detection (IEEE 2008)"
+    },
+    {
+        "Date": "8\/18",
+        "Topic": "Paper",
+        "Speaker": "幸卿",
+        "Title": "Video Tapestries with Continuous Temporal Zoom(SIGGRAPH 2010)"
+    },
+    {
+        "Date": "8\/18",
+        "Topic": "Abstract",
+        "Speaker": "君豪",
+        "Title": "Matrix Visualization of high-dimensional data structure  GAP: A graphical environment for matrix visualization and cluster analysis.(CSDA 2010) Methods for Simultaneously Identifying Coherent Local Clusters with Smooth Global Patterns  in Gene Expression Profiles.(BMC Bioinformatics 2008) Generalized Association Plots for Information Visualization: The applications of the convergence  of iteratively formed correlation matrices.(Statistica Sinica 2002) Matrix Visualization and Information Mining.(Compstat 2004) Selection of Proximity Measures for Matrix Visualization of Binary Data.(BMEI 2009)"
+    },
+    {
+        "Date": "8\/11",
+        "Topic": "演講",
+        "Speaker": "",
+        "Title": "馬教授演講 (與林伯慎老師實驗室Meeting)"
+    },
+    {
+        "Date": "8\/4",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "7\/28",
+        "Topic": "Paper",
+        "Speaker": "柏諺",
+        "Title": "Cartoon-Looking Rendering of 3D-Scenes"
+    },
+    {
+        "Date": "7\/28",
+        "Topic": "Abstract",
+        "Speaker": "幸卿",
+        "Title": "iiR2s: Interactive Real photo to sumi-e(NPR2010) Towards Artistic Minimal Rendering(NPR 2010) A System for Retargeting of Streaming Video(SIGGRAPH ASIA 2009) Video Tapestries with Continuous Temporal Zoom(SIGGRAPH 2010) Motion-based Video Retargeting with Optimized Crop-and-Warp(SIGGRAPH 2010)"
+    },
+    {
+        "Date": "7\/21",
+        "Topic": "Math",
+        "Speaker": "老師",
+        "Title": ""
+    },
+    {
+        "Date": "7\/14",
+        "Topic": "Paper",
+        "Speaker": "美杏",
+        "Title": "User-calibration-free Gaze Tracking with Estimation of the Horizontal Angles between the Visual and the Optical Axes of Both Eyes (ETRA 2010)"
+    },
+    {
+        "Date": "7\/14",
+        "Topic": "Abstract",
+        "Speaker": "柏諺",
+        "Title": "hole filling through photomontage  2.5D Cartoon Models-siggraph2010  cartoon-looking rendering of 3D-Scenes  Personal Photo Enhancement Using Example Images-siggraph2010  camouflage Image-siggraph2010"
+    },
+    {
+        "Date": "7\/13",
+        "Topic": "Rehearsal",
+        "Speaker": "雅軒",
+        "Title": ""
+    },
+    {
+        "Date": "7\/7",
+        "Topic": "Paper",
+        "Speaker": "琬潔",
+        "Title": "Real-time 3-D Hand Posture Estimation based on 2-D Appearance Retrieval Using Monocular Camera(ICCV2001)"
+    },
+    {
+        "Date": "7\/7",
+        "Topic": "Abstract",
+        "Speaker": "美杏",
+        "Title": "Eye and gaze tracking for interactive graphic display ( Machine Vision and Applications 2004)  User-calibration-free Gaze Tracking with Estimation of the Horizontal Angles between the Visual and the Optical Axes of Both Eyes (ETRA 2010)  Using Vision and Voice to Create a Multimodal Interface for Microsoft Word 2007 (ETRA 2010)  EmoHeart: Conveying Emotions in Second Life Based on Affect Sensing from Text (Advances in Human-Computer Interaction Volume 2010)  Emotions Evoked by Common Words and Phrases:Using Mechanical Turk to Create an Emotion Lexicon (NAACL HLT 2010)"
+    },
+    {
+        "Date": "6\/30",
+        "Topic": "Paper",
+        "Speaker": "佳甯",
+        "Title": "Improving Color Modeling for Alpha Matting (BMVC 2008)"
+    },
+    {
+        "Date": "6\/30",
+        "Topic": "Abstract",
+        "Speaker": "琬潔",
+        "Title": "Real-time 3-D Hand Posture Estimation based on 2-D Appearance Retrieval Using Monocular Camera(ICCV2001)  Extraction of Hand Features for Recognition of Sign Language Words(VI2002)  Shape Context and Chamfer Matching in Cluttered Scenes(CVPR2003)  Template-Based Hand Pose Recognition Using Multiple Cues(ACCV2006)  Hand Posture Estimation in Complex Backgrounds by Considering Mis-match of Model(ACCV2007)"
+    },
+    {
+        "Date": "6\/28",
+        "Topic": "Rehearsal",
+        "Speaker": "錦芬",
+        "Title": ""
+    },
+    {
+        "Date": "6\/28",
+        "Topic": "Rehearsal",
+        "Speaker": "彥秀",
+        "Title": ""
+    },
+    {
+        "Date": "6\/23",
+        "Topic": "Paper",
+        "Speaker": "全部",
+        "Title": "報告研究相關進度"
+    },
+    {
+        "Date": "6\/16",
+        "Topic": "Festival",
+        "Speaker": "無",
+        "Title": "端午節"
+    },
+    {
+        "Date": "6\/9",
+        "Topic": "Paper",
+        "Speaker": "幸卿",
+        "Title": "Dynamic Video Narratives (Siggraph 2010)"
+    },
+    {
+        "Date": "6\/9",
+        "Topic": "Abstract",
+        "Speaker": "佳甯",
+        "Title": "A Perceptually Motivated Online Benchmark for Image Matting (CVPR 2009) A Spatially Varying PSF-based Prior for Alpha Matting (CVPR 2010) Improving Color Modeling for Alpha Matting (BMVC 2008) Soft Scissors : An Interactive Tool for Realtime High Quality Matting (SIGGRAPH 2007) Optimized Color Sampling for Robust Matting (CVPR 2007)"
+    },
+    {
+        "Date": "6\/2",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "5\/26",
+        "Topic": "Paper",
+        "Speaker": "錦芬",
+        "Title": "Decimation of Triangle Meshes-siggraph1992 Re-Tiling Polygonal Surfaces-siggraph1992"
+    },
+    {
+        "Date": "5\/26",
+        "Topic": "Abstract",
+        "Speaker": "幸卿",
+        "Title": "Sisley the Abstract Painter(NPAR 2010) From Image Parsing to Painterly Rendering (Siggraph 2010) Interactive Painterly Stylization of Images, Videos and 3D Animations (I3D 2010) Content-Aware Video Editing in the Temporal Domain(Lecture Notes in Computer Science 5575 Springer 2009) Dynamic Video Narratives (Siggraph 2010)"
+    },
+    {
+        "Date": "5\/19",
+        "Topic": "Paper",
+        "Speaker": "家愷",
+        "Title": "Multiscalse Visualization of Small World Networks"
+    },
+    {
+        "Date": "5\/19",
+        "Topic": "Abstract",
+        "Speaker": "錦芬",
+        "Title": "Decimation of Triangle Meshes-siggraph1992 Re-Tiling Polygonal Surfaces-siggraph1992 Mesh Optimization-siggraph1993 Progressive Meshes-siggraph1996 Surface Simplification Using Quadric Error Metrics-siggraph1997"
+    },
+    {
+        "Date": "5\/12",
+        "Topic": "Paper",
+        "Speaker": "柏諺",
+        "Title": "Interactive Local Color Transfer Between Images-GraphiCon'2007"
+    },
+    {
+        "Date": "5\/12",
+        "Topic": "Abstract",
+        "Speaker": "家愷",
+        "Title": "Mosaic Textile: Wearable Ambient Display with Non-emissive Color-changing Modules  code swarm: A Design Study in Organic Software Visualization  InterRing: An Interactive Tool for Visually Navigating and Manipulating Hierarchical Structures  MobiVis: A Visualization System for Exploring Mobile Data  Multiscalse Visualization of Small World Networks"
+    },
+    {
+        "Date": "5\/5",
+        "Topic": "Paper",
+        "Speaker": "雅軒",
+        "Title": "Automatic Correction of Saturated Regions in Photographs using Cross-Channel Correlation [PG 2009]"
+    },
+    {
+        "Date": "5\/5",
+        "Topic": "Abstract",
+        "Speaker": "柏諺",
+        "Title": "Sampling Point-Set Implicits [Eurographics 2007] Sketch Based Image Deformation [VMV 2007] Scene Completion Using Millions of Photographs [SIGGRAPH 2007] Image Restoration using Online Photo Collections [ICCV 2009] Interactive Local Color Transfer Between Images [GraphiCon 2007]"
+    },
+    {
+        "Date": "4\/28",
+        "Topic": "Paper",
+        "Speaker": "美杏",
+        "Title": "Eye Gaze Tracking Under Natural Head Movements"
+    },
+    {
+        "Date": "4\/28",
+        "Topic": "Abstract",
+        "Speaker": "雅軒",
+        "Title": "Shape-simplifying Image Abstraction[PG 2008]  Interactive Sketch Generation[PG 2005 Special Issue]  Automatic Correction of Saturated Regions in Photographs using Cross-Channel Correlation PG 2009  Sketch2Photo Internet Image Montage[Sig Asia 2009]  AHidden-picture Puzzles Generator[PG 2008]"
+    },
+    {
+        "Date": "4\/21",
+        "Topic": "Paper",
+        "Speaker": "士賢",
+        "Title": "An Extended Kalman Filter for Quaternion-Based Orientation Estimation Using MARG Sensors"
+    },
+    {
+        "Date": "4\/21",
+        "Topic": "Abstract",
+        "Speaker": "美杏",
+        "Title": "Starburst: A robust algorithm for video-based eye tracking  openEyes: a low-cost head-mounted eye-tracking solution  Eye Gaze Estimation from a Single Image of One Eye Direct Least Square Fitting of Ellipses Eye Gaze Tracking Under Natural Head Movements"
+    },
+    {
+        "Date": "4\/14",
+        "Topic": "Math",
+        "Speaker": "老師",
+        "Title": ""
+    },
+    {
+        "Date": "4\/7",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "3\/31",
+        "Topic": "Paper",
+        "Speaker": "彥秀",
+        "Title": "Solving the 2D Packing Problem"
+    },
+    {
+        "Date": "3\/31",
+        "Topic": "Abstract",
+        "Speaker": "士賢",
+        "Title": "Orientation Tracking for Humans and Robots Using Inertial Sensors  Orient-2 A Realtime Wireless Posture Tracking System Using Local Orientation Estimation  An Extended Kalman Filter for Quaternion-Based Orientation Estimation Using MARG Sensors  A Real-Time Articulated Human Motion Tracking Using Tri-Axis InertialMagnetic Sensors Package  Design, Implementation, and Experimental Results of a Quaternion-Based Kalman Filter for Human Body Motion Tracking"
+    },
+    {
+        "Date": "3\/24",
+        "Topic": "Paper",
+        "Speaker": "琬潔",
+        "Title": "A Bayesian 3-D Search Engine Using Adaptive Views Clustering(IEEE 2007)(IEEE TRANSACTIONS ON MULTIMEDIA)"
+    },
+    {
+        "Date": "3\/24",
+        "Topic": "Abstract",
+        "Speaker": "彥秀",
+        "Title": "Sketch and Run: A Stroke-based Interface for Home Robots [CHI'09]  ProFORMA_ Probabilistic Feature-based On-line Rapid Model Acquisition [BMVC'09] Spatial Sketch: Bridging Between Movement & Fabrication  CRISTAL, Control of Remotely Interfaced Systems using Touch-based Actions in Living spaces  Solving the 2D Packing Problem"
+    },
+    {
+        "Date": "3\/17",
+        "Topic": "Paper",
+        "Speaker": "幸卿",
+        "Title": "Moving Gradients: A Path-Based Method for Plausible Image Interpolation(SIGGRAPH 2009)"
+    },
+    {
+        "Date": "3\/17",
+        "Topic": "Abstract",
+        "Speaker": "琬潔",
+        "Title": "Content-based Retrieval of 3D Models in Distributed Web Databases by Visual Shape Information(IEEE 2000)  A Search Engine for 3D Models(ACM 2002)  On Visual Similarity Based 3D Model Retrieval(EUROGRAPHICS 2003)  A Bayesian 3-D Search Engine Using Adaptive Views Clustering(IEEE 2007)(IEEE TRANSACTIONS ON MULTIMEDIA)  Ad-Hoc Multi-Displays for Mobile Interactive Applications(EUROGRAPHICS 2010)"
+    },
+    {
+        "Date": "3\/10",
+        "Topic": "Paper",
+        "Speaker": "佳甯",
+        "Title": "a Geodesic framework for fast interactive image and video segmentation and matting(ICCV 2007)"
+    },
+    {
+        "Date": "3\/10",
+        "Topic": "Abstract",
+        "Speaker": "幸卿",
+        "Title": "Spatio-Temporal Upsampling on the GPU (I3D 2010)  Optimizing Content-Preserving Projections for Wide-Angle Images (SIGGRAPH 2009)  Synthesis of Responsive Motion Using a Dynamic Model(EG2010)  Moving Gradients: A Path-Based Method for Plausible Image Interpolation(SIGGRAPH 2009)  Seamless Montage for Texturing Models(EG2010)"
+    },
+    {
+        "Date": "3\/3",
+        "Topic": "conference",
+        "Speaker": "無",
+        "Title": "Pacific Visualization conference"
+    },
+    {
+        "Date": "2\/23",
+        "Topic": "Festival",
+        "Speaker": "跪泥",
+        "Title": ""
+    },
+    {
+        "Date": "2\/16",
+        "Topic": "Festival",
+        "Speaker": "跪泥",
+        "Title": ""
+    },
+    {
+        "Date": "2\/9",
+        "Topic": "Paper",
+        "Speaker": "錦芬",
+        "Title": "Geodesic-based Surface Remeshing(International Meshing Roundtable2003<conference>)"
+    },
+    {
+        "Date": "2\/9",
+        "Topic": "Abstract",
+        "Speaker": "佳甯",
+        "Title": "O(N) Implementation of the Fast Marching (Elsevier Science 2005)  Improved Fast Gauss Transform and Efficient Kernel Density Estimation (ICCV 2003)  Color texture measurement and segmentation (Elsevier Signal Processing 2005)  Texture Segmentation Using Gabor Filters (2000)  Kernel Methods for Weakly Supervised Mean Shift Clustering (ICCV 2009)"
+    },
+    {
+        "Date": "2\/2",
+        "Topic": "Paper",
+        "Speaker": "無",
+        "Title": "與林伯慎老師實驗室Meeting"
+    },
+    {
+        "Date": "1\/26",
+        "Topic": "Paper",
+        "Speaker": "家愷",
+        "Title": "On the Visualization of Social and other Scale-Free Networks(IEEE Transactions on Visualization and Computer Graphics)"
+    },
+    {
+        "Date": "1\/26",
+        "Topic": "Abstract",
+        "Speaker": "錦芬",
+        "Title": "Approximated Centroidal Voronoi Diagrams for Uniform Polygonal Mesh Coarsening (EUROGRAPHICS 2004)  Geodesic-based Surface Remeshing(International Meshing Roundtable2003<conference>)  Constrained Planar Remeshing for Architecture(Graphics Interface 2007)  Remeshing Schemes for Semi-Regular Tilings (Shape Modeling and Applications,2005 International Conference)  Symmetric Architecture Modeling with a Single Image(ACM SIGGRAPH Asia 2009)"
+    },
+    {
+        "Date": "1\/19",
+        "Topic": "Paper",
+        "Speaker": "全部",
+        "Title": "報告研究相關進度"
+    },
+    {
+        "Date": "1\/12",
+        "Topic": "Paper",
+        "Speaker": "雅軒",
+        "Title": "Optimization Photo Composition"
+    },
+    {
+        "Date": "1\/12",
+        "Topic": "Abstract",
+        "Speaker": "家愷",
+        "Title": "Using Eye Tracking to Investigate Graph Layout Effects(Asia Pacific Symposium on Visualization (APVIS2007)) Visualizing the Intellectual Structure with Paper-Reference(InfoVis 2009) The challenge of information visualization evaluation (Proceedings of the working conference on Advanced visual interfaces) On the Visualization of Social and other Scale-Free Networks (IEEE Transactions on Visualization and Computer Graphics) Pixelplexing: Gaining Display Resolution Through Time(Proceedings of IEEE Pacific Visualization Symposium)"
+    },
+    {
+        "Date": "1\/5",
+        "Topic": "Paper",
+        "Speaker": "彥秀",
+        "Title": "Customer-Focused System for Pre-sale Housing Customiaztion:A Hybrid Approach"
+    },
+    {
+        "Date": "1\/5",
+        "Topic": "Abstract",
+        "Speaker": "雅軒",
+        "Title": "Optimization Photo Composition  Structured Annotations for 2D-to-3D Modeling  Consistent Segmentation of 3D Models  Automatic ounding of programmable Shaders for Efficient Global Illumination  Analytic Drawing of 3D Scaffolds"
+    }
+]

@@ -1,0 +1,363 @@
+2025-04-15 22:03:42,889 - INFO - Starting crawler for years 2008 to 2025
+2025-04-15 22:03:42,889 - INFO - Crawling schedule for year 2008 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2008.htm
+2025-04-15 22:04:57,226 - INFO - Starting crawler for years 2008 to 2025
+2025-04-15 22:04:57,226 - INFO - Crawling schedule for year 2008 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2008.htm
+2025-04-15 22:04:57,358 - INFO - Found single-cell row (year 2008): 
+2025-04-15 22:04:57,358 - INFO - Found single-cell row (year 2008): NTUST Computer Graphics  Multimedia Lab
+2025-04-15 22:04:57,360 - INFO - Successfully saved output\schedule2008.json
+2025-04-15 22:04:57,360 - INFO - Crawling schedule for year 2009 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2009.htm
+2025-04-15 22:04:57,511 - WARNING - No schedule entries found for year 2009
+2025-04-15 22:04:57,511 - INFO - Crawling schedule for year 2010 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2010.htm
+2025-04-15 22:04:57,672 - INFO - Found single-cell row (year 2010): 
+2025-04-15 22:04:57,672 - INFO - Found single-cell row (year 2010): NTUST Computer Graphics  Multimedia Lab
+2025-04-15 22:04:57,675 - INFO - Successfully saved output\schedule2010.json
+2025-04-15 22:04:57,675 - INFO - Crawling schedule for year 2011 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2011.htm
+2025-04-15 22:04:57,828 - INFO - Found single-cell row (year 2011): 
+2025-04-15 22:04:57,828 - INFO - Found single-cell row (year 2011): NTUST Computer Graphics  Multimedia Lab
+2025-04-15 22:04:57,831 - INFO - Successfully saved output\schedule2011.json
+2025-04-15 22:04:57,831 - INFO - Crawling schedule for year 2012 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2012.htm
+2025-04-15 22:04:57,955 - INFO - Found single-cell row (year 2012): 
+2025-04-15 22:04:57,956 - INFO - Found single-cell row (year 2012): NTUST Computer Graphics  Multimedia Lab
+2025-04-15 22:04:57,958 - INFO - Successfully saved output\schedule2012.json
+2025-04-15 22:04:57,958 - INFO - Crawling schedule for year 2013 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2013.htm
+2025-04-15 22:04:58,107 - WARNING - No schedule entries found for year 2013
+2025-04-15 22:04:58,108 - INFO - Crawling schedule for year 2014 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2014.htm
+2025-04-15 22:04:58,256 - WARNING - Row with insufficient cells found (year 2014): [<td bgcolor="#FAF4EB" rowspan="2"><div align="center">12/25</div></td>, <td bgcolor="#FAF4EB"><div align="center" class="styleTopic">Paper</div></td>, <td bgcolor="#FAF4EB"><div align="center" class="styleSpeaker">
+<div align="center">Richar</div></div></td>]
+2025-04-15 22:04:58,256 - WARNING - No schedule entries found for year 2014
+2025-04-15 22:04:58,256 - INFO - Crawling schedule for year 2015 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2015.htm
+2025-04-15 22:04:58,384 - WARNING - No schedule entries found for year 2015
+2025-04-15 22:04:58,384 - INFO - Crawling schedule for year 2016 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2016.htm
+2025-04-15 22:04:58,532 - WARNING - No schedule entries found for year 2016
+2025-04-15 22:04:58,533 - INFO - Crawling schedule for year 2017 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2017.htm
+2025-04-15 22:04:58,680 - WARNING - No schedule entries found for year 2017
+2025-04-15 22:04:58,680 - INFO - Crawling schedule for year 2018 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2018.htm
+2025-04-15 22:04:58,830 - WARNING - Row with insufficient cells found (year 2018): [<td bgcolor="#FAF4EB" rowspan="2"><div align="center">12/27</div></td>, <td bgcolor="#FAF4EB"><div align="center" class="styleTopic">Paper</div></td>, <td bgcolor="#FAF4EB"><div align="center" class="styleSpeaker">
+<div align="center">Taheri</div></div></td>]
+2025-04-15 22:04:58,830 - WARNING - No schedule entries found for year 2018
+2025-04-15 22:04:58,830 - INFO - Crawling schedule for year 2019 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2019.htm
+2025-04-15 22:04:59,003 - WARNING - No schedule entries found for year 2019
+2025-04-15 22:04:59,004 - INFO - Crawling schedule for year 2020 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2020.htm
+2025-04-15 22:04:59,173 - WARNING - Row with insufficient cells found (year 2020): [<td bgcolor="#FAF4EB" rowspan="2">
+<div align="center">12/31</div>
+</td>, <td bgcolor="#FAF4EB">
+<div align="center" class="styleTopic">Paper</div>
+</td>, <td bgcolor="#FAF4EB">
+<div align="center" class="styleSpeaker">
+<div align="center">Ann</div>
+</div></td>]
+2025-04-15 22:04:59,174 - WARNING - No schedule entries found for year 2020
+2025-04-15 22:04:59,174 - INFO - Crawling schedule for year 2021 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2021.htm
+2025-04-15 22:04:59,332 - WARNING - No schedule entries found for year 2021
+2025-04-15 22:04:59,332 - INFO - Crawling schedule for year 2022 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2022.htm
+2025-04-15 22:04:59,474 - WARNING - No schedule table found for year 2022
+2025-04-15 22:04:59,474 - WARNING - No schedule entries found for year 2022
+2025-04-15 22:04:59,474 - INFO - Crawling schedule for year 2023 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2023.htm
+2025-04-15 22:04:59,550 - WARNING - No schedule table found for year 2023
+2025-04-15 22:04:59,550 - WARNING - No schedule entries found for year 2023
+2025-04-15 22:04:59,551 - INFO - Crawling schedule for year 2024 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2024.htm
+2025-04-15 22:04:59,713 - WARNING - No schedule entries found for year 2024
+2025-04-15 22:04:59,713 - INFO - Crawling schedule for year 2025 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2025.htm
+2025-04-15 22:04:59,831 - WARNING - No schedule entries found for year 2025
+2025-04-15 22:04:59,831 - INFO - Crawling complete. Successfully processed 4 of 18 years.
+2025-04-15 22:07:45,169 - INFO - Starting crawler for years 2008 to 2025
+2025-04-15 22:07:45,169 - INFO - Crawling schedule for year 2008 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2008.htm
+2025-04-15 22:07:45,309 - INFO - Found single-cell row (year 2008): 
+2025-04-15 22:07:45,309 - INFO - Found single-cell row (year 2008): NTUST Computer Graphics  Multimedia Lab
+2025-04-15 22:07:45,312 - INFO - Successfully saved output\schedule2008.json
+2025-04-15 22:07:45,312 - INFO - Crawling schedule for year 2009 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2009.htm
+2025-04-15 22:07:45,449 - WARNING - No schedule entries found for year 2009
+2025-04-15 22:07:45,449 - INFO - Crawling schedule for year 2010 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2010.htm
+2025-04-15 22:07:45,630 - INFO - Found single-cell row (year 2010): 
+2025-04-15 22:07:45,631 - INFO - Found single-cell row (year 2010): NTUST Computer Graphics  Multimedia Lab
+2025-04-15 22:07:45,633 - INFO - Successfully saved output\schedule2010.json
+2025-04-15 22:07:45,633 - INFO - Crawling schedule for year 2011 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2011.htm
+2025-04-15 22:07:45,821 - INFO - Found single-cell row (year 2011): 
+2025-04-15 22:07:45,821 - INFO - Found single-cell row (year 2011): NTUST Computer Graphics  Multimedia Lab
+2025-04-15 22:07:45,824 - INFO - Successfully saved output\schedule2011.json
+2025-04-15 22:07:45,824 - INFO - Crawling schedule for year 2012 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2012.htm
+2025-04-15 22:07:46,012 - INFO - Found single-cell row (year 2012): 
+2025-04-15 22:07:46,012 - INFO - Found single-cell row (year 2012): NTUST Computer Graphics  Multimedia Lab
+2025-04-15 22:07:46,014 - INFO - Successfully saved output\schedule2012.json
+2025-04-15 22:07:46,014 - INFO - Crawling schedule for year 2013 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2013.htm
+2025-04-15 22:07:46,235 - WARNING - Row with insufficient cells found (year 2013): [<td bgcolor="#f3f7f8" rowspan="2"><div align="center">12/30</div></td>, <td bgcolor="#f3f7f8"><div align="center" class="styleTopic">Paper</div></td>, <td bgcolor="#f3f7f8"><div align="center" class="styleSpeaker">
+<div align="center">亞婷</div></div></td>]
+2025-04-15 22:07:46,235 - WARNING - No schedule entries found for year 2013
+2025-04-15 22:07:46,236 - INFO - Crawling schedule for year 2014 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2014.htm
+2025-04-15 22:07:46,409 - WARNING - Row with insufficient cells found (year 2014): [<td bgcolor="#FAF4EB" rowspan="2"><div align="center">12/25</div></td>, <td bgcolor="#FAF4EB"><div align="center" class="styleTopic">Paper</div></td>, <td bgcolor="#FAF4EB"><div align="center" class="styleSpeaker">
+<div align="center">Richar</div></div></td>]
+2025-04-15 22:07:46,409 - WARNING - No schedule entries found for year 2014
+2025-04-15 22:07:46,409 - INFO - Crawling schedule for year 2015 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2015.htm
+2025-04-15 22:07:46,591 - WARNING - Row with insufficient cells found (year 2015): [<td bgcolor="#FAF4EB" rowspan="1"><div align="center">12/31</div></td>, <td bgcolor="#FAF4EB"><div align="center" class="styleTopic">Math</div></td>, <td bgcolor="#FAF4EB"><div align="center" class="styleSpeaker">
+<div align="center">無</div></div></td>]
+2025-04-15 22:07:46,592 - WARNING - No schedule entries found for year 2015
+2025-04-15 22:07:46,592 - INFO - Crawling schedule for year 2016 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2016.htm
+2025-04-15 22:07:46,789 - WARNING - Row with insufficient cells found (year 2016): [<td bgcolor="#f3f7f8" rowspan="2"><div align="center">12/29</div></td>, <td bgcolor="#f3f7f8"><div align="center" class="styleTopic">Paper</div></td>, <td bgcolor="#f3f7f8"><div align="center" class="styleSpeaker">
+<div align="center">育林</div></div></td>]
+2025-04-15 22:07:46,789 - WARNING - No schedule entries found for year 2016
+2025-04-15 22:07:46,789 - INFO - Crawling schedule for year 2017 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2017.htm
+2025-04-15 22:07:47,008 - WARNING - Row with insufficient cells found (year 2017): [<td bgcolor="#FAF4EB" rowspan="2"><div align="center">12/28</div></td>, <td bgcolor="#FAF4EB"><div align="center" class="styleTopic">Paper</div></td>, <td bgcolor="#FAF4EB"><div align="center" class="styleSpeaker">
+<div align="center">晉萱</div></div></td>]
+2025-04-15 22:07:47,008 - WARNING - No schedule entries found for year 2017
+2025-04-15 22:07:47,009 - INFO - Crawling schedule for year 2018 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2018.htm
+2025-04-15 22:07:47,154 - WARNING - Row with insufficient cells found (year 2018): [<td bgcolor="#FAF4EB" rowspan="2"><div align="center">12/27</div></td>, <td bgcolor="#FAF4EB"><div align="center" class="styleTopic">Paper</div></td>, <td bgcolor="#FAF4EB"><div align="center" class="styleSpeaker">
+<div align="center">Taheri</div></div></td>]
+2025-04-15 22:07:47,154 - WARNING - No schedule entries found for year 2018
+2025-04-15 22:07:47,155 - INFO - Crawling schedule for year 2019 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2019.htm
+2025-04-15 22:07:47,291 - WARNING - Row with insufficient cells found (year 2019): [<td bgcolor="#FAF4EB" rowspan="2"><div align="center">12/26</div></td>, <td bgcolor="#FAF4EB"><div align="center" class="styleTopic">Paper</div></td>, <td bgcolor="#FAF4EB"><div align="center" class="styleSpeaker">
+<div align="center">高宜芳</div></div></td>]
+2025-04-15 22:07:47,292 - WARNING - No schedule entries found for year 2019
+2025-04-15 22:07:47,292 - INFO - Crawling schedule for year 2020 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2020.htm
+2025-04-15 22:07:47,456 - WARNING - Row with insufficient cells found (year 2020): [<td bgcolor="#FAF4EB" rowspan="2">
+<div align="center">12/31</div>
+</td>, <td bgcolor="#FAF4EB">
+<div align="center" class="styleTopic">Paper</div>
+</td>, <td bgcolor="#FAF4EB">
+<div align="center" class="styleSpeaker">
+<div align="center">Ann</div>
+</div></td>]
+2025-04-15 22:07:47,457 - WARNING - No schedule entries found for year 2020
+2025-04-15 22:07:47,457 - INFO - Crawling schedule for year 2021 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2021.htm
+2025-04-15 22:07:47,606 - WARNING - No schedule entries found for year 2021
+2025-04-15 22:07:47,606 - INFO - Crawling schedule for year 2022 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2022.htm
+2025-04-15 22:07:47,767 - WARNING - No schedule table found for year 2022
+2025-04-15 22:07:47,767 - WARNING - No schedule entries found for year 2022
+2025-04-15 22:07:47,767 - INFO - Crawling schedule for year 2023 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2023.htm
+2025-04-15 22:07:47,884 - WARNING - No schedule table found for year 2023
+2025-04-15 22:07:47,884 - WARNING - No schedule entries found for year 2023
+2025-04-15 22:07:47,884 - INFO - Crawling schedule for year 2024 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2024.htm
+2025-04-15 22:07:48,043 - WARNING - No schedule entries found for year 2024
+2025-04-15 22:07:48,043 - INFO - Crawling schedule for year 2025 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2025.htm
+2025-04-15 22:07:48,177 - WARNING - No schedule entries found for year 2025
+2025-04-15 22:07:48,177 - INFO - Crawling complete. Successfully processed 4 of 18 years.
+2025-04-15 22:08:07,425 - INFO - Starting crawler for years 2008 to 2025
+2025-04-15 22:08:07,426 - INFO - Crawling schedule for year 2008 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2008.htm
+2025-04-15 22:08:07,551 - INFO - Found single-cell row (year 2008): 
+2025-04-15 22:08:07,551 - INFO - Found single-cell row (year 2008): NTUST Computer Graphics  Multimedia Lab
+2025-04-15 22:08:07,553 - INFO - Successfully saved output\schedule2008.json
+2025-04-15 22:08:07,553 - INFO - Crawling schedule for year 2009 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2009.htm
+2025-04-15 22:08:07,721 - WARNING - No schedule entries found for year 2009
+2025-04-15 22:08:07,721 - INFO - Crawling schedule for year 2010 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2010.htm
+2025-04-15 22:08:07,855 - INFO - Found single-cell row (year 2010): 
+2025-04-15 22:08:07,855 - INFO - Found single-cell row (year 2010): NTUST Computer Graphics  Multimedia Lab
+2025-04-15 22:08:07,858 - INFO - Successfully saved output\schedule2010.json
+2025-04-15 22:08:07,858 - INFO - Crawling schedule for year 2011 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2011.htm
+2025-04-15 22:08:08,008 - INFO - Found single-cell row (year 2011): 
+2025-04-15 22:08:08,008 - INFO - Found single-cell row (year 2011): NTUST Computer Graphics  Multimedia Lab
+2025-04-15 22:08:08,010 - INFO - Successfully saved output\schedule2011.json
+2025-04-15 22:08:08,010 - INFO - Crawling schedule for year 2012 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2012.htm
+2025-04-15 22:08:08,152 - INFO - Found single-cell row (year 2012): 
+2025-04-15 22:08:08,152 - INFO - Found single-cell row (year 2012): NTUST Computer Graphics  Multimedia Lab
+2025-04-15 22:08:08,154 - INFO - Successfully saved output\schedule2012.json
+2025-04-15 22:08:08,154 - INFO - Crawling schedule for year 2013 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2013.htm
+2025-04-15 22:08:08,288 - WARNING - Row with insufficient cells found (year 2013): [<td bgcolor="#f3f7f8" rowspan="2"><div align="center">12/30</div></td>, <td bgcolor="#f3f7f8"><div align="center" class="styleTopic">Paper</div></td>, <td bgcolor="#f3f7f8"><div align="center" class="styleSpeaker">
+<div align="center">亞婷</div></div></td>]
+2025-04-15 22:08:08,288 - WARNING - No schedule entries found for year 2013
+2025-04-15 22:08:08,288 - INFO - Crawling schedule for year 2014 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2014.htm
+2025-04-15 22:08:08,471 - WARNING - Row with insufficient cells found (year 2014): [<td bgcolor="#FAF4EB" rowspan="2"><div align="center">12/25</div></td>, <td bgcolor="#FAF4EB"><div align="center" class="styleTopic">Paper</div></td>, <td bgcolor="#FAF4EB"><div align="center" class="styleSpeaker">
+<div align="center">Richar</div></div></td>]
+2025-04-15 22:08:08,471 - WARNING - No schedule entries found for year 2014
+2025-04-15 22:08:08,472 - INFO - Crawling schedule for year 2015 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2015.htm
+2025-04-15 22:08:08,604 - WARNING - Row with insufficient cells found (year 2015): [<td bgcolor="#FAF4EB" rowspan="1"><div align="center">12/31</div></td>, <td bgcolor="#FAF4EB"><div align="center" class="styleTopic">Math</div></td>, <td bgcolor="#FAF4EB"><div align="center" class="styleSpeaker">
+<div align="center">無</div></div></td>]
+2025-04-15 22:08:08,604 - WARNING - No schedule entries found for year 2015
+2025-04-15 22:08:08,604 - INFO - Crawling schedule for year 2016 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2016.htm
+2025-04-15 22:08:08,738 - WARNING - Row with insufficient cells found (year 2016): [<td bgcolor="#f3f7f8" rowspan="2"><div align="center">12/29</div></td>, <td bgcolor="#f3f7f8"><div align="center" class="styleTopic">Paper</div></td>, <td bgcolor="#f3f7f8"><div align="center" class="styleSpeaker">
+<div align="center">育林</div></div></td>]
+2025-04-15 22:08:08,738 - WARNING - No schedule entries found for year 2016
+2025-04-15 22:08:08,738 - INFO - Crawling schedule for year 2017 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2017.htm
+2025-04-15 22:08:08,880 - WARNING - Row with insufficient cells found (year 2017): [<td bgcolor="#FAF4EB" rowspan="2"><div align="center">12/28</div></td>, <td bgcolor="#FAF4EB"><div align="center" class="styleTopic">Paper</div></td>, <td bgcolor="#FAF4EB"><div align="center" class="styleSpeaker">
+<div align="center">晉萱</div></div></td>]
+2025-04-15 22:08:08,881 - WARNING - No schedule entries found for year 2017
+2025-04-15 22:08:08,881 - INFO - Crawling schedule for year 2018 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2018.htm
+2025-04-15 22:08:09,049 - WARNING - Row with insufficient cells found (year 2018): [<td bgcolor="#FAF4EB" rowspan="2"><div align="center">12/27</div></td>, <td bgcolor="#FAF4EB"><div align="center" class="styleTopic">Paper</div></td>, <td bgcolor="#FAF4EB"><div align="center" class="styleSpeaker">
+<div align="center">Taheri</div></div></td>]
+2025-04-15 22:08:09,049 - WARNING - No schedule entries found for year 2018
+2025-04-15 22:08:09,049 - INFO - Crawling schedule for year 2019 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2019.htm
+2025-04-15 22:08:09,190 - WARNING - Row with insufficient cells found (year 2019): [<td bgcolor="#FAF4EB" rowspan="2"><div align="center">12/26</div></td>, <td bgcolor="#FAF4EB"><div align="center" class="styleTopic">Paper</div></td>, <td bgcolor="#FAF4EB"><div align="center" class="styleSpeaker">
+<div align="center">高宜芳</div></div></td>]
+2025-04-15 22:08:09,190 - WARNING - No schedule entries found for year 2019
+2025-04-15 22:08:09,190 - INFO - Crawling schedule for year 2020 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2020.htm
+2025-04-15 22:08:09,335 - WARNING - Row with insufficient cells found (year 2020): [<td bgcolor="#FAF4EB" rowspan="2">
+<div align="center">12/31</div>
+</td>, <td bgcolor="#FAF4EB">
+<div align="center" class="styleTopic">Paper</div>
+</td>, <td bgcolor="#FAF4EB">
+<div align="center" class="styleSpeaker">
+<div align="center">Ann</div>
+</div></td>]
+2025-04-15 22:08:09,335 - WARNING - No schedule entries found for year 2020
+2025-04-15 22:08:09,335 - INFO - Crawling schedule for year 2021 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2021.htm
+2025-04-15 22:08:09,494 - WARNING - No schedule entries found for year 2021
+2025-04-15 22:08:09,495 - INFO - Crawling schedule for year 2022 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2022.htm
+2025-04-15 22:08:09,663 - WARNING - No schedule table found for year 2022
+2025-04-15 22:08:09,664 - WARNING - No schedule entries found for year 2022
+2025-04-15 22:08:09,664 - INFO - Crawling schedule for year 2023 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2023.htm
+2025-04-15 22:08:09,748 - WARNING - No schedule table found for year 2023
+2025-04-15 22:08:09,749 - WARNING - No schedule entries found for year 2023
+2025-04-15 22:08:09,749 - INFO - Crawling schedule for year 2024 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2024.htm
+2025-04-15 22:08:09,913 - WARNING - No schedule entries found for year 2024
+2025-04-15 22:08:09,913 - INFO - Crawling schedule for year 2025 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2025.htm
+2025-04-15 22:08:10,011 - WARNING - No schedule entries found for year 2025
+2025-04-15 22:08:10,011 - INFO - Crawling complete. Successfully processed 4 of 18 years.
+2025-04-15 22:11:10,688 - INFO - Starting crawler for years 2008 to 2025
+2025-04-15 22:11:10,688 - INFO - Crawling schedule for year 2008 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2008.htm
+2025-04-15 22:11:10,898 - INFO - Found table for year 2008: {'border': '0', 'class': ['Paper_Table']}
+2025-04-15 22:11:10,900 - INFO - Skipping potential header row for year 2008: Date
+2025-04-15 22:11:10,901 - INFO - Found single-cell row (year 2008): NTUST Computer Graphics  Multimedia Lab
+2025-04-15 22:11:10,903 - INFO - Successfully saved output\schedule2008.json
+2025-04-15 22:11:10,903 - INFO - Crawling schedule for year 2009 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2009.htm
+2025-04-15 22:11:11,081 - INFO - Found table for year 2009: {'border': '0', 'class': ['Paper_Table']}
+2025-04-15 22:11:11,081 - INFO - Skipping potential header row for year 2009: Date
+2025-04-15 22:11:11,082 - WARNING - No schedule data extracted for year 2009 despite finding a table
+2025-04-15 22:11:11,082 - WARNING - No schedule entries found for year 2009
+2025-04-15 22:11:11,082 - INFO - Crawling schedule for year 2010 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2010.htm
+2025-04-15 22:11:11,332 - INFO - Found table for year 2010: {'border': '0', 'class': ['Paper_Table']}
+2025-04-15 22:11:11,333 - INFO - Skipping potential header row for year 2010: Date
+2025-04-15 22:11:11,335 - INFO - Found single-cell row (year 2010): NTUST Computer Graphics  Multimedia Lab
+2025-04-15 22:11:11,337 - INFO - Successfully saved output\schedule2010.json
+2025-04-15 22:11:11,337 - INFO - Crawling schedule for year 2011 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2011.htm
+2025-04-15 22:11:11,555 - INFO - Found table for year 2011: {'border': '0', 'class': ['Paper_Table']}
+2025-04-15 22:11:11,556 - INFO - Skipping potential header row for year 2011: Date
+2025-04-15 22:11:11,558 - INFO - Found single-cell row (year 2011): NTUST Computer Graphics  Multimedia Lab
+2025-04-15 22:11:11,560 - INFO - Successfully saved output\schedule2011.json
+2025-04-15 22:11:11,561 - INFO - Crawling schedule for year 2012 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2012.htm
+2025-04-15 22:11:11,730 - INFO - Found table for year 2012: {'border': '0', 'class': ['Paper_Table']}
+2025-04-15 22:11:11,731 - INFO - Skipping potential header row for year 2012: Date
+2025-04-15 22:11:11,732 - INFO - Found single-cell row (year 2012): NTUST Computer Graphics  Multimedia Lab
+2025-04-15 22:11:11,735 - INFO - Successfully saved output\schedule2012.json
+2025-04-15 22:11:11,735 - INFO - Crawling schedule for year 2013 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2013.htm
+2025-04-15 22:11:11,913 - INFO - Found table for year 2013: {'border': '0', 'class': ['Paper_Table']}
+2025-04-15 22:11:11,913 - INFO - Skipping potential header row for year 2013: Date
+2025-04-15 22:11:11,915 - INFO - Successfully saved output\schedule2013.json
+2025-04-15 22:11:11,916 - INFO - Crawling schedule for year 2014 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2014.htm
+2025-04-15 22:11:12,099 - INFO - Found table for year 2014: {'border': '0', 'class': ['Paper_Table']}
+2025-04-15 22:11:12,099 - INFO - Skipping potential header row for year 2014: Date
+2025-04-15 22:11:12,101 - INFO - Successfully saved output\schedule2014.json
+2025-04-15 22:11:12,102 - INFO - Crawling schedule for year 2015 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2015.htm
+2025-04-15 22:11:12,258 - INFO - Found table for year 2015: {'border': '0', 'class': ['Paper_Table']}
+2025-04-15 22:11:12,259 - INFO - Skipping potential header row for year 2015: Date
+2025-04-15 22:11:12,260 - INFO - Successfully saved output\schedule2015.json
+2025-04-15 22:11:12,261 - INFO - Crawling schedule for year 2016 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2016.htm
+2025-04-15 22:11:12,400 - INFO - Found table for year 2016: {'border': '0', 'class': ['Paper_Table']}
+2025-04-15 22:11:12,401 - INFO - Skipping potential header row for year 2016: Date
+2025-04-15 22:11:12,402 - INFO - Successfully saved output\schedule2016.json
+2025-04-15 22:11:12,402 - INFO - Crawling schedule for year 2017 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2017.htm
+2025-04-15 22:11:12,549 - INFO - Found table for year 2017: {'border': '0', 'class': ['Paper_Table']}
+2025-04-15 22:11:12,549 - INFO - Skipping potential header row for year 2017: 
+
+Date
+
+
+2025-04-15 22:11:12,551 - INFO - Successfully saved output\schedule2017.json
+2025-04-15 22:11:12,551 - INFO - Crawling schedule for year 2018 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2018.htm
+2025-04-15 22:11:12,688 - INFO - Found table for year 2018: {'border': '0', 'class': ['Paper_Table']}
+2025-04-15 22:11:12,689 - INFO - Skipping potential header row for year 2018: 
+
+Date
+
+
+2025-04-15 22:11:12,691 - INFO - Successfully saved output\schedule2018.json
+2025-04-15 22:11:12,691 - INFO - Crawling schedule for year 2019 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2019.htm
+2025-04-15 22:11:12,881 - INFO - Found table for year 2019: {'border': '0', 'class': ['Paper_Table']}
+2025-04-15 22:11:12,881 - INFO - Skipping potential header row for year 2019: 
+
+Date
+
+
+2025-04-15 22:11:12,883 - INFO - Successfully saved output\schedule2019.json
+2025-04-15 22:11:12,883 - INFO - Crawling schedule for year 2020 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2020.htm
+2025-04-15 22:11:13,057 - INFO - Found table for year 2020: {'border': '0', 'class': ['Paper_Table']}
+2025-04-15 22:11:13,057 - INFO - Skipping potential header row for year 2020: 
+
+Date
+
+
+2025-04-15 22:11:13,060 - INFO - Successfully saved output\schedule2020.json
+2025-04-15 22:11:13,060 - INFO - Crawling schedule for year 2021 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2021.htm
+2025-04-15 22:11:13,237 - INFO - Found table for year 2021: {'border': '0', 'class': ['Paper_Table']}
+2025-04-15 22:11:13,237 - INFO - Skipping potential header row for year 2021: 
+
+Date
+
+
+2025-04-15 22:11:13,238 - WARNING - No schedule data extracted for year 2021 despite finding a table
+2025-04-15 22:11:13,238 - WARNING - No schedule entries found for year 2021
+2025-04-15 22:11:13,238 - INFO - Crawling schedule for year 2022 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2022.htm
+2025-04-15 22:11:13,430 - WARNING - No schedule table found for year 2022
+2025-04-15 22:11:13,430 - WARNING - No schedule entries found for year 2022
+2025-04-15 22:11:13,430 - INFO - Crawling schedule for year 2023 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2023.htm
+2025-04-15 22:11:13,570 - INFO - Found table for year 2023: {}
+2025-04-15 22:11:13,571 - WARNING - No schedule data extracted for year 2023 despite finding a table
+2025-04-15 22:11:13,571 - WARNING - No schedule entries found for year 2023
+2025-04-15 22:11:13,571 - INFO - Crawling schedule for year 2024 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2024.htm
+2025-04-15 22:11:13,739 - INFO - Found table for year 2024: {'border': '0', 'class': ['Paper_Table']}
+2025-04-15 22:11:13,739 - INFO - Skipping potential header row for year 2024: 
+
+Date
+
+
+2025-04-15 22:11:13,739 - WARNING - No schedule data extracted for year 2024 despite finding a table
+2025-04-15 22:11:13,739 - WARNING - No schedule entries found for year 2024
+2025-04-15 22:11:13,739 - INFO - Crawling schedule for year 2025 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2025.htm
+2025-04-15 22:11:13,866 - INFO - Found table for year 2025: {'border': '0', 'class': ['Paper_Table']}
+2025-04-15 22:11:13,866 - INFO - Skipping potential header row for year 2025: 
+
+Date
+
+
+2025-04-15 22:11:13,866 - WARNING - No schedule data extracted for year 2025 despite finding a table
+2025-04-15 22:11:13,866 - WARNING - No schedule entries found for year 2025
+2025-04-15 22:11:13,866 - INFO - Crawling complete. Successfully processed 12 of 18 years.
+2025-04-15 22:43:27,285 - INFO - Starting crawler for years 2008 to 2025
+2025-04-15 22:43:27,285 - INFO - Crawling schedule for year 2008 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2008.htm
+2025-04-15 22:43:27,483 - INFO - Special format row (year 2008): NTUST Computer Graphics Multim...
+2025-04-15 22:43:27,485 - INFO - Successfully saved output\schedule2008.json
+2025-04-15 22:43:27,485 - INFO - Crawling schedule for year 2009 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2009.htm
+2025-04-15 22:43:27,679 - WARNING - No schedule entries found for year 2009
+2025-04-15 22:43:27,680 - INFO - Crawling schedule for year 2010 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2010.htm
+2025-04-15 22:43:27,832 - INFO - Special format row (year 2010): NTUST Computer Graphics Multim...
+2025-04-15 22:43:27,834 - INFO - Successfully saved output\schedule2010.json
+2025-04-15 22:43:27,835 - INFO - Crawling schedule for year 2011 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2011.htm
+2025-04-15 22:43:27,979 - INFO - Special format row (year 2011): NTUST Computer Graphics Multim...
+2025-04-15 22:43:27,981 - INFO - Successfully saved output\schedule2011.json
+2025-04-15 22:43:27,981 - INFO - Crawling schedule for year 2012 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2012.htm
+2025-04-15 22:43:28,154 - INFO - Special format row (year 2012): NTUST Computer Graphics Multim...
+2025-04-15 22:43:28,156 - INFO - Successfully saved output\schedule2012.json
+2025-04-15 22:43:28,156 - INFO - Crawling schedule for year 2013 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2013.htm
+2025-04-15 22:43:28,315 - WARNING - Row with insufficient cells found (year 2013): 3
+2025-04-15 22:43:28,316 - WARNING - No schedule entries found for year 2013
+2025-04-15 22:43:28,316 - INFO - Crawling schedule for year 2014 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2014.htm
+2025-04-15 22:43:28,468 - WARNING - Row with insufficient cells found (year 2014): 3
+2025-04-15 22:43:28,469 - WARNING - No schedule entries found for year 2014
+2025-04-15 22:43:28,469 - INFO - Crawling schedule for year 2015 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2015.htm
+2025-04-15 22:43:28,607 - WARNING - Row with insufficient cells found (year 2015): 3
+2025-04-15 22:43:28,607 - WARNING - No schedule entries found for year 2015
+2025-04-15 22:43:28,608 - INFO - Crawling schedule for year 2016 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2016.htm
+2025-04-15 22:43:28,746 - WARNING - Row with insufficient cells found (year 2016): 3
+2025-04-15 22:43:28,746 - WARNING - No schedule entries found for year 2016
+2025-04-15 22:43:28,746 - INFO - Crawling schedule for year 2017 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2017.htm
+2025-04-15 22:43:28,913 - WARNING - Row with insufficient cells found (year 2017): 3
+2025-04-15 22:43:28,913 - WARNING - No schedule entries found for year 2017
+2025-04-15 22:43:28,914 - INFO - Crawling schedule for year 2018 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2018.htm
+2025-04-15 22:43:29,078 - WARNING - Row with insufficient cells found (year 2018): 3
+2025-04-15 22:43:29,078 - WARNING - No schedule entries found for year 2018
+2025-04-15 22:43:29,078 - INFO - Crawling schedule for year 2019 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2019.htm
+2025-04-15 22:43:29,246 - WARNING - Row with insufficient cells found (year 2019): 3
+2025-04-15 22:43:29,246 - WARNING - No schedule entries found for year 2019
+2025-04-15 22:43:29,246 - INFO - Crawling schedule for year 2020 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2020.htm
+2025-04-15 22:43:29,402 - WARNING - Row with insufficient cells found (year 2020): 3
+2025-04-15 22:43:29,402 - WARNING - No schedule entries found for year 2020
+2025-04-15 22:43:29,402 - INFO - Crawling schedule for year 2021 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2021.htm
+2025-04-15 22:43:29,566 - WARNING - No schedule entries found for year 2021
+2025-04-15 22:43:29,566 - INFO - Crawling schedule for year 2022 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2022.htm
+2025-04-15 22:43:29,739 - WARNING - No schedule table found for year 2022
+2025-04-15 22:43:29,740 - WARNING - No schedule entries found for year 2022
+2025-04-15 22:43:29,740 - INFO - Crawling schedule for year 2023 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2023.htm
+2025-04-15 22:43:29,828 - WARNING - No schedule table found for year 2023
+2025-04-15 22:43:29,829 - WARNING - No schedule entries found for year 2023
+2025-04-15 22:43:29,829 - INFO - Crawling schedule for year 2024 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2024.htm
+2025-04-15 22:43:29,978 - WARNING - No schedule entries found for year 2024
+2025-04-15 22:43:29,978 - INFO - Crawling schedule for year 2025 from https://cgm.cs.ntust.edu.tw/Activity/lab/Schedule/Schedule2025.htm
+2025-04-15 22:43:30,109 - WARNING - No schedule entries found for year 2025
+2025-04-15 22:43:30,109 - INFO - Crawling complete. Successfully processed 4 of 18 years.

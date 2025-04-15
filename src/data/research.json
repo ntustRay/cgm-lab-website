@@ -1,47 +1,302 @@
 [
   {
-    "id": "research-1",
-    "title": "Private Projection and Beautification of Camera Images",
-    "description": "This research focuses on techniques for enhancing and protecting privacy in camera images through projection and beautification algorithms.",
-    "fullDescription": "Our research explores advanced algorithms for image processing that can protect privacy while maintaining image quality. We propose a novel approach that combines machine learning techniques with traditional computer graphics methods to achieve effective privacy protection without compromising visual appeal. This work has applications in social media, teleconferencing, and security systems.",
-    "imageUrl": "/images/research/placeholder.jpg",
-    "team": ["Prof. Chuan-kai Yang", "Student A", "Student B"],
-    "publications": [
-      {
-        "title": "Privacy-Preserving Image Enhancement",
-        "conference": "ACM SIGGRAPH 2023",
-        "link": "#"
-      }
-    ]
+    "image_src": "research/CorneaImages/Privacy Protection and Beautification of Cornea Images_files/pasted image 0(16).png",
+    "link": "research/CorneaImages/Privacy Protection and Beautification of Cornea Images.html",
+    "title": "Privacy Protection and Beautification of Cornea Images",
+    "authors": [
+      "Chia-Lin Wu",
+      "Chuan-Kai Yang",
+      "Yi-Ling Lin"
+    ],
+    "year": "2022"
   },
   {
-    "id": "research-2",
+    "image_src": "research/M10809118-thesis/system.png",
+    "link": "research/M10809118-thesis/index.html",
     "title": "Realistic Video Generation for American Sign Language",
-    "description": "Developing methods to generate realistic videos for American Sign Language to aid in communication and education.",
-    "fullDescription": "This project aims to create realistic video content for American Sign Language (ASL) to bridge communication gaps and support education. Using deep learning and computer vision techniques, we generate high-quality animations that accurately represent ASL gestures and expressions. The system can translate text or speech input into corresponding ASL videos in real-time.",
-    "imageUrl": "/images/research/placeholder.jpg",
-    "team": ["Prof. Chuan-kai Yang", "Student C", "Student D"],
-    "publications": [
-      {
-        "title": "Neural Networks for Sign Language Video Synthesis",
-        "conference": "IEEE VR 2023",
-        "link": "#"
-      }
-    ]
+    "authors": [
+      "Meng-Chen Xu",
+      "Chuan-Kai Yang"
+    ],
+    "year": "2022"
   },
   {
-    "id": "research-3",
-    "title": "Neural Map Processing Visualization through a Graphic Algorithm",
-    "description": "Investigating visualization techniques for neural map processing using advanced graphic algorithms.",
-    "fullDescription": "This research explores novel ways to visualize complex neural network processes through innovative graphic algorithms. We develop interactive visualization tools that help researchers and practitioners understand the internal workings of neural networks. Our approach combines information visualization principles with real-time graphics rendering to create intuitive and informative visual representations of neural activations and connections.",
-    "imageUrl": "/images/research/placeholder.jpg",
-    "team": ["Prof. Chuan-kai Yang", "Student E"],
-    "publications": [
-      {
-        "title": "Interactive Visualization of Neural Network Activations",
-        "conference": "IEEE Visualization 2023",
-        "link": "#"
-      }
-    ]
+    "image_src": "research/Mojib/Mental_Map_Preserving_Visualization_through_a_Genetic_Algorithm.files/image001.jpg",
+    "link": "research/Mojib/Mental_Map_Preserving_Visualization_through_a_Genetic_Algorithm.html",
+    "title": "Mental Map-Preserving Visualization through a Genetic Algorithm",
+    "authors": [
+      "Mojiborrahman Dehvari",
+      "Chuan-Kai Yang",
+      "Enrico Armando"
+    ],
+    "year": "2021"
+  },
+  {
+    "image_src": "research/Lukman/object_recognition_summary/figure_2.png",
+    "link": "research/Lukman/object_recognition_summary/summary_object_recognition_journal.html",
+    "title": "An Object Recognition System based on Convolutional Neural Networks and Angular Resolutions",
+    "authors": [
+      "Achmad Lukman",
+      "Chuan-Kai Yang"
+    ],
+    "year": "2021"
+  },
+  {
+    "image_src": "research/A Multi-Person Selfie System via Augmented Reality-index.png",
+    "link": "research/Lin Jie/ARPhoto-Context-Research-CGM.htm",
+    "title": "A Multi-Person Selfie System via Augmented Reality",
+    "authors": [
+      "林捷",
+      "蕭春元"
+    ],
+    "year": "2020"
+  },
+  {
+    "image_src": "research/paper_tools.jpg",
+    "link": "research/KevinLi/photo%20compositon.htm",
+    "title": "Photo Composition with Real-Time Rating",
+    "authors": [
+      "李一峯",
+      "張怡臻"
+    ],
+    "year": "2020"
+  },
+  {
+    "image_src": "research/gsvp.png",
+    "link": "Personal_website/101/Aban/googlepaper.html",
+    "title": "Automatic generation of video navigation from Google Street View data with car detection and npainting",
+    "authors": [
+      "鄭元棓(D10109102)"
+    ],
+    "year": "2018"
+  },
+  {
+    "image_src": "research/papericon.png",
+    "link": "research/M10109115/stereo_i_s.html",
+    "title": "Stereoscopic image stippling",
+    "authors": [
+      "侯芊妤(M10109115)"
+    ],
+    "year": "2018"
+  },
+  {
+    "image_src": "research/profile.png",
+    "link": "Personal_website/96/A9409004/research page/Obfuscated_Volume_Rendering/Obfuscated_Volume_Rendering.html",
+    "title": "Obfuscated Volume Rendering",
+    "authors": [
+      "周家愷(D9809101)"
+    ],
+    "year": "2015"
+  },
+  {
+    "image_src": "research/fig1.png",
+    "link": "Personal_website/96/A9409004/research page/Encrypted_image_processing/Encrypted_image_processing.html",
+    "title": "Encryption Domain Content-based Image Retrieval and Convolution through a Block-based Transformation Algorithm",
+    "authors": [
+      "周家愷(D9809101)"
+    ],
+    "year": "2015"
+  },
+  {
+    "image_src": "research/research22.png",
+    "link": "Personal_website/100/M10009101/M10009101_webpage/ResearchPage/CBDDM.html",
+    "title": "Integrated Model/Scene Construction through Context-Based Search, Data-Driven Suggestion and Component Replacement",
+    "authors": [
+      "陳柏安(M10009101)"
+    ],
+    "year": "2015"
+  },
+  {
+    "image_src": "research/research21.jpg",
+    "link": "Personal_website/97/etrex/AAHMS2015/index.html",
+    "title": "An Automatic Hair Matting System",
+    "authors": [
+      "自動頭髮去背系統",
+      "郭佳甯(M9709121)"
+    ],
+    "year": "2015"
+  },
+  {
+    "image_src": "research/research20.jpg",
+    "link": "Personal_website/99/maokao/CSDA2014/CSDA2014.htm",
+    "title": "Exploratory data analysis of interval-valued symbolic data with matrix visualization",
+    "authors": [
+      "高君豪(D9909101)"
+    ],
+    "year": "2014"
+  },
+  {
+    "image_src": "research/research19.png",
+    "link": "research/YuanHao/VORTA.html",
+    "title": "Video Object Retrieval by Trajectory and Appearance",
+    "authors": [
+      "賴沅壕(M10009111)"
+    ],
+    "year": "2014"
+  },
+  {
+    "image_src": "research/research18.png",
+    "link": "research/D9309104/FastCon.html",
+    "title": "Fast content-aware video length reduction",
+    "authors": [
+      "張幸卿(D9309104)"
+    ],
+    "year": "2013"
+  },
+  {
+    "image_src": "research/cover.png",
+    "link": "Personal_website/96/m9609114/ResearchPage/PaperVis.html",
+    "title": "A HCI interface based on hand gestures",
+    "authors": [
+      "陳佑鈞(M9609114)"
+    ],
+    "year": "2012"
+  },
+  {
+    "image_src": "research/research17.png",
+    "link": "research/M9609105/PaperVis.html",
+    "title": "Stain Removal in 2D Images with Globally-Varying Textures",
+    "authors": [
+      "葉昱志(M9609105)"
+    ],
+    "year": "2012"
+  },
+  {
+    "image_src": "research/research16.PNG",
+    "link": "Personal_website/96/A9409004/research page/papervis/PaperVis.html",
+    "title": "PaperVis: Literature Review Made Easy",
+    "authors": [
+      "周家愷(D9809101)"
+    ],
+    "year": "2011"
+  },
+  {
+    "image_src": "research/research15.PNG",
+    "link": "Personal_website/96/A9409004/research page/haircut/research page.html",
+    "title": "Simulation of Face/Hairstyle Swapping in Photographs with Skin Texture Synthesis",
+    "authors": [
+      "虛擬髮型變換",
+      "周家愷(D9809101)"
+    ],
+    "year": "2011"
+  },
+  {
+    "image_src": "research/research11.png",
+    "link": "Personal_website/96/frank/research%20page.html",
+    "title": "Architecture Prototyping by 3D Collage",
+    "authors": [
+      "3D建築原型拼貼",
+      "蔡青揚(M9609005)"
+    ],
+    "year": "2009"
+  },
+  {
+    "image_src": "Personal_website/92/mandy/www/research/Research%20logo.PNG",
+    "link": "Personal_website/92/mandy/www/main.files/Page441.htm",
+    "title": "Content-Aware Video Resizing",
+    "authors": [
+      "基於內容的影片大小調整系統",
+      "吳美蒓 (M9215051)"
+    ],
+    "year": "2008"
+  },
+  {
+    "image_src": "research/research02.png",
+    "link": "Personal_website/95/hgznrn/research.htm",
+    "title": "Face-off: Automatic Alteration of Facial Features",
+    "authors": [
+      "自動臉部特徵偵測整容系統",
+      "龔興東 (M9509004)"
+    ],
+    "year": "2008"
+  },
+  {
+    "image_src": "research/research03.png",
+    "link": "Personal_website/94/kay/oral%20exam.htm",
+    "title": "A System for Automatic Mood-Transferring",
+    "authors": [
+      "between Color Images",
+      "自動影像心情轉換系統",
+      "彭莉凱 (M9409101)"
+    ],
+    "year": "2007"
+  },
+  {
+    "image_src": "Personal_website/93/steve/www/data/girl/angry.bmp",
+    "link": "Personal_website/93/steve/www/project.htm",
+    "title": "Interactive Facial Expression System",
+    "authors": [
+      "互動式人臉表情系統",
+      "姜威廷 (M9309212)"
+    ],
+    "year": "2006"
+  },
+  {
+    "image_src": "research/research05.png",
+    "link": "Personal_website/93/hlyang/www/Resarch/SeuratNPR.htm",
+    "title": "A Non-Photorealistic Rendering of Seurat's Pointillism",
+    "authors": [
+      "秀拉點描派之電腦模擬",
+      "楊惠琳 (M9309012)"
+    ],
+    "year": "2006"
+  },
+  {
+    "image_src": "research/research06.png",
+    "link": "Personal_website/93/jwchiou/main.htm",
+    "title": "Automatic 3D Solid Texture Synthesis from a 2D Image",
+    "authors": [
+      "由二維影像形成三維材質之自動合成系統",
+      "邱",
+      "家瑋",
+      "(M",
+      "9309004",
+      ")"
+    ],
+    "year": "2006"
+  },
+  {
+    "image_src": "research/research07.png",
+    "link": "Personal_website/92/stan/www/Research/my_research.htm",
+    "title": "A Character-Based Animation System",
+    "authors": [
+      "以字元為單位的動畫顯示系統",
+      "張陞元",
+      "(M9209101)"
+    ],
+    "year": "2005"
+  },
+  {
+    "image_src": "research/research08.png",
+    "link": "Personal_website/92/dino/www/main.htm",
+    "title": "A new Approach of Seed-Set Finding",
+    "authors": [
+      "for Iso-Surface Extraction",
+      "針對資料視覺化所設計之簡單及快速的種子集建構系統",
+      "洪將涵",
+      "(M9209104)"
+    ],
+    "year": "2005"
+  },
+  {
+    "image_src": "research/research09.png",
+    "link": "Personal_website/92/enix/www/projectHTML.htm",
+    "title": "Automatic grayscale image colorization",
+    "authors": [
+      "自動灰階影像上色系統",
+      "張佑瑋",
+      "(M9209213)"
+    ],
+    "year": "2005"
+  },
+  {
+    "image_src": "research/research10.png",
+    "link": "#",
+    "title": "3D Model Alignment",
+    "authors": [
+      "三維模型之對齊",
+      "毛紹嘉 (M9109102)"
+    ],
+    "year": "2004"
   }
-] 
+]

@@ -78,7 +78,7 @@ export default function SeminarSchedulePage() {
           </p>
           <p className="text-sm mb-4">NTUST COMPUTER GRAPHICS MULTIMEDIA LABORATORY</p>
 
-          <div className="absolute right-0 bottom-0 text-lg font-medium">
+          <div className="absolute right-0 bottom-[-32px] text-lg font-medium">
             <button
               className="hover:underline disabled:opacity-50 disabled:no-underline"
               onClick={() => setCurrentYearIndex((i) => Math.min(years.length - 1, i + 1))}

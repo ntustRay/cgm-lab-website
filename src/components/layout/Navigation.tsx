@@ -1,7 +1,7 @@
 "use client"
+import {cn} from "@/lib/utils";
 import Link from "next/link";
 import {usePathname} from "next/navigation";
-import {cn} from "@/lib/utils";
 import {useState} from "react";
 
 const Navigation = () => {
@@ -19,73 +19,76 @@ const Navigation = () => {
   ];
 
   return (
-    <nav className="bg-black text-white h-[30px] flex items-center">
-      <div className="container mx-auto px-0">
-        {/* Mobile menu button */}
-        <div className="md:hidden flex justify-between items-center py-2 px-4">
-          <span className="font-medium text-sm">Menu</span>
+    <>
+      {/* Full screen mobile menu overlay */}
+      {isMenuOpen && (
+        <div className="fixed inset-0 bg-[#000000e6] z-50 flex flex-col items-center justify-center md:hidden">
+          {/* Close button */}
           <button
-            onClick={() => setIsMenuOpen(!isMenuOpen)}
-            className="text-white p-1"
-            aria-label="Toggle menu"
+            onClick={() => setIsMenuOpen(false)}
+            className="absolute top-4 right-4 text-white p-2"
+            aria-label="Close menu"
           >
-            {isMenuOpen ? (
-              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" className="h-5 w-5">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
-              </svg>
-            ) : (
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" className="h-8 w-8">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+            </svg>
+          </button>
+          <ul className="flex flex-col items-center space-y-5">
+            {navItems.map((item) => (
+              <li key={item.path} className="py-2">
+                <Link
+                  href={item.path}
+                  onClick={() => setIsMenuOpen(false)} // Close menu on link click
+                  className={cn(
+                    "block nav-link hover:text-[#bd3c3f] text-white !text-xl font-medium",
+                    pathname === item.path ? "text-[#bd3c3f] font-bold" : ""
+                  )}
+                >
+                  {item.name}
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+
+      <nav className="bg-black text-white h-[30px] flex items-center">
+        <div className="container mx-auto px-0">
+          {/* Mobile menu button */}
+          <div className="md:hidden flex justify-between items-center py-2 px-4">
+            <span className="font-medium text-sm">Menu</span>
+            <button
+              onClick={() => setIsMenuOpen(!isMenuOpen)}
+              className="text-white p-1"
+              aria-label="Toggle menu"
+            >
+              {/* Hamburger Icon */}
               <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" className="h-5 w-5">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
               </svg>
-            )}
-          </button>
-        </div>
+            </button>
+          </div>
 
-        {/* Navigation links */}
-        <table width="100%" border={0} cellPadding={0} cellSpacing={0} className={cn(
-          "hidden md:table",
-          isMenuOpen ? "block" : ""
-        )}>
-          <tbody>
-            <tr className="text-center">
-              {navItems.map((item) => (
-                <td key={item.path} height="20px" width={item.name === "Seminar Schedule" ? "120px" : "80px"}>
-                  <Link
-                    href={item.path}
-                    className={cn(
-                      "nav-link hover:text-[#bd3c3f] text-white text-xs",
-                      pathname === item.path ? "text-[#bd3c3f]" : ""
-                    )}
-                  >
-                    {item.name}
-                  </Link>
-                </td>
-              ))}
-            </tr>
-          </tbody>
-        </table>
-
-        {/* Mobile navigation links */}
-        <ul className={cn(
-          "md:hidden",
-          isMenuOpen ? "block py-2 px-4" : "hidden"
-        )}>
-          {navItems.map((item) => (
-            <li key={item.path} className="py-1 text-center">
+          {/* Desktop Navigation links */}
+          <div className="hidden md:flex w-full justify-around items-center h-full">
+            {navItems.map((item) => (
               <Link
+                key={item.path}
                 href={item.path}
                 className={cn(
-                  "block nav-link hover:text-[#bd3c3f] text-xs",
-                  pathname === item.path ? "text-[#bd3c3f] font-medium" : ""
+                  "nav-link hover:text-[#bd3c3f] text-white text-xs flex items-center justify-center text-center",
+                  pathname === item.path ? "text-[#bd3c3f]" : "",
+                  item.name === "Seminar Schedule" ? "px-5" : "px-2"
                 )}
+                style={{height: "20px", minWidth: item.name === "Seminar Schedule" ? "120px" : "80px"}}
               >
                 {item.name}
               </Link>
-            </li>
-          ))}
-        </ul>
-      </div>
-    </nav>
+            ))}
+          </div>
+        </div>
+      </nav>
+    </>
   );
 };
 

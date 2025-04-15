@@ -1,5 +1,11 @@
 [
     {
+        "year": "2012",
+        "day": "Monday",
+        "classroom": "MA316",
+        "time": "13:30-15:30"
+    },
+    {
         "Date": "12\/28",
         "Topic": "Paper",
         "Speaker": "君豪",

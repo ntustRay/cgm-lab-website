@@ -1,5 +1,11 @@
 [
     {
+        "year": "2008",
+        "day": "Wenesday",
+        "classroom": "MA314",
+        "time": "10:00-12:00"
+    },
+    {
         "Date": "12\/31",
         "Topic": "Paper",
         "Speaker": "錦芬",

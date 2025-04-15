@@ -1,5 +1,11 @@
 [
     {
+        "year": "2023",
+        "day": "Thursday",
+        "classroom": "MA314",
+        "time": "15:30-17:30"
+    },
+    {
         "Date": "12/28",
         "Topic": "Paper",
         "Speaker": "林芳義",

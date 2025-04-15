@@ -1,5 +1,11 @@
 [
     {
+        "year": "2017",
+        "day": "Thursday",
+        "classroom": "MA314",
+        "time": "17:00-19:00"
+    },
+    {
         "Date": "12\/28",
         "Topic": "Paper",
         "Speaker": "晉萱",

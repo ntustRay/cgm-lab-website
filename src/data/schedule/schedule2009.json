@@ -1,5 +1,11 @@
 [
     {
+        "year": "2009",
+        "day": "Wenesday",
+        "classroom": "MA316",
+        "time": "13:30-15:30"
+    },
+    {
         "Date": "12/29",
         "Topic": "Paper",
         "Speaker": "士賢",

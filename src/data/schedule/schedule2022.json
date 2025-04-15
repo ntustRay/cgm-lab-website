@@ -1,5 +1,11 @@
 [
     {
+        "year": "2022",
+        "day": "Thursday",
+        "classroom": "MA314",
+        "time": "17:30-19:30"
+    },
+    {
         "Date": "12\/29",
         "Topic": "Paper",
         "Speaker": "李一峯",

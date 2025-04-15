@@ -1,5 +1,11 @@
 [
     {
+        "year": "2018",
+        "day": "Thursday",
+        "classroom": "MA314",
+        "time": "17:30-19:30"
+    },
+    {
         "Date": "12\/27",
         "Topic": "Paper",
         "Speaker": "Taheri",

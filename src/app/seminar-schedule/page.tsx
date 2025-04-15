@@ -1,8 +1,8 @@
-// src/app/seminar-schedule/page.tsx
+"use client";
 import Banner from "@/components/shared/Banner";
-import schedule2025Data from "@/data/schedule/schedule2025.json";
+import {schedules} from "@/data/schedule";
 import {endOfWeek, isWithinInterval, startOfWeek} from "date-fns";
-import Link from "next/link";
+import {useState} from "react";
 
 type ScheduleItem = {
   Date: string;
@@ -18,23 +18,32 @@ type ScheduleInfo = {
   time: string;
 };
 
-export default function SeminarSchedulePage() {
-  // First item contains schedule info
-  const scheduleInfo = schedule2025Data[0] as ScheduleInfo;
+const years = Object.keys(schedules).sort(); // e.g. ["2020", "2021", "2022", "2023", "2024", "2025"]
 
-  // Rest of items are the actual schedule entries
-  const scheduleItems = schedule2025Data.slice(1) as ScheduleItem[];
+export default function SeminarSchedulePage() {
+  // Start from the latest year
+  const [currentYearIndex, setCurrentYearIndex] = useState(years.length - 1);
+  const currentYear = years[currentYearIndex];
+  const scheduleData = schedules[currentYear];
+
+  // Defensive: skip if no data
+  if (!scheduleData || scheduleData.length === 0) {
+    return <div>No schedule data for {currentYear}</div>;
+  }
+
+  const scheduleInfo = scheduleData[0] as ScheduleInfo;
+  const scheduleItems = scheduleData.slice(1) as ScheduleItem[];
 
   // Get today's date and current week range (Monday–Sunday)
   const today = new Date();
   const weekStart = startOfWeek(today, {weekStartsOn: 1}); // Monday
-  const weekEnd = endOfWeek(today, {weekStartsOn: 1});     // Sunday
+  const weekEnd = endOfWeek(today, {weekStartsOn: 1}); // Sunday
 
-  // Helper to parse "M/D" as Date in 2025
+  // Helper to parse "M/D" as Date in the correct year
   function parseScheduleDate(md: string): Date | null {
-    const [month, day] = md.split("/").map(Number);
+    const [month, day] = md?.split("/").map(Number);
     if (!month || !day) return null;
-    return new Date(2025, month - 1, day);
+    return new Date(Number(scheduleInfo.year), month - 1, day);
   }
 
   return (
@@ -44,14 +53,25 @@ export default function SeminarSchedulePage() {
         <div className="text-center mb-8 relative">
           <h1 className="text-6xl font-bold mb-2">{scheduleInfo.year} Seminar Schedule</h1>
           <p className="text-xl mb-1">
-            {scheduleInfo.classroom} {scheduleInfo.time} EVERY {scheduleInfo.day.toUpperCase()}
+            {scheduleInfo.classroom} {scheduleInfo.time} EVERY {scheduleInfo.day?.toUpperCase()}
           </p>
           <p className="text-sm mb-4">NTUST COMPUTER GRAPHICS MULTIMEDIA LABORATORY</p>
 
-          <div className="absolute right-0 top-0 text-sm">
-            <Link href="/seminar-schedule" className="hover:underline">The Next</Link>
-            {" | "}
-            <Link href="/seminar-schedule/archive" className="hover:underline">The Past</Link>
+          <div className="absolute right-0 top-0 text-sm flex gap-2">
+            <button
+              className="px-2 py-1 border rounded disabled:opacity-50"
+              onClick={() => setCurrentYearIndex((i) => Math.max(0, i - 1))}
+              disabled={currentYearIndex === 0}
+            >
+              Past
+            </button>
+            <button
+              className="px-2 py-1 border rounded disabled:opacity-50"
+              onClick={() => setCurrentYearIndex((i) => Math.min(years.length - 1, i + 1))}
+              disabled={currentYearIndex === years.length - 1}
+            >
+              Next
+            </button>
           </div>
         </div>
 

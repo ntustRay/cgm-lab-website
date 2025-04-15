@@ -76,7 +76,7 @@ export default function PhotoGallery({albums}: PhotoGalleryProps) {
         {nonEmptyAlbums.map(album => (
           <div
             key={album.name}
-            className="cursor-pointer bg-white border border-gray-200 shadow-sm rounded overflow-hidden hover:shadow-md transition-shadow duration-200"
+            className="cursor-pointer bg-white border border-gray-200 shadow-sm rounded overflow-hidden hover:shadow-lg hover:scale-[1.03] hover:border-[#1b1b1b] transition-all duration-200"
             onClick={() => setSelectedAlbum(album)}
           >
             <div className="relative aspect-[4/3] w-full">
@@ -124,7 +124,7 @@ export default function PhotoGallery({albums}: PhotoGalleryProps) {
                 {selectedAlbum.photos.map((photo, index) => (
                   <div
                     key={index}
-                    className="relative aspect-square cursor-pointer hover:opacity-90 transition-opacity"
+                    className="relative aspect-square cursor-pointer hover:opacity-90 transition-opacity duration-200 rounded overflow-hidden"
                     onClick={() => setSelectedPhotoIndex(index)}
                   >
                     <Image

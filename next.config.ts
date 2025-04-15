@@ -1,5 +1,7 @@
 import type {NextConfig} from "next";
 
+const repoName = "cgm-lab-website"; // <-- your repo name
+
 const nextConfig: NextConfig = {
   // export client-side rendering static website 
   output: "export",
@@ -20,6 +22,8 @@ const nextConfig: NextConfig = {
 
   trailingSlash: true,
 
+  basePath: `/${repoName}`,
+  assetPrefix: `/${repoName}/`,
 };
 
 export default nextConfig;

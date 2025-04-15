@@ -57,20 +57,21 @@ export default function SeminarSchedulePage() {
           </p>
           <p className="text-sm mb-4">NTUST COMPUTER GRAPHICS MULTIMEDIA LABORATORY</p>
 
-          <div className="absolute right-0 top-0 text-sm flex gap-2">
+          <div className="absolute right-0 bottom-0 text-lg font-medium">
             <button
-              className="px-2 py-1 border rounded disabled:opacity-50"
-              onClick={() => setCurrentYearIndex((i) => Math.max(0, i - 1))}
-              disabled={currentYearIndex === 0}
-            >
-              Past
-            </button>
-            <button
-              className="px-2 py-1 border rounded disabled:opacity-50"
+              className="hover:underline disabled:opacity-50 disabled:no-underline"
               onClick={() => setCurrentYearIndex((i) => Math.min(years.length - 1, i + 1))}
               disabled={currentYearIndex === years.length - 1}
             >
-              Next
+              The Next
+            </button>
+            <span className="mx-2">|</span>
+            <button
+              className="hover:underline disabled:opacity-50 disabled:no-underline"
+              onClick={() => setCurrentYearIndex((i) => Math.max(0, i - 1))}
+              disabled={currentYearIndex === 0}
+            >
+              The Past
             </button>
           </div>
         </div>

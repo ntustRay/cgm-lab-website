@@ -1,9 +1,9 @@
 // src/app/research/page.tsx
 "use client";
 import Banner from "@/components/shared/Banner";
-import researchData from "@/data/research.json";
 import Image from "next/image"; // Import the Next.js Image component
 import Link from "next/link"; // Import the Next.js Link component
+import researchData from "../../../public//data/research.json";
 
 interface ResearchProject {
   image_src: string;

@@ -1,8 +1,8 @@
 // src/app/director/page.tsx
 import Banner from "@/components/shared/Banner";
-import directorData from "@/data/director.json";
 import {Director} from "@/types/index";
 import Image from "next/image";
+import directorData from "../../../public//data/director.json";
 
 export default function DirectorPage() {
   const director: Director = directorData;

@@ -1,7 +1,7 @@
 // src/app/students/page.tsx
 import Banner from "@/components/shared/Banner";
-import {Student} from "@/types/index";
-import studentsData from "@/data/students.json";
+import { Student } from "@/types/index";
+import studentsData from "../../../public//data/students.json";
 import StudentCard from "./StudentCard"; // Import the StudentCard component
 
 const students = studentsData as Student[];

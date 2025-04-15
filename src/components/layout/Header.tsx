@@ -1,8 +1,8 @@
 // src/components/layout/Header.tsx
-import Link from "next/link";
-import Navigation from "./Navigation";
 import Image from "next/image";
+import Link from "next/link";
 import CGMLogo from "../../../public/images/placeholder.png";
+import Navigation from "./Navigation";
 
 const Header = () => {
   return (

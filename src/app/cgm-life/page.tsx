@@ -1,8 +1,8 @@
 // src/app/cgm-life/page.tsx
 import PhotoGallery from "@/components/PhotoGallery/PhotoGallery";
 import Banner from "@/components/shared/Banner";
-import photosData from "@/data/photos.json";
-import photosInfo from "@/data/photosInfo.json";
+import photosData from "../../../public//data/photos.json";
+import photosInfo from "../../../public//data/photosInfo.json";
 
 export default function CGMLifePage() {
   // Create maps for both dates and titles

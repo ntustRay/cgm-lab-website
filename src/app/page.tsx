@@ -1,13 +1,13 @@
 "use client";
 
-import {useState} from "react";
 import Banner from "@/components/shared/Banner";
-import NewsItem from "@/components/ui/NewsItem";
 import AwardItem from "@/components/ui/AwardItem";
-import newsData from "@/data/news.json";
-import awardsData from "@/data/awards.json";
-import cgmLifeData from "@/data/cgm-life.json";
+import NewsItem from "@/components/ui/NewsItem";
 import {Award, CGMLifeEvent, News} from "@/types/index";
+import {useState} from "react";
+import awardsData from "../../public//data/awards.json";
+import cgmLifeData from "../../public//data/cgm-life.json";
+import newsData from "../../public//data/news.json";
 
 export default function Home() {
   const [showAllAwards, setShowAllAwards] = useState(false);

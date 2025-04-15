@@ -1,6 +1,6 @@
 // src/app/publications/page.tsx
 import Banner from "@/components/shared/Banner";
-import publicationsData from "@/data/publications.json";
+import publicationsData from "../../../public//data/publications.json";
 
 type Publication = {
   index?: number;

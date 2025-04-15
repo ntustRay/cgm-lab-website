@@ -1,6 +1,7 @@
 // src/app/seminar-schedule/page.tsx
 import Banner from "@/components/shared/Banner";
 import schedule2025Data from "@/data/schedule/schedule2025.json";
+import {endOfWeek, isWithinInterval, startOfWeek} from "date-fns";
 import Link from "next/link";
 
 type ScheduleItem = {
@@ -23,6 +24,18 @@ export default function SeminarSchedulePage() {
 
   // Rest of items are the actual schedule entries
   const scheduleItems = schedule2025Data.slice(1) as ScheduleItem[];
+
+  // Get today's date and current week range (Monday–Sunday)
+  const today = new Date();
+  const weekStart = startOfWeek(today, {weekStartsOn: 1}); // Monday
+  const weekEnd = endOfWeek(today, {weekStartsOn: 1});     // Sunday
+
+  // Helper to parse "M/D" as Date in 2025
+  function parseScheduleDate(md: string): Date | null {
+    const [month, day] = md.split("/").map(Number);
+    if (!month || !day) return null;
+    return new Date(2025, month - 1, day);
+  }
 
   return (
     <>
@@ -61,8 +74,18 @@ export default function SeminarSchedulePage() {
                   rowType === "Paper" ? "bg-amber-50" :
                     rowType === "Abstract" ? "bg-gray-50" : "bg-white";
 
+                // Highlight if this item's date is in the current week
+                let highlightClass = "";
+                const itemDate = parseScheduleDate(item.Date);
+                if (
+                  itemDate &&
+                  isWithinInterval(itemDate, {start: weekStart, end: weekEnd})
+                ) {
+                  highlightClass = "bg-yellow-200";
+                }
+
                 return (
-                  <tr key={index} className={bgColor}>
+                  <tr key={index} className={`${bgColor} ${highlightClass}`}>
                     {isEvenRow && (
                       <td rowSpan={2} className="border border-gray-300 p-2 text-center align-middle">
                         {item.Date}

@@ -2,7 +2,7 @@
 import Banner from "@/components/shared/Banner";
 import {schedules} from "@/data/schedule";
 import {endOfWeek, isWithinInterval, startOfWeek} from "date-fns";
-import {useState} from "react";
+import {useEffect, useRef, useState} from "react";
 
 type ScheduleItem = {
   Date: string;
@@ -25,6 +25,19 @@ export default function SeminarSchedulePage() {
   const [currentYearIndex, setCurrentYearIndex] = useState(years.length - 1);
   const currentYear = years[currentYearIndex];
   const scheduleData = schedules[(currentYear as unknown) as keyof typeof schedules];
+  const highlightedRowRef = useRef<HTMLTableRowElement>(null);
+
+  // Effect to scroll to highlighted week when component mounts or year changes
+  useEffect(() => {
+    if (highlightedRowRef.current) {
+      setTimeout(() => {
+        highlightedRowRef.current?.scrollIntoView({
+          behavior: "smooth",
+          block: "center"
+        });
+      }, 100); // Small delay to ensure component is fully rendered
+    }
+  }, [currentYear]);
 
   // Defensive: skip if no data
   if (!scheduleData || scheduleData.length === 0) {
@@ -118,19 +131,25 @@ export default function SeminarSchedulePage() {
 
                 // Highlight if this item's date is in the current week
                 let highlightClass = "";
+                let isInCurrentWeek = false;
                 const itemDate = parseScheduleDate(item.Date);
                 if (
                   itemDate &&
                   isWithinInterval(itemDate, {start: weekStart, end: weekEnd})
                 ) {
                   highlightClass = "bg-yellow-200";
+                  isInCurrentWeek = true;
                 }
 
                 // Format title for numbered lists
                 const formattedTitle = formatTitle(item.Title);
 
                 return (
-                  <tr key={index} className={`${bgColor} ${highlightClass}`}>
+                  <tr
+                    key={index}
+                    className={`${bgColor} ${highlightClass}`}
+                    ref={isInCurrentWeek ? highlightedRowRef : null}
+                  >
                     {isEvenRow && (
                       <td rowSpan={2} className="border border-gray-300 p-2 text-center align-middle">
                         {item.Date}

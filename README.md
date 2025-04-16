@@ -119,7 +119,7 @@ Edit `public/data/news.json` :
   {
     "id": "news-17",
     "date": "2025-04-16",
-    "content": "實驗室網重構上線囉!如有任何問題，請和網站管理員連囉！謝謝 :D"
+    "content": "實驗室網站重構上線囉!如有任何問題，請和網站管理員連囉！謝謝 :D"
   },
   // Add new news items here
 ]

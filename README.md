@@ -82,6 +82,71 @@ Start editing the page by modifying `app/page.tsx` . The page auto-updates as yo
 
 ---
 
+## 🀄 Data Management
+
+All website content is stored in JSON files within the `public/data/` directory. This content-as-data approach allows for easy updates without changing any code.
+
+### Available Data Files
+
+```
+public/data/
+├── awards.json          # Lab awards and achievements
+├── cgm-life.json        # Lab life news and updates
+├── director.json        # Lab director information
+├── news.json            # Lab news and announcements
+├── photos.json          # Photo gallery images
+├── photosInfo.json      # Photo gallery metadata
+├── publications.json    # Research publications
+├── research.json        # Research projects
+├── students.json        # Current and alumni students
+└── schedule/            # Lab seminar schedules by year
+    ├── schedule2008.json
+    ├── schedule2009.json
+    ...
+    └── schedule2025.json
+```
+
+### Updating Content
+
+To update website content, simply edit the corresponding JSON file:
+
+#### Example: Adding News
+
+Edit `public/data/news.json` :
+
+```json
+[
+  {
+    "id": "news-17",
+    "date": "2025-04-16",
+    "content": "實驗室網重構上線囉!如有任何問題，請和網站管理員連囉！謝謝 :D"
+  },
+  // Add new news items here
+]
+```
+
+#### Example: Managing Students
+
+Edit `public/data/students.json` to add, update, or remove student information.
+
+### Data Schema
+
+Each JSON file follows a specific schema:
+
+* **news.json**: Array of news objects with `id`,  `date`,  `content`, and optional `isPinned` fields
+* **students.json**: Student records with personal and academic information
+* **publications.json**: Research publications with authors, titles, and publication details
+* **schedule/*.json**: Annual seminar schedules with dates, speakers, and topics
+
+### Tips for Content Updates
+
+1. Always maintain the existing JSON structure
+2. Use valid JSON format (proper quotes, commas, brackets)
+3. Test your changes locally before deploying
+4. After deploying, verify that the updates appear correctly on the website
+
+---
+
 ## 🌐 Deploy
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.

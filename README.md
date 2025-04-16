@@ -133,7 +133,7 @@ Edit `public/data/students.json` to add, update, or remove student information.
 
 Each JSON file follows a specific schema:
 
-* **news.json**: Array of news objects with `id`,  `date`,  `content`, and optional `isPinned` fields
+* **news.json**: Array of news objects with `id`,              `date`,              `content`, and optional `isPinned` fields
 * **students.json**: Student records with personal and academic information
 * **publications.json**: Research publications with authors, titles, and publication details
 * **schedule/*.json**: Annual seminar schedules with dates, speakers, and topics
@@ -149,13 +149,40 @@ Each JSON file follows a specific schema:
 
 ## 🌐 Deploy
 
+### Vercel Deployment
+
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Or deploy to GitHub Pages:
+### GitHub Pages Deployment
+
+To deploy to GitHub Pages:
+
+1. Make sure your repository settings are configured for GitHub Pages:
+   - Go to your repository settings
+   - Navigate to "Pages"
+   - Set the source to the "gh-pages" branch
+
+2. Run the following commands to build and deploy:
+   
 
 ```bash
-npm run build
-npm run deploy
+   npm run build
+   npm run deploy
+   ```
+
+3. **Important:** After the first deployment, you need to manually add an empty `.nojekyll` file to the gh-pages branch:
+   - Clone the gh-pages branch: `git clone -b gh-pages https://github.com/your-org/cgm-lab-website.git gh-pages`
+
+    - Create an empty .nojekyll file: 
+      - On Mac/Linux: `touch .nojekyll`
+      - On Windows: create the file manually
+
+```bash
+     git add .nojekyll
+     git commit -m "Add .nojekyll file"
+     git push
 ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+   This file prevents GitHub Pages from ignoring files that begin with an underscore, which Next.js uses for its assets.
+
+Check out [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
